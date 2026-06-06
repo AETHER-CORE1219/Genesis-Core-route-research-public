@@ -1,0 +1,73 @@
+{
+  "schema_version": "route_research_release_readiness_check_v1",
+  "created_at": "2026-06-06T01:13:46.978347+00:00",
+  "purpose": "final readiness check for the materialized route research public release bundle",
+  "claim_boundary": {
+    "fixed_route_count": 16,
+    "nonclaim_route_count": 14,
+    "science_nonfixed_route_count": 16
+  },
+  "top_level_checks": [
+    {
+      "name": "README.md",
+      "exists": true,
+      "size_kb": 5
+    },
+    {
+      "name": "REPORT_JA.md",
+      "exists": true,
+      "size_kb": 30
+    },
+    {
+      "name": "FIXED_ROUTE_SUMMARY_JA.md",
+      "exists": true,
+      "size_kb": 5
+    },
+    {
+      "name": "CLAIM_BOUNDARY.json",
+      "exists": true,
+      "size_kb": 98
+    },
+    {
+      "name": "REPRODUCTION.md",
+      "exists": true,
+      "size_kb": 6
+    },
+    {
+      "name": "MASTER_NEXT_PLAN_JA.md",
+      "exists": true,
+      "size_kb": 8
+    },
+    {
+      "name": "FIXED_ROUTE_STAGE_HISTORY_JA.md",
+      "exists": true,
+      "size_kb": 22
+    },
+    {
+      "name": "FIXED_ROUTE_APPENDIX.md",
+      "exists": true,
+      "size_kb": 16
+    },
+    {
+      "name": "POSTING_PACK_JA.md",
+      "exists": true,
+      "size_kb": 5
+    },
+    {
+      "name": "BUNDLE_MANIFEST.json",
+      "exists": true,
+      "size_kb": 13
+    },
+    {
+      "name": "CHECKSUMS.sha256",
+      "exists": true,
+      "size_kb": 6
+    }
+  ],
+  "all_top_level_present": true,
+  "supporting_dir_exists": true,
+  "supporting_file_count": 36,
+  "expected_release_file_count": 36,
+  "materialized_root_count": 9,
+  "materialized_supporting_count": 36
+}

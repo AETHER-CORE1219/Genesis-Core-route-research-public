@@ -1,0 +1,2210 @@
+{
+  "schema_version": "route_research_publication_freeze_package_v1",
+  "created_at": "2026-06-06T01:15:43+00:00",
+  "purpose": "freeze the current route-research claim surface before public release and GitHub publication",
+  "snapshot": {
+    "master_row_count": 1030,
+    "exact_like_count": 795,
+    "discovery_subject_count": 761,
+    "observed_route_cluster_count": 16,
+    "packet_review_count": 43,
+    "explicit_feature_packet_count": 17,
+    "surviving_narrow_packet_count": 1,
+    "watch_packet_count": 9,
+    "watch_packet_subbranch_count": 8,
+    "visual_dashboard_generated": true
+  },
+  "claim_surface": {
+    "fixed_route_count": 16,
+    "fixed_routes_by_field": {
+      "HUMANITIES": 2,
+      "INSTITUTIONS_POLITICS": 3,
+      "PUBLIC_FIGURE_MIXED": 3,
+      "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+      "RELIGION_SPIRITUALITY": 4,
+      "EXPLORATION_EXTREME_ACHIEVEMENT": 3
+    },
+    "fixed_routes": [
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "HUMANITIES",
+        "route_id": "humanities_critique_interpreter",
+        "frozen_route_id": "humanities_critique_interpreter_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "7",
+        "field_universe_n": "13",
+        "freeze_status": "provisional_core_freeze",
+        "human_reading": "critical interpretation of culture, text, or ideology is central",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "HUMANITIES",
+        "route_id": "humanities_public_translation",
+        "frozen_route_id": "humanities_public_translation_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "3",
+        "field_universe_n": "13",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "complex knowledge or hidden material is translated into public interpretation",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "INSTITUTIONS_POLITICS",
+        "route_id": "institutions_core_governance",
+        "frozen_route_id": "institutions_core_governance_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "11",
+        "field_universe_n": "25",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "formal office, governance, and institution handling dominate",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "INSTITUTIONS_POLITICS",
+        "route_id": "institutions_reform_execution",
+        "frozen_route_id": "institutions_reform_execution_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "3",
+        "field_universe_n": "25",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "ideology/reform pressure expressed through formal office",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "INSTITUTIONS_POLITICS",
+        "route_id": "institutions_statecraft_diplomacy",
+        "frozen_route_id": "institutions_statecraft_diplomacy_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "6",
+        "field_universe_n": "25",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "foreign-policy and executive statecraft branch",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_coercive_notoriety",
+        "frozen_route_id": "public_figure_coercive_notoriety_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "3",
+        "field_universe_n": "22",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "public recognition arises from repeated coercive violence",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_media_presenter",
+        "frozen_route_id": "public_figure_media_presenter_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "7",
+        "field_universe_n": "22",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "presenting/hosting in public media is the main output",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_visibility_body",
+        "frozen_route_id": "public_figure_visibility_body_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "3",
+        "field_universe_n": "22",
+        "freeze_status": "provisional_branch_freeze",
+        "human_reading": "body/image visibility is central to public role",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+        "route_id": "revolution_rights_movement_speech",
+        "frozen_route_id": "revolution_rights_movement_speech_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "4",
+        "field_universe_n": "6",
+        "freeze_status": "provisional_core_freeze",
+        "human_reading": "rights conflict, movement symbolism, and public confrontation/speech coincide",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "use as frozen branch in future audits"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "RELIGION_SPIRITUALITY",
+        "route_id": "religion_public_teacher_healer_media",
+        "frozen_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "12",
+        "field_universe_n": "29",
+        "freeze_status": "PROVISIONAL_FROZEN_MAJOR_BRANCH",
+        "human_reading": "public teacher / healer / media-spiritual transmission",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "use as frozen religion major branch; expand only if independent holdout is desired"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "RELIGION_SPIRITUALITY",
+        "route_id": "religion_institution_doctrine_reform",
+        "frozen_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "7",
+        "field_universe_n": "29",
+        "freeze_status": "PROVISIONAL_FROZEN_BRANCH",
+        "human_reading": "institution / doctrine / reform authority branch",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "keep as separate frozen branch; compare against politics/institutions overlap only later"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "RELIGION_SPIRITUALITY",
+        "route_id": "religion_mystic_writer_channel_symbol",
+        "frozen_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "5",
+        "field_universe_n": "29",
+        "freeze_status": "PROVISIONAL_FROZEN_MATERIAL_BRANCH",
+        "human_reading": "mystic writer / channel / symbolic doctrine branch",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "retain as frozen material branch; expand exact cases before any holdout claim"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "RELIGION_SPIRITUALITY",
+        "route_id": "religion_evangelical_preacher_movement",
+        "frozen_route_id": "religion_evangelical_preacher_movement_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "4",
+        "field_universe_n": "29",
+        "freeze_status": "PROVISIONAL_FROZEN_MATERIAL_BRANCH",
+        "human_reading": "evangelical preacher / movement / broadcast revival branch",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "retain as preacher-movement branch; add exact cases if stronger confirmation is needed"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+        "route_id": "exploration_aviation_space|exploration_technical_boundary",
+        "frozen_route_id": "exploration_aerospace_technical_boundary_core_frozen_v1",
+        "route_layer": "field_core_or_shared_core",
+        "support_n": "15",
+        "field_universe_n": "20",
+        "freeze_status": "PROVISIONAL_FROZEN_SHARED_CORE",
+        "human_reading": "aviation / astronautics / technical-boundary shared core",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "treat as one frozen core until new evidence separates vehicle-space and technical-procedure subroutes"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+        "route_id": "exploration_survival_nature",
+        "frozen_route_id": "exploration_survival_nature_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "5",
+        "field_universe_n": "20",
+        "freeze_status": "PROVISIONAL_FROZEN_MATERIAL_BRANCH",
+        "human_reading": "survival / nature immersion / environmental endurance branch",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "retain as side branch; expand exact cases before any independent holdout claim"
+      },
+      {
+        "source_registry": "religion_exploration_freeze_registry_v1",
+        "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+        "route_id": "exploration_risk_body",
+        "frozen_route_id": "exploration_risk_body_frozen_v1",
+        "route_layer": "field_branch",
+        "support_n": "6",
+        "field_universe_n": "20",
+        "freeze_status": "PROVISIONAL_FROZEN_MATERIAL_BRANCH",
+        "human_reading": "body-risk / threshold tolerance branch",
+        "evidence_basis": "expanded_exact_mother_plus_branch_feature_separation",
+        "next_gate": "retain as side branch; compare later against SPORTS/body capability overlays"
+      }
+    ],
+    "nonclaim_route_count": 14,
+    "nonclaim_routes_by_field": {
+      "HUMANITIES": 2,
+      "INSTITUTIONS_POLITICS": 2,
+      "PUBLIC_FIGURE_MIXED": 5,
+      "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+      "BUSINESS_ENTREPRENEURSHIP": 1,
+      "SCIENCE_TECH_INVENTION": 1,
+      "ARTS": 1,
+      "SPORTS": 1
+    },
+    "nonclaim_routes": [
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "HUMANITIES",
+        "route_id": "humanities_testimony_writer",
+        "frozen_route_id": "humanities_testimony_writer",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "1",
+        "field_universe_n": "4",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "witness/testimony becomes public writing",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "HUMANITIES",
+        "route_id": "humanities_writer_symbolic",
+        "frozen_route_id": "humanities_writer_symbolic",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "2",
+        "field_universe_n": "13",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "symbolic or narrative writing is central output",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "INSTITUTIONS_POLITICS",
+        "route_id": "institutions_executive_power_operator",
+        "frozen_route_id": "institutions_executive_power_operator",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "1",
+        "field_universe_n": "16",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "power-heavy executive operator inside formal institution",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "INSTITUTIONS_POLITICS",
+        "route_id": "institutions_legislative_operator",
+        "frozen_route_id": "institutions_legislative_operator",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "1",
+        "field_universe_n": "16",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "long legislative institutional influence branch",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_coercive_power",
+        "frozen_route_id": "public_figure_coercive_power",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "1",
+        "field_universe_n": "14",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "criminal coercive power becomes public mythology",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_coercive_symbol",
+        "frozen_route_id": "public_figure_coercive_symbol",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "2",
+        "field_universe_n": "14",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "coercive control becomes cultic/public symbol",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_presenter_teacher",
+        "frozen_route_id": "public_figure_presenter_teacher",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "3",
+        "field_universe_n": "14",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "teaching/presenting route rather than empty fame",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_symbolic_pressure",
+        "frozen_route_id": "public_figure_symbolic_pressure",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "2",
+        "field_universe_n": "14",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "public identity is formed by scrutiny/scandal/symbolic projection",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "PUBLIC_FIGURE_MIXED",
+        "route_id": "public_figure_symbolic_visibility",
+        "frozen_route_id": "public_figure_symbolic_visibility",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "1",
+        "field_universe_n": "14",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "public symbolic identity and ceremony/visibility dominate",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "small_field_branch_freeze_registry_v1",
+        "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+        "route_id": "revolution_ideological_theory",
+        "frozen_route_id": "revolution_ideological_theory",
+        "route_layer": "field_seed_underfilled",
+        "support_n": "2",
+        "field_universe_n": "6",
+        "freeze_status": "underfilled_keep_only",
+        "human_reading": "ideological rupture and revolutionary theory-writing are unusually central",
+        "evidence_basis": "source_backed_manual_audit_plus_exact_feature_comparison",
+        "next_gate": "expand exact cohort before any stronger claim"
+      },
+      {
+        "source_registry": "business_science_holdout_freeze_registry_v1",
+        "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+        "route_id": "business_entrepreneurship_creative_media_market|business_creative_media_market_round5_status",
+        "frozen_route_id": "business_creative_media_market_holdout_frozen_v1",
+        "route_layer": "field_holdout_candidate",
+        "support_n": "21",
+        "field_universe_n": "40",
+        "freeze_status": "HOLDOUT_DEFINITION_FROZEN_PENDING_FRESH_COLLECTION",
+        "human_reading": "symbolic / aesthetic / content output becomes a market, brand, or media institution",
+        "evidence_basis": "mother_supported_holdout_definition_frozen_pending_fresh_repeatability",
+        "next_gate": "collect fresh exact creative-market positives plus explicit controls, then run independent hit/error audit without changing markers"
+      },
+      {
+        "source_registry": "business_science_holdout_freeze_registry_v1",
+        "primary_field": "SCIENCE_TECH_INVENTION",
+        "route_id": "science_tech_invention_theory_observation_cosmos|science_theory_observation_cosmos_round15_freeze",
+        "frozen_route_id": "science_theory_observation_cosmos_holdout_frozen_v1",
+        "route_layer": "field_holdout_candidate",
+        "support_n": "22",
+        "field_universe_n": "41",
+        "freeze_status": "HOLDOUT_DEFINITION_FROZEN_PENDING_FRESH_COLLECTION",
+        "human_reading": "theory / observation / cosmos / invisible physical law branch",
+        "evidence_basis": "mother_supported_holdout_definition_frozen_pending_fresh_repeatability",
+        "next_gate": "collect fresh exact theory-observation positives plus explicit non-theory science controls, then run independent hit/error audit without retuning"
+      },
+      {
+        "source_registry": "field_research_work_order_v13",
+        "primary_field": "ARTS",
+        "route_id": "arts_capability_expression_material",
+        "frozen_route_id": "arts_capability_expression_material_v1",
+        "route_layer": "capability_overlay",
+        "support_n": "",
+        "field_universe_n": "44",
+        "freeze_status": "FAILED_FIELD_HOLDOUT_CAPABILITY_ONLY",
+        "human_reading": "aesthetic body / symbolic pressure / performance presence capability material",
+        "evidence_basis": "independent_field_holdout_failed_but_capability_signal_retained",
+        "next_gate": "use only as capability lane before any Big Five side-check; do not score as ARTS field route"
+      },
+      {
+        "source_registry": "field_research_work_order_v13",
+        "primary_field": "SPORTS",
+        "route_id": "sports_body_saturn_capability_lane",
+        "frozen_route_id": "sports_body_saturn_capability_lane",
+        "route_layer": "capability_overlay",
+        "support_n": "18",
+        "field_universe_n": "18",
+        "freeze_status": "CAPABILITY_OVERLAY_ONLY",
+        "human_reading": "body training / endurance / form maintenance / pressure tolerance capability lane",
+        "evidence_basis": "sports field failed as global route but narrow body-saturn capability persisted",
+        "next_gate": "use as capability lane before Big Five side-check; compare later against exploration risk-body and performance branches"
+      }
+    ],
+    "science_nonfixed_route_count": 16,
+    "science_nonfixed_status_counts": {
+      "NOT_FIXED_RETAIN_AS_CLUE_OR_SUBBRANCH": 5,
+      "MOTHER_COHORT_UNDERFILLED_RETAIN_AUXILIARY_COLLECTION_ONLY": 2,
+      "MOTHER_COHORT_SUPPORTED_HOLDOUT_CANDIDATE_NOT_CONFIRMED": 1,
+      "UNDERFILLED_RETAINED_NOT_FROZEN_AS_ROUTE": 3,
+      "HOLDOUT_READY_SUBBRANCH": 1,
+      "CONTEXT_ONLY": 1,
+      "UNDERFILLED_RETAINED_NOT_FINAL": 3
+    },
+    "science_nonfixed_routes": [
+      {
+        "route_id": "science_communication_technology_round15_freeze",
+        "plain_name": "通信・信号・波・電気測定",
+        "category": "SCIENCE",
+        "route_layer": "field_branch_candidate",
+        "n": "5",
+        "freeze_status": "NOT_FIXED_RETAIN_AS_CLUE_OR_SUBBRANCH",
+        "confidence_class": "too_underfilled_for_route_claim",
+        "evidence_basis": "90-subject round15 comparison; this branch has 30 exact-time cases | mother_clean=5, mother_partial=8",
+        "human_reading": "信号・通信枝: 3室/6室/8室/11室の反復、土星/火星/天王星/ノードが、波・電気・伝送・標準化を技術化する側に出るかを見る。",
+        "do_not_overclaim": "Too few mother-cohort clean cases.",
+        "next_action": "Do not score as route. Recollect source-backed exact cases if priority.",
+        "source_files": "science_unfinished_branch_route_seed_after_round15_v1.json|science_unfinished_branch_decision_after_round15_v1.csv"
+      },
+      {
+        "route_id": "science_experimental_lab_biomed_round15_freeze",
+        "plain_name": "実験室・生物医学・化学反応",
+        "category": "SCIENCE",
+        "route_layer": "field_branch_candidate",
+        "n": "10",
+        "freeze_status": "MOTHER_COHORT_UNDERFILLED_RETAIN_AUXILIARY_COLLECTION_ONLY",
+        "confidence_class": "underfilled_candidate_not_fixed",
+        "evidence_basis": "90-subject round15 comparison; this branch has 30 exact-time cases | mother_clean=10, mother_partial=0",
+        "human_reading": "実験室/生物医学枝: 1室/4室/12室/6室、月・水星・火星・土星・ノードが、身体/物質/微生物の隠れた反応を実験で可視化する側に出るかを見る。",
+        "do_not_overclaim": "Construction branch may be useful but mother clean count is under 20.",
+        "next_action": "Do not freeze as proven; use targeted collections only as construction material; need mother expansion or independent holdout.",
+        "source_files": "science_unfinished_branch_route_seed_after_round15_v1.json|science_unfinished_branch_decision_after_round15_v1.csv"
+      },
+      {
+        "route_id": "science_theory_observation_cosmos_round15_freeze",
+        "plain_name": "理論/観測/宇宙・不可視物理現象",
+        "category": "SCIENCE",
+        "route_layer": "field_branch_candidate",
+        "n": "22",
+        "freeze_status": "MOTHER_COHORT_SUPPORTED_HOLDOUT_CANDIDATE_NOT_CONFIRMED",
+        "confidence_class": "candidate_requires_independent_holdout",
+        "evidence_basis": "90-subject round15 comparison; this branch has 30 exact-time cases | mother_clean=22, mother_partial=0",
+        "human_reading": "理論/観測/宇宙枝: 太陽-水星、8室/12室/4室、火星・土星・海王星・ノードが、不可視現象を検出し法則化する側に出るかを見る。",
+        "do_not_overclaim": "Mother science cohort supports this branch, but it is still not reproduced proof.",
+        "next_action": "Independent holdout and leakage controls; do not claim proof.",
+        "source_files": "science_unfinished_branch_route_seed_after_round15_v1.json|science_unfinished_branch_decision_after_round15_v1.csv"
+      },
+      {
+        "route_id": "science_invention_engineering_after_round12_freeze",
+        "plain_name": "発明・工学・装置化",
+        "category": "SCIENCE",
+        "route_layer": "route_family_candidate",
+        "n": "12",
+        "freeze_status": "MOTHER_COHORT_UNDERFILLED_RETAIN_AUXILIARY_COLLECTION_ONLY",
+        "confidence_class": "underfilled_candidate_not_fixed",
+        "evidence_basis": "30 listed; 27 core; core hit rate 0.778 | mother_clean=12, mother_partial=0",
+        "human_reading": "科学的理解を装置・機械・工学構造として現物化する経路。電気/化学装置、航空/移動、機械/計器、計算機ハードへ分岐する。",
+        "do_not_overclaim": "Construction branch may be useful but mother clean count is under 20.",
+        "next_action": "Do not freeze as proven; use targeted collections only as construction material; need mother expansion or independent holdout.",
+        "source_files": "science_invention_engineering_route_family_freeze_after_round12_v1.csv|science_invention_engineering_decision_after_round12_v1.csv"
+      },
+      {
+        "route_id": "science_computing_information_round9_freeze_reviewed",
+        "plain_name": "計算・情報構造・コンピュータ/ネットワーク",
+        "category": "SCIENCE",
+        "route_layer": "field_branch_candidate_with_capability_leakage",
+        "n": "3",
+        "freeze_status": "NOT_FIXED_RETAIN_AS_CLUE_OR_SUBBRANCH",
+        "confidence_class": "too_underfilled_for_route_claim",
+        "evidence_basis": "minimum pool reached; route must now be tested out-of-sample instead of kept expanding from same construction logic | mother_clean=3, mother_partial=0",
+        "human_reading": "情報そのもの、内部構造、符号、ソフトウェア、デバッグ、ネットワーク、半導体/装置が混ざる。単一の計算機科学routeではなく、情報処理能力と出力枝の重なりとして扱う。",
+        "do_not_overclaim": "Too few mother-cohort clean cases.",
+        "next_action": "Do not score as route. Recollect source-backed exact cases if priority.",
+        "source_files": "science_computing_route_freeze_after_round9_v1.csv|science_code_internal_branch_decision_after_round13_v1.csv"
+      },
+      {
+        "route_id": "science_code_internal_interface_hardware_design_boundary_round13_status",
+        "plain_name": "Web/設計/ハードウェア境界",
+        "category": "SCIENCE",
+        "route_layer": "capability_subbranch_candidate",
+        "n": "2",
+        "freeze_status": "UNDERFILLED_RETAINED_NOT_FROZEN_AS_ROUTE",
+        "confidence_class": "needs_more_exact_time_cases",
+        "evidence_basis": "frozen partial/strong 1/2",
+        "human_reading": "見えない情報構造を実装・運用・象徴計算・境界設計へ出す枝。",
+        "do_not_overclaim": "code/internal全体を一枚岩にしない",
+        "next_action": "exact-time追加収集後、枝ごとにholdout。",
+        "source_files": "science_code_internal_branch_decision_after_round13_v1.csv"
+      },
+      {
+        "route_id": "science_code_internal_named_theory_cs_round13_status",
+        "plain_name": "理論計算機科学・符号・ネットワーク基盤",
+        "category": "SCIENCE",
+        "route_layer": "capability_subbranch_candidate",
+        "n": "5",
+        "freeze_status": "UNDERFILLED_RETAINED_NOT_FROZEN_AS_ROUTE",
+        "confidence_class": "needs_more_exact_time_cases",
+        "evidence_basis": "frozen partial/strong 1/5",
+        "human_reading": "見えない情報構造を実装・運用・象徴計算・境界設計へ出す枝。",
+        "do_not_overclaim": "code/internal全体を一枚岩にしない",
+        "next_action": "exact-time追加収集後、枝ごとにholdout。",
+        "source_files": "science_code_internal_branch_decision_after_round13_v1.csv"
+      },
+      {
+        "route_id": "science_code_internal_practical_programmer_systems_operation_round13_status",
+        "plain_name": "実務プログラミング・システム運用",
+        "category": "SCIENCE",
+        "route_layer": "capability_subbranch_candidate",
+        "n": "13",
+        "freeze_status": "HOLDOUT_READY_SUBBRANCH",
+        "confidence_class": "large_enough_for_next_holdout_probe",
+        "evidence_basis": "frozen partial/strong 8/13",
+        "human_reading": "実務プログラミング、システム運用、ミッション運用側が最も残っている。",
+        "do_not_overclaim": "code/internal全体を一枚岩にしない",
+        "next_action": "枝内で特徴を凍結し、隣接対照と比較。",
+        "source_files": "science_code_internal_branch_decision_after_round13_v1.csv"
+      },
+      {
+        "route_id": "science_code_internal_symbolic_ephemeris_software_round13_status",
+        "plain_name": "暦・DB・占星術ソフト系の象徴計算",
+        "category": "SCIENCE",
+        "route_layer": "capability_subbranch_candidate",
+        "n": "5",
+        "freeze_status": "UNDERFILLED_RETAINED_NOT_FROZEN_AS_ROUTE",
+        "confidence_class": "needs_more_exact_time_cases",
+        "evidence_basis": "frozen partial/strong 0/1",
+        "human_reading": "見えない情報構造を実装・運用・象徴計算・境界設計へ出す枝。",
+        "do_not_overclaim": "code/internal全体を一枚岩にしない",
+        "next_action": "exact-time追加収集後、枝ごとにholdout。",
+        "source_files": "science_code_internal_branch_decision_after_round13_v1.csv"
+      },
+      {
+        "route_id": "science_math_theory_abstraction_round11_underfilled_freeze",
+        "plain_name": "数式・構造・証明・抽象法則",
+        "category": "SCIENCE",
+        "route_layer": "underfilled_promising_branch",
+        "n": "4",
+        "freeze_status": "NOT_FIXED_RETAIN_AS_CLUE_OR_SUBBRANCH",
+        "confidence_class": "too_underfilled_for_route_claim",
+        "evidence_basis": "formal_math_is_strengthened_but_should_split_pure_abstraction_vs_machine_bridge; still not final holdout route | mother_clean=4, mother_partial=0",
+        "human_reading": "純粋抽象、機械/計算橋渡し、物理哲学橋渡しに分かれる。今の母数ではSCIENCE固定routeに昇格しない。",
+        "do_not_overclaim": "Too few mother-cohort clean cases.",
+        "next_action": "Do not score as route. Recollect source-backed exact cases if priority.",
+        "source_files": "science_formal_math_decision_after_round11_v1.csv|science_formal_math_summary_after_round11_v1.csv"
+      },
+      {
+        "route_id": "science_formal_math_formal_education_context_round11_status",
+        "plain_name": "formal_education_context",
+        "category": "SCIENCE",
+        "route_layer": "formal_math_subbranch_status",
+        "n": "1",
+        "freeze_status": "CONTEXT_ONLY",
+        "confidence_class": "context_only",
+        "evidence_basis": "partial_or_strong 1; hit_rate 1.0",
+        "human_reading": "形式・証明・機械計算・物理哲学の分岐状態を保持。",
+        "do_not_overclaim": "subbranch n too small",
+        "next_action": "collect exact-time cases if this branch becomes priority",
+        "source_files": "science_formal_math_decision_after_round11_v1.csv"
+      },
+      {
+        "route_id": "science_formal_math_formal_machine_bridge_round11_status",
+        "plain_name": "formal_machine_bridge",
+        "category": "SCIENCE",
+        "route_layer": "formal_math_subbranch_status",
+        "n": "6",
+        "freeze_status": "UNDERFILLED_RETAINED_NOT_FINAL",
+        "confidence_class": "expand_or_freeze_underfilled",
+        "evidence_basis": "partial_or_strong 5; hit_rate 0.833",
+        "human_reading": "形式・証明・機械計算・物理哲学の分岐状態を保持。",
+        "do_not_overclaim": "subbranch n too small",
+        "next_action": "collect exact-time cases if this branch becomes priority",
+        "source_files": "science_formal_math_decision_after_round11_v1.csv"
+      },
+      {
+        "route_id": "science_formal_math_formal_physics_philosophy_bridge_round11_status",
+        "plain_name": "formal_physics_philosophy_bridge",
+        "category": "SCIENCE",
+        "route_layer": "formal_math_subbranch_status",
+        "n": "2",
+        "freeze_status": "UNDERFILLED_RETAINED_NOT_FINAL",
+        "confidence_class": "expand_or_freeze_underfilled",
+        "evidence_basis": "partial_or_strong 0; hit_rate 0.0",
+        "human_reading": "形式・証明・機械計算・物理哲学の分岐状態を保持。",
+        "do_not_overclaim": "subbranch n too small",
+        "next_action": "collect exact-time cases if this branch becomes priority",
+        "source_files": "science_formal_math_decision_after_round11_v1.csv"
+      },
+      {
+        "route_id": "science_formal_math_pure_formal_abstraction_round11_status",
+        "plain_name": "pure_formal_abstraction",
+        "category": "SCIENCE",
+        "route_layer": "formal_math_subbranch_status",
+        "n": "7",
+        "freeze_status": "UNDERFILLED_RETAINED_NOT_FINAL",
+        "confidence_class": "expand_or_freeze_underfilled",
+        "evidence_basis": "partial_or_strong 5; hit_rate 0.714",
+        "human_reading": "形式・証明・機械計算・物理哲学の分岐状態を保持。",
+        "do_not_overclaim": "subbranch n too small",
+        "next_action": "collect exact-time cases if this branch becomes priority",
+        "source_files": "science_formal_math_decision_after_round11_v1.csv"
+      },
+      {
+        "route_id": "science_public_translation_underfilled_channel_marker",
+        "plain_name": "科学の公共翻訳・教育・メディア化",
+        "category": "SCIENCE",
+        "route_layer": "output_channel_marker_underfilled",
+        "n": "5",
+        "freeze_status": "NOT_FIXED_RETAIN_AS_CLUE_OR_SUBBRANCH",
+        "confidence_class": "too_underfilled_for_route_claim",
+        "evidence_basis": "round9 branch inventory only | mother_clean=5, mother_partial=0",
+        "human_reading": "科学発見そのものではなく、科学知識を公衆へ渡す出力チャンネル。政治/芸術/メディアと漏れやすい。",
+        "do_not_overclaim": "Too few mother-cohort clean cases.",
+        "next_action": "Do not score as route. Recollect source-backed exact cases if priority.",
+        "source_files": "science_route_candidates_after_round9_v1.csv|science_combined_branch_summary_after_round9_v1.csv"
+      },
+      {
+        "route_id": "science_human_social_underfilled_not_started",
+        "plain_name": "人間・社会・文化を観察する科学",
+        "category": "SCIENCE",
+        "route_layer": "not_started_underfilled_branch",
+        "n": "2",
+        "freeze_status": "NOT_FIXED_RETAIN_AS_CLUE_OR_SUBBRANCH",
+        "confidence_class": "too_underfilled_for_route_claim",
+        "evidence_basis": "round9 branch inventory only | mother_clean=2, mother_partial=0",
+        "human_reading": "自然科学とは別枝。心理学、人類学、社会科学を混ぜるなら専用収集が必要。",
+        "do_not_overclaim": "Too few mother-cohort clean cases.",
+        "next_action": "Do not score as route. Recollect source-backed exact cases if priority.",
+        "source_files": "science_route_candidates_after_round9_v1.csv|science_combined_branch_summary_after_round9_v1.csv"
+      }
+    ]
+  },
+  "packet_surface": {
+    "surviving_narrow_packet_candidates": [
+      {
+        "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+        "candidate_status": "provisional_packet_candidate_survives_with_boundary",
+        "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Mercury",
+          "W_angular_density_2plus",
+          "W_house_cluster_H6",
+          "W_pressure_house_density_3plus"
+        ],
+        "support_count_initial": 4,
+        "working_commonality": "public explanation that becomes a system, method, or teachable doctrine",
+        "manual_read_why": "All four subjects convert interpretation into a public framework: songwriter-cultural voice, filmmaker persona and moral genre, investment method/author, psychoanalytic system founder. Unlike the larger packets, this one has a repeated explicit Mercury/house-pressure feature bundle.",
+        "stress_decision": "provisional_packet_candidate_survives_with_boundary",
+        "stress_effective_support_read": "4 strict core plus 3 strong partial fits; keep as provisional, not named/frozen",
+        "stress_core_read": "core_exact survives as a coherent packet: public explanation, interpretation, or authored method becomes a durable system/framework",
+        "stress_boundary_read": "the same feature bundle appears with other second routes, so the packet cannot be defined by Mercury/H6/pressure features alone; second-route context is necessary",
+        "next_action": "collect more exact cases and split by second-route context if feature bundle appears outside teacher/media alignment",
+        "subjects": [
+          {
+            "name": "Bob Dylan",
+            "primary_field": "ARTS",
+            "occupation_raw": "American singer-songwriter (born 1941)",
+            "public_description_excerpt": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sol...",
+            "birth_precision": "A_exact",
+            "western_key_planets": [
+              "Mercury Gemini 23.0deg H7"
+            ],
+            "vedic_key_planets": [
+              "Mercury Vrishabha 29.9deg H7 Mrigashira"
+            ],
+            "vedic_moon_nakshatra": {
+              "nakshatra": "Krittika",
+              "pada": 1,
+              "nakshatra_lord": "Sun"
+            },
+            "biography_source_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+            "birth_data_source_url": "https://www.astrotheme.com/astrology/Bob_Dylan"
+          },
+          {
+            "name": "Clint Eastwood",
+            "primary_field": "ARTS",
+            "occupation_raw": "American actor and filmmaker (born 1930)",
+            "public_description_excerpt": "Clinton Eastwood Jr. is an American actor, filmmaker and musician. After achieving success in the Western TV series Rawhide, Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone'...",
+            "birth_precision": "A_exact",
+            "western_key_planets": [
+              "Mercury Taurus 23.8deg H7"
+            ],
+            "vedic_key_planets": [
+              "Mercury Vrishabha 0.9deg H8 Krittika"
+            ],
+            "vedic_moon_nakshatra": {
+              "nakshatra": "Pushya",
+              "pada": 2,
+              "nakshatra_lord": "Saturn"
+            },
+            "biography_source_url": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+            "birth_data_source_url": "https://www.astrotheme.com/astrology/Clint_Eastwood"
+          },
+          {
+            "name": "Peter Lynch",
+            "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+            "occupation_raw": "American investor",
+            "public_description_excerpt": "Peter Lynch is an American investor, mutual fund manager, author and philanthropist. As the manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, Lynch averaged a 29.2% annual return, consistentl...",
+            "birth_precision": "A_exact",
+            "western_key_planets": [
+              "Mercury Capricorn 8.7deg H1"
+            ],
+            "vedic_key_planets": [
+              "Mercury Dhanu 15.6deg H2 Purva Ashadha"
+            ],
+            "vedic_moon_nakshatra": {
+              "nakshatra": "Swati",
+              "pada": 3,
+              "nakshatra_lord": "Rahu"
+            },
+            "biography_source_url": "https://en.wikipedia.org/wiki/Peter_Lynch",
+            "birth_data_source_url": "https://www.astrotheme.com/astrology/Peter_Lynch"
+          },
+          {
+            "name": "Sigmund Freud",
+            "primary_field": "HUMANITIES",
+            "occupation_raw": "Austrian psychiatrist and founder of psychoanalysis (1856–1939)",
+            "public_description_excerpt": "Sigmund Freud was an Austrian neurologist and the founder of psychoanalysis, a clinical method for evaluating and treating pathologies arising from conflicts in the psyche through dialogue between patient and psychoan...",
+            "birth_precision": "A_exact",
+            "western_key_planets": [
+              "Mercury Taurus 27.8deg H7"
+            ],
+            "vedic_key_planets": [
+              "Mercury Vrishabha 5.9deg H8 Krittika"
+            ],
+            "vedic_moon_nakshatra": {
+              "nakshatra": "Rohini",
+              "pada": 4,
+              "nakshatra_lord": "Moon"
+            },
+            "biography_source_url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+            "birth_data_source_url": "https://www.astrotheme.com/astrology/Sigmund_Freud"
+          }
+        ]
+      }
+    ],
+    "packet_resolution_class_counts": {
+      "thick_packet_likely_common_factor_or_family": 4,
+      "multi_output_family_not_single_route_yet": 2,
+      "coarse_western_gate_with_large_internal_diversity": 1,
+      "watch_packet_needing_manual_reading": 9,
+      "surviving_narrow_candidate": 1
+    },
+    "watch_packet_rows": [
+      {
+        "packet_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7",
+        "support_count": 5,
+        "top_route_id": "humanities_public_translation_frozen_v1",
+        "second_route_id": "institutions_core_governance_frozen_v1",
+        "top_hit_features": [
+          "W_Mars_house_7",
+          "W_angular_Mars",
+          "W_house_cluster_H6",
+          "W_visible_Mars_house_7"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "vedic_split_signal_moderate",
+        "dominant_role_axis": "framework_explainer",
+        "dominant_role_share": 0.2,
+        "dominant_lagna": "Mesha",
+        "dominant_lagna_share": 0.4,
+        "dominant_nakshatra_lord": "Sun",
+        "dominant_nakshatra_lord_share": 0.4,
+        "role_axis_counts": {
+          "framework_explainer": 1,
+          "religion_clergy_doctrine": 1,
+          "performer_screen_music": 1,
+          "governance_power": 1,
+          "science_invention": 1
+        },
+        "lagna_counts": {
+          "Vrishabha": 1,
+          "Kanya": 1,
+          "Kumbha": 1,
+          "Mesha": 2
+        },
+        "nakshatra_lord_counts": {
+          "Mercury": 1,
+          "Moon": 1,
+          "Mars": 1,
+          "Sun": 2
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "framework_explainer__Vrishabha__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "bell hooks",
+                "primary_field": "HUMANITIES",
+                "occupation_raw": "American author and activist (1952–2021)",
+                "western_key_planets": [
+                  "Mars Sagittarius 18.8deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Mars Vrishchika 25.6deg H7 Jyeshtha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "governance_power__Mesha__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "George Washington",
+                "primary_field": "INSTITUTIONS_POLITICS",
+                "occupation_raw": "U.S. Founding Father, president from 1789 to 1797",
+                "western_key_planets": [
+                  "Mars Scorpio 23.2deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Mars Vrishchika 3.1deg H8 Vishakha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "performer_screen_music__Kumbha__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Jason Alexander",
+                "primary_field": "ARTS",
+                "occupation_raw": "American actor (born 1959)",
+                "western_key_planets": [
+                  "Mars Libra 11.7deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Mars Kanya 18.4deg H8 Hasta"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "religion_clergy_doctrine__Kanya__Moon",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Pope Leo XIII",
+                "primary_field": "RELIGION_SPIRITUALITY",
+                "occupation_raw": "Head of the Catholic Church from 1878 to 1903",
+                "western_key_planets": [
+                  "Mars Aries 8.6deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Mars Meena 17.4deg H7 Revati"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Mesha__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "George Washington (inventor)",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "American inventor and businessman",
+                "western_key_planets": [
+                  "Mars Scorpio 23.2deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Mars Vrishchika 3.1deg H8 Vishakha"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "support_count": 5,
+        "top_route_id": "institutions_core_governance_frozen_v1",
+        "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Mars",
+          "W_angular_Saturn",
+          "W_angular_density_2plus",
+          "W_pressure_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "role_split_signal_strong",
+        "dominant_role_axis": "business_market",
+        "dominant_role_share": 0.6,
+        "dominant_lagna": "Vrishchika",
+        "dominant_lagna_share": 0.6,
+        "dominant_nakshatra_lord": "Mars",
+        "dominant_nakshatra_lord_share": 0.4,
+        "role_axis_counts": {
+          "business_market": 3,
+          "governance_power": 1,
+          "unresolved_role": 1
+        },
+        "lagna_counts": {
+          "Vrishchika": 3,
+          "Vrishabha": 1,
+          "Karka": 1
+        },
+        "nakshatra_lord_counts": {
+          "Saturn": 1,
+          "Mars": 2,
+          "Jupiter": 1,
+          "Ketu": 1
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "business_market__Vrishabha__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Jean Patou",
+                "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+                "occupation_raw": "French fashion designer (1887–1936)",
+                "western_key_planets": [
+                  "Saturn Leo 4.2deg H4",
+                  "Mars Leo 19.9deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Karka 11.9deg H3 Pushya",
+                  "Mars Karka 27.6deg H3 Ashlesha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "business_market__Vrishchika__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Ted Turner",
+                "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+                "occupation_raw": "American media mogul (1938–2026)",
+                "western_key_planets": [
+                  "Saturn Aries 11.8deg H4",
+                  "Mars Libra 15.9deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Meena 18.8deg H5 Revati",
+                  "Mars Kanya 22.9deg H11 Hasta"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "business_market__Vrishchika__Saturn",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Warren Buffett",
+                "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+                "occupation_raw": "American investor and philanthropist (born 1930)",
+                "western_key_planets": [
+                  "Saturn Capricorn 5.3deg H1",
+                  "Mars Cancer 1.5deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Dhanu 12.5deg H2 Mula",
+                  "Mars Mithuna 8.6deg H8 Ardra"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "governance_power__Karka__Jupiter",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Frantz Fanon",
+                "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+                "occupation_raw": "French West Indian psychiatrist and philosopher (1925-1961)",
+                "western_key_planets": [
+                  "Saturn Scorpio 7.7deg H4",
+                  "Mars Leo 15.2deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Tula 14.9deg H4 Swati",
+                  "Mars Karka 22.4deg H1 Ashlesha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Vrishchika__Ketu",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "J.E. Dinger",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "bacteriologist tropical medicine laboratory typhoid epidemiology",
+                "western_key_planets": [
+                  "Saturn Libra 12.3deg H10",
+                  "Mars Aries 0.2deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Kanya 19.9deg H11 Hasta",
+                  "Mars Meena 7.8deg H5 Uttara Bhadrapada"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "support_count": 5,
+        "top_route_id": "institutions_core_governance_frozen_v1",
+        "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Mars",
+          "W_angular_density_2plus",
+          "W_pressure_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "vedic_split_signal_moderate",
+        "dominant_role_axis": "governance_power",
+        "dominant_role_share": 0.2,
+        "dominant_lagna": "Karka",
+        "dominant_lagna_share": 0.4,
+        "dominant_nakshatra_lord": "Venus",
+        "dominant_nakshatra_lord_share": 0.4,
+        "role_axis_counts": {
+          "governance_power": 1,
+          "science_invention": 1,
+          "unresolved_role": 1,
+          "athlete_body_competition": 1,
+          "performer_screen_music": 1
+        },
+        "lagna_counts": {
+          "Simha": 1,
+          "Mesha": 1,
+          "Vrishabha": 1,
+          "Karka": 2
+        },
+        "nakshatra_lord_counts": {
+          "Venus": 2,
+          "Sun": 1,
+          "Mars": 1,
+          "Mercury": 1
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "athlete_body_competition__Karka__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Dale Earnhardt",
+                "primary_field": "SPORTS",
+                "occupation_raw": "American racing driver (1951–2001)",
+                "western_key_planets": [
+                  "Mars Taurus 14.2deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Mars Mesha 21.0deg H10 Bharani"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "governance_power__Simha__Venus",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Bill Clinton",
+                "primary_field": "INSTITUTIONS_POLITICS",
+                "occupation_raw": "President of the United States from 1993 to 2001",
+                "western_key_planets": [
+                  "Mars Libra 6.3deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Mars Kanya 13.2deg H2 Hasta"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "performer_screen_music__Karka__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Eddie Albert",
+                "primary_field": "ARTS",
+                "occupation_raw": "American actor (1906–2005)",
+                "western_key_planets": [
+                  "Mars Taurus 25.8deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Mars Vrishabha 3.3deg H11 Krittika"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Mesha__Venus",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Les Paul",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "American guitarist, songwriter and inventor (1915–2009)",
+                "western_key_planets": [
+                  "Mars Taurus 10.5deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Mars Mesha 17.9deg H1 Bharani"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Vrishabha__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Wernher von Braun",
+                "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Mars Gemini 23.0deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Mars Mithuna 0.4deg H2 Mrigashira"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "support_count": 5,
+        "top_route_id": "institutions_core_governance_frozen_v1",
+        "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Saturn",
+          "W_angular_density_2plus",
+          "W_pressure_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "role_split_signal_strong",
+        "dominant_role_axis": "unresolved_role",
+        "dominant_role_share": 0.6,
+        "dominant_lagna": "Karka",
+        "dominant_lagna_share": 0.2,
+        "dominant_nakshatra_lord": "Sun",
+        "dominant_nakshatra_lord_share": 0.6,
+        "role_axis_counts": {
+          "governance_power": 1,
+          "unresolved_role": 3,
+          "religion_clergy_doctrine": 1
+        },
+        "lagna_counts": {
+          "Karka": 1,
+          "Mesha": 1,
+          "Tula": 1,
+          "Dhanu": 1,
+          "Simha": 1
+        },
+        "nakshatra_lord_counts": {
+          "Jupiter": 2,
+          "Sun": 3
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "governance_power__Karka__Jupiter",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Cesar Chavez",
+                "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+                "occupation_raw": "American civil rights activist (1927–1993)",
+                "western_key_planets": [
+                  "Saturn Sagittarius 7.5deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Vrishchika 14.7deg H5 Anuradha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "religion_clergy_doctrine__Simha__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "G. Quispel",
+                "primary_field": "RELIGION_SPIRITUALITY",
+                "occupation_raw": "historian theologian textual doctrine",
+                "western_key_planets": [
+                  "Saturn Cancer 14.7deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Mithuna 22.0deg H11 Punarvasu"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Dhanu__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Thierry Henry",
+                "primary_field": "SPORTS",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Saturn Leo 21.0deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Karka 27.4deg H8 Ashlesha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Mesha__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Helmut Kohl",
+                "primary_field": "INSTITUTIONS_POLITICS",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Saturn Capricorn 11.6deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Dhanu 18.7deg H9 Purva Ashadha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Tula__Jupiter",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Phil Mickelson",
+                "primary_field": "SPORTS",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Saturn Taurus 17.6deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Saturn Mesha 24.2deg H7 Bharani"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "humanities_critique_interpreter_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Jupiter+W_pressure_house_density_3plus",
+        "support_count": 4,
+        "top_route_id": "humanities_critique_interpreter_frozen_v1",
+        "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Jupiter",
+          "W_pressure_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "mixed_gate_hold",
+        "dominant_role_axis": "unresolved_role",
+        "dominant_role_share": 0.25,
+        "dominant_lagna": "Vrishchika",
+        "dominant_lagna_share": 0.25,
+        "dominant_nakshatra_lord": "Ketu",
+        "dominant_nakshatra_lord_share": 0.5,
+        "role_axis_counts": {
+          "unresolved_role": 1,
+          "religion_clergy_doctrine": 1,
+          "performer_screen_music": 1,
+          "science_invention": 1
+        },
+        "lagna_counts": {
+          "Vrishchika": 1,
+          "Meena": 1,
+          "Tula": 1,
+          "Simha": 1
+        },
+        "nakshatra_lord_counts": {
+          "Ketu": 2,
+          "Mercury": 1,
+          "Sun": 1
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "performer_screen_music__Tula__Ketu",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Chad Allen (actor)",
+                "primary_field": "ARTS",
+                "occupation_raw": "American actor and psychologist",
+                "western_key_planets": [
+                  "Jupiter Pisces 16.3deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Jupiter Kumbha 22.8deg H5 Purva Bhadrapada"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "religion_clergy_doctrine__Meena__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Anandamayi Ma",
+                "primary_field": "RELIGION_SPIRITUALITY",
+                "occupation_raw": "Hindu saint and yoga guru (1896–1982)",
+                "western_key_planets": [
+                  "Jupiter Leo 1.0deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Jupiter Karka 8.6deg H5 Pushya"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Simha__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Cristiano Amon",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "wireless technology Qualcomm 5G 4G electronics engineer",
+                "western_key_planets": [
+                  "Jupiter Libra 26.1deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Jupiter Tula 2.6deg H3 Chitra"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Vrishchika__Ketu",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Taisen Deshimaru",
+                "primary_field": "RELIGION_SPIRITUALITY",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Jupiter Pisces 19.0deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Jupiter Kumbha 26.3deg H4 Purva Bhadrapada"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet still looks mixed even after role and vedic grouping"
+      },
+      {
+        "packet_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+        "support_count": 4,
+        "top_route_id": "public_figure_media_presenter_frozen_v1",
+        "second_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+        "top_hit_features": [
+          "W_hard_aspect_cluster_4plus",
+          "W_output_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "vedic_split_signal_strong",
+        "dominant_role_axis": "science_invention",
+        "dominant_role_share": 0.5,
+        "dominant_lagna": "Karka",
+        "dominant_lagna_share": 0.5,
+        "dominant_nakshatra_lord": "Mercury",
+        "dominant_nakshatra_lord_share": 0.5,
+        "role_axis_counts": {
+          "unresolved_role": 1,
+          "science_invention": 2,
+          "business_market": 1
+        },
+        "lagna_counts": {
+          "Simha": 1,
+          "Karka": 2,
+          "Mithuna": 1
+        },
+        "nakshatra_lord_counts": {
+          "Moon": 1,
+          "Sun": 1,
+          "Mercury": 2
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "business_market__Mithuna__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Guy Laroche",
+                "primary_field": "ARTS",
+                "occupation_raw": "fashion design aesthetic market",
+                "western_key_planets": [
+                  "Sun Cancer 23.1deg H1",
+                  "Moon Sagittarius 10.3deg H5",
+                  "Mercury Cancer 11.6deg H12"
+                ],
+                "vedic_key_planets": [
+                  "Sun Karka 0.3deg H2 Punarvasu",
+                  "Moon Vrishchika 17.5deg H6 Jyeshtha",
+                  "Mercury Mithuna 18.8deg H1 Ardra"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Karka__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Joan Leitzel",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "mathematician educational administrator",
+                "western_key_planets": [
+                  "Sun Cancer 10.4deg H12",
+                  "Moon Sagittarius 13.5deg H5",
+                  "Mercury Gemini 19.9deg H11"
+                ],
+                "vedic_key_planets": [
+                  "Sun Mithuna 17.4deg H12 Ardra",
+                  "Moon Vrishchika 20.5deg H5 Jyeshtha",
+                  "Mercury Vrishabha 26.9deg H11 Mrigashira"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Karka__Sun",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "David Elboth",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "linux unix systems architecture writer",
+                "western_key_planets": [
+                  "Sun Leo 5.2deg H1",
+                  "Moon Taurus 21.5deg H11",
+                  "Mercury Leo 17.8deg H2"
+                ],
+                "vedic_key_planets": [
+                  "Sun Karka 11.9deg H1 Pushya",
+                  "Moon Mesha 28.2deg H10 Krittika",
+                  "Mercury Karka 24.5deg H1 Ashlesha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Simha__Moon",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Jerry Rubin",
+                "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Sun Cancer 21.5deg H11",
+                  "Moon Aquarius 13.2deg H6",
+                  "Mercury Leo 12.9deg H11"
+                ],
+                "vedic_key_planets": [
+                  "Sun Mithuna 28.5deg H11 Punarvasu",
+                  "Moon Makara 20.2deg H6 Shravana",
+                  "Mercury Karka 19.9deg H12 Ashlesha"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "support_count": 4,
+        "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "second_route_id": "humanities_critique_interpreter_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Jupiter",
+          "W_angular_Moon",
+          "W_angular_density_2plus",
+          "W_pressure_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "vedic_split_signal_strong",
+        "dominant_role_axis": "business_market",
+        "dominant_role_share": 0.25,
+        "dominant_lagna": "Kanya",
+        "dominant_lagna_share": 0.5,
+        "dominant_nakshatra_lord": "Jupiter",
+        "dominant_nakshatra_lord_share": 0.5,
+        "role_axis_counts": {
+          "business_market": 1,
+          "unresolved_role": 1,
+          "athlete_body_competition": 1,
+          "science_invention": 1
+        },
+        "lagna_counts": {
+          "Mithuna": 1,
+          "Kanya": 2,
+          "Vrishchika": 1
+        },
+        "nakshatra_lord_counts": {
+          "Jupiter": 2,
+          "Mars": 1,
+          "Mercury": 1
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "athlete_body_competition__Kanya__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Arthur Ashe",
+                "primary_field": "SPORTS",
+                "occupation_raw": "American tennis player (1943–1993)",
+                "western_key_planets": [
+                  "Moon Libra 17.8deg H1",
+                  "Jupiter Leo 2.1deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Moon Kanya 24.7deg H1 Chitra",
+                  "Jupiter Karka 9.0deg H11 Pushya"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "business_market__Mithuna__Jupiter",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Ross Perot",
+                "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+                "occupation_raw": "American businessman and politician (1930–2019)",
+                "western_key_planets": [
+                  "Moon Cancer 17.1deg H1",
+                  "Jupiter Cancer 0.1deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Moon Mithuna 24.3deg H1 Punarvasu",
+                  "Jupiter Mithuna 7.2deg H1 Ardra"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Vrishchika__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Bernard d'Espagnat",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "theoretical physicist quantum foundations philosophy of science",
+                "western_key_planets": [
+                  "Moon Aries 11.9deg H4",
+                  "Jupiter Virgo 22.7deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Moon Meena 19.1deg H5 Revati",
+                  "Jupiter Simha 29.9deg H10 Uttara Phalguni"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Kanya__Jupiter",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Harrison Ford",
+                "primary_field": "ARTS",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Moon Cancer 22.8deg H10",
+                  "Jupiter Cancer 7.6deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Moon Mithuna 29.7deg H10 Punarvasu",
+                  "Jupiter Mithuna 14.5deg H10 Ardra"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+        "support_count": 4,
+        "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "second_route_id": "institutions_core_governance_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Moon",
+          "W_angular_density_2plus",
+          "W_house_cluster_H6",
+          "W_pressure_house_density_3plus"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "vedic_split_signal_strong",
+        "dominant_role_axis": "performer_screen_music",
+        "dominant_role_share": 0.25,
+        "dominant_lagna": "Mesha",
+        "dominant_lagna_share": 0.5,
+        "dominant_nakshatra_lord": "Mars",
+        "dominant_nakshatra_lord_share": 0.5,
+        "role_axis_counts": {
+          "performer_screen_music": 1,
+          "athlete_body_competition": 1,
+          "unresolved_role": 1,
+          "science_invention": 1
+        },
+        "lagna_counts": {
+          "Dhanu": 1,
+          "Mesha": 2,
+          "Karka": 1
+        },
+        "nakshatra_lord_counts": {
+          "Mars": 2,
+          "Jupiter": 1,
+          "Moon": 1
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "athlete_body_competition__Mesha__Jupiter",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Aaron Rodgers",
+                "primary_field": "SPORTS",
+                "occupation_raw": "American football player (born 1983)",
+                "western_key_planets": [
+                  "Moon Scorpio 21.0deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Moon Tula 27.4deg H7 Vishakha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "performer_screen_music__Dhanu__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Sylvester Stallone",
+                "primary_field": "ARTS",
+                "occupation_raw": "American actor and filmmaker (born 1946)",
+                "western_key_planets": [
+                  "Moon Libra 22.8deg H10"
+                ],
+                "vedic_key_planets": [
+                  "Moon Kanya 29.7deg H10 Chitra"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "science_invention__Mesha__Moon",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Karl Schwarzschild",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "physicist astronomer general relativity exact solution",
+                "western_key_planets": [
+                  "Moon Gemini 3.8deg H1"
+                ],
+                "vedic_key_planets": [
+                  "Moon Vrishabha 11.7deg H2 Rohini"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Karka__Mars",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Carl Lewis",
+                "primary_field": "SPORTS",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Moon Aquarius 21.4deg H7"
+                ],
+                "vedic_key_planets": [
+                  "Moon Makara 28.1deg H7 Dhanishta"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4",
+        "support_count": 4,
+        "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "top_hit_features": [
+          "W_angular_Mercury",
+          "W_angular_Moon",
+          "W_angular_density_2plus",
+          "W_house_cluster_H4"
+        ],
+        "resolution_class": "watch_packet_needing_manual_reading",
+        "split_signal_type": "vedic_split_signal_strong",
+        "dominant_role_axis": "unresolved_role",
+        "dominant_role_share": 0.75,
+        "dominant_lagna": "Simha",
+        "dominant_lagna_share": 0.75,
+        "dominant_nakshatra_lord": "Venus",
+        "dominant_nakshatra_lord_share": 0.75,
+        "role_axis_counts": {
+          "unresolved_role": 3,
+          "governance_power": 1
+        },
+        "lagna_counts": {
+          "Simha": 3,
+          "Tula": 1
+        },
+        "nakshatra_lord_counts": {
+          "Venus": 3,
+          "Mercury": 1
+        },
+        "branch_groups_top6": [
+          {
+            "branch_key": "governance_power__Simha__Venus",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Helmut Schmidt",
+                "primary_field": "INSTITUTIONS_POLITICS",
+                "occupation_raw": "Chancellor of Germany from 1974 to 1982",
+                "western_key_planets": [
+                  "Moon Virgo 15.9deg H1",
+                  "Mercury Sagittarius 19.7deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Moon Simha 23.2deg H1 Purva Phalguni",
+                  "Mercury Vrishchika 26.9deg H4 Jyeshtha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Simha__Mercury",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Karim Benzema",
+                "primary_field": "SPORTS",
+                "occupation_raw": "French footballer (born 1987)",
+                "western_key_planets": [
+                  "Moon Sagittarius 15.3deg H4",
+                  "Mercury Sagittarius 25.5deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Moon Vrishchika 21.6deg H4 Jyeshtha",
+                  "Mercury Dhanu 1.8deg H5 Mula"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Simha__Venus",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Diana Vreeland",
+                "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+                "occupation_raw": null,
+                "western_key_planets": [
+                  "Moon Capricorn 7.7deg H4",
+                  "Mercury Capricorn 17.3deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Moon Dhanu 15.2deg H5 Purva Ashadha",
+                  "Mercury Dhanu 24.8deg H5 Purva Ashadha"
+                ]
+              }
+            ]
+          },
+          {
+            "branch_key": "unresolved_role__Tula__Venus",
+            "count": 1,
+            "subjects": [
+              {
+                "name": "Betty Holberton",
+                "primary_field": "SCIENCE_TECH_INVENTION",
+                "occupation_raw": "ENIAC programmer debugging breakpoints BINAC C10",
+                "western_key_planets": [
+                  "Moon Virgo 8.4deg H10",
+                  "Mercury Aquarius 29.2deg H4"
+                ],
+                "vedic_key_planets": [
+                  "Moon Simha 15.7deg H11 Purva Phalguni",
+                  "Mercury Kumbha 6.5deg H5 Dhanishta"
+                ]
+              }
+            ]
+          }
+        ],
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      }
+    ],
+    "watch_packet_provisional_subbranches": [
+      {
+        "subbranch_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7__lagna=Mesha__nak=Sun",
+        "parent_packet_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7",
+        "parent_top_route_id": "humanities_public_translation_frozen_v1",
+        "parent_second_route_id": "institutions_core_governance_frozen_v1",
+        "support_count": 5,
+        "split_signal_type": "vedic_split_signal_moderate",
+        "branch_basis": [
+          {
+            "layer": "vedic_lagna",
+            "value": "Mesha",
+            "share": 0.4
+          },
+          {
+            "layer": "vedic_nakshatra_lord",
+            "value": "Sun",
+            "share": 0.4
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus__role=business_market",
+        "parent_packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "parent_top_route_id": "institutions_core_governance_frozen_v1",
+        "parent_second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "support_count": 5,
+        "split_signal_type": "role_split_signal_strong",
+        "branch_basis": [
+          {
+            "layer": "role_axis",
+            "value": "business_market",
+            "share": 0.6
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus__lagna=Karka__nak=Venus",
+        "parent_packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "parent_top_route_id": "institutions_core_governance_frozen_v1",
+        "parent_second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "support_count": 5,
+        "split_signal_type": "vedic_split_signal_moderate",
+        "branch_basis": [
+          {
+            "layer": "vedic_lagna",
+            "value": "Karka",
+            "share": 0.4
+          },
+          {
+            "layer": "vedic_nakshatra_lord",
+            "value": "Venus",
+            "share": 0.4
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus__role=unresolved_role",
+        "parent_packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "parent_top_route_id": "institutions_core_governance_frozen_v1",
+        "parent_second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "support_count": 5,
+        "split_signal_type": "role_split_signal_strong",
+        "branch_basis": [
+          {
+            "layer": "role_axis",
+            "value": "unresolved_role",
+            "share": 0.6
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus__lagna=Karka__nak=Mercury",
+        "parent_packet_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+        "parent_top_route_id": "public_figure_media_presenter_frozen_v1",
+        "parent_second_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+        "support_count": 4,
+        "split_signal_type": "vedic_split_signal_strong",
+        "branch_basis": [
+          {
+            "layer": "vedic_lagna",
+            "value": "Karka",
+            "share": 0.5
+          },
+          {
+            "layer": "vedic_nakshatra_lord",
+            "value": "Mercury",
+            "share": 0.5
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus__lagna=Kanya__nak=Jupiter",
+        "parent_packet_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+        "parent_top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "parent_second_route_id": "humanities_critique_interpreter_frozen_v1",
+        "support_count": 4,
+        "split_signal_type": "vedic_split_signal_strong",
+        "branch_basis": [
+          {
+            "layer": "vedic_lagna",
+            "value": "Kanya",
+            "share": 0.5
+          },
+          {
+            "layer": "vedic_nakshatra_lord",
+            "value": "Jupiter",
+            "share": 0.5
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus__lagna=Mesha__nak=Mars",
+        "parent_packet_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+        "parent_top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "parent_second_route_id": "institutions_core_governance_frozen_v1",
+        "support_count": 4,
+        "split_signal_type": "vedic_split_signal_strong",
+        "branch_basis": [
+          {
+            "layer": "vedic_lagna",
+            "value": "Mesha",
+            "share": 0.5
+          },
+          {
+            "layer": "vedic_nakshatra_lord",
+            "value": "Mars",
+            "share": 0.5
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      },
+      {
+        "subbranch_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4__lagna=Simha__nak=Venus",
+        "parent_packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4",
+        "parent_top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+        "parent_second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+        "support_count": 4,
+        "split_signal_type": "vedic_split_signal_strong",
+        "branch_basis": [
+          {
+            "layer": "vedic_lagna",
+            "value": "Simha",
+            "share": 0.75
+          },
+          {
+            "layer": "vedic_nakshatra_lord",
+            "value": "Venus",
+            "share": 0.75
+          }
+        ],
+        "promotion_status": "provisional_subbranch_hold",
+        "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+        "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+      }
+    ]
+  },
+  "publication_guardrails": [
+    "Current fixed routes are route families or branches supported by existing exact cohorts; they are not universal deterministic career classifiers.",
+    "The surviving narrow packet is not yet a fixed route claim. It remains a provisional packet candidate.",
+    "Watch-packet subbranches are not route claims. They are repeated internal split signals waiting for fresh exact repeats.",
+    "Science registry rows in NOT_FIXED or UNDERFILLED states must be published as retained clues or future collection targets, not as confirmed routes.",
+    "Blind ingress and top-route assignment should be described as route pressure observation, not final classification."
+  ],
+  "release_files": [
+    {
+      "path": "scripts/verification/data/astrological_validation/all_field_unified_route_freeze_registry_v1.json",
+      "role": "current_fixed_route_inventory"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/science_route_family_freeze_registry_v2.csv",
+      "role": "science_route_nonfixed_inventory"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_mass_intake_master_ledger_v1.json",
+      "role": "mass_intake_master"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_route_discovery_ledger_v1.json",
+      "role": "subject_level_route_trace"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_route_signature_clusters_v1.json",
+      "role": "observed_cluster_summary"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_packet_review_ledger_v1.json",
+      "role": "packet_review_queue"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/explicit_feature_packet_queue_v1.json",
+      "role": "explicit_feature_packet_queue"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/provisional_packet_candidate_ledger_v1.json",
+      "role": "surviving_narrow_packet_candidate"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/packet_resolution_layer_audit_v1.json",
+      "role": "packet_resolution_audit"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/watch_packet_branch_split_reading_v1.json",
+      "role": "watch_packet_branch_split"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/watch_packet_provisional_subbranch_registry_v1.json",
+      "role": "watch_packet_provisional_subbranches"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_visual_dashboard_v1.json",
+      "role": "visual_dashboard_manifest"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_route_research_compact_index_v1.json",
+      "role": "compact_index"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_source_manifest_v1.json",
+      "role": "latest_source_manifest_example"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.json",
+      "role": "fixed_route_appendix"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.md",
+      "role": "fixed_route_appendix_markdown"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.json",
+      "role": "fixed_route_stage_history_appendix"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.md",
+      "role": "fixed_route_stage_history_appendix_markdown"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.json",
+      "role": "fixed_route_public_summary"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.md",
+      "role": "fixed_route_public_summary_markdown"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_full_report_ja_v1.md",
+      "role": "full_report_japanese"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_github_release_readme_ja_v1.md",
+      "role": "github_release_readme_japanese"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_external_posting_pack_ja_v1.md",
+      "role": "external_posting_pack_japanese"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_master_next_plan_ja_v1.md",
+      "role": "master_next_plan"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.json",
+      "role": "release_bundle_manifest"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.md",
+      "role": "release_bundle_manifest_markdown"
+    },
+    {
+      "path": "route_research_public_release_v1/README.md",
+      "role": "materialized_release_bundle_readme"
+    },
+    {
+      "path": "route_research_public_release_v1/REPORT_JA.md",
+      "role": "materialized_release_bundle_report"
+    },
+    {
+      "path": "route_research_public_release_v1/CLAIM_BOUNDARY.json",
+      "role": "materialized_release_bundle_claim_boundary"
+    },
+    {
+      "path": "route_research_public_release_v1/MASTER_NEXT_PLAN_JA.md",
+      "role": "materialized_release_bundle_master_next_plan"
+    },
+    {
+      "path": "route_research_public_release_v1/BUNDLE_MANIFEST.json",
+      "role": "materialized_release_bundle_manifest"
+    },
+    {
+      "path": "route_research_public_release_v1/CHECKSUMS.sha256",
+      "role": "materialized_release_bundle_checksums"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.json",
+      "role": "release_readiness_check"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.md",
+      "role": "release_readiness_check_markdown"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_publication_freeze_package_v1.json",
+      "role": "publication_freeze_package"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_reproduction_protocol_v1.md",
+      "role": "reproduction_protocol"
+    }
+  ],
+  "rebuild_commands": [
+    "python3 scripts/verification/build_all_field_unified_route_freeze_registry_v1.py",
+    "python3 scripts/verification/build_route_mass_intake_master_ledger_v1.py",
+    "python3 scripts/verification/build_mass_route_discovery_ledger_v1.py",
+    "python3 scripts/verification/build_observed_route_signature_clusters_v1.py",
+    "python3 scripts/verification/build_observed_packet_review_ledger_v1.py",
+    "python3 scripts/verification/build_explicit_feature_packet_queue_v1.py",
+    "python3 scripts/verification/build_packet_role_profile_audit_v1.py",
+    "python3 scripts/verification/build_packet_multilayer_feature_audit_v1.py",
+    "python3 scripts/verification/build_packet_evidence_stack_v1.py",
+    "python3 scripts/verification/build_packet_resolution_layer_audit_v1.py",
+    "python3 scripts/verification/build_watch_packet_branch_split_reading_v1.py",
+    "python3 scripts/verification/build_watch_packet_provisional_subbranch_registry_v1.py",
+    "python3 scripts/verification/build_route_research_visual_dashboard_v1.py",
+    "python3 scripts/verification/build_route_research_fixed_route_appendix_v1.py",
+    "python3 scripts/verification/build_route_research_fixed_route_stage_history_appendix_ja_v1.py",
+    "python3 scripts/verification/build_route_research_fixed_route_public_summary_ja_v1.py",
+    "python3 scripts/verification/build_route_research_publication_freeze_package_v1.py",
+    "python3 scripts/verification/build_route_research_release_bundle_manifest_v1.py",
+    "python3 scripts/verification/build_route_research_release_bundle_files_v1.py",
+    "python3 scripts/verification/build_route_research_release_readiness_check_v1.py",
+    "python3 scripts/verification/build_mass_route_research_compact_index_v1.py"
+  ],
+  "source_trace_example": {
+    "latest_exact_source_manifest": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_source_manifest_v1.json",
+    "latest_exact_accepted_count": 64,
+    "latest_exact_skipped_count": 28
+  }
+}

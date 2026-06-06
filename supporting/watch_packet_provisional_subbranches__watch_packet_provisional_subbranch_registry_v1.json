@@ -1,0 +1,182 @@
+{
+  "schema_version": "watch_packet_provisional_subbranch_registry_v1",
+  "created_at": "2026-06-06T01:15:19+00:00",
+  "purpose": "register provisional subbranches for watch packets that already show repeat role or vedic split signals",
+  "row_count": 8,
+  "rows": [
+    {
+      "subbranch_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7__lagna=Mesha__nak=Sun",
+      "parent_packet_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7",
+      "parent_top_route_id": "humanities_public_translation_frozen_v1",
+      "parent_second_route_id": "institutions_core_governance_frozen_v1",
+      "support_count": 5,
+      "split_signal_type": "vedic_split_signal_moderate",
+      "branch_basis": [
+        {
+          "layer": "vedic_lagna",
+          "value": "Mesha",
+          "share": 0.4
+        },
+        {
+          "layer": "vedic_nakshatra_lord",
+          "value": "Sun",
+          "share": 0.4
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus__role=business_market",
+      "parent_packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "parent_top_route_id": "institutions_core_governance_frozen_v1",
+      "parent_second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "support_count": 5,
+      "split_signal_type": "role_split_signal_strong",
+      "branch_basis": [
+        {
+          "layer": "role_axis",
+          "value": "business_market",
+          "share": 0.6
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus__lagna=Karka__nak=Venus",
+      "parent_packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "parent_top_route_id": "institutions_core_governance_frozen_v1",
+      "parent_second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "support_count": 5,
+      "split_signal_type": "vedic_split_signal_moderate",
+      "branch_basis": [
+        {
+          "layer": "vedic_lagna",
+          "value": "Karka",
+          "share": 0.4
+        },
+        {
+          "layer": "vedic_nakshatra_lord",
+          "value": "Venus",
+          "share": 0.4
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus__role=unresolved_role",
+      "parent_packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "parent_top_route_id": "institutions_core_governance_frozen_v1",
+      "parent_second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "support_count": 5,
+      "split_signal_type": "role_split_signal_strong",
+      "branch_basis": [
+        {
+          "layer": "role_axis",
+          "value": "unresolved_role",
+          "share": 0.6
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus__lagna=Karka__nak=Mercury",
+      "parent_packet_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+      "parent_top_route_id": "public_figure_media_presenter_frozen_v1",
+      "parent_second_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+      "support_count": 4,
+      "split_signal_type": "vedic_split_signal_strong",
+      "branch_basis": [
+        {
+          "layer": "vedic_lagna",
+          "value": "Karka",
+          "share": 0.5
+        },
+        {
+          "layer": "vedic_nakshatra_lord",
+          "value": "Mercury",
+          "share": 0.5
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus__lagna=Kanya__nak=Jupiter",
+      "parent_packet_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "parent_top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "parent_second_route_id": "humanities_critique_interpreter_frozen_v1",
+      "support_count": 4,
+      "split_signal_type": "vedic_split_signal_strong",
+      "branch_basis": [
+        {
+          "layer": "vedic_lagna",
+          "value": "Kanya",
+          "share": 0.5
+        },
+        {
+          "layer": "vedic_nakshatra_lord",
+          "value": "Jupiter",
+          "share": 0.5
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus__lagna=Mesha__nak=Mars",
+      "parent_packet_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "parent_top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "parent_second_route_id": "institutions_core_governance_frozen_v1",
+      "support_count": 4,
+      "split_signal_type": "vedic_split_signal_strong",
+      "branch_basis": [
+        {
+          "layer": "vedic_lagna",
+          "value": "Mesha",
+          "share": 0.5
+        },
+        {
+          "layer": "vedic_nakshatra_lord",
+          "value": "Mars",
+          "share": 0.5
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "subbranch_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4__lagna=Simha__nak=Venus",
+      "parent_packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4",
+      "parent_top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "parent_second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "support_count": 4,
+      "split_signal_type": "vedic_split_signal_strong",
+      "branch_basis": [
+        {
+          "layer": "vedic_lagna",
+          "value": "Simha",
+          "share": 0.75
+        },
+        {
+          "layer": "vedic_nakshatra_lord",
+          "value": "Venus",
+          "share": 0.75
+        }
+      ],
+      "promotion_status": "provisional_subbranch_hold",
+      "promotion_rule": "require repeated new exact subjects landing in the same visible gate and the same role/vedic branch basis before promotion",
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    }
+  ]
+}

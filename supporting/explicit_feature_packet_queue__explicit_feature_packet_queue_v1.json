@@ -1,0 +1,2211 @@
+{
+  "schema_version": "explicit_feature_packet_queue_v1",
+  "created_at": "2026-06-06T01:15:17.635041+00:00",
+  "purpose": "separate explicit-feature observed packets from generic fame/common-factor packets for the next manual reading stage",
+  "source_review": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/observed_packet_review_ledger_v1.json",
+  "packet_count": 17,
+  "packets": [
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_density_2plus",
+      "support_count": 8,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_density_2plus"
+      ],
+      "primary_field_counts": {
+        "SCIENCE_TECH_INVENTION": 1,
+        "HUMANITIES": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 2,
+        "ARTS": 3,
+        "RELIGION_SPIRITUALITY": 1
+      },
+      "subjects": [
+        {
+          "name": "Alan Turing",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "English computer scientist (1912–1954)",
+          "public_description_excerpt": "Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. He was highly influential in the development of theoretical computer science, provi...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Leo 15.4deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mars Karka 22.7deg H3 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Chitra",
+            "pada": 1,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Alan_Turing",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Alan_Turing"
+        },
+        {
+          "name": "Germaine Greer",
+          "primary_field": "HUMANITIES",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Scorpio 29.6deg H10"
+          ],
+          "vedic_key_planets": [
+            "Mars Vrishchika 6.6deg H11 Anuradha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Bharani",
+            "pada": 2,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Germaine_Greer",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Germaine_Greer"
+        },
+        {
+          "name": "Jeanne Lanvin",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "French fashion designer (1867–1946)",
+          "public_description_excerpt": "Jeanne-Marie Lanvin was a French haute couture fashion designer. She founded the Lanvin fashion house and the beauty and perfume company Lanvin Parfums.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Cancer 24.2deg H10"
+          ],
+          "vedic_key_planets": [
+            "Mars Karka 2.2deg H11 Punarvasu"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Vishakha",
+            "pada": 2,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jeanne_Lanvin",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jeanne_Lanvin"
+        },
+        {
+          "name": "Leona Helmsley",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American businesswoman (1920–2007)",
+          "public_description_excerpt": "Leona Roberts Helmsley was an American businesswoman. After allegations of non-payment were made by contractors hired to improve Helmsley's Connecticut home, she was investigated and convicted of federal income tax ev...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Libra 27.6deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mars Tula 4.9deg H5 Chitra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shravana",
+            "pada": 4,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Leona_Helmsley",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Leona_Helmsley"
+        },
+        {
+          "name": "Faye Dunaway",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actress (born 1941)",
+          "public_description_excerpt": "Dorothy Faye Dunaway is an American actress. She is the recipient of many accolades, including an Academy Award, a Primetime Emmy Award, three Golden Globe Awards, and a BAFTA Award.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Sagittarius 6.9deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mars Vrishchika 13.9deg H4 Anuradha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Ashlesha",
+            "pada": 2,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Faye_Dunaway",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Faye_Dunaway"
+        },
+        {
+          "name": "Francis Ford Coppola",
+          "primary_field": "ARTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Capricorn 9.2deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mars Dhanu 16.2deg H1 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Vishakha",
+            "pada": 4,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Francis_Ford_Coppola",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Francis_Ford_Coppola"
+        },
+        {
+          "name": "Jane Fonda",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actress and activist (born 1937)",
+          "public_description_excerpt": "Jane Seymour Fonda is an American actress and activist. Fonda's work spans several genres and over seven decades of film and television. She is the recipient of numerous accolades, including two Academy Awards (Oscars...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Aquarius 29.9deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mars Kumbha 6.9deg H2 Shatabhisha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Ashlesha",
+            "pada": 4,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jane_Fonda",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jane_Fonda"
+        },
+        {
+          "name": "Jimmy Swaggart",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Libra 23.0deg H10"
+          ],
+          "vedic_key_planets": [
+            "Mars Tula 0.1deg H11 Chitra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Pushya",
+            "pada": 2,
+            "nakshatra_lord": "Saturn"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jimmy_Swaggart",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jimmy_Swaggart"
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_public_teacher_healer_media_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mercury+W_angular_Sun+W_house_cluster_H1+W_pressure_house_density_3plus",
+      "support_count": 8,
+      "top_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Sun",
+        "W_house_cluster_H1",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "SPORTS": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 3,
+        "EXPLORATION_EXTREME_ACHIEVEMENT": 1,
+        "SCIENCE_TECH_INVENTION": 3
+      },
+      "subjects": [
+        {
+          "name": "Wayne Gretzky",
+          "primary_field": "SPORTS",
+          "occupation_raw": "Canadian ice hockey player and coach (born 1961)",
+          "public_description_excerpt": "Wayne Douglas Gretzky is a Canadian former professional ice hockey player and former head coach. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. Nicknamed \"the Great One\", he...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Aquarius 20.0deg H1",
+            "Sun Aquarius 6.3deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Makara 26.6deg H1 Dhanishta",
+            "Sun Makara 13.0deg H1 Shravana"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Rohini",
+            "pada": 2,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Wayne_Gretzky",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Wayne_Gretzky"
+        },
+        {
+          "name": "Charlie Munger",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American businessman (1924–2023)",
+          "public_description_excerpt": "Charles Thomas Munger was an American businessman, investor, attorney and philanthropist. He was the vice chairman of Berkshire Hathaway, the conglomerate controlled by Warren Buffett, from 1978 until his death in 202...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Capricorn 28.4deg H1",
+            "Sun Capricorn 9.9deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Makara 5.6deg H2 Uttara Ashadha",
+            "Sun Dhanu 17.1deg H1 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Swati",
+            "pada": 1,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Charlie_Munger",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Charlie_Munger"
+        },
+        {
+          "name": "Douglas Corrigan",
+          "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Capricorn 23.9deg H1",
+            "Sun Aquarius 1.3deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Makara 1.4deg H2 Uttara Ashadha",
+            "Sun Makara 8.8deg H2 Uttara Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Bharani",
+            "pada": 3,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Douglas_Corrigan",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Douglas_Corrigan"
+        },
+        {
+          "name": "Marissa Mayer",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Gemini 23.6deg H1",
+            "Sun Gemini 8.4deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Mithuna 0.1deg H2 Mrigashira",
+            "Sun Vrishabha 14.9deg H1 Rohini"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shravana",
+            "pada": 3,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Marissa_Mayer",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Marissa_Mayer"
+        },
+        {
+          "name": "Heinrich Hertz",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "German physicist (1857–1894)",
+          "public_description_excerpt": "Heinrich Rudolf Hertz was a German physicist who first conclusively proved the existence of the electromagnetic waves proposed by James Clerk Maxwell's equations of electromagnetism.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Aquarius 6.9deg H1",
+            "Sun Pisces 3.6deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Makara 15.1deg H1 Shravana",
+            "Sun Kumbha 11.7deg H2 Shatabhisha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shravana",
+            "pada": 1,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Heinrich_Hertz",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Heinrich_Hertz"
+        },
+        {
+          "name": "Luciano Benetton",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Gemini 8.3deg H1",
+            "Sun Taurus 21.5deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 15.4deg H2 Rohini",
+            "Sun Mesha 28.5deg H1 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Uttara Phalguni",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Luciano_Benetton",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Luciano_Benetton"
+        },
+        {
+          "name": "Armand Nevot",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "physician veterinarian bacteriologist tropical project officer",
+          "public_description_excerpt": "physician veterinarian bacteriologist tropical project officer | Astro-Databank; online birth certificate; LST m2e2015 treated as fixed +00:09:21 | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Mercury Capricorn 13.1deg H1",
+            "Sun Sagittarius 23.1deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Dhanu 20.7deg H2 Purva Ashadha",
+            "Sun Dhanu 0.7deg H2 Mula"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Mrigashira",
+            "pada": 2,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Nevot%2C_Armand"
+        },
+        {
+          "name": "Petter Gottschalk",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "IT strategy knowledge management information technology professor",
+          "public_description_excerpt": "IT strategy knowledge management information technology professor | Astro-Databank page readback; certificate of live birth in hand | management/economics/education overlap; boundary | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Mercury Aries 6.0deg H7",
+            "Sun Aries 6.4deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Meena 12.8deg H8 Uttara Bhadrapada",
+            "Sun Meena 13.2deg H8 Uttara Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 1,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Gottschalk%2C_Petter"
+        }
+      ]
+    },
+    {
+      "packet_id": "humanities_critique_interpreter_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Jupiter+W_pressure_house_density_3plus",
+      "support_count": 6,
+      "top_route_id": "humanities_critique_interpreter_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "ARTS": 1,
+        "EXPLORATION_EXTREME_ACHIEVEMENT": 2,
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Kristen Stewart",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actress and director (born 1990)",
+          "public_description_excerpt": "Kristen Jaymes Stewart is an American actress and filmmaker. Her career spans from major blockbusters to intimate arthouse dramas, and she has earned a reputation for portraying complex, introspective characters. As a...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Cancer 3.8deg H1"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Mithuna 10.0deg H2 Ardra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Hasta",
+            "pada": 4,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Kristen_Stewart",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Kristen_Stewart"
+        },
+        {
+          "name": "Donald Holmquest",
+          "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+          "occupation_raw": "American astronaut",
+          "public_description_excerpt": "Donald Lee Holmquest is an American lawyer, physician, electrical engineer, and former NASA astronaut. He was the CEO of the California Regional Health Information Organization (RHIO).",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Pisces 22.7deg H10"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Kumbha 29.7deg H10 Purva Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Anuradha",
+            "pada": 2,
+            "nakshatra_lord": "Saturn"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Donald_Holmquest",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Donald_Holmquest"
+        },
+        {
+          "name": "John Glenn",
+          "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+          "occupation_raw": "American astronaut and politician (1921–2016)",
+          "public_description_excerpt": "John Herschel Glenn Jr. was an American Marine Corps aviator, astronaut, businessman, and politician. He was the third American in space and the first to orbit the Earth, circling it three times in 1962. Following his...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Virgo 16.0deg H10"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Simha 23.3deg H11 Purva Phalguni"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Purva Ashadha",
+            "pada": 2,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/John_Glenn",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/John_Glenn"
+        },
+        {
+          "name": "Marcel Dassault",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "French aircraft industrialist (1892–1986)",
+          "public_description_excerpt": "Marcel Dassault was a French engineer and industrialist who spent his career in aircraft manufacturing. He was also involved in politics, serving intermittently over more than three decades in both houses of the Frenc...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Pisces 17.5deg H1"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Kumbha 25.1deg H2 Purva Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Swati",
+            "pada": 2,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Marcel_Dassault",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Marcel_Dassault"
+        },
+        {
+          "name": "Alan Bean (activist)",
+          "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+          "occupation_raw": "American activist",
+          "public_description_excerpt": "Alan Bean is a white former minister working to uncover injustice and organize black opposition, in the racial controversies surrounding the Tulia 47 drug sting in Tulia, Texas and the Jena Six controversy in Jena, Lo...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Leo 13.5deg H1"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Karka 20.6deg H1 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Mrigashira",
+            "pada": 4,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Alan_Bean_(activist)",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Alan_Bean"
+        },
+        {
+          "name": "Pål Brekke",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "solar physicist astrophysicist UV emissions space observation",
+          "public_description_excerpt": "solar physicist astrophysicist UV emissions space observation | Astro-Databank; certificate of live birth | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Jupiter Aquarius 7.1deg H7"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Makara 13.8deg H7 Shravana"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Purva Phalguni",
+            "pada": 1,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Brekke%2C_Pal"
+        }
+      ]
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus",
+      "support_count": 6,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Saturn",
+        "W_angular_density_2plus"
+      ],
+      "primary_field_counts": {
+        "ARTS": 2,
+        "SCIENCE_TECH_INVENTION": 1,
+        "SPORTS": 1,
+        "HUMANITIES": 1,
+        "RELIGION_SPIRITUALITY": 1
+      },
+      "subjects": [
+        {
+          "name": "David Bowie",
+          "primary_field": "ARTS",
+          "occupation_raw": "English musician and actor (1947–2016)",
+          "public_description_excerpt": "David Robert Jones, known as David Bowie, was an English singer, songwriter and actor. Regarded as among the most influential musicians of the 20th century, he was known for his constant reinvention and visual present...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Leo 6.9deg H7"
+          ],
+          "vedic_key_planets": [
+            "Saturn Karka 13.7deg H7 Pushya"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Pushya",
+            "pada": 3,
+            "nakshatra_lord": "Saturn"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/David_Bowie",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/David_Bowie"
+        },
+        {
+          "name": "Louis de Broglie",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "French physicist and aristocrat (1892–1987)",
+          "public_description_excerpt": "Louis Victor Pierre Raymond, 7th Duc de Broglie was a French theoretical physicist and aristocrat known for his contributions to quantum theory. In his 1924 Ph.D. thesis, de Broglie postulated the wave nature of elect...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Virgo 28.3deg H4"
+          ],
+          "vedic_key_planets": [
+            "Saturn Kanya 6.0deg H4 Uttara Phalguni"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Louis_de_Broglie",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Louis_de_Broglie"
+        },
+        {
+          "name": "Carles Puyol",
+          "primary_field": "SPORTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Leo 23.8deg H4"
+          ],
+          "vedic_key_planets": [
+            "Saturn Simha 0.2deg H4 Magha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Mrigashira",
+            "pada": 4,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Carles_Puyol",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Carles_Puyol"
+        },
+        {
+          "name": "Jacques Derrida",
+          "primary_field": "HUMANITIES",
+          "occupation_raw": "French philosopher (1930–2004)",
+          "public_description_excerpt": "Jacques Derrida was a French philosopher. He developed the philosophy of deconstruction, which he utilized in a number of his texts, and which was developed through close readings of the linguistics of Ferdinand de Sa...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Capricorn 7.5deg H4"
+          ],
+          "vedic_key_planets": [
+            "Saturn Dhanu 14.7deg H5 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shatabhisha",
+            "pada": 4,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jacques_Derrida",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jacques_Derrida"
+        },
+        {
+          "name": "Mick Jagger",
+          "primary_field": "ARTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Gemini 22.0deg H1"
+          ],
+          "vedic_key_planets": [
+            "Saturn Vrishabha 28.9deg H1 Mrigashira"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 2,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Mick_Jagger",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Mick_Jagger"
+        },
+        {
+          "name": "Paul Tillich",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Cancer 17.8deg H1"
+          ],
+          "vedic_key_planets": [
+            "Saturn Mithuna 25.5deg H1 Punarvasu"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Ashwini",
+            "pada": 1,
+            "nakshatra_lord": "Ketu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Paul_Tillich",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Paul_Tillich"
+        }
+      ]
+    },
+    {
+      "packet_id": "public_figure_media_presenter_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+      "support_count": 6,
+      "top_route_id": "public_figure_media_presenter_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_hard_aspect_cluster_4plus",
+        "W_output_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "ARTS": 1,
+        "RELIGION_SPIRITUALITY": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 3,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Shakira",
+          "primary_field": "ARTS",
+          "occupation_raw": "Colombian singer (born 1977)",
+          "public_description_excerpt": "Shakira Isabel Mebarak Ripoll is a Colombian singer, songwriter, dancer, and record producer. Referred to as the \"Queen of Latin Music\", she has had a significant impact on the musical landscape of Latin America and h...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Aquarius 13.6deg H11",
+            "Moon Cancer 24.8deg H4",
+            "Mercury Capricorn 19.1deg H10"
+          ],
+          "vedic_key_planets": [
+            "Sun Makara 20.1deg H11 Shravana",
+            "Moon Karka 1.2deg H5 Punarvasu",
+            "Mercury Dhanu 25.6deg H10 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 4,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Shakira",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Shakira"
+        },
+        {
+          "name": "Oral Roberts",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Aquarius 3.9deg H10",
+            "Moon Cancer 6.5deg H3",
+            "Mercury Capricorn 9.3deg H9"
+          ],
+          "vedic_key_planets": [
+            "Sun Makara 11.2deg H10 Shravana",
+            "Moon Mithuna 13.8deg H3 Ardra",
+            "Mercury Dhanu 16.6deg H9 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Ardra",
+            "pada": 3,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Oral_Roberts",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Oral_Roberts"
+        },
+        {
+          "name": "Tyler Perry",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American actor and filmmaker (born 1969)",
+          "public_description_excerpt": "Tyler Perry is an American filmmaker, playwright, actor, comedian, and entrepreneur. His films vary in style from orthodox filmmaking techniques to filmed productions of live stage plays, many of which have been subse...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Virgo 20.6deg H11",
+            "Moon Libra 11.2deg H12",
+            "Mercury Libra 14.4deg H12"
+          ],
+          "vedic_key_planets": [
+            "Sun Simha 27.2deg H12 Uttara Phalguni",
+            "Moon Kanya 17.8deg H1 Hasta",
+            "Mercury Kanya 21.0deg H1 Hasta"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Hasta",
+            "pada": 3,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Tyler_Perry",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Tyler_Perry"
+        },
+        {
+          "name": "Gustave Eiffel",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Sagittarius 23.9deg H5",
+            "Moon Libra 10.4deg H3",
+            "Mercury Capricorn 10.9deg H5"
+          ],
+          "vedic_key_planets": [
+            "Sun Dhanu 2.4deg H6 Mula",
+            "Moon Kanya 18.9deg H3 Hasta",
+            "Mercury Dhanu 19.4deg H6 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Hasta",
+            "pada": 3,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Gustave_Eiffel",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Gustave_Eiffel"
+        },
+        {
+          "name": "Steve Forbes",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American businessman and publisher (born 1947)",
+          "public_description_excerpt": "Malcolm Stevenson Forbes Jr. is an American publisher, businessman, and politician who is the chairman and editor-in-chief of Forbes, the business magazine. The son of longtime Forbes publisher Malcolm Forbes and the ...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Cancer 24.8deg H3",
+            "Moon Cancer 25.6deg H3",
+            "Mercury Cancer 19.3deg H3"
+          ],
+          "vedic_key_planets": [
+            "Sun Karka 1.6deg H3 Punarvasu",
+            "Moon Karka 2.4deg H3 Punarvasu",
+            "Mercury Mithuna 26.2deg H2 Punarvasu"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 4,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Steve_Forbes",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Steve_Forbes"
+        },
+        {
+          "name": "Max von Laue",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "physicist xray diffraction crystal structure",
+          "public_description_excerpt": "Nobel Physics 1914 for discovery of diffraction of X-rays by crystals; material structure observation branch",
+          "birth_precision": "AA_external_screening_LMT_fixed",
+          "western_key_planets": [
+            "Sun Libra 15.7deg H11",
+            "Moon Cancer 24.9deg H8",
+            "Mercury Libra 18.1deg H11"
+          ],
+          "vedic_key_planets": [
+            "Sun Kanya 23.5deg H12 Chitra",
+            "Moon Karka 2.7deg H10 Punarvasu",
+            "Mercury Kanya 25.9deg H12 Chitra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 4,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://www.nobelprize.org/nobel_prizes/physics/laureates/1914/laue-bio.html ; https://www.britannica.com/biography/Max-von-Laue ; https://www.astro-seek.com/birth-chart/max-von-laue-horoscope",
+          "birth_data_source_url": null
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 6,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "ARTS": 2,
+        "BUSINESS_ENTREPRENEURSHIP": 2,
+        "SPORTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Jennifer Lawrence",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actress and producer (born 1990)",
+          "public_description_excerpt": "Jennifer Shrader Maroney is an American actress and producer. She has starred in both action film franchises and independent dramas, and her films have grossed over $6 billion worldwide. She was the world's highest-pa...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Gemini 21.2deg H7",
+            "Mercury Virgo 19.6deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Vrishabha 27.5deg H7 Mrigashira",
+            "Mercury Simha 25.9deg H10 Purva Phalguni"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Mrigashira",
+            "pada": 2,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jennifer_Lawrence"
+        },
+        {
+          "name": "Robin Williams",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor and comedian (1951–2014)",
+          "public_description_excerpt": "Robin McLaurin Williams was an American actor and comedian. Known for his improvisational skills and the wide variety of characters he created spontaneously and portrayed in drama and comedy films, he is regarded as o...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Pisces 8.9deg H4",
+            "Mercury Leo 22.1deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Kumbha 15.8deg H5 Shatabhisha",
+            "Mercury Karka 28.9deg H10 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shatabhisha",
+            "pada": 3,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Robin_Williams",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Robin_Williams"
+        },
+        {
+          "name": "Kris Jenner",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American media personality (born 1955)",
+          "public_description_excerpt": "Kristen Mary Jenner is an American media personality, socialite, and businesswoman. She rose to fame starring in the reality television series Keeping Up with the Kardashians (2007–2021) with her family. The success o...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Cancer 23.2deg H10",
+            "Mercury Libra 25.7deg H1"
+          ],
+          "vedic_key_planets": [
+            "Moon Mithuna 30.0deg H10 Punarvasu",
+            "Mercury Tula 2.5deg H2 Chitra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Kris_Jenner",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Kris_Jenner"
+        },
+        {
+          "name": "Valentino Garavani",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Cancer 22.9deg H1",
+            "Mercury Aries 24.4deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Mithuna 30.0deg H1 Punarvasu",
+            "Mercury Mesha 1.4deg H11 Ashwini"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Valentino_Garavani",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Valentino_Garavani"
+        },
+        {
+          "name": "Zico",
+          "primary_field": "SPORTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Libra 11.1deg H7",
+            "Mercury Aries 0.5deg H1"
+          ],
+          "vedic_key_planets": [
+            "Moon Kanya 17.9deg H7 Hasta",
+            "Mercury Meena 7.3deg H1 Uttara Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Hasta",
+            "pada": 3,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Zico",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Zico"
+        },
+        {
+          "name": "Arthur Schawlow",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "physicist laser spectroscopy development",
+          "public_description_excerpt": "Nobel Physics 1981 for contribution to development of laser spectroscopy",
+          "birth_precision": "AA_external_screening",
+          "western_key_planets": [
+            "Moon Aries 16.5deg H10",
+            "Mercury Taurus 8.8deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Meena 23.7deg H9 Revati",
+            "Mercury Mesha 16.1deg H10 Bharani"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Revati",
+            "pada": 3,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://www.britannica.com/biography/Arthur-L-Schawlow ; https://www.nobelprize.org/nobel_prizes/physics/laureates/1981/schawlow-facts.html",
+          "birth_data_source_url": "https://www.astro-seek.com/birth-chart/arthur-schawlow-horoscope"
+        }
+      ]
+    },
+    {
+      "packet_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7",
+      "support_count": 5,
+      "top_route_id": "humanities_public_translation_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_Mars_house_7",
+        "W_angular_Mars",
+        "W_house_cluster_H6",
+        "W_visible_Mars_house_7"
+      ],
+      "primary_field_counts": {
+        "HUMANITIES": 1,
+        "RELIGION_SPIRITUALITY": 1,
+        "ARTS": 1,
+        "INSTITUTIONS_POLITICS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "bell hooks",
+          "primary_field": "HUMANITIES",
+          "occupation_raw": "American author and activist (1952–2021)",
+          "public_description_excerpt": "Gloria Jean Watkins, better known by her pen name bell hooks, was an American philosopher, educator, author and social critic who was a Distinguished Professor in Residence at Berea College. She was best known for her...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Sagittarius 18.8deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mars Vrishchika 25.6deg H7 Jyeshtha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Jyeshtha",
+            "pada": 4,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Bell_hooks",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/bell_hooks"
+        },
+        {
+          "name": "Pope Leo XIII",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": "Head of the Catholic Church from 1878 to 1903",
+          "public_description_excerpt": "Pope Leo XIII was head of the Catholic Church from 1878 until his death in 1903. He had the fourth-longest reign of any pope, behind those of St. Peter, Pius IX, and John Paul II.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Aries 8.6deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mars Meena 17.4deg H7 Revati"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shravana",
+            "pada": 1,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Pope_Leo_XIII",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Pope_Leo_XIII"
+        },
+        {
+          "name": "Jason Alexander",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor (born 1959)",
+          "public_description_excerpt": "Jason Alexander is an American actor and comedian. Over the course of his career, he has received an Emmy Award and a Tony Award as well as nominations for four Golden Globe Awards. He gained stardom for his role as G...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Libra 11.7deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mars Kanya 18.4deg H8 Hasta"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Mrigashira",
+            "pada": 1,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jason_Alexander",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jason_Alexander"
+        },
+        {
+          "name": "George Washington",
+          "primary_field": "INSTITUTIONS_POLITICS",
+          "occupation_raw": "U.S. Founding Father, president from 1789 to 1797",
+          "public_description_excerpt": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutio...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Scorpio 23.2deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mars Vrishchika 3.1deg H8 Vishakha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Uttara Ashadha",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/George_Washington",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/George_Washington"
+        },
+        {
+          "name": "George Washington (inventor)",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "American inventor and businessman",
+          "public_description_excerpt": "George Constant Louis Washington[I] was a Belgian-British inventor and businessman. He is best remembered for his improvement of an early instant coffee process and for the company he founded to mass-produce it, the G...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Scorpio 23.2deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mars Vrishchika 3.1deg H8 Vishakha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Uttara Ashadha",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/George_Washington_(inventor)",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/George_Washington"
+        }
+      ]
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_Saturn",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 3,
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Warren Buffett",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American investor and philanthropist (born 1930)",
+          "public_description_excerpt": "Warren Edward Buffett is an American investor and philanthropist who is the chairman and former CEO of the conglomerate Berkshire Hathaway. As a result of his success, Buffett is one of the best-known investors in the...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Capricorn 5.3deg H1",
+            "Mars Cancer 1.5deg H7"
+          ],
+          "vedic_key_planets": [
+            "Saturn Dhanu 12.5deg H2 Mula",
+            "Mars Mithuna 8.6deg H8 Ardra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Anuradha",
+            "pada": 3,
+            "nakshatra_lord": "Saturn"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Warren_Buffett"
+        },
+        {
+          "name": "Jean Patou",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "French fashion designer (1887–1936)",
+          "public_description_excerpt": "Jean Patou was a French fashion designer, and founder of the Jean Patou brand.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Leo 4.2deg H4",
+            "Mars Leo 19.9deg H4"
+          ],
+          "vedic_key_planets": [
+            "Saturn Karka 11.9deg H3 Pushya",
+            "Mars Karka 27.6deg H3 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Dhanishta",
+            "pada": 1,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jean_Patou",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jean_Patou"
+        },
+        {
+          "name": "Frantz Fanon",
+          "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+          "occupation_raw": "French West Indian psychiatrist and philosopher (1925-1961)",
+          "public_description_excerpt": "Frantz Omar Fanon was a French West Indian psychiatrist and political philosopher from the French colony of Martinique. His works have become influential in the fields of post-colonial studies and critical theory. As ...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Scorpio 7.7deg H4",
+            "Mars Leo 15.2deg H1"
+          ],
+          "vedic_key_planets": [
+            "Saturn Tula 14.9deg H4 Swati",
+            "Mars Karka 22.4deg H1 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Frantz_Fanon",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Frantz_Fanon"
+        },
+        {
+          "name": "Ted Turner",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American media mogul (1938–2026)",
+          "public_description_excerpt": "Robert Edward Turner III was an American businessman, television producer, media proprietor, and philanthropist. He founded CNN, the first 24-hour cable news channel, and WTBS, which pioneered the superstation concept...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Aries 11.8deg H4",
+            "Mars Libra 15.9deg H10"
+          ],
+          "vedic_key_planets": [
+            "Saturn Meena 18.8deg H5 Revati",
+            "Mars Kanya 22.9deg H11 Hasta"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Chitra",
+            "pada": 4,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Ted_Turner",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Ted_Turner"
+        },
+        {
+          "name": "J.E. Dinger",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "bacteriologist tropical medicine laboratory typhoid epidemiology",
+          "public_description_excerpt": "bacteriologist tropical medicine laboratory typhoid epidemiology | Astro-Databank; BC/BR in hand | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Saturn Libra 12.3deg H10",
+            "Mars Aries 0.2deg H4"
+          ],
+          "vedic_key_planets": [
+            "Saturn Kanya 19.9deg H11 Hasta",
+            "Mars Meena 7.8deg H5 Uttara Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Ashwini",
+            "pada": 1,
+            "nakshatra_lord": "Ketu"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Dinger%2C_J.E."
+        }
+      ]
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "INSTITUTIONS_POLITICS": 1,
+        "SCIENCE_TECH_INVENTION": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "SPORTS": 1,
+        "ARTS": 1
+      },
+      "subjects": [
+        {
+          "name": "Bill Clinton",
+          "primary_field": "INSTITUTIONS_POLITICS",
+          "occupation_raw": "President of the United States from 1993 to 2001",
+          "public_description_excerpt": "William Jefferson Clinton is an American politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Libra 6.3deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mars Kanya 13.2deg H2 Hasta"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Bharani",
+            "pada": 4,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Bill_Clinton",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Bill_Clinton"
+        },
+        {
+          "name": "Les Paul",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "American guitarist, songwriter and inventor (1915–2009)",
+          "public_description_excerpt": "Lester William Polsfuss, known as Les Paul, was an American jazz, country, and blues guitarist, songwriter, luthier, and inventor. He was one of the pioneers of the solid-body electric guitar, and his prototype, calle...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Taurus 10.5deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mars Mesha 17.9deg H1 Bharani"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Bharani",
+            "pada": 2,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Les_Paul",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Les_Paul"
+        },
+        {
+          "name": "Wernher von Braun",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Gemini 23.0deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mars Mithuna 0.4deg H2 Mrigashira"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 3,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Wernher_von_Braun"
+        },
+        {
+          "name": "Dale Earnhardt",
+          "primary_field": "SPORTS",
+          "occupation_raw": "American racing driver (1951–2001)",
+          "public_description_excerpt": "Ralph Dale Earnhardt was an American professional stock car driver and racing team owner, who raced from 1975 to 2001 in the former NASCAR Winston Cup Series, most notably driving the No. 3 Chevrolet for Richard Child...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Taurus 14.2deg H10"
+          ],
+          "vedic_key_planets": [
+            "Mars Mesha 21.0deg H10 Bharani"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Dhanishta",
+            "pada": 3,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Dale_Earnhardt",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Dale_Earnhardt"
+        },
+        {
+          "name": "Eddie Albert",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor (1906–2005)",
+          "public_description_excerpt": "Edward Albert Heimberger was an American actor. He is known for his roles on stage and screen and received nominations for two Academy Awards, a BAFTA Award, and two Golden Globe Awards.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mars Taurus 25.8deg H10"
+          ],
+          "vedic_key_planets": [
+            "Mars Vrishabha 3.3deg H11 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Revati",
+            "pada": 4,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Eddie_Albert",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Eddie_Albert"
+        }
+      ]
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Saturn",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "INSTITUTIONS_POLITICS": 1,
+        "SPORTS": 2,
+        "RELIGION_SPIRITUALITY": 1
+      },
+      "subjects": [
+        {
+          "name": "Cesar Chavez",
+          "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+          "occupation_raw": "American civil rights activist (1927–1993)",
+          "public_description_excerpt": "Cesario Estrada \"Cesar\" Chavez was an American labor unionist and political activist. Along with Dolores Huerta and Gilbert Padilla, he co-founded the National Farm Workers Association (NFWA), which later merged with ...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Sagittarius 7.5deg H4"
+          ],
+          "vedic_key_planets": [
+            "Saturn Vrishchika 14.7deg H5 Anuradha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Purva Bhadrapada",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Cesar_Chavez",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Cesar_Chavez"
+        },
+        {
+          "name": "Helmut Kohl",
+          "primary_field": "INSTITUTIONS_POLITICS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Capricorn 11.6deg H10"
+          ],
+          "vedic_key_planets": [
+            "Saturn Dhanu 18.7deg H9 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 4,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Helmut_Kohl",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Helmut_Kohl"
+        },
+        {
+          "name": "Phil Mickelson",
+          "primary_field": "SPORTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Taurus 17.6deg H7"
+          ],
+          "vedic_key_planets": [
+            "Saturn Mesha 24.2deg H7 Bharani"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Vishakha",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Phil_Mickelson",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Phil_Mickelson"
+        },
+        {
+          "name": "Thierry Henry",
+          "primary_field": "SPORTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Leo 21.0deg H7"
+          ],
+          "vedic_key_planets": [
+            "Saturn Karka 27.4deg H8 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Uttara Phalguni",
+            "pada": 3,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Thierry_Henry",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Thierry_Henry"
+        },
+        {
+          "name": "G. Quispel",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": "historian theologian textual doctrine",
+          "public_description_excerpt": "theologian textual doctrine lead",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Saturn Cancer 14.7deg H10"
+          ],
+          "vedic_key_planets": [
+            "Saturn Mithuna 22.0deg H11 Punarvasu"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 2,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://www.astro-seek.com/birth-chart/g-quispel-horoscope",
+          "birth_data_source_url": "https://www.astro-seek.com/birth-chart/g-quispel-horoscope"
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_density_2plus",
+        "W_house_cluster_H6",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "ARTS": 2,
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "HUMANITIES": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Bob Dylan",
+          "primary_field": "ARTS",
+          "occupation_raw": "American singer-songwriter (born 1941)",
+          "public_description_excerpt": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sol...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Gemini 23.0deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 29.9deg H7 Mrigashira"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Bob_Dylan"
+        },
+        {
+          "name": "Clint Eastwood",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor and filmmaker (born 1930)",
+          "public_description_excerpt": "Clinton Eastwood Jr. is an American actor, filmmaker and musician. After achieving success in the Western TV series Rawhide, Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone'...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Taurus 23.8deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 0.9deg H8 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Pushya",
+            "pada": 2,
+            "nakshatra_lord": "Saturn"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Clint_Eastwood"
+        },
+        {
+          "name": "Peter Lynch",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American investor",
+          "public_description_excerpt": "Peter Lynch is an American investor, mutual fund manager, author and philanthropist. As the manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, Lynch averaged a 29.2% annual return, consistentl...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Capricorn 8.7deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Dhanu 15.6deg H2 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Swati",
+            "pada": 3,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Peter_Lynch",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Peter_Lynch"
+        },
+        {
+          "name": "Sigmund Freud",
+          "primary_field": "HUMANITIES",
+          "occupation_raw": "Austrian psychiatrist and founder of psychoanalysis (1856–1939)",
+          "public_description_excerpt": "Sigmund Freud was an Austrian neurologist and the founder of psychoanalysis, a clinical method for evaluating and treating pathologies arising from conflicts in the psyche through dialogue between patient and psychoan...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Taurus 27.8deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 5.9deg H8 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Rohini",
+            "pada": 4,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Sigmund_Freud"
+        },
+        {
+          "name": "Hans Flesch",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "radio pioneer radio plays broadcasting doctor",
+          "public_description_excerpt": "radio pioneer radio plays broadcasting doctor | Astro-Databank; BC/BR in hand | broadcasting/content boundary | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Mercury Capricorn 7.8deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Dhanu 15.4deg H1 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Rohini",
+            "pada": 2,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Flesch%2C_Hans"
+        }
+      ]
+    },
+    {
+      "packet_id": "humanities_critique_interpreter_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Jupiter+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "humanities_critique_interpreter_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "RELIGION_SPIRITUALITY": 2,
+        "ARTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Taisen Deshimaru",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Pisces 19.0deg H4"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Kumbha 26.3deg H4 Purva Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Magha",
+            "pada": 1,
+            "nakshatra_lord": "Ketu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Taisen_Deshimaru",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Taisen_Deshimaru"
+        },
+        {
+          "name": "Anandamayi Ma",
+          "primary_field": "RELIGION_SPIRITUALITY",
+          "occupation_raw": "Hindu saint and yoga guru (1896–1982)",
+          "public_description_excerpt": "Anandamayi Ma was an Indian saint, teacher, and mystic. She was revered as an incarnation of Hindu goddess Durga.",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Leo 1.0deg H4"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Karka 8.6deg H5 Pushya"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Jyeshtha",
+            "pada": 1,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Anandamayi_Ma",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Anandamayi_Ma"
+        },
+        {
+          "name": "Chad Allen (actor)",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor and psychologist",
+          "public_description_excerpt": "Chad Allen is an American psychologist and retired actor. Having begun his career at the age of seven, Allen is a three-time Young Artist Award winner and GLAAD Media Award honoree. He was a teen idol during the late ...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Jupiter Pisces 16.3deg H4"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Kumbha 22.8deg H5 Purva Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Mula",
+            "pada": 2,
+            "nakshatra_lord": "Ketu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Chad_Allen_(actor)",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Chad_Allen"
+        },
+        {
+          "name": "Cristiano Amon",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "wireless technology Qualcomm 5G 4G electronics engineer",
+          "public_description_excerpt": "wireless technology Qualcomm 5G 4G electronics engineer | Astro-Databank; birth certificate | business CEO contamination; keep as wireless/electronics boundary | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Jupiter Libra 26.1deg H1"
+          ],
+          "vedic_key_planets": [
+            "Jupiter Tula 2.6deg H3 Chitra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Uttara Ashadha",
+            "pada": 3,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Amon%2C_Cristiano"
+        }
+      ]
+    },
+    {
+      "packet_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "public_figure_media_presenter_frozen_v1",
+      "second_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+      "top_hit_features": [
+        "W_hard_aspect_cluster_4plus",
+        "W_output_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "SCIENCE_TECH_INVENTION": 2,
+        "ARTS": 1
+      },
+      "subjects": [
+        {
+          "name": "Jerry Rubin",
+          "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Cancer 21.5deg H11",
+            "Moon Aquarius 13.2deg H6",
+            "Mercury Leo 12.9deg H11"
+          ],
+          "vedic_key_planets": [
+            "Sun Mithuna 28.5deg H11 Punarvasu",
+            "Moon Makara 20.2deg H6 Shravana",
+            "Mercury Karka 19.9deg H12 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shravana",
+            "pada": 4,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Jerry_Rubin",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Jerry_Rubin"
+        },
+        {
+          "name": "David Elboth",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "linux unix systems architecture writer",
+          "public_description_excerpt": "Computer scientist/systems analyst and writer known for Linux/free software/Unix books and systems architecture",
+          "birth_precision": "AA_external_screening_fixed_offset",
+          "western_key_planets": [
+            "Sun Leo 5.2deg H1",
+            "Moon Taurus 21.5deg H11",
+            "Mercury Leo 17.8deg H2"
+          ],
+          "vedic_key_planets": [
+            "Sun Karka 11.9deg H1 Pushya",
+            "Moon Mesha 28.2deg H10 Krittika",
+            "Mercury Karka 24.5deg H1 Ashlesha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://www.astro.com/astro-databank/Elboth%2C_David",
+          "birth_data_source_url": null
+        },
+        {
+          "name": "Guy Laroche",
+          "primary_field": "ARTS",
+          "occupation_raw": "fashion design aesthetic market",
+          "public_description_excerpt": "design aesthetic market lead",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Sun Cancer 23.1deg H1",
+            "Moon Sagittarius 10.3deg H5",
+            "Mercury Cancer 11.6deg H12"
+          ],
+          "vedic_key_planets": [
+            "Sun Karka 0.3deg H2 Punarvasu",
+            "Moon Vrishchika 17.5deg H6 Jyeshtha",
+            "Mercury Mithuna 18.8deg H1 Ardra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Jyeshtha",
+            "pada": 1,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://www.astro-seek.com/birth-chart/guy-laroche-horoscope",
+          "birth_data_source_url": "https://www.astro-seek.com/birth-chart/guy-laroche-horoscope"
+        },
+        {
+          "name": "Joan Leitzel",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "mathematician educational administrator",
+          "public_description_excerpt": "mathematician educational administrator | Astro-Databank; birth certificate in hand by Sy Scholfield | math plus education administration; context lower purity | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Sun Cancer 10.4deg H12",
+            "Moon Sagittarius 13.5deg H5",
+            "Mercury Gemini 19.9deg H11"
+          ],
+          "vedic_key_planets": [
+            "Sun Mithuna 17.4deg H12 Ardra",
+            "Moon Vrishchika 20.5deg H5 Jyeshtha",
+            "Mercury Vrishabha 26.9deg H11 Mrigashira"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Jyeshtha",
+            "pada": 2,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Leitzel%2C_Joan"
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "humanities_critique_interpreter_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "ARTS": 1,
+        "SPORTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Ross Perot",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American businessman and politician (1930–2019)",
+          "public_description_excerpt": "Henry Ross Perot was an American businessman, politician, and philanthropist. He was the founder and chief executive officer of Electronic Data Systems and Perot Systems. He ran an independent campaign in the 1992 U.S...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Cancer 17.1deg H1",
+            "Jupiter Cancer 0.1deg H1"
+          ],
+          "vedic_key_planets": [
+            "Moon Mithuna 24.3deg H1 Punarvasu",
+            "Jupiter Mithuna 7.2deg H1 Ardra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 2,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Ross_Perot",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Ross_Perot"
+        },
+        {
+          "name": "Harrison Ford",
+          "primary_field": "ARTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Cancer 22.8deg H10",
+            "Jupiter Cancer 7.6deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Mithuna 29.7deg H10 Punarvasu",
+            "Jupiter Mithuna 14.5deg H10 Ardra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Punarvasu",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Harrison_Ford",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Harrison_Ford"
+        },
+        {
+          "name": "Arthur Ashe",
+          "primary_field": "SPORTS",
+          "occupation_raw": "American tennis player (1943–1993)",
+          "public_description_excerpt": "Arthur Robert Ashe Jr. was an American professional tennis player. He won three Grand Slam titles in singles and two in doubles. Ashe was the first Black player selected to the United States Davis Cup team, and the on...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Libra 17.8deg H1",
+            "Jupiter Leo 2.1deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Kanya 24.7deg H1 Chitra",
+            "Jupiter Karka 9.0deg H11 Pushya"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Chitra",
+            "pada": 1,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Arthur_Ashe",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Arthur_Ashe"
+        },
+        {
+          "name": "Bernard d'Espagnat",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "theoretical physicist quantum foundations philosophy of science",
+          "public_description_excerpt": "theoretical physicist quantum foundations philosophy of science | quoted BC/BR; quantum foundations | philosophy boundary | AA exact-time Astro-Databank",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Moon Aries 11.9deg H4",
+            "Jupiter Virgo 22.7deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Meena 19.1deg H5 Revati",
+            "Jupiter Simha 29.9deg H10 Uttara Phalguni"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Revati",
+            "pada": 1,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/D%27Espagnat%2C_Bernard"
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_house_cluster_H6",
+        "W_pressure_house_density_3plus"
+      ],
+      "primary_field_counts": {
+        "ARTS": 1,
+        "SPORTS": 2,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Sylvester Stallone",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor and filmmaker (born 1946)",
+          "public_description_excerpt": "Sylvester Gardenzio Stallone is an American actor, painter, and filmmaker. In a film career spanning more than fifty years, Stallone has received numerous accolades, including a Golden Globe Award and a Critics' Choic...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Libra 22.8deg H10"
+          ],
+          "vedic_key_planets": [
+            "Moon Kanya 29.7deg H10 Chitra"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Chitra",
+            "pada": 2,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Sylvester_Stallone"
+        },
+        {
+          "name": "Aaron Rodgers",
+          "primary_field": "SPORTS",
+          "occupation_raw": "American football player (born 1983)",
+          "public_description_excerpt": "Aaron Charles Rodgers is an American professional football quarterback for the Pittsburgh Steelers of the National Football League (NFL). He played college football for the California Golden Bears, setting the school'...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Scorpio 21.0deg H7"
+          ],
+          "vedic_key_planets": [
+            "Moon Tula 27.4deg H7 Vishakha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Vishakha",
+            "pada": 3,
+            "nakshatra_lord": "Jupiter"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Aaron_Rodgers"
+        },
+        {
+          "name": "Carl Lewis",
+          "primary_field": "SPORTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Aquarius 21.4deg H7"
+          ],
+          "vedic_key_planets": [
+            "Moon Makara 28.1deg H7 Dhanishta"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Dhanishta",
+            "pada": 2,
+            "nakshatra_lord": "Mars"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Carl_Lewis",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Carl_Lewis"
+        },
+        {
+          "name": "Karl Schwarzschild",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "physicist astronomer general relativity exact solution",
+          "public_description_excerpt": "physicist astronomer general relativity exact solution | Astro-Databank; birth certificate | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Moon Gemini 3.8deg H1"
+          ],
+          "vedic_key_planets": [
+            "Moon Vrishabha 11.7deg H2 Rohini"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Rohini",
+            "pada": 1,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Schwarzschild%2C_Karl"
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_house_cluster_H4"
+      ],
+      "primary_field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "INSTITUTIONS_POLITICS": 1,
+        "SPORTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Diana Vreeland",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Capricorn 7.7deg H4",
+            "Mercury Capricorn 17.3deg H4"
+          ],
+          "vedic_key_planets": [
+            "Moon Dhanu 15.2deg H5 Purva Ashadha",
+            "Mercury Dhanu 24.8deg H5 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Purva Ashadha",
+            "pada": 1,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Diana_Vreeland",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Diana_Vreeland"
+        },
+        {
+          "name": "Helmut Schmidt",
+          "primary_field": "INSTITUTIONS_POLITICS",
+          "occupation_raw": "Chancellor of Germany from 1974 to 1982",
+          "public_description_excerpt": "Helmut Heinrich Waldemar Schmidt was a German politician and member of the Social Democratic Party of Germany (SPD), who served as the chancellor of West Germany from 1974 to 1982. He was the longest lived chancellor ...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Virgo 15.9deg H1",
+            "Mercury Sagittarius 19.7deg H4"
+          ],
+          "vedic_key_planets": [
+            "Moon Simha 23.2deg H1 Purva Phalguni",
+            "Mercury Vrishchika 26.9deg H4 Jyeshtha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Purva Phalguni",
+            "pada": 3,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Helmut_Schmidt",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Helmut_Schmidt"
+        },
+        {
+          "name": "Karim Benzema",
+          "primary_field": "SPORTS",
+          "occupation_raw": "French footballer (born 1987)",
+          "public_description_excerpt": "Karim Mostafa Benzema is a French professional footballer who plays as a striker for Saudi Pro League club Al-Hilal. Regarded as one of the greatest strikers of all time, Benzema is a creative forward known for his te...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Moon Sagittarius 15.3deg H4",
+            "Mercury Sagittarius 25.5deg H4"
+          ],
+          "vedic_key_planets": [
+            "Moon Vrishchika 21.6deg H4 Jyeshtha",
+            "Mercury Dhanu 1.8deg H5 Mula"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Jyeshtha",
+            "pada": 2,
+            "nakshatra_lord": "Mercury"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Karim_Benzema"
+        },
+        {
+          "name": "Betty Holberton",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "ENIAC programmer debugging breakpoints BINAC C10",
+          "public_description_excerpt": "Original ENIAC programmer; invented debugging breakpoints; worked on BINAC C-10 instruction set",
+          "birth_precision": "AA_external_screening_fixed_offset",
+          "western_key_planets": [
+            "Moon Virgo 8.4deg H10",
+            "Mercury Aquarius 29.2deg H4"
+          ],
+          "vedic_key_planets": [
+            "Moon Simha 15.7deg H11 Purva Phalguni",
+            "Mercury Kumbha 6.5deg H5 Dhanishta"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Purva Phalguni",
+            "pada": 1,
+            "nakshatra_lord": "Venus"
+          },
+          "biography_source_url": "https://www.astro.com/astro-databank/Holberton%2C_Betty",
+          "birth_data_source_url": null
+        }
+      ]
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_density_2plus+W_house_cluster_H4+W_house_cluster_H6",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_density_2plus",
+        "W_house_cluster_H4",
+        "W_house_cluster_H6"
+      ],
+      "primary_field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "ARTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "subjects": [
+        {
+          "name": "Sonia Rykiel",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "French fashion designer and writer (1930 - 2016)",
+          "public_description_excerpt": "Sonia Rykiel was a French fashion designer and writer. She created the Poor Boy Sweater, which was featured on the cover of French Elle magazine. Her knitwear designs and new fashion techniques led her to be dubbed th...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Taurus 25.4deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 2.5deg H6 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Ashwini",
+            "pada": 4,
+            "nakshatra_lord": "Ketu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Sonia_Rykiel",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Sonia_Rykiel"
+        },
+        {
+          "name": "Rudi Dutschke",
+          "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Aries 0.0deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mercury Meena 7.0deg H6 Uttara Bhadrapada"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Shatabhisha",
+            "pada": 2,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Rudi_Dutschke",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Rudi_Dutschke"
+        },
+        {
+          "name": "Tim Burton",
+          "primary_field": "ARTS",
+          "occupation_raw": null,
+          "public_description_excerpt": null,
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Leo 27.7deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mercury Simha 4.5deg H4 Magha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Uttara Ashadha",
+            "pada": 3,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Tim_Burton",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Tim_Burton"
+        },
+        {
+          "name": "Jean Jacques Roux",
+          "primary_field": "SCIENCE_TECH_INVENTION",
+          "occupation_raw": "bacteriologist virologist public health blood scandal context",
+          "public_description_excerpt": "bacteriologist virologist public health blood scandal context | Astro-Databank; Didier Geslain archive | ethical/legal contamination: scandal context; keep as bacteriology/virology only | BC/BR in hand",
+          "birth_precision": "exact_fixed_offset_from_source_snippet",
+          "western_key_planets": [
+            "Mercury Aquarius 2.9deg H4"
+          ],
+          "vedic_key_planets": [
+            "Mercury Makara 10.1deg H5 Shravana"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Magha",
+            "pada": 4,
+            "nakshatra_lord": "Ketu"
+          },
+          "biography_source_url": null,
+          "birth_data_source_url": "https://www.astro.com/astro-databank/Roux%2C_Jean_Jacques"
+        }
+      ]
+    }
+  ],
+  "next_action": "read these packets before any further no-explicit-feature packet work"
+}

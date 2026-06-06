@@ -1,0 +1,262 @@
+{
+  "schema_version": "route_research_fixed_route_public_summary_ja_v1",
+  "created_at": "2026-06-06T01:15:42.997228+00:00",
+  "purpose": "short Japanese public-facing summary of the current 16 fixed routes",
+  "fixed_route_count": 16,
+  "nonclaim_route_count": 14,
+  "science_nonfixed_route_count": 16,
+  "rows": [
+    {
+      "field": "HUMANITIES",
+      "field_label_ja": "人文",
+      "frozen_route_id": "humanities_critique_interpreter_frozen_v1",
+      "short_summary_ja": "文化・思想・テキストを批評的に読み替える発現。",
+      "first_stage_support_n": 7,
+      "first_stage_field_universe_n": 13,
+      "second_stage_total_mentions": 62,
+      "second_stage_cross_field_spread": 9,
+      "second_stage_strength_label": "大量投入後も厚く反復",
+      "top_examples": [
+        "Bear Grylls",
+        "Kristen Stewart",
+        "Coco Chanel"
+      ]
+    },
+    {
+      "field": "HUMANITIES",
+      "field_label_ja": "人文",
+      "frozen_route_id": "humanities_public_translation_frozen_v1",
+      "short_summary_ja": "難しい知や隠れた内容を公の言葉へ翻訳する発現。",
+      "first_stage_support_n": 3,
+      "first_stage_field_universe_n": 13,
+      "second_stage_total_mentions": 37,
+      "second_stage_cross_field_spread": 7,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Barack Obama",
+        "Dick Cheney",
+        "James Franco"
+      ]
+    },
+    {
+      "field": "INSTITUTIONS_POLITICS",
+      "field_label_ja": "制度政治",
+      "frozen_route_id": "institutions_core_governance_frozen_v1",
+      "short_summary_ja": "役職・制度・統治処理そのものが中心化する発現。",
+      "first_stage_support_n": 11,
+      "first_stage_field_universe_n": 25,
+      "second_stage_total_mentions": 182,
+      "second_stage_cross_field_spread": 11,
+      "second_stage_strength_label": "大量投入後も非常に強く反復",
+      "top_examples": [
+        "Alan Turing",
+        "Anne Frank",
+        "Bill Clinton"
+      ]
+    },
+    {
+      "field": "INSTITUTIONS_POLITICS",
+      "field_label_ja": "制度政治",
+      "frozen_route_id": "institutions_reform_execution_frozen_v1",
+      "short_summary_ja": "改革圧や思想圧が制度運用として実行される発現。",
+      "first_stage_support_n": 3,
+      "first_stage_field_universe_n": 25,
+      "second_stage_total_mentions": 32,
+      "second_stage_cross_field_spread": 9,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Christina Aguilera",
+        "Margaret Thatcher",
+        "Emmanuel Macron"
+      ]
+    },
+    {
+      "field": "INSTITUTIONS_POLITICS",
+      "field_label_ja": "制度政治",
+      "frozen_route_id": "institutions_statecraft_diplomacy_frozen_v1",
+      "short_summary_ja": "国家運営・外交・執行型判断へ出る発現。",
+      "first_stage_support_n": 6,
+      "first_stage_field_universe_n": 25,
+      "second_stage_total_mentions": 53,
+      "second_stage_cross_field_spread": 8,
+      "second_stage_strength_label": "大量投入後も厚く反復",
+      "top_examples": [
+        "Hugh Hefner",
+        "Joe Biden",
+        "Jack Welch"
+      ]
+    },
+    {
+      "field": "PUBLIC_FIGURE_MIXED",
+      "field_label_ja": "public mixed",
+      "frozen_route_id": "public_figure_coercive_notoriety_frozen_v1",
+      "short_summary_ja": "強制・暴力・威圧が public notoriety と結びつく発現。",
+      "first_stage_support_n": 3,
+      "first_stage_field_universe_n": 22,
+      "second_stage_total_mentions": 37,
+      "second_stage_cross_field_spread": 9,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Jessica Alba",
+        "Megan Fox",
+        "Tiger Woods"
+      ]
+    },
+    {
+      "field": "PUBLIC_FIGURE_MIXED",
+      "field_label_ja": "public mixed",
+      "frozen_route_id": "public_figure_media_presenter_frozen_v1",
+      "short_summary_ja": "提示・司会・媒体化された表出が中心になる発現。",
+      "first_stage_support_n": 7,
+      "first_stage_field_universe_n": 22,
+      "second_stage_total_mentions": 114,
+      "second_stage_cross_field_spread": 11,
+      "second_stage_strength_label": "大量投入後も非常に強く反復",
+      "top_examples": [
+        "Jimmy Carter",
+        "Neil Armstrong",
+        "Paul McCartney"
+      ]
+    },
+    {
+      "field": "PUBLIC_FIGURE_MIXED",
+      "field_label_ja": "public mixed",
+      "frozen_route_id": "public_figure_visibility_body_frozen_v1",
+      "short_summary_ja": "身体・外見・可視イメージそのものが役割化する発現。",
+      "first_stage_support_n": 3,
+      "first_stage_field_universe_n": 22,
+      "second_stage_total_mentions": 14,
+      "second_stage_cross_field_spread": 8,
+      "second_stage_strength_label": "大量投入後も限定的ながら維持",
+      "top_examples": [
+        "Kim Kardashian",
+        "Tyra Banks",
+        "Kylie Jenner"
+      ]
+    },
+    {
+      "field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+      "field_label_ja": "革命運動",
+      "frozen_route_id": "revolution_rights_movement_speech_frozen_v1",
+      "short_summary_ja": "権利闘争・運動象徴・対立的発話が重なる発現。",
+      "first_stage_support_n": 4,
+      "first_stage_field_universe_n": 6,
+      "second_stage_total_mentions": 10,
+      "second_stage_cross_field_spread": 5,
+      "second_stage_strength_label": "大量投入後も限定的ながら維持",
+      "top_examples": [
+        "Michael Jackson",
+        "David Bohm",
+        "Harvey Milk"
+      ]
+    },
+    {
+      "field": "RELIGION_SPIRITUALITY",
+      "field_label_ja": "宗教霊性",
+      "frozen_route_id": "religion_evangelical_preacher_movement_frozen_v1",
+      "short_summary_ja": "説教・運動・放送的拡張として現れる発現。",
+      "first_stage_support_n": 4,
+      "first_stage_field_universe_n": 29,
+      "second_stage_total_mentions": 34,
+      "second_stage_cross_field_spread": 7,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Monica Lewinsky",
+        "Pablo Escobar",
+        "Richard Branson"
+      ]
+    },
+    {
+      "field": "RELIGION_SPIRITUALITY",
+      "field_label_ja": "宗教霊性",
+      "frozen_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "short_summary_ja": "教義・制度・改革権威として現れる発現。",
+      "first_stage_support_n": 7,
+      "first_stage_field_universe_n": 29,
+      "second_stage_total_mentions": 235,
+      "second_stage_cross_field_spread": 11,
+      "second_stage_strength_label": "大量投入後も非常に強く反復",
+      "top_examples": [
+        "Amy Winehouse",
+        "Audrey Hepburn",
+        "Bob Dylan"
+      ]
+    },
+    {
+      "field": "RELIGION_SPIRITUALITY",
+      "field_label_ja": "宗教霊性",
+      "frozen_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+      "short_summary_ja": "神秘的著述・象徴教義・チャネル化として現れる発現。",
+      "first_stage_support_n": 5,
+      "first_stage_field_universe_n": 29,
+      "second_stage_total_mentions": 39,
+      "second_stage_cross_field_spread": 8,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Miley Cyrus",
+        "Cameron Diaz",
+        "Henry Ford"
+      ]
+    },
+    {
+      "field": "RELIGION_SPIRITUALITY",
+      "field_label_ja": "宗教霊性",
+      "frozen_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "short_summary_ja": "教える・癒す・伝えるが公的媒体を通って現れる発現。",
+      "first_stage_support_n": 12,
+      "first_stage_field_universe_n": 29,
+      "second_stage_total_mentions": 141,
+      "second_stage_cross_field_spread": 10,
+      "second_stage_strength_label": "大量投入後も非常に強く反復",
+      "top_examples": [
+        "Brad Pitt",
+        "Sarah Palin",
+        "Stephen King"
+      ]
+    },
+    {
+      "field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "field_label_ja": "探検極限",
+      "frozen_route_id": "exploration_aerospace_technical_boundary_core_frozen_v1",
+      "short_summary_ja": "航空・宇宙・技術境界に向かう shared core 発現。",
+      "first_stage_support_n": 15,
+      "first_stage_field_universe_n": 20,
+      "second_stage_total_mentions": 0,
+      "second_stage_cross_field_spread": 0,
+      "second_stage_strength_label": "大量投入後も限定的ながら維持",
+      "top_examples": []
+    },
+    {
+      "field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "field_label_ja": "探検極限",
+      "frozen_route_id": "exploration_risk_body_frozen_v1",
+      "short_summary_ja": "身体リスク・閾値突破・極限耐性へ向かう発現。",
+      "first_stage_support_n": 6,
+      "first_stage_field_universe_n": 20,
+      "second_stage_total_mentions": 39,
+      "second_stage_cross_field_spread": 10,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Vin Diesel",
+        "Pierre Omidyar",
+        "Audre Lorde"
+      ]
+    },
+    {
+      "field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "field_label_ja": "探検極限",
+      "frozen_route_id": "exploration_survival_nature_frozen_v1",
+      "short_summary_ja": "自然没入・生存・環境耐久へ向かう発現。",
+      "first_stage_support_n": 5,
+      "first_stage_field_universe_n": 20,
+      "second_stage_total_mentions": 27,
+      "second_stage_cross_field_spread": 8,
+      "second_stage_strength_label": "大量投入後も維持",
+      "top_examples": [
+        "Jacques Mayol",
+        "Sam Harris",
+        "Biz Stone"
+      ]
+    }
+  ]
+}

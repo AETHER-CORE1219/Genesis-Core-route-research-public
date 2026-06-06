@@ -1,0 +1,1078 @@
+{
+  "schema_version": "watch_packet_branch_split_reading_v1",
+  "created_at": "2026-06-06T01:15:18+00:00",
+  "purpose": "subject-level branch reading for watch packets to see where visible western gates split by role and vedic structure",
+  "packet_count": 9,
+  "rows": [
+    {
+      "packet_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7",
+      "support_count": 5,
+      "top_route_id": "humanities_public_translation_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_Mars_house_7",
+        "W_angular_Mars",
+        "W_house_cluster_H6",
+        "W_visible_Mars_house_7"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "vedic_split_signal_moderate",
+      "dominant_role_axis": "framework_explainer",
+      "dominant_role_share": 0.2,
+      "dominant_lagna": "Mesha",
+      "dominant_lagna_share": 0.4,
+      "dominant_nakshatra_lord": "Sun",
+      "dominant_nakshatra_lord_share": 0.4,
+      "role_axis_counts": {
+        "framework_explainer": 1,
+        "religion_clergy_doctrine": 1,
+        "performer_screen_music": 1,
+        "governance_power": 1,
+        "science_invention": 1
+      },
+      "lagna_counts": {
+        "Vrishabha": 1,
+        "Kanya": 1,
+        "Kumbha": 1,
+        "Mesha": 2
+      },
+      "nakshatra_lord_counts": {
+        "Mercury": 1,
+        "Moon": 1,
+        "Mars": 1,
+        "Sun": 2
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "framework_explainer__Vrishabha__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "bell hooks",
+              "primary_field": "HUMANITIES",
+              "occupation_raw": "American author and activist (1952–2021)",
+              "western_key_planets": [
+                "Mars Sagittarius 18.8deg H7"
+              ],
+              "vedic_key_planets": [
+                "Mars Vrishchika 25.6deg H7 Jyeshtha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "governance_power__Mesha__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "George Washington",
+              "primary_field": "INSTITUTIONS_POLITICS",
+              "occupation_raw": "U.S. Founding Father, president from 1789 to 1797",
+              "western_key_planets": [
+                "Mars Scorpio 23.2deg H7"
+              ],
+              "vedic_key_planets": [
+                "Mars Vrishchika 3.1deg H8 Vishakha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "performer_screen_music__Kumbha__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Jason Alexander",
+              "primary_field": "ARTS",
+              "occupation_raw": "American actor (born 1959)",
+              "western_key_planets": [
+                "Mars Libra 11.7deg H7"
+              ],
+              "vedic_key_planets": [
+                "Mars Kanya 18.4deg H8 Hasta"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "religion_clergy_doctrine__Kanya__Moon",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Pope Leo XIII",
+              "primary_field": "RELIGION_SPIRITUALITY",
+              "occupation_raw": "Head of the Catholic Church from 1878 to 1903",
+              "western_key_planets": [
+                "Mars Aries 8.6deg H7"
+              ],
+              "vedic_key_planets": [
+                "Mars Meena 17.4deg H7 Revati"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Mesha__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "George Washington (inventor)",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "American inventor and businessman",
+              "western_key_planets": [
+                "Mars Scorpio 23.2deg H7"
+              ],
+              "vedic_key_planets": [
+                "Mars Vrishchika 3.1deg H8 Vishakha"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_Saturn",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "role_split_signal_strong",
+      "dominant_role_axis": "business_market",
+      "dominant_role_share": 0.6,
+      "dominant_lagna": "Vrishchika",
+      "dominant_lagna_share": 0.6,
+      "dominant_nakshatra_lord": "Mars",
+      "dominant_nakshatra_lord_share": 0.4,
+      "role_axis_counts": {
+        "business_market": 3,
+        "governance_power": 1,
+        "unresolved_role": 1
+      },
+      "lagna_counts": {
+        "Vrishchika": 3,
+        "Vrishabha": 1,
+        "Karka": 1
+      },
+      "nakshatra_lord_counts": {
+        "Saturn": 1,
+        "Mars": 2,
+        "Jupiter": 1,
+        "Ketu": 1
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "business_market__Vrishabha__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Jean Patou",
+              "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+              "occupation_raw": "French fashion designer (1887–1936)",
+              "western_key_planets": [
+                "Saturn Leo 4.2deg H4",
+                "Mars Leo 19.9deg H4"
+              ],
+              "vedic_key_planets": [
+                "Saturn Karka 11.9deg H3 Pushya",
+                "Mars Karka 27.6deg H3 Ashlesha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "business_market__Vrishchika__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Ted Turner",
+              "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+              "occupation_raw": "American media mogul (1938–2026)",
+              "western_key_planets": [
+                "Saturn Aries 11.8deg H4",
+                "Mars Libra 15.9deg H10"
+              ],
+              "vedic_key_planets": [
+                "Saturn Meena 18.8deg H5 Revati",
+                "Mars Kanya 22.9deg H11 Hasta"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "business_market__Vrishchika__Saturn",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Warren Buffett",
+              "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+              "occupation_raw": "American investor and philanthropist (born 1930)",
+              "western_key_planets": [
+                "Saturn Capricorn 5.3deg H1",
+                "Mars Cancer 1.5deg H7"
+              ],
+              "vedic_key_planets": [
+                "Saturn Dhanu 12.5deg H2 Mula",
+                "Mars Mithuna 8.6deg H8 Ardra"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "governance_power__Karka__Jupiter",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Frantz Fanon",
+              "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+              "occupation_raw": "French West Indian psychiatrist and philosopher (1925-1961)",
+              "western_key_planets": [
+                "Saturn Scorpio 7.7deg H4",
+                "Mars Leo 15.2deg H1"
+              ],
+              "vedic_key_planets": [
+                "Saturn Tula 14.9deg H4 Swati",
+                "Mars Karka 22.4deg H1 Ashlesha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Vrishchika__Ketu",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "J.E. Dinger",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "bacteriologist tropical medicine laboratory typhoid epidemiology",
+              "western_key_planets": [
+                "Saturn Libra 12.3deg H10",
+                "Mars Aries 0.2deg H4"
+              ],
+              "vedic_key_planets": [
+                "Saturn Kanya 19.9deg H11 Hasta",
+                "Mars Meena 7.8deg H5 Uttara Bhadrapada"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "vedic_split_signal_moderate",
+      "dominant_role_axis": "governance_power",
+      "dominant_role_share": 0.2,
+      "dominant_lagna": "Karka",
+      "dominant_lagna_share": 0.4,
+      "dominant_nakshatra_lord": "Venus",
+      "dominant_nakshatra_lord_share": 0.4,
+      "role_axis_counts": {
+        "governance_power": 1,
+        "science_invention": 1,
+        "unresolved_role": 1,
+        "athlete_body_competition": 1,
+        "performer_screen_music": 1
+      },
+      "lagna_counts": {
+        "Simha": 1,
+        "Mesha": 1,
+        "Vrishabha": 1,
+        "Karka": 2
+      },
+      "nakshatra_lord_counts": {
+        "Venus": 2,
+        "Sun": 1,
+        "Mars": 1,
+        "Mercury": 1
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "athlete_body_competition__Karka__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Dale Earnhardt",
+              "primary_field": "SPORTS",
+              "occupation_raw": "American racing driver (1951–2001)",
+              "western_key_planets": [
+                "Mars Taurus 14.2deg H10"
+              ],
+              "vedic_key_planets": [
+                "Mars Mesha 21.0deg H10 Bharani"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "governance_power__Simha__Venus",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Bill Clinton",
+              "primary_field": "INSTITUTIONS_POLITICS",
+              "occupation_raw": "President of the United States from 1993 to 2001",
+              "western_key_planets": [
+                "Mars Libra 6.3deg H1"
+              ],
+              "vedic_key_planets": [
+                "Mars Kanya 13.2deg H2 Hasta"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "performer_screen_music__Karka__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Eddie Albert",
+              "primary_field": "ARTS",
+              "occupation_raw": "American actor (1906–2005)",
+              "western_key_planets": [
+                "Mars Taurus 25.8deg H10"
+              ],
+              "vedic_key_planets": [
+                "Mars Vrishabha 3.3deg H11 Krittika"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Mesha__Venus",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Les Paul",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "American guitarist, songwriter and inventor (1915–2009)",
+              "western_key_planets": [
+                "Mars Taurus 10.5deg H1"
+              ],
+              "vedic_key_planets": [
+                "Mars Mesha 17.9deg H1 Bharani"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Vrishabha__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Wernher von Braun",
+              "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Mars Gemini 23.0deg H1"
+              ],
+              "vedic_key_planets": [
+                "Mars Mithuna 0.4deg H2 Mrigashira"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Saturn",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "role_split_signal_strong",
+      "dominant_role_axis": "unresolved_role",
+      "dominant_role_share": 0.6,
+      "dominant_lagna": "Karka",
+      "dominant_lagna_share": 0.2,
+      "dominant_nakshatra_lord": "Sun",
+      "dominant_nakshatra_lord_share": 0.6,
+      "role_axis_counts": {
+        "governance_power": 1,
+        "unresolved_role": 3,
+        "religion_clergy_doctrine": 1
+      },
+      "lagna_counts": {
+        "Karka": 1,
+        "Mesha": 1,
+        "Tula": 1,
+        "Dhanu": 1,
+        "Simha": 1
+      },
+      "nakshatra_lord_counts": {
+        "Jupiter": 2,
+        "Sun": 3
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "governance_power__Karka__Jupiter",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Cesar Chavez",
+              "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+              "occupation_raw": "American civil rights activist (1927–1993)",
+              "western_key_planets": [
+                "Saturn Sagittarius 7.5deg H4"
+              ],
+              "vedic_key_planets": [
+                "Saturn Vrishchika 14.7deg H5 Anuradha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "religion_clergy_doctrine__Simha__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "G. Quispel",
+              "primary_field": "RELIGION_SPIRITUALITY",
+              "occupation_raw": "historian theologian textual doctrine",
+              "western_key_planets": [
+                "Saturn Cancer 14.7deg H10"
+              ],
+              "vedic_key_planets": [
+                "Saturn Mithuna 22.0deg H11 Punarvasu"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Dhanu__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Thierry Henry",
+              "primary_field": "SPORTS",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Saturn Leo 21.0deg H7"
+              ],
+              "vedic_key_planets": [
+                "Saturn Karka 27.4deg H8 Ashlesha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Mesha__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Helmut Kohl",
+              "primary_field": "INSTITUTIONS_POLITICS",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Saturn Capricorn 11.6deg H10"
+              ],
+              "vedic_key_planets": [
+                "Saturn Dhanu 18.7deg H9 Purva Ashadha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Tula__Jupiter",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Phil Mickelson",
+              "primary_field": "SPORTS",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Saturn Taurus 17.6deg H7"
+              ],
+              "vedic_key_planets": [
+                "Saturn Mesha 24.2deg H7 Bharani"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "humanities_critique_interpreter_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Jupiter+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "humanities_critique_interpreter_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_pressure_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "mixed_gate_hold",
+      "dominant_role_axis": "unresolved_role",
+      "dominant_role_share": 0.25,
+      "dominant_lagna": "Vrishchika",
+      "dominant_lagna_share": 0.25,
+      "dominant_nakshatra_lord": "Ketu",
+      "dominant_nakshatra_lord_share": 0.5,
+      "role_axis_counts": {
+        "unresolved_role": 1,
+        "religion_clergy_doctrine": 1,
+        "performer_screen_music": 1,
+        "science_invention": 1
+      },
+      "lagna_counts": {
+        "Vrishchika": 1,
+        "Meena": 1,
+        "Tula": 1,
+        "Simha": 1
+      },
+      "nakshatra_lord_counts": {
+        "Ketu": 2,
+        "Mercury": 1,
+        "Sun": 1
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "performer_screen_music__Tula__Ketu",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Chad Allen (actor)",
+              "primary_field": "ARTS",
+              "occupation_raw": "American actor and psychologist",
+              "western_key_planets": [
+                "Jupiter Pisces 16.3deg H4"
+              ],
+              "vedic_key_planets": [
+                "Jupiter Kumbha 22.8deg H5 Purva Bhadrapada"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "religion_clergy_doctrine__Meena__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Anandamayi Ma",
+              "primary_field": "RELIGION_SPIRITUALITY",
+              "occupation_raw": "Hindu saint and yoga guru (1896–1982)",
+              "western_key_planets": [
+                "Jupiter Leo 1.0deg H4"
+              ],
+              "vedic_key_planets": [
+                "Jupiter Karka 8.6deg H5 Pushya"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Simha__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Cristiano Amon",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "wireless technology Qualcomm 5G 4G electronics engineer",
+              "western_key_planets": [
+                "Jupiter Libra 26.1deg H1"
+              ],
+              "vedic_key_planets": [
+                "Jupiter Tula 2.6deg H3 Chitra"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Vrishchika__Ketu",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Taisen Deshimaru",
+              "primary_field": "RELIGION_SPIRITUALITY",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Jupiter Pisces 19.0deg H4"
+              ],
+              "vedic_key_planets": [
+                "Jupiter Kumbha 26.3deg H4 Purva Bhadrapada"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet still looks mixed even after role and vedic grouping"
+    },
+    {
+      "packet_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "public_figure_media_presenter_frozen_v1",
+      "second_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+      "top_hit_features": [
+        "W_hard_aspect_cluster_4plus",
+        "W_output_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "vedic_split_signal_strong",
+      "dominant_role_axis": "science_invention",
+      "dominant_role_share": 0.5,
+      "dominant_lagna": "Karka",
+      "dominant_lagna_share": 0.5,
+      "dominant_nakshatra_lord": "Mercury",
+      "dominant_nakshatra_lord_share": 0.5,
+      "role_axis_counts": {
+        "unresolved_role": 1,
+        "science_invention": 2,
+        "business_market": 1
+      },
+      "lagna_counts": {
+        "Simha": 1,
+        "Karka": 2,
+        "Mithuna": 1
+      },
+      "nakshatra_lord_counts": {
+        "Moon": 1,
+        "Sun": 1,
+        "Mercury": 2
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "business_market__Mithuna__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Guy Laroche",
+              "primary_field": "ARTS",
+              "occupation_raw": "fashion design aesthetic market",
+              "western_key_planets": [
+                "Sun Cancer 23.1deg H1",
+                "Moon Sagittarius 10.3deg H5",
+                "Mercury Cancer 11.6deg H12"
+              ],
+              "vedic_key_planets": [
+                "Sun Karka 0.3deg H2 Punarvasu",
+                "Moon Vrishchika 17.5deg H6 Jyeshtha",
+                "Mercury Mithuna 18.8deg H1 Ardra"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Karka__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Joan Leitzel",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "mathematician educational administrator",
+              "western_key_planets": [
+                "Sun Cancer 10.4deg H12",
+                "Moon Sagittarius 13.5deg H5",
+                "Mercury Gemini 19.9deg H11"
+              ],
+              "vedic_key_planets": [
+                "Sun Mithuna 17.4deg H12 Ardra",
+                "Moon Vrishchika 20.5deg H5 Jyeshtha",
+                "Mercury Vrishabha 26.9deg H11 Mrigashira"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Karka__Sun",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "David Elboth",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "linux unix systems architecture writer",
+              "western_key_planets": [
+                "Sun Leo 5.2deg H1",
+                "Moon Taurus 21.5deg H11",
+                "Mercury Leo 17.8deg H2"
+              ],
+              "vedic_key_planets": [
+                "Sun Karka 11.9deg H1 Pushya",
+                "Moon Mesha 28.2deg H10 Krittika",
+                "Mercury Karka 24.5deg H1 Ashlesha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Simha__Moon",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Jerry Rubin",
+              "primary_field": "REVOLUTION_ACTIVISM_IDEOLOGY",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Sun Cancer 21.5deg H11",
+                "Moon Aquarius 13.2deg H6",
+                "Mercury Leo 12.9deg H11"
+              ],
+              "vedic_key_planets": [
+                "Sun Mithuna 28.5deg H11 Punarvasu",
+                "Moon Makara 20.2deg H6 Shravana",
+                "Mercury Karka 19.9deg H12 Ashlesha"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "humanities_critique_interpreter_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "vedic_split_signal_strong",
+      "dominant_role_axis": "business_market",
+      "dominant_role_share": 0.25,
+      "dominant_lagna": "Kanya",
+      "dominant_lagna_share": 0.5,
+      "dominant_nakshatra_lord": "Jupiter",
+      "dominant_nakshatra_lord_share": 0.5,
+      "role_axis_counts": {
+        "business_market": 1,
+        "unresolved_role": 1,
+        "athlete_body_competition": 1,
+        "science_invention": 1
+      },
+      "lagna_counts": {
+        "Mithuna": 1,
+        "Kanya": 2,
+        "Vrishchika": 1
+      },
+      "nakshatra_lord_counts": {
+        "Jupiter": 2,
+        "Mars": 1,
+        "Mercury": 1
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "athlete_body_competition__Kanya__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Arthur Ashe",
+              "primary_field": "SPORTS",
+              "occupation_raw": "American tennis player (1943–1993)",
+              "western_key_planets": [
+                "Moon Libra 17.8deg H1",
+                "Jupiter Leo 2.1deg H10"
+              ],
+              "vedic_key_planets": [
+                "Moon Kanya 24.7deg H1 Chitra",
+                "Jupiter Karka 9.0deg H11 Pushya"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "business_market__Mithuna__Jupiter",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Ross Perot",
+              "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+              "occupation_raw": "American businessman and politician (1930–2019)",
+              "western_key_planets": [
+                "Moon Cancer 17.1deg H1",
+                "Jupiter Cancer 0.1deg H1"
+              ],
+              "vedic_key_planets": [
+                "Moon Mithuna 24.3deg H1 Punarvasu",
+                "Jupiter Mithuna 7.2deg H1 Ardra"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Vrishchika__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Bernard d'Espagnat",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "theoretical physicist quantum foundations philosophy of science",
+              "western_key_planets": [
+                "Moon Aries 11.9deg H4",
+                "Jupiter Virgo 22.7deg H10"
+              ],
+              "vedic_key_planets": [
+                "Moon Meena 19.1deg H5 Revati",
+                "Jupiter Simha 29.9deg H10 Uttara Phalguni"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Kanya__Jupiter",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Harrison Ford",
+              "primary_field": "ARTS",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Moon Cancer 22.8deg H10",
+                "Jupiter Cancer 7.6deg H10"
+              ],
+              "vedic_key_planets": [
+                "Moon Mithuna 29.7deg H10 Punarvasu",
+                "Jupiter Mithuna 14.5deg H10 Ardra"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_house_cluster_H6",
+        "W_pressure_house_density_3plus"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "vedic_split_signal_strong",
+      "dominant_role_axis": "performer_screen_music",
+      "dominant_role_share": 0.25,
+      "dominant_lagna": "Mesha",
+      "dominant_lagna_share": 0.5,
+      "dominant_nakshatra_lord": "Mars",
+      "dominant_nakshatra_lord_share": 0.5,
+      "role_axis_counts": {
+        "performer_screen_music": 1,
+        "athlete_body_competition": 1,
+        "unresolved_role": 1,
+        "science_invention": 1
+      },
+      "lagna_counts": {
+        "Dhanu": 1,
+        "Mesha": 2,
+        "Karka": 1
+      },
+      "nakshatra_lord_counts": {
+        "Mars": 2,
+        "Jupiter": 1,
+        "Moon": 1
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "athlete_body_competition__Mesha__Jupiter",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Aaron Rodgers",
+              "primary_field": "SPORTS",
+              "occupation_raw": "American football player (born 1983)",
+              "western_key_planets": [
+                "Moon Scorpio 21.0deg H7"
+              ],
+              "vedic_key_planets": [
+                "Moon Tula 27.4deg H7 Vishakha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "performer_screen_music__Dhanu__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Sylvester Stallone",
+              "primary_field": "ARTS",
+              "occupation_raw": "American actor and filmmaker (born 1946)",
+              "western_key_planets": [
+                "Moon Libra 22.8deg H10"
+              ],
+              "vedic_key_planets": [
+                "Moon Kanya 29.7deg H10 Chitra"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "science_invention__Mesha__Moon",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Karl Schwarzschild",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "physicist astronomer general relativity exact solution",
+              "western_key_planets": [
+                "Moon Gemini 3.8deg H1"
+              ],
+              "vedic_key_planets": [
+                "Moon Vrishabha 11.7deg H2 Rohini"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Karka__Mars",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Carl Lewis",
+              "primary_field": "SPORTS",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Moon Aquarius 21.4deg H7"
+              ],
+              "vedic_key_planets": [
+                "Moon Makara 28.1deg H7 Dhanishta"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_house_cluster_H4"
+      ],
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "split_signal_type": "vedic_split_signal_strong",
+      "dominant_role_axis": "unresolved_role",
+      "dominant_role_share": 0.75,
+      "dominant_lagna": "Simha",
+      "dominant_lagna_share": 0.75,
+      "dominant_nakshatra_lord": "Venus",
+      "dominant_nakshatra_lord_share": 0.75,
+      "role_axis_counts": {
+        "unresolved_role": 3,
+        "governance_power": 1
+      },
+      "lagna_counts": {
+        "Simha": 3,
+        "Tula": 1
+      },
+      "nakshatra_lord_counts": {
+        "Venus": 3,
+        "Mercury": 1
+      },
+      "branch_groups_top6": [
+        {
+          "branch_key": "governance_power__Simha__Venus",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Helmut Schmidt",
+              "primary_field": "INSTITUTIONS_POLITICS",
+              "occupation_raw": "Chancellor of Germany from 1974 to 1982",
+              "western_key_planets": [
+                "Moon Virgo 15.9deg H1",
+                "Mercury Sagittarius 19.7deg H4"
+              ],
+              "vedic_key_planets": [
+                "Moon Simha 23.2deg H1 Purva Phalguni",
+                "Mercury Vrishchika 26.9deg H4 Jyeshtha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Simha__Mercury",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Karim Benzema",
+              "primary_field": "SPORTS",
+              "occupation_raw": "French footballer (born 1987)",
+              "western_key_planets": [
+                "Moon Sagittarius 15.3deg H4",
+                "Mercury Sagittarius 25.5deg H4"
+              ],
+              "vedic_key_planets": [
+                "Moon Vrishchika 21.6deg H4 Jyeshtha",
+                "Mercury Dhanu 1.8deg H5 Mula"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Simha__Venus",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Diana Vreeland",
+              "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+              "occupation_raw": null,
+              "western_key_planets": [
+                "Moon Capricorn 7.7deg H4",
+                "Mercury Capricorn 17.3deg H4"
+              ],
+              "vedic_key_planets": [
+                "Moon Dhanu 15.2deg H5 Purva Ashadha",
+                "Mercury Dhanu 24.8deg H5 Purva Ashadha"
+              ]
+            }
+          ]
+        },
+        {
+          "branch_key": "unresolved_role__Tula__Venus",
+          "count": 1,
+          "subjects": [
+            {
+              "name": "Betty Holberton",
+              "primary_field": "SCIENCE_TECH_INVENTION",
+              "occupation_raw": "ENIAC programmer debugging breakpoints BINAC C10",
+              "western_key_planets": [
+                "Moon Virgo 8.4deg H10",
+                "Mercury Aquarius 29.2deg H4"
+              ],
+              "vedic_key_planets": [
+                "Moon Simha 15.7deg H11 Purva Phalguni",
+                "Mercury Kumbha 6.5deg H5 Dhanishta"
+              ]
+            }
+          ]
+        }
+      ],
+      "working_read": "same visible packet is likely splitting below the current route layer via role and vedic clustering"
+    }
+  ],
+  "next_action": "promote only after the same role plus vedic branch repeats across new subjects; otherwise keep as mixed family or common-factor packet"
+}

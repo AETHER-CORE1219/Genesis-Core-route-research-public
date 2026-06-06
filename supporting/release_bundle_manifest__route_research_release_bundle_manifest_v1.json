@@ -1,0 +1,268 @@
+{
+  "schema_version": "route_research_release_bundle_manifest_v1",
+  "created_at": "2026-06-06T01:15:43.502447+00:00",
+  "purpose": "define the recommended public release bundle layout and publish order for the current route research",
+  "snapshot": {
+    "master_row_count": 1030,
+    "exact_like_count": 795,
+    "discovery_subject_count": 761,
+    "observed_route_cluster_count": 16,
+    "packet_review_count": 43,
+    "explicit_feature_packet_count": 17,
+    "surviving_narrow_packet_count": 1,
+    "watch_packet_count": 9,
+    "watch_packet_subbranch_count": 8,
+    "visual_dashboard_generated": true
+  },
+  "claim_boundary": {
+    "fixed_route_count": 16,
+    "nonclaim_route_count": 14,
+    "science_nonfixed_route_count": 16
+  },
+  "grouped_release_files": {
+    "front_door": [
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.md",
+        "role": "fixed_route_public_summary_markdown",
+        "bucket": "front_door",
+        "root_alias_suggestion": "FIXED_ROUTE_SUMMARY_JA.md"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_full_report_ja_v1.md",
+        "role": "full_report_japanese",
+        "bucket": "front_door",
+        "root_alias_suggestion": "REPORT_JA.md"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_github_release_readme_ja_v1.md",
+        "role": "github_release_readme_japanese",
+        "bucket": "front_door",
+        "root_alias_suggestion": "README.md"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_master_next_plan_ja_v1.md",
+        "role": "master_next_plan",
+        "bucket": "front_door",
+        "root_alias_suggestion": "MASTER_NEXT_PLAN_JA.md"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_publication_freeze_package_v1.json",
+        "role": "publication_freeze_package",
+        "bucket": "front_door",
+        "root_alias_suggestion": "CLAIM_BOUNDARY.json"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_reproduction_protocol_v1.md",
+        "role": "reproduction_protocol",
+        "bucket": "front_door",
+        "root_alias_suggestion": "REPRODUCTION.md"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "scripts/verification/data/astrological_validation/all_field_unified_route_freeze_registry_v1.json",
+        "role": "current_fixed_route_inventory",
+        "bucket": "evidence",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.json",
+        "role": "fixed_route_appendix",
+        "bucket": "evidence",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.md",
+        "role": "fixed_route_appendix_markdown",
+        "bucket": "evidence",
+        "root_alias_suggestion": "FIXED_ROUTE_APPENDIX.md"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.json",
+        "role": "fixed_route_stage_history_appendix",
+        "bucket": "evidence",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.md",
+        "role": "fixed_route_stage_history_appendix_markdown",
+        "bucket": "evidence",
+        "root_alias_suggestion": "FIXED_ROUTE_STAGE_HISTORY_JA.md"
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.json",
+        "role": "fixed_route_public_summary",
+        "bucket": "evidence",
+        "root_alias_suggestion": null
+      }
+    ],
+    "support_trace": [
+      {
+        "path": "scripts/verification/data/astrological_validation/science_route_family_freeze_registry_v2.csv",
+        "role": "science_route_nonfixed_inventory",
+        "bucket": "support_trace",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_mass_intake_master_ledger_v1.json",
+        "role": "mass_intake_master",
+        "bucket": "support_trace",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/mass_route_discovery_ledger_v1.json",
+        "role": "subject_level_route_trace",
+        "bucket": "support_trace",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_visual_dashboard_v1.json",
+        "role": "visual_dashboard_manifest",
+        "bucket": "support_trace",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/mass_route_research_compact_index_v1.json",
+        "role": "compact_index",
+        "bucket": "support_trace",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_source_manifest_v1.json",
+        "role": "latest_source_manifest_example",
+        "bucket": "support_trace",
+        "root_alias_suggestion": null
+      }
+    ],
+    "boundary_and_context": [
+      {
+        "path": "scripts/verification/data/astrological_validation/observed_route_signature_clusters_v1.json",
+        "role": "observed_cluster_summary",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/observed_packet_review_ledger_v1.json",
+        "role": "packet_review_queue",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/explicit_feature_packet_queue_v1.json",
+        "role": "explicit_feature_packet_queue",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/provisional_packet_candidate_ledger_v1.json",
+        "role": "surviving_narrow_packet_candidate",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/packet_resolution_layer_audit_v1.json",
+        "role": "packet_resolution_audit",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/watch_packet_branch_split_reading_v1.json",
+        "role": "watch_packet_branch_split",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/watch_packet_provisional_subbranch_registry_v1.json",
+        "role": "watch_packet_provisional_subbranches",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_external_posting_pack_ja_v1.md",
+        "role": "external_posting_pack_japanese",
+        "bucket": "boundary_and_context",
+        "root_alias_suggestion": "POSTING_PACK_JA.md"
+      }
+    ],
+    "other": [
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.json",
+        "role": "release_bundle_manifest",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.md",
+        "role": "release_bundle_manifest_markdown",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "route_research_public_release_v1/README.md",
+        "role": "materialized_release_bundle_readme",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "route_research_public_release_v1/REPORT_JA.md",
+        "role": "materialized_release_bundle_report",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "route_research_public_release_v1/CLAIM_BOUNDARY.json",
+        "role": "materialized_release_bundle_claim_boundary",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "route_research_public_release_v1/MASTER_NEXT_PLAN_JA.md",
+        "role": "materialized_release_bundle_master_next_plan",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "route_research_public_release_v1/BUNDLE_MANIFEST.json",
+        "role": "materialized_release_bundle_manifest",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "route_research_public_release_v1/CHECKSUMS.sha256",
+        "role": "materialized_release_bundle_checksums",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.json",
+        "role": "release_readiness_check",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      },
+      {
+        "path": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.md",
+        "role": "release_readiness_check_markdown",
+        "bucket": "other",
+        "root_alias_suggestion": null
+      }
+    ]
+  },
+  "publish_sequence": [
+    "README.md <= route_research_github_release_readme_ja_v1.md",
+    "REPORT_JA.md <= route_research_full_report_ja_v1.md",
+    "FIXED_ROUTE_SUMMARY_JA.md <= route_research_fixed_route_public_summary_ja_v1.md",
+    "CLAIM_BOUNDARY.json <= route_research_publication_freeze_package_v1.json",
+    "REPRODUCTION.md <= route_research_reproduction_protocol_v1.md",
+    "MASTER_NEXT_PLAN_JA.md <= route_research_master_next_plan_ja_v1.md",
+    "FIXED_ROUTE_STAGE_HISTORY_JA.md <= route_research_fixed_route_stage_history_appendix_ja_v1.md",
+    "FIXED_ROUTE_APPENDIX.md <= route_research_fixed_route_appendix_v1.md",
+    "POSTING_PACK_JA.md <= route_research_external_posting_pack_ja_v1.md"
+  ],
+  "guardrails": [
+    "Current fixed routes are route families or branches supported by existing exact cohorts; they are not universal deterministic career classifiers.",
+    "The surviving narrow packet is not yet a fixed route claim. It remains a provisional packet candidate.",
+    "Watch-packet subbranches are not route claims. They are repeated internal split signals waiting for fresh exact repeats.",
+    "Science registry rows in NOT_FIXED or UNDERFILLED states must be published as retained clues or future collection targets, not as confirmed routes.",
+    "Blind ingress and top-route assignment should be described as route pressure observation, not final classification."
+  ]
+}

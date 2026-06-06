@@ -1,0 +1,237 @@
+{
+  "schema_version": "route_research_release_bundle_files_v1",
+  "created_at": "2026-06-06T01:15:43.992871+00:00",
+  "purpose": "materialize the public route-research release bundle into a dedicated root-level folder without overwriting the repo README",
+  "bundle_dir": "route_research_public_release_v1",
+  "root_materialized_count": 9,
+  "supporting_materialized_count": 36,
+  "root_materialized_files": [
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.md",
+      "dest": "route_research_public_release_v1/FIXED_ROUTE_SUMMARY_JA.md",
+      "role": "fixed_route_public_summary_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_full_report_ja_v1.md",
+      "dest": "route_research_public_release_v1/REPORT_JA.md",
+      "role": "full_report_japanese"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_github_release_readme_ja_v1.md",
+      "dest": "route_research_public_release_v1/README.md",
+      "role": "github_release_readme_japanese"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_master_next_plan_ja_v1.md",
+      "dest": "route_research_public_release_v1/MASTER_NEXT_PLAN_JA.md",
+      "role": "master_next_plan"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_publication_freeze_package_v1.json",
+      "dest": "route_research_public_release_v1/CLAIM_BOUNDARY.json",
+      "role": "publication_freeze_package"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_reproduction_protocol_v1.md",
+      "dest": "route_research_public_release_v1/REPRODUCTION.md",
+      "role": "reproduction_protocol"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.md",
+      "dest": "route_research_public_release_v1/FIXED_ROUTE_APPENDIX.md",
+      "role": "fixed_route_appendix_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.md",
+      "dest": "route_research_public_release_v1/FIXED_ROUTE_STAGE_HISTORY_JA.md",
+      "role": "fixed_route_stage_history_appendix_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_external_posting_pack_ja_v1.md",
+      "dest": "route_research_public_release_v1/POSTING_PACK_JA.md",
+      "role": "external_posting_pack_japanese"
+    }
+  ],
+  "supporting_materialized_files": [
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.md",
+      "dest": "route_research_public_release_v1/supporting/fixed_route_public_summary_markdown__route_research_fixed_route_public_summary_ja_v1.md",
+      "role": "fixed_route_public_summary_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_full_report_ja_v1.md",
+      "dest": "route_research_public_release_v1/supporting/full_report_japanese__route_research_full_report_ja_v1.md",
+      "role": "full_report_japanese"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_github_release_readme_ja_v1.md",
+      "dest": "route_research_public_release_v1/supporting/github_release_readme_japanese__route_research_github_release_readme_ja_v1.md",
+      "role": "github_release_readme_japanese"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_master_next_plan_ja_v1.md",
+      "dest": "route_research_public_release_v1/supporting/master_next_plan__route_research_master_next_plan_ja_v1.md",
+      "role": "master_next_plan"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_publication_freeze_package_v1.json",
+      "dest": "route_research_public_release_v1/supporting/publication_freeze_package__route_research_publication_freeze_package_v1.json",
+      "role": "publication_freeze_package"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_reproduction_protocol_v1.md",
+      "dest": "route_research_public_release_v1/supporting/reproduction_protocol__route_research_reproduction_protocol_v1.md",
+      "role": "reproduction_protocol"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/all_field_unified_route_freeze_registry_v1.json",
+      "dest": "route_research_public_release_v1/supporting/current_fixed_route_inventory__all_field_unified_route_freeze_registry_v1.json",
+      "role": "current_fixed_route_inventory"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.json",
+      "dest": "route_research_public_release_v1/supporting/fixed_route_appendix__route_research_fixed_route_appendix_v1.json",
+      "role": "fixed_route_appendix"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.md",
+      "dest": "route_research_public_release_v1/supporting/fixed_route_appendix_markdown__route_research_fixed_route_appendix_v1.md",
+      "role": "fixed_route_appendix_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.json",
+      "dest": "route_research_public_release_v1/supporting/fixed_route_stage_history_appendix__route_research_fixed_route_stage_history_appendix_ja_v1.json",
+      "role": "fixed_route_stage_history_appendix"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.md",
+      "dest": "route_research_public_release_v1/supporting/fixed_route_stage_history_appendix_markdown__route_research_fixed_route_stage_history_appendix_ja_v1.md",
+      "role": "fixed_route_stage_history_appendix_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.json",
+      "dest": "route_research_public_release_v1/supporting/fixed_route_public_summary__route_research_fixed_route_public_summary_ja_v1.json",
+      "role": "fixed_route_public_summary"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/science_route_family_freeze_registry_v2.csv",
+      "dest": "route_research_public_release_v1/supporting/science_route_nonfixed_inventory__science_route_family_freeze_registry_v2.csv",
+      "role": "science_route_nonfixed_inventory"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_mass_intake_master_ledger_v1.json",
+      "dest": "route_research_public_release_v1/supporting/mass_intake_master__route_mass_intake_master_ledger_v1.json",
+      "role": "mass_intake_master"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/mass_route_discovery_ledger_v1.json",
+      "dest": "route_research_public_release_v1/supporting/subject_level_route_trace__mass_route_discovery_ledger_v1.json",
+      "role": "subject_level_route_trace"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_visual_dashboard_v1.json",
+      "dest": "route_research_public_release_v1/supporting/visual_dashboard_manifest__route_research_visual_dashboard_v1.json",
+      "role": "visual_dashboard_manifest"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/mass_route_research_compact_index_v1.json",
+      "dest": "route_research_public_release_v1/supporting/compact_index__mass_route_research_compact_index_v1.json",
+      "role": "compact_index"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_source_manifest_v1.json",
+      "dest": "route_research_public_release_v1/supporting/latest_source_manifest_example__mass_intake_source_backed_exact_round10_v1_source_manifest_v1.json",
+      "role": "latest_source_manifest_example"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/observed_route_signature_clusters_v1.json",
+      "dest": "route_research_public_release_v1/supporting/observed_cluster_summary__observed_route_signature_clusters_v1.json",
+      "role": "observed_cluster_summary"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/observed_packet_review_ledger_v1.json",
+      "dest": "route_research_public_release_v1/supporting/packet_review_queue__observed_packet_review_ledger_v1.json",
+      "role": "packet_review_queue"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/explicit_feature_packet_queue_v1.json",
+      "dest": "route_research_public_release_v1/supporting/explicit_feature_packet_queue__explicit_feature_packet_queue_v1.json",
+      "role": "explicit_feature_packet_queue"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/provisional_packet_candidate_ledger_v1.json",
+      "dest": "route_research_public_release_v1/supporting/surviving_narrow_packet_candidate__provisional_packet_candidate_ledger_v1.json",
+      "role": "surviving_narrow_packet_candidate"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/packet_resolution_layer_audit_v1.json",
+      "dest": "route_research_public_release_v1/supporting/packet_resolution_audit__packet_resolution_layer_audit_v1.json",
+      "role": "packet_resolution_audit"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/watch_packet_branch_split_reading_v1.json",
+      "dest": "route_research_public_release_v1/supporting/watch_packet_branch_split__watch_packet_branch_split_reading_v1.json",
+      "role": "watch_packet_branch_split"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/watch_packet_provisional_subbranch_registry_v1.json",
+      "dest": "route_research_public_release_v1/supporting/watch_packet_provisional_subbranches__watch_packet_provisional_subbranch_registry_v1.json",
+      "role": "watch_packet_provisional_subbranches"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_external_posting_pack_ja_v1.md",
+      "dest": "route_research_public_release_v1/supporting/external_posting_pack_japanese__route_research_external_posting_pack_ja_v1.md",
+      "role": "external_posting_pack_japanese"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.json",
+      "dest": "route_research_public_release_v1/supporting/release_bundle_manifest__route_research_release_bundle_manifest_v1.json",
+      "role": "release_bundle_manifest"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.md",
+      "dest": "route_research_public_release_v1/supporting/release_bundle_manifest_markdown__route_research_release_bundle_manifest_v1.md",
+      "role": "release_bundle_manifest_markdown"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.json",
+      "dest": "route_research_public_release_v1/supporting/release_readiness_check__route_research_release_readiness_check_v1.json",
+      "role": "release_readiness_check"
+    },
+    {
+      "source": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.md",
+      "dest": "route_research_public_release_v1/supporting/release_readiness_check_markdown__route_research_release_readiness_check_v1.md",
+      "role": "release_readiness_check_markdown"
+    },
+    {
+      "source": "route_research_public_release_v1/README.md",
+      "dest": "route_research_public_release_v1/supporting/materialized_release_bundle_readme__README.md",
+      "role": "materialized_release_bundle_readme"
+    },
+    {
+      "source": "route_research_public_release_v1/REPORT_JA.md",
+      "dest": "route_research_public_release_v1/supporting/materialized_release_bundle_report__REPORT_JA.md",
+      "role": "materialized_release_bundle_report"
+    },
+    {
+      "source": "route_research_public_release_v1/CLAIM_BOUNDARY.json",
+      "dest": "route_research_public_release_v1/supporting/materialized_release_bundle_claim_boundary__CLAIM_BOUNDARY.json",
+      "role": "materialized_release_bundle_claim_boundary"
+    },
+    {
+      "source": "route_research_public_release_v1/MASTER_NEXT_PLAN_JA.md",
+      "dest": "route_research_public_release_v1/supporting/materialized_release_bundle_master_next_plan__MASTER_NEXT_PLAN_JA.md",
+      "role": "materialized_release_bundle_master_next_plan"
+    },
+    {
+      "source": "route_research_public_release_v1/BUNDLE_MANIFEST.json",
+      "dest": "route_research_public_release_v1/supporting/materialized_release_bundle_manifest__BUNDLE_MANIFEST.json",
+      "role": "materialized_release_bundle_manifest"
+    },
+    {
+      "source": "route_research_public_release_v1/CHECKSUMS.sha256",
+      "dest": "route_research_public_release_v1/supporting/materialized_release_bundle_checksums__CHECKSUMS.sha256",
+      "role": "materialized_release_bundle_checksums"
+    }
+  ]
+}

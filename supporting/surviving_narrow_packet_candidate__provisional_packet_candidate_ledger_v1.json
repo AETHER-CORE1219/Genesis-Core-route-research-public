@@ -1,0 +1,111 @@
+{
+  "schema_version": "provisional_packet_candidate_ledger_v1",
+  "created_at": "2026-06-04T12:01:54.100070+00:00",
+  "purpose": "keep only surviving provisional packet candidates separate from broader observed packet reviews",
+  "candidate_count": 1,
+  "candidates": [
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "candidate_status": "provisional_packet_candidate_survives_with_boundary",
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_density_2plus",
+        "W_house_cluster_H6",
+        "W_pressure_house_density_3plus"
+      ],
+      "support_count_initial": 4,
+      "working_commonality": "public explanation that becomes a system, method, or teachable doctrine",
+      "manual_read_why": "All four subjects convert interpretation into a public framework: songwriter-cultural voice, filmmaker persona and moral genre, investment method/author, psychoanalytic system founder. Unlike the larger packets, this one has a repeated explicit Mercury/house-pressure feature bundle.",
+      "stress_decision": "provisional_packet_candidate_survives_with_boundary",
+      "stress_effective_support_read": "4 strict core plus 3 strong partial fits; keep as provisional, not named/frozen",
+      "stress_core_read": "core_exact survives as a coherent packet: public explanation, interpretation, or authored method becomes a durable system/framework",
+      "stress_boundary_read": "the same feature bundle appears with other second routes, so the packet cannot be defined by Mercury/H6/pressure features alone; second-route context is necessary",
+      "next_action": "collect more exact cases and split by second-route context if feature bundle appears outside teacher/media alignment",
+      "subjects": [
+        {
+          "name": "Bob Dylan",
+          "primary_field": "ARTS",
+          "occupation_raw": "American singer-songwriter (born 1941)",
+          "public_description_excerpt": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sol...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Gemini 23.0deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 29.9deg H7 Mrigashira"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Krittika",
+            "pada": 1,
+            "nakshatra_lord": "Sun"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Bob_Dylan"
+        },
+        {
+          "name": "Clint Eastwood",
+          "primary_field": "ARTS",
+          "occupation_raw": "American actor and filmmaker (born 1930)",
+          "public_description_excerpt": "Clinton Eastwood Jr. is an American actor, filmmaker and musician. After achieving success in the Western TV series Rawhide, Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone'...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Taurus 23.8deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 0.9deg H8 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Pushya",
+            "pada": 2,
+            "nakshatra_lord": "Saturn"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Clint_Eastwood"
+        },
+        {
+          "name": "Peter Lynch",
+          "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+          "occupation_raw": "American investor",
+          "public_description_excerpt": "Peter Lynch is an American investor, mutual fund manager, author and philanthropist. As the manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, Lynch averaged a 29.2% annual return, consistentl...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Capricorn 8.7deg H1"
+          ],
+          "vedic_key_planets": [
+            "Mercury Dhanu 15.6deg H2 Purva Ashadha"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Swati",
+            "pada": 3,
+            "nakshatra_lord": "Rahu"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Peter_Lynch",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Peter_Lynch"
+        },
+        {
+          "name": "Sigmund Freud",
+          "primary_field": "HUMANITIES",
+          "occupation_raw": "Austrian psychiatrist and founder of psychoanalysis (1856–1939)",
+          "public_description_excerpt": "Sigmund Freud was an Austrian neurologist and the founder of psychoanalysis, a clinical method for evaluating and treating pathologies arising from conflicts in the psyche through dialogue between patient and psychoan...",
+          "birth_precision": "A_exact",
+          "western_key_planets": [
+            "Mercury Taurus 27.8deg H7"
+          ],
+          "vedic_key_planets": [
+            "Mercury Vrishabha 5.9deg H8 Krittika"
+          ],
+          "vedic_moon_nakshatra": {
+            "nakshatra": "Rohini",
+            "pada": 4,
+            "nakshatra_lord": "Moon"
+          },
+          "biography_source_url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+          "birth_data_source_url": "https://www.astrotheme.com/astrology/Sigmund_Freud"
+        }
+      ]
+    }
+  ],
+  "next_action": "treat this ledger as the only current packet-level promotion surface; all other packets remain hold-only until more evidence arrives"
+}

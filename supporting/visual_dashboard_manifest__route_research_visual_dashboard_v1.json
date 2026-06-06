@@ -1,0 +1,185 @@
+{
+  "schema_version": "route_research_visual_dashboard_v1",
+  "created_at": "2026-06-06T01:15:42.272653+00:00",
+  "purpose": "visual dashboard generated directly from current route research ledgers",
+  "sources": {
+    "unified_route_registry": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/all_field_unified_route_freeze_registry_v1.json",
+    "discovery_ledger": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/mass_route_discovery_ledger_v1.json",
+    "watch_registry": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/mass_route_provisional_watch_registry_v1.json",
+    "explicit_packet_reading": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/observed_packet_manual_reading_round3_v1.json",
+    "provisional_packet_candidate_ledger": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/provisional_packet_candidate_ledger_v1.json"
+  },
+  "counts": {
+    "registry_count": 30,
+    "subject_count": 761,
+    "exact_count": 632,
+    "watch_count": 21,
+    "explicit_packet_count": 9,
+    "provisional_packet_candidate_count": 1
+  },
+  "top_routes": [
+    {
+      "route_id": "sports_pressure_friction_core",
+      "plain_label": "Pressure/friction route: Moon-Saturn or Saturn-Venus hard aspect plus hard-aspect density",
+      "count": 117
+    },
+    {
+      "route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "plain_label": "institution / doctrine / reform authority branch",
+      "count": 115
+    },
+    {
+      "route_id": "arts_venus_aesthetic_body",
+      "plain_label": "Aesthetic/body route: Venus and visible form signals with Vedic Venus or kendra support",
+      "count": 98
+    },
+    {
+      "route_id": "arts_symbolic_pressure_expression",
+      "plain_label": "Symbolic/pressure expression route: Western friction or pressure routed through Vedic moksha/kendra symbolic containers",
+      "count": 72
+    },
+    {
+      "route_id": "institutions_core_governance_frozen_v1",
+      "plain_label": "formal office, governance, and institution handling dominate",
+      "count": 70
+    },
+    {
+      "route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "plain_label": "public teacher / healer / media-spiritual transmission",
+      "count": 46
+    },
+    {
+      "route_id": "public_figure_media_presenter_frozen_v1",
+      "plain_label": "presenting/hosting in public media is the main output",
+      "count": 42
+    },
+    {
+      "route_id": "sports_saturn_body_strict",
+      "plain_label": "Saturn/body route: Saturn in/near body-axis pressure with Venus or lagna support",
+      "count": 35
+    },
+    {
+      "route_id": "institutions_statecraft_diplomacy_frozen_v1",
+      "plain_label": "foreign-policy and executive statecraft branch",
+      "count": 29
+    },
+    {
+      "route_id": "humanities_public_translation_frozen_v1",
+      "plain_label": "complex knowledge or hidden material is translated into public interpretation",
+      "count": 18
+    }
+  ],
+  "top_second_links": [
+    {
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_label": "institution / doctrine / reform authority branch",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "second_label": "public teacher / healer / media-spiritual transmission",
+      "count": 26
+    },
+    {
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "top_label": "formal office, governance, and institution handling dominate",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_label": "institution / doctrine / reform authority branch",
+      "count": 25
+    },
+    {
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_label": "institution / doctrine / reform authority branch",
+      "second_route_id": "humanities_critique_interpreter_frozen_v1",
+      "second_label": "critical interpretation of culture, text, or ideology is central",
+      "count": 25
+    },
+    {
+      "top_route_id": "sports_pressure_friction_core",
+      "top_label": "Pressure/friction route: Moon-Saturn or Saturn-Venus hard aspect plus hard-aspect density",
+      "second_route_id": "public_figure_media_presenter_frozen_v1",
+      "second_label": "presenting/hosting in public media is the main output",
+      "count": 23
+    },
+    {
+      "top_route_id": "arts_venus_aesthetic_body",
+      "top_label": "Aesthetic/body route: Venus and visible form signals with Vedic Venus or kendra support",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_label": "institution / doctrine / reform authority branch",
+      "count": 21
+    },
+    {
+      "top_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_label": "public teacher / healer / media-spiritual transmission",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "second_label": "formal office, governance, and institution handling dominate",
+      "count": 21
+    },
+    {
+      "top_route_id": "arts_symbolic_pressure_expression",
+      "top_label": "Symbolic/pressure expression route: Western friction or pressure routed through Vedic moksha/kendra symbolic containers",
+      "second_route_id": "arts_venus_aesthetic_body",
+      "second_label": "Aesthetic/body route: Venus and visible form signals with Vedic Venus or kendra support",
+      "count": 21
+    },
+    {
+      "top_route_id": "sports_pressure_friction_core",
+      "top_label": "Pressure/friction route: Moon-Saturn or Saturn-Venus hard aspect plus hard-aspect density",
+      "second_route_id": "arts_symbolic_pressure_expression",
+      "second_label": "Symbolic/pressure expression route: Western friction or pressure routed through Vedic moksha/kendra symbolic containers",
+      "count": 20
+    },
+    {
+      "top_route_id": "sports_pressure_friction_core",
+      "top_label": "Pressure/friction route: Moon-Saturn or Saturn-Venus hard aspect plus hard-aspect density",
+      "second_route_id": "arts_venus_aesthetic_body",
+      "second_label": "Aesthetic/body route: Venus and visible form signals with Vedic Venus or kendra support",
+      "count": 19
+    },
+    {
+      "top_route_id": "arts_venus_aesthetic_body",
+      "top_label": "Aesthetic/body route: Venus and visible form signals with Vedic Venus or kendra support",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "second_label": "public teacher / healer / media-spiritual transmission",
+      "count": 17
+    },
+    {
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "top_label": "formal office, governance, and institution handling dominate",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "second_label": "public teacher / healer / media-spiritual transmission",
+      "count": 14
+    },
+    {
+      "top_route_id": "sports_pressure_friction_core",
+      "top_label": "Pressure/friction route: Moon-Saturn or Saturn-Venus hard aspect plus hard-aspect density",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_label": "institution / doctrine / reform authority branch",
+      "count": 14
+    },
+    {
+      "top_route_id": "arts_venus_aesthetic_body",
+      "top_label": "Aesthetic/body route: Venus and visible form signals with Vedic Venus or kendra support",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "second_label": "formal office, governance, and institution handling dominate",
+      "count": 14
+    },
+    {
+      "top_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_label": "public teacher / healer / media-spiritual transmission",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_label": "institution / doctrine / reform authority branch",
+      "count": 14
+    },
+    {
+      "top_route_id": "humanities_public_translation_frozen_v1",
+      "top_label": "complex knowledge or hidden material is translated into public interpretation",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "second_label": "formal office, governance, and institution handling dominate",
+      "count": 13
+    }
+  ],
+  "outputs": {
+    "status_overview_png": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/route_research_status_overview_v1.png",
+    "flow_network_png": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/route_research_flow_network_v1.png",
+    "explicit_packet_png": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/route_research_explicit_packet_map_v1.png",
+    "dashboard_html": "/tmp/route-research-audit-fix-main/scripts/verification/data/astrological_validation/route_research_visual_dashboard_v1.html"
+  }
+}

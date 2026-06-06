@@ -1,0 +1,2401 @@
+{
+  "schema_version": "mass_route_research_compact_index_v1",
+  "created_at": "2026-06-06T01:13:47.080865+00:00",
+  "purpose": "compact index for growing mass-route research ledgers without deleting source data",
+  "current_counts": {
+    "master_row_count": 1030,
+    "precision_summary": {
+      "exact_like": 795,
+      "approximate_like": 90,
+      "date_only_like": 145
+    },
+    "discovery_subject_count": 761,
+    "watch_route_count": 21,
+    "observed_route_cluster_count": 16,
+    "packet_review_count": 43,
+    "explicit_feature_packet_count": 17,
+    "manual_reading_count": 5,
+    "manual_reading_round2_count": 4,
+    "manual_reading_round3_count": 9,
+    "provisional_packet_candidate_count": 1,
+    "boundary_hold_packet_count": 5,
+    "visual_dashboard_generated": true,
+    "packet_role_profile_count": 9,
+    "packet_multilayer_count": 9,
+    "packet_evidence_stack_count": 9,
+    "provisional_growth_queue_count": 107,
+    "provisional_growth_reading_count": 20,
+    "supportive_axis_compare_count": 6,
+    "archive_alignment_count": 94,
+    "direct_alignment_count": 68,
+    "direct_publication_manifest_count": 68,
+    "direct_local_evidence_audit_count": 68,
+    "direct_growth_reading_count": 68,
+    "direct_residual_watch_queue_count": 0,
+    "direct_watch_only_resolution_count": 3,
+    "round9_ingress_effect_count": 84,
+    "round10_ingress_effect_count": 64,
+    "packet_resolution_layer_count": 17,
+    "watch_packet_branch_split_count": 9,
+    "watch_packet_subbranch_count": 8,
+    "publication_fixed_route_count": 16,
+    "fixed_route_appendix_count": 16,
+    "fixed_route_stage_history_appendix_count": 16,
+    "fixed_route_public_summary_count": 16
+  },
+  "primary_files": [
+    {
+      "path": "scripts/verification/data/astrological_validation/route_mass_intake_master_ledger_v1.json",
+      "exists": true,
+      "size_kb": 982,
+      "role": "master_intake",
+      "keep_policy": "keep_raw",
+      "note": "all accepted intake rows and precision tiers"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_route_discovery_ledger_v1.json",
+      "exists": true,
+      "size_kb": 2531,
+      "role": "subject_trace_raw",
+      "keep_policy": "keep_raw",
+      "note": "person -> route -> western/vedic anchors"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_route_provisional_watch_registry_v1.json",
+      "exists": true,
+      "size_kb": 33,
+      "role": "route_pressure_summary",
+      "keep_policy": "keep_summary",
+      "note": "repeat route pressure and watch status"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_route_signature_clusters_v1.json",
+      "exists": true,
+      "size_kb": 1021,
+      "role": "observed_packet_raw",
+      "keep_policy": "keep_raw",
+      "note": "packet clusters before naming"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_packet_review_ledger_v1.json",
+      "exists": true,
+      "size_kb": 429,
+      "role": "observed_packet_review",
+      "keep_policy": "keep_review",
+      "note": "compact high-support packet review queue"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/explicit_feature_packet_queue_v1.json",
+      "exists": true,
+      "size_kb": 94,
+      "role": "explicit_feature_packet_queue",
+      "keep_policy": "keep_review",
+      "note": "explicit-feature packet queue separated from no-feature fame/common-factor packets"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_packet_manual_reading_round1_v1.json",
+      "exists": true,
+      "size_kb": 73,
+      "role": "manual_packet_reading",
+      "keep_policy": "keep_review",
+      "note": "subject-level reading and provisional candidate decisions"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/provisional_packet_stress_queue_v1.json",
+      "exists": true,
+      "size_kb": 140,
+      "role": "provisional_packet_stress_queue",
+      "keep_policy": "keep_review",
+      "note": "near-match and boundary queue for provisional packet candidates"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/provisional_packet_stress_reading_v1.json",
+      "exists": true,
+      "size_kb": 40,
+      "role": "provisional_packet_stress_reading",
+      "keep_policy": "keep_review",
+      "note": "manual stress reading for provisional packet survival/boundary decisions"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_packet_manual_reading_round2_v1.json",
+      "exists": true,
+      "size_kb": 59,
+      "role": "manual_packet_reading_round2",
+      "keep_policy": "keep_review",
+      "note": "subject-level reading for support-6 packets"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/observed_packet_manual_reading_round3_v1.json",
+      "exists": true,
+      "size_kb": 55,
+      "role": "manual_packet_reading_round3",
+      "keep_policy": "keep_review",
+      "note": "subject-level reading for explicit-feature packets after exact reuse expansion"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/provisional_packet_candidate_ledger_v1.json",
+      "exists": true,
+      "size_kb": 6,
+      "role": "provisional_packet_candidate_ledger",
+      "keep_policy": "keep_review",
+      "note": "surviving packet-level candidates only"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/boundary_hold_skew_monitor_v1.json",
+      "exists": true,
+      "size_kb": 6,
+      "role": "boundary_hold_skew_monitor",
+      "keep_policy": "keep_review",
+      "note": "field-skew monitor for boundary-hold explicit packets"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_visual_dashboard_v1.json",
+      "exists": true,
+      "size_kb": 9,
+      "role": "visual_dashboard_manifest",
+      "keep_policy": "keep_review",
+      "note": "machine-readable manifest for the data-based route visual dashboard"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/packet_role_profile_audit_v1.json",
+      "exists": true,
+      "size_kb": 26,
+      "role": "packet_role_profile_audit",
+      "keep_policy": "keep_review",
+      "note": "role-side audit for explicit packets and provisional candidate contrast"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/packet_multilayer_feature_audit_v1.json",
+      "exists": true,
+      "size_kb": 77,
+      "role": "packet_multilayer_feature_audit",
+      "keep_policy": "keep_review",
+      "note": "full western plus vedic chart audit for explicit packets and provisional candidate contrast"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/packet_evidence_stack_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "packet_evidence_stack",
+      "keep_policy": "keep_review",
+      "note": "single-table evidence stack combining field, role, and multilayer packet evidence"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/provisional_candidate_growth_queue_v2.json",
+      "exists": true,
+      "size_kb": 173,
+      "role": "provisional_candidate_growth_queue",
+      "keep_policy": "keep_review",
+      "note": "triage queue for re-reading near matches around the surviving narrow candidate"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/provisional_candidate_growth_reading_v2.json",
+      "exists": true,
+      "size_kb": 29,
+      "role": "provisional_candidate_growth_reading",
+      "keep_policy": "keep_review",
+      "note": "manual first-wave reading of top growth-queue near matches around the surviving narrow candidate"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/supportive_partial_axis_comparison_v1.json",
+      "exists": true,
+      "size_kb": 4,
+      "role": "supportive_partial_axis_comparison",
+      "keep_policy": "keep_review",
+      "note": "four-axis comparison of the six supportive partial neighbors around the surviving narrow candidate"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/new_archive_provisional_alignment_queue_v1.json",
+      "exists": true,
+      "size_kb": 70,
+      "role": "archive_alignment_queue",
+      "keep_policy": "keep_review",
+      "note": "alignment queue for the new local exact archive intake before source-route filtering"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/direct_source_archive_alignment_queue_v1.json",
+      "exists": true,
+      "size_kb": 67,
+      "role": "direct_source_alignment_queue",
+      "keep_policy": "keep_review",
+      "note": "non-Wikipedia direct-source alignment queue for the main re-reading lane"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/direct_source_publication_manifest_v1.json",
+      "exists": true,
+      "size_kb": 103,
+      "role": "direct_source_publication_manifest",
+      "keep_policy": "keep_review",
+      "note": "publication-oriented provenance manifest for the direct-source archive lane"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/direct_source_local_evidence_audit_v1.json",
+      "exists": true,
+      "size_kb": 176,
+      "role": "direct_source_local_evidence_audit",
+      "keep_policy": "keep_review",
+      "note": "deduped inventory of already-existing local evidence for the direct-source lane"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/direct_source_growth_reading_v2.json",
+      "exists": true,
+      "size_kb": 186,
+      "role": "direct_source_growth_reading",
+      "keep_policy": "keep_review",
+      "note": "evidence-backed rereading of the full direct-source lane after existing-file audit"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/direct_source_residual_watch_queue_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "direct_source_residual_watch_queue",
+      "keep_policy": "keep_review",
+      "note": "residual queue for names not yet fully explained by existing direct-source evidence"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/direct_source_watch_only_resolution_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "direct_source_watch_only_resolution",
+      "keep_policy": "keep_review",
+      "note": "names resolved only by existing mass-watch registry after stronger local evidence was exhausted"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/round9_ingress_effect_audit_v1.json",
+      "exists": true,
+      "size_kb": 16,
+      "role": "round9_ingress_effect_audit",
+      "keep_policy": "keep_review",
+      "note": "effect audit for the structured public exact round9 intake against current route and provisional-packet space"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/round10_ingress_effect_audit_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "round10_ingress_effect_audit",
+      "keep_policy": "keep_review",
+      "note": "effect audit for the strict source-backed exact round10 intake against current route and provisional-packet space"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/packet_resolution_layer_audit_v1.json",
+      "exists": true,
+      "size_kb": 39,
+      "role": "packet_resolution_layer_audit",
+      "keep_policy": "keep_review",
+      "note": "audit whether explicit-feature packets are collapsing many internal manifestations into the same visible gate"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/watch_packet_branch_split_reading_v1.json",
+      "exists": true,
+      "size_kb": 35,
+      "role": "watch_packet_branch_split_reading",
+      "keep_policy": "keep_review",
+      "note": "subject-level split reading for watch packets across role axis and vedic clustering"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/watch_packet_provisional_subbranch_registry_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "watch_packet_provisional_subbranch_registry",
+      "keep_policy": "keep_review",
+      "note": "provisional subbranch registry for watch packets that already show repeated role or vedic split signals"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_publication_freeze_package_v1.json",
+      "exists": true,
+      "size_kb": 98,
+      "role": "publication_freeze_package",
+      "keep_policy": "keep_release",
+      "note": "current public claim surface, non-claim surface, guardrails, and rebuild commands for release"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_reproduction_protocol_v1.md",
+      "exists": true,
+      "size_kb": 6,
+      "role": "reproduction_protocol",
+      "keep_policy": "keep_release",
+      "note": "ordered reproduction protocol for rebuilding the current public release state"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_public_release_readme_v1.md",
+      "exists": true,
+      "size_kb": 3,
+      "role": "public_release_readme",
+      "keep_policy": "keep_release",
+      "note": "entrypoint readme for GitHub-style public release of the current route research"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.json",
+      "exists": true,
+      "size_kb": 80,
+      "role": "fixed_route_appendix",
+      "keep_policy": "keep_release",
+      "note": "route-by-route appendix linking fixed claims to representative subjects and source traces"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_appendix_v1.md",
+      "exists": true,
+      "size_kb": 16,
+      "role": "fixed_route_appendix_markdown",
+      "keep_policy": "keep_release",
+      "note": "human-readable appendix for the fixed route claim surface"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.json",
+      "exists": true,
+      "size_kb": 38,
+      "role": "fixed_route_stage_history_appendix",
+      "keep_policy": "keep_release",
+      "note": "two-stage appendix linking first-stage discovery and second-stage mass-intake survival for each fixed route"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_stage_history_appendix_ja_v1.md",
+      "exists": true,
+      "size_kb": 22,
+      "role": "fixed_route_stage_history_appendix_markdown",
+      "keep_policy": "keep_release",
+      "note": "human-readable two-stage appendix for the fixed route claim surface"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "fixed_route_public_summary",
+      "keep_policy": "keep_release",
+      "note": "short Japanese public-facing summary of the current fixed route claim surface"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_fixed_route_public_summary_ja_v1.md",
+      "exists": true,
+      "size_kb": 5,
+      "role": "fixed_route_public_summary_markdown",
+      "keep_policy": "keep_release",
+      "note": "human-readable short public summary for the fixed route claim surface"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_full_report_ja_v1.md",
+      "exists": true,
+      "size_kb": 30,
+      "role": "full_report_japanese",
+      "keep_policy": "keep_release",
+      "note": "full Japanese research report for the current route study and publication boundary"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_github_release_readme_ja_v1.md",
+      "exists": true,
+      "size_kb": 5,
+      "role": "github_release_readme_japanese",
+      "keep_policy": "keep_release",
+      "note": "GitHub-facing Japanese release readme for publishing the current route research"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_external_posting_pack_ja_v1.md",
+      "exists": true,
+      "size_kb": 5,
+      "role": "external_posting_pack_japanese",
+      "keep_policy": "keep_release",
+      "note": "ready-to-use Japanese posting copy for GitHub, Reddit, and formal public introductions"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "release_bundle_manifest",
+      "keep_policy": "keep_release",
+      "note": "machine-readable release layout manifest for the current public package"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_bundle_manifest_v1.md",
+      "exists": true,
+      "size_kb": 6,
+      "role": "release_bundle_manifest_markdown",
+      "keep_policy": "keep_release",
+      "note": "human-readable release layout manifest and publish order"
+    },
+    {
+      "path": "route_research_public_release_v1/README.md",
+      "exists": true,
+      "size_kb": 5,
+      "role": "materialized_release_bundle_readme",
+      "keep_policy": "keep_release",
+      "note": "root-facing release bundle README materialized from the canonical research docs"
+    },
+    {
+      "path": "route_research_public_release_v1/REPORT_JA.md",
+      "exists": true,
+      "size_kb": 30,
+      "role": "materialized_release_bundle_report",
+      "keep_policy": "keep_release",
+      "note": "root-facing release bundle full report materialized from the canonical research docs"
+    },
+    {
+      "path": "route_research_public_release_v1/CLAIM_BOUNDARY.json",
+      "exists": true,
+      "size_kb": 98,
+      "role": "materialized_release_bundle_claim_boundary",
+      "keep_policy": "keep_release",
+      "note": "root-facing release bundle claim boundary materialized from the canonical research docs"
+    },
+    {
+      "path": "route_research_public_release_v1/BUNDLE_MANIFEST.json",
+      "exists": true,
+      "size_kb": 13,
+      "role": "materialized_release_bundle_manifest",
+      "keep_policy": "keep_release",
+      "note": "copy manifest describing the materialized root-facing release bundle"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.json",
+      "exists": true,
+      "size_kb": 2,
+      "role": "release_readiness_check",
+      "keep_policy": "keep_release",
+      "note": "machine-readable final readiness audit for the public release bundle"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/route_research_release_readiness_check_v1.md",
+      "exists": true,
+      "size_kb": 1,
+      "role": "release_readiness_check_markdown",
+      "keep_policy": "keep_release",
+      "note": "human-readable final readiness audit for the public release bundle"
+    },
+    {
+      "path": "Review_and_Progress/Progress_Timeline/README.md",
+      "exists": true,
+      "size_kb": 121,
+      "role": "progress_log",
+      "keep_policy": "keep_progress",
+      "note": "chronological research decisions and run notes"
+    }
+  ],
+  "run_output_count": 240,
+  "run_outputs": [
+    {
+      "path": "scripts/verification/data/astrological_validation/legacy_astrotheme_exact_round6_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 763,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/legacy_astrotheme_exact_round6_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 220,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/legacy_astrotheme_exact_round6_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 205,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/legacy_astrotheme_exact_round6_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1070,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 49,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 18,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 67,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 29,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 29,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round4_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 62,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round4_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 34,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round4_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_arts_round4_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 89,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 55,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 18,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 23,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 77,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 13,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round3_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 84,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round3_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 26,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round3_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round3_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 119,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round4_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round4_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 26,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round4_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 25,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_business_round4_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_crime_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_crime_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_crime_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_crime_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 17,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 16,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round4_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 57,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round4_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 18,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round4_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 17,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_exploration_round4_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 78,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 50,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 70,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 13,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_humanities_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 29,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 39,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 42,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 30,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_institutions_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 57,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_exact_archive_round8_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 657,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_exact_archive_round8_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 164,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_exact_archive_round8_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 166,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_exact_archive_round8_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 931,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_reuse_round7_wave1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 1628,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_reuse_round7_wave1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 412,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_reuse_round7_wave1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 372,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_local_reuse_round7_wave1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 2284,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 14,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 16,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 19,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 16,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round4_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 57,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round4_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 30,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round4_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 28,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_religion_round4_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 79,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 35,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 19,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 49,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 14,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_revolution_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_arts_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 140,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_arts_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 82,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_arts_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 115,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_arts_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 194,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_business_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_business_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_business_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_business_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_crime_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_crime_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_crime_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_crime_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_exploration_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_exploration_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_exploration_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 28,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_exploration_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 11,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_humanities_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 14,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_humanities_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_humanities_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 36,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_humanities_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_institutions_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_institutions_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_institutions_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_institutions_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_religion_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_religion_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_religion_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_religion_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_revolution_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_revolution_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_revolution_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_revolution_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_science_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_science_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_science_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_science_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_sports_category_large_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_sports_category_large_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_sports_category_large_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 3,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5_sports_category_large_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_business_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_business_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 26,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_business_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 77,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_business_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_crime_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_crime_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_crime_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 12,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_crime_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_exploration_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_exploration_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_exploration_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_exploration_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_humanities_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_humanities_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 8,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_humanities_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 57,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_humanities_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_institutions_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_institutions_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_institutions_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_institutions_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_religion_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 63,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_religion_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 27,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_religion_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 51,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_religion_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 88,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_revolution_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_revolution_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_revolution_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 74,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_revolution_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_science_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 21,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_science_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 16,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_science_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 66,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_science_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 30,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_sports_category_large_retry_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 35,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_sports_category_large_retry_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 37,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_sports_category_large_retry_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 81,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round5b_sports_category_large_retry_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 49,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_activism_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_activism_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_activism_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 39,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_activism_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_arts_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 57,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_arts_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 35,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_arts_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 54,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_arts_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 79,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_business_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 7,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_business_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_business_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 38,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_business_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 10,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_crime_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_crime_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_crime_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 12,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_crime_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_exploration_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_exploration_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_exploration_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_exploration_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_humanities_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_humanities_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_humanities_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_humanities_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_politics_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_politics_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_politics_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_politics_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_religion_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_religion_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_religion_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 27,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_religion_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_science_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_science_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_science_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 34,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_science_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_sports_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 15,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_sports_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_sports_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 31,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_round6_field_balanced_sports_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 28,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 23,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 39,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round2_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round2_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 5,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round2_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 16,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round2_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round3_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 71,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round3_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round3_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 23,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round3_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 99,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round4_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 15,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round4_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 24,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round4_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 22,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_science_round4_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 20,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 453,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 131,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 131,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_source_backed_exact_round10_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 639,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 0,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 1,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round4_seeded_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 118,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round4_seeded_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 30,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round4_seeded_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 29,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_sports_round4_seeded_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 169,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_structured_public_exact_round9_v1_targeted_candidate_scoring_v1.json",
+      "exists": true,
+      "size_kb": 604,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_structured_public_exact_round9_v1_targeted_collection_analysis_ready_v1.json",
+      "exists": true,
+      "size_kb": 164,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_structured_public_exact_round9_v1_targeted_collection_candidates_v1.json",
+      "exists": true,
+      "size_kb": 167,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    },
+    {
+      "path": "scripts/verification/data/astrological_validation/mass_intake_structured_public_exact_round9_v1_targeted_collection_chart_facts_v1.json",
+      "exists": true,
+      "size_kb": 844,
+      "role": "batch_or_audit_output",
+      "keep_policy": "keep_source_trace",
+      "note": "generated intake/audit artifact"
+    }
+  ],
+  "cleanup_policy": {
+    "delete_policy": "do_not_delete_research_artifacts_without_explicit_user_request",
+    "normal_cleanup": "add compact indexes and review ledgers; keep raw files for traceability",
+    "future_archive_candidate": "old intermediate markdown/json can be grouped by round only after raw trace is confirmed duplicated in compact index"
+  },
+  "next_action": "use this index as the first file to inspect before opening large raw ledgers"
+}

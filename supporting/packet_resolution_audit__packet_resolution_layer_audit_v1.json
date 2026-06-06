@@ -1,0 +1,1140 @@
+{
+  "schema_version": "packet_resolution_layer_audit_v1",
+  "created_at": "2026-06-06T01:15:18+00:00",
+  "purpose": "measure whether explicit-feature packets are collapsing many internal manifestations into the same visible gate",
+  "packet_count": 17,
+  "resolution_class_counts": {
+    "thick_packet_likely_common_factor_or_family": 4,
+    "multi_output_family_not_single_route_yet": 2,
+    "coarse_western_gate_with_large_internal_diversity": 1,
+    "watch_packet_needing_manual_reading": 9,
+    "surviving_narrow_candidate": 1
+  },
+  "packets": [
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_density_2plus",
+        "W_house_cluster_H6",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": true,
+      "resolution_class": "surviving_narrow_candidate",
+      "field_counts": {
+        "ARTS": 2,
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "HUMANITIES": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {
+        "performer_screen_music": 1,
+        "business_market": 2,
+        "framework_explainer": 2
+      },
+      "lagna_counts": {
+        "Vrishchika": 2,
+        "Tula": 2,
+        "Dhanu": 1
+      },
+      "nakshatra_lord_counts": {
+        "Sun": 1,
+        "Saturn": 1,
+        "Rahu": 1,
+        "Moon": 2
+      },
+      "asc_sign_counts": {
+        "Sagittarius": 3,
+        "Scorpio": 2
+      },
+      "mc_sign_counts": {
+        "Libra": 1,
+        "Leo": 2,
+        "Virgo": 1,
+        "Scorpio": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 2,
+        "mass_intake_business_round3_seeded": 1,
+        "mass_intake_humanities_round1": 1,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "ARTS",
+      "dominant_field_share": 0.4,
+      "dominant_role": "business_market",
+      "dominant_role_share": 0.4,
+      "dominant_lagna": "Vrishchika",
+      "dominant_lagna_share": 0.4,
+      "dominant_nakshatra_lord": "Moon",
+      "dominant_nakshatra_lord_share": 0.4,
+      "dominant_asc_sign": "Sagittarius",
+      "dominant_asc_sign_share": 0.6,
+      "dominant_mc_sign": "Leo",
+      "dominant_mc_sign_share": 0.4,
+      "resolution_hypothesis": "western gate, second route, and role coherence stay aligned enough that a narrow packet still survives"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_density_2plus",
+      "support_count": 8,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_density_2plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "thick_packet_likely_common_factor_or_family",
+      "field_counts": {
+        "SCIENCE_TECH_INVENTION": 1,
+        "HUMANITIES": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 2,
+        "ARTS": 3,
+        "RELIGION_SPIRITUALITY": 1
+      },
+      "role_axis_counts": {
+        "science_invention": 1,
+        "framework_explainer": 1,
+        "performer_screen_music": 3,
+        "activism_movement": 1
+      },
+      "lagna_counts": {
+        "Vrishabha": 1,
+        "Makara": 2,
+        "Kanya": 1,
+        "Mithuna": 1,
+        "Simha": 1,
+        "Dhanu": 2
+      },
+      "nakshatra_lord_counts": {
+        "Mars": 1,
+        "Venus": 1,
+        "Jupiter": 2,
+        "Moon": 1,
+        "Mercury": 2,
+        "Saturn": 1
+      },
+      "asc_sign_counts": {
+        "Gemini": 1,
+        "Aquarius": 1,
+        "Libra": 1,
+        "Cancer": 1,
+        "Virgo": 1,
+        "Capricorn": 2,
+        "Sagittarius": 1
+      },
+      "mc_sign_counts": {
+        "Aquarius": 1,
+        "Scorpio": 3,
+        "Cancer": 1,
+        "Pisces": 1,
+        "Gemini": 1,
+        "Libra": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_local_exact_archive_round8_v1": 3,
+        "mass_intake_local_reuse_round7_wave1": 4
+      },
+      "dominant_field": "ARTS",
+      "dominant_field_share": 0.375,
+      "dominant_role": "performer_screen_music",
+      "dominant_role_share": 0.5,
+      "dominant_lagna": "Makara",
+      "dominant_lagna_share": 0.25,
+      "dominant_nakshatra_lord": "Jupiter",
+      "dominant_nakshatra_lord_share": 0.25,
+      "dominant_asc_sign": "Capricorn",
+      "dominant_asc_sign_share": 0.25,
+      "dominant_mc_sign": "Scorpio",
+      "dominant_mc_sign_share": 0.375,
+      "resolution_hypothesis": "current packet is thick enough to observe, but not yet coherent enough to name as a distinct route"
+    },
+    {
+      "packet_id": "religion_public_teacher_healer_media_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mercury+W_angular_Sun+W_house_cluster_H1+W_pressure_house_density_3plus",
+      "support_count": 8,
+      "top_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Sun",
+        "W_house_cluster_H1",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "multi_output_family_not_single_route_yet",
+      "field_counts": {
+        "SPORTS": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 3,
+        "EXPLORATION_EXTREME_ACHIEVEMENT": 1,
+        "SCIENCE_TECH_INVENTION": 3
+      },
+      "role_axis_counts": {
+        "athlete_body_competition": 1,
+        "business_market": 1,
+        "science_invention": 1
+      },
+      "lagna_counts": {
+        "Makara": 2,
+        "Dhanu": 2,
+        "Vrishabha": 1,
+        "Mesha": 1,
+        "Vrishchika": 1,
+        "Simha": 1
+      },
+      "nakshatra_lord_counts": {
+        "Moon": 3,
+        "Rahu": 1,
+        "Venus": 1,
+        "Sun": 1,
+        "Mars": 1,
+        "Jupiter": 1
+      },
+      "asc_sign_counts": {
+        "Aquarius": 1,
+        "Sagittarius": 2,
+        "Capricorn": 2,
+        "Gemini": 1,
+        "Taurus": 1,
+        "Virgo": 1
+      },
+      "mc_sign_counts": {
+        "Scorpio": 1,
+        "Libra": 3,
+        "Aquarius": 1,
+        "Sagittarius": 1,
+        "Capricorn": 1,
+        "Gemini": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_business_round3_seeded": 1,
+        "mass_intake_exploration_round4_seeded": 1,
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 2,
+        "mass_intake_structured_public_exact_round9_v1": 2
+      },
+      "dominant_field": "BUSINESS_ENTREPRENEURSHIP",
+      "dominant_field_share": 0.375,
+      "dominant_role": "athlete_body_competition",
+      "dominant_role_share": 0.333,
+      "dominant_lagna": "Makara",
+      "dominant_lagna_share": 0.25,
+      "dominant_nakshatra_lord": "Moon",
+      "dominant_nakshatra_lord_share": 0.375,
+      "dominant_asc_sign": "Sagittarius",
+      "dominant_asc_sign_share": 0.25,
+      "dominant_mc_sign": "Libra",
+      "dominant_mc_sign_share": 0.375,
+      "resolution_hypothesis": "many people share the same visible western pressure bundle, but actual manifestations diverge before a single stable route emerges"
+    },
+    {
+      "packet_id": "humanities_critique_interpreter_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Jupiter+W_pressure_house_density_3plus",
+      "support_count": 6,
+      "top_route_id": "humanities_critique_interpreter_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "coarse_western_gate_with_large_internal_diversity",
+      "field_counts": {
+        "ARTS": 1,
+        "EXPLORATION_EXTREME_ACHIEVEMENT": 2,
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {
+        "performer_screen_music": 1,
+        "science_invention": 2,
+        "exploration_risk": 2,
+        "business_market": 2,
+        "activism_movement": 1
+      },
+      "lagna_counts": {
+        "Vrishabha": 2,
+        "Tula": 1,
+        "Makara": 1,
+        "Karka": 2
+      },
+      "nakshatra_lord_counts": {
+        "Moon": 1,
+        "Saturn": 1,
+        "Venus": 2,
+        "Rahu": 1,
+        "Mars": 1
+      },
+      "asc_sign_counts": {
+        "Gemini": 2,
+        "Scorpio": 1,
+        "Aquarius": 1,
+        "Leo": 2
+      },
+      "mc_sign_counts": {
+        "Aquarius": 1,
+        "Pisces": 2,
+        "Virgo": 1,
+        "Sagittarius": 1,
+        "Taurus": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_exploration_round1": 1,
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 1,
+        "mass_intake_revolution_round1": 1,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "dominant_field_share": 0.333,
+      "dominant_role": "science_invention",
+      "dominant_role_share": 0.25,
+      "dominant_lagna": "Vrishabha",
+      "dominant_lagna_share": 0.333,
+      "dominant_nakshatra_lord": "Venus",
+      "dominant_nakshatra_lord_share": 0.333,
+      "dominant_asc_sign": "Gemini",
+      "dominant_asc_sign_share": 0.333,
+      "dominant_mc_sign": "Pisces",
+      "dominant_mc_sign_share": 0.333,
+      "resolution_hypothesis": "same western gate appears, but internal split is likely pushed into second-route differences, vedic lagna split, and output-role branching"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus",
+      "support_count": 6,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Saturn",
+        "W_angular_density_2plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "thick_packet_likely_common_factor_or_family",
+      "field_counts": {
+        "ARTS": 2,
+        "SCIENCE_TECH_INVENTION": 1,
+        "SPORTS": 1,
+        "HUMANITIES": 1,
+        "RELIGION_SPIRITUALITY": 1
+      },
+      "role_axis_counts": {
+        "performer_screen_music": 1,
+        "science_invention": 1,
+        "framework_explainer": 2
+      },
+      "lagna_counts": {
+        "Makara": 1,
+        "Mithuna": 2,
+        "Vrishabha": 2,
+        "Simha": 1
+      },
+      "nakshatra_lord_counts": {
+        "Saturn": 1,
+        "Sun": 2,
+        "Mars": 1,
+        "Rahu": 1,
+        "Ketu": 1
+      },
+      "asc_sign_counts": {
+        "Aquarius": 1,
+        "Cancer": 2,
+        "Gemini": 2,
+        "Virgo": 1
+      },
+      "mc_sign_counts": {
+        "Sagittarius": 1,
+        "Pisces": 2,
+        "Aquarius": 2,
+        "Gemini": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 4
+      },
+      "dominant_field": "ARTS",
+      "dominant_field_share": 0.333,
+      "dominant_role": "framework_explainer",
+      "dominant_role_share": 0.5,
+      "dominant_lagna": "Mithuna",
+      "dominant_lagna_share": 0.333,
+      "dominant_nakshatra_lord": "Sun",
+      "dominant_nakshatra_lord_share": 0.333,
+      "dominant_asc_sign": "Cancer",
+      "dominant_asc_sign_share": 0.333,
+      "dominant_mc_sign": "Pisces",
+      "dominant_mc_sign_share": 0.333,
+      "resolution_hypothesis": "current packet is thick enough to observe, but not yet coherent enough to name as a distinct route"
+    },
+    {
+      "packet_id": "public_figure_media_presenter_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+      "support_count": 6,
+      "top_route_id": "public_figure_media_presenter_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_hard_aspect_cluster_4plus",
+        "W_output_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "thick_packet_likely_common_factor_or_family",
+      "field_counts": {
+        "ARTS": 1,
+        "RELIGION_SPIRITUALITY": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 3,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Meena": 1,
+        "Mesha": 1,
+        "Kanya": 1,
+        "Karka": 1,
+        "Vrishabha": 1,
+        "Tula": 1
+      },
+      "nakshatra_lord_counts": {
+        "Jupiter": 3,
+        "Rahu": 1,
+        "Moon": 2
+      },
+      "asc_sign_counts": {
+        "Aries": 2,
+        "Libra": 1,
+        "Leo": 1,
+        "Taurus": 1,
+        "Scorpio": 1
+      },
+      "mc_sign_counts": {
+        "Capricorn": 2,
+        "Cancer": 1,
+        "Aries": 1,
+        "Aquarius": 1,
+        "Virgo": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_local_exact_archive_round8_v1": 2,
+        "mass_intake_local_reuse_round7_wave1": 2,
+        "mass_intake_source_backed_exact_round10_v1": 1
+      },
+      "dominant_field": "BUSINESS_ENTREPRENEURSHIP",
+      "dominant_field_share": 0.5,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Meena",
+      "dominant_lagna_share": 0.167,
+      "dominant_nakshatra_lord": "Jupiter",
+      "dominant_nakshatra_lord_share": 0.5,
+      "dominant_asc_sign": "Aries",
+      "dominant_asc_sign_share": 0.333,
+      "dominant_mc_sign": "Capricorn",
+      "dominant_mc_sign_share": 0.333,
+      "resolution_hypothesis": "top/second route pair public_figure_media_presenter_frozen_v1 + institutions_core_governance_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 6,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "thick_packet_likely_common_factor_or_family",
+      "field_counts": {
+        "ARTS": 2,
+        "BUSINESS_ENTREPRENEURSHIP": 2,
+        "SPORTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {
+        "performer_screen_music": 2
+      },
+      "lagna_counts": {
+        "Vrishchika": 1,
+        "Tula": 1,
+        "Kanya": 1,
+        "Mithuna": 1,
+        "Meena": 1,
+        "Karka": 1
+      },
+      "nakshatra_lord_counts": {
+        "Mars": 1,
+        "Rahu": 1,
+        "Jupiter": 2,
+        "Moon": 1,
+        "Mercury": 1
+      },
+      "asc_sign_counts": {
+        "Sagittarius": 1,
+        "Scorpio": 1,
+        "Virgo": 1,
+        "Cancer": 1,
+        "Pisces": 1,
+        "Leo": 1
+      },
+      "mc_sign_counts": {
+        "Virgo": 1,
+        "Leo": 1,
+        "Gemini": 1,
+        "Pisces": 1,
+        "Sagittarius": 1,
+        "Aries": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 3,
+        "mass_intake_source_backed_exact_round10_v1": 1
+      },
+      "dominant_field": "ARTS",
+      "dominant_field_share": 0.333,
+      "dominant_role": "performer_screen_music",
+      "dominant_role_share": 1.0,
+      "dominant_lagna": "Vrishchika",
+      "dominant_lagna_share": 0.167,
+      "dominant_nakshatra_lord": "Jupiter",
+      "dominant_nakshatra_lord_share": 0.333,
+      "dominant_asc_sign": "Sagittarius",
+      "dominant_asc_sign_share": 0.167,
+      "dominant_mc_sign": "Virgo",
+      "dominant_mc_sign_share": 0.167,
+      "resolution_hypothesis": "current packet is thick enough to observe, but not yet coherent enough to name as a distinct route"
+    },
+    {
+      "packet_id": "humanities_public_translation_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_Mars_house_7+W_angular_Mars+W_house_cluster_H6+W_visible_Mars_house_7",
+      "support_count": 5,
+      "top_route_id": "humanities_public_translation_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_Mars_house_7",
+        "W_angular_Mars",
+        "W_house_cluster_H6",
+        "W_visible_Mars_house_7"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "HUMANITIES": 1,
+        "RELIGION_SPIRITUALITY": 1,
+        "ARTS": 1,
+        "INSTITUTIONS_POLITICS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {
+        "activism_movement": 1,
+        "framework_explainer": 1,
+        "religion_clergy_doctrine": 1,
+        "performer_screen_music": 1,
+        "governance_power": 1,
+        "science_invention": 1,
+        "business_market": 1
+      },
+      "lagna_counts": {
+        "Vrishabha": 1,
+        "Kanya": 1,
+        "Kumbha": 1,
+        "Mesha": 2
+      },
+      "nakshatra_lord_counts": {
+        "Mercury": 1,
+        "Moon": 1,
+        "Mars": 1,
+        "Sun": 2
+      },
+      "asc_sign_counts": {
+        "Taurus": 3,
+        "Virgo": 1,
+        "Pisces": 1
+      },
+      "mc_sign_counts": {
+        "Aquarius": 1,
+        "Gemini": 1,
+        "Sagittarius": 1,
+        "Capricorn": 2
+      },
+      "batch_prefix_counts": {
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 1,
+        "mass_intake_round5_arts_category_large": 1,
+        "mass_intake_round5b_institutions_category_large_retry": 1,
+        "mass_intake_round5b_science_category_large_retry": 1
+      },
+      "dominant_field": "HUMANITIES",
+      "dominant_field_share": 0.2,
+      "dominant_role": "activism_movement",
+      "dominant_role_share": 0.143,
+      "dominant_lagna": "Mesha",
+      "dominant_lagna_share": 0.4,
+      "dominant_nakshatra_lord": "Sun",
+      "dominant_nakshatra_lord_share": 0.4,
+      "dominant_asc_sign": "Taurus",
+      "dominant_asc_sign_share": 0.6,
+      "dominant_mc_sign": "Capricorn",
+      "dominant_mc_sign_share": 0.4,
+      "resolution_hypothesis": "top/second route pair humanities_public_translation_frozen_v1 + institutions_core_governance_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_institution_doctrine_reform_frozen_v1__features=W_angular_Mars+W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_Saturn",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 3,
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Vrishchika": 3,
+        "Vrishabha": 1,
+        "Karka": 1
+      },
+      "nakshatra_lord_counts": {
+        "Saturn": 1,
+        "Mars": 2,
+        "Jupiter": 1,
+        "Ketu": 1
+      },
+      "asc_sign_counts": {
+        "Sagittarius": 3,
+        "Gemini": 1,
+        "Leo": 1
+      },
+      "mc_sign_counts": {
+        "Libra": 2,
+        "Aquarius": 1,
+        "Taurus": 1,
+        "Virgo": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 2,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "BUSINESS_ENTREPRENEURSHIP",
+      "dominant_field_share": 0.6,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Vrishchika",
+      "dominant_lagna_share": 0.6,
+      "dominant_nakshatra_lord": "Mars",
+      "dominant_nakshatra_lord_share": 0.4,
+      "dominant_asc_sign": "Sagittarius",
+      "dominant_asc_sign_share": 0.6,
+      "dominant_mc_sign": "Libra",
+      "dominant_mc_sign_share": 0.4,
+      "resolution_hypothesis": "top/second route pair institutions_core_governance_frozen_v1 + religion_institution_doctrine_reform_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mars+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mars",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "INSTITUTIONS_POLITICS": 1,
+        "SCIENCE_TECH_INVENTION": 1,
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "SPORTS": 1,
+        "ARTS": 1
+      },
+      "role_axis_counts": {
+        "governance_power": 1,
+        "performer_screen_music": 2,
+        "science_invention": 1,
+        "athlete_body_competition": 1
+      },
+      "lagna_counts": {
+        "Simha": 1,
+        "Mesha": 1,
+        "Vrishabha": 1,
+        "Karka": 2
+      },
+      "nakshatra_lord_counts": {
+        "Venus": 2,
+        "Sun": 1,
+        "Mars": 1,
+        "Mercury": 1
+      },
+      "asc_sign_counts": {
+        "Virgo": 1,
+        "Taurus": 1,
+        "Gemini": 1,
+        "Leo": 2
+      },
+      "mc_sign_counts": {
+        "Gemini": 1,
+        "Capricorn": 1,
+        "Aquarius": 1,
+        "Taurus": 1,
+        "Aries": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 2,
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 1,
+        "mass_intake_round5_arts_category_large": 1
+      },
+      "dominant_field": "INSTITUTIONS_POLITICS",
+      "dominant_field_share": 0.2,
+      "dominant_role": "performer_screen_music",
+      "dominant_role_share": 0.4,
+      "dominant_lagna": "Karka",
+      "dominant_lagna_share": 0.4,
+      "dominant_nakshatra_lord": "Venus",
+      "dominant_nakshatra_lord_share": 0.4,
+      "dominant_asc_sign": "Leo",
+      "dominant_asc_sign_share": 0.4,
+      "dominant_mc_sign": "Gemini",
+      "dominant_mc_sign_share": 0.2,
+      "resolution_hypothesis": "top/second route pair institutions_core_governance_frozen_v1 + religion_public_teacher_healer_media_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "institutions_core_governance_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Saturn+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 5,
+      "top_route_id": "institutions_core_governance_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Saturn",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "INSTITUTIONS_POLITICS": 1,
+        "SPORTS": 2,
+        "RELIGION_SPIRITUALITY": 1
+      },
+      "role_axis_counts": {
+        "activism_movement": 1,
+        "governance_power": 1
+      },
+      "lagna_counts": {
+        "Karka": 1,
+        "Mesha": 1,
+        "Tula": 1,
+        "Dhanu": 1,
+        "Simha": 1
+      },
+      "nakshatra_lord_counts": {
+        "Jupiter": 2,
+        "Sun": 3
+      },
+      "asc_sign_counts": {
+        "Leo": 1,
+        "Aries": 1,
+        "Scorpio": 1,
+        "Capricorn": 1,
+        "Virgo": 1
+      },
+      "mc_sign_counts": {
+        "Taurus": 1,
+        "Capricorn": 1,
+        "Leo": 1,
+        "Scorpio": 1,
+        "Gemini": 1
+      },
+      "batch_prefix_counts": {
+        "mass_intake_local_reuse_round7_wave1": 4,
+        "mass_intake_source_backed_exact_round10_v1": 1
+      },
+      "dominant_field": "SPORTS",
+      "dominant_field_share": 0.4,
+      "dominant_role": "activism_movement",
+      "dominant_role_share": 0.5,
+      "dominant_lagna": "Karka",
+      "dominant_lagna_share": 0.2,
+      "dominant_nakshatra_lord": "Sun",
+      "dominant_nakshatra_lord_share": 0.6,
+      "dominant_asc_sign": "Leo",
+      "dominant_asc_sign_share": 0.2,
+      "dominant_mc_sign": "Taurus",
+      "dominant_mc_sign_share": 0.2,
+      "resolution_hypothesis": "top/second route pair institutions_core_governance_frozen_v1 + religion_public_teacher_healer_media_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "humanities_critique_interpreter_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Jupiter+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "humanities_critique_interpreter_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "RELIGION_SPIRITUALITY": 2,
+        "ARTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Vrishchika": 1,
+        "Meena": 1,
+        "Tula": 1,
+        "Simha": 1
+      },
+      "nakshatra_lord_counts": {
+        "Ketu": 2,
+        "Mercury": 1,
+        "Sun": 1
+      },
+      "asc_sign_counts": {
+        "Sagittarius": 1,
+        "Aries": 1,
+        "Scorpio": 1,
+        "Virgo": 1
+      },
+      "mc_sign_counts": {
+        "Virgo": 1,
+        "Capricorn": 1,
+        "Leo": 1,
+        "Gemini": 1
+      },
+      "batch_prefix_counts": {
+        "mass_intake_local_reuse_round7_wave1": 1,
+        "mass_intake_religion_round4_seeded": 1,
+        "mass_intake_round5_arts_category_large": 1,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "RELIGION_SPIRITUALITY",
+      "dominant_field_share": 0.5,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Vrishchika",
+      "dominant_lagna_share": 0.25,
+      "dominant_nakshatra_lord": "Ketu",
+      "dominant_nakshatra_lord_share": 0.5,
+      "dominant_asc_sign": "Sagittarius",
+      "dominant_asc_sign_share": 0.25,
+      "dominant_mc_sign": "Virgo",
+      "dominant_mc_sign_share": 0.25,
+      "resolution_hypothesis": "top/second route pair humanities_critique_interpreter_frozen_v1 + religion_public_teacher_healer_media_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "public_figure_media_presenter_frozen_v1__second=religion_mystic_writer_channel_symbol_frozen_v1__features=W_hard_aspect_cluster_4plus+W_output_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "public_figure_media_presenter_frozen_v1",
+      "second_route_id": "religion_mystic_writer_channel_symbol_frozen_v1",
+      "top_hit_features": [
+        "W_hard_aspect_cluster_4plus",
+        "W_output_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "SCIENCE_TECH_INVENTION": 2,
+        "ARTS": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Simha": 1,
+        "Karka": 2,
+        "Mithuna": 1
+      },
+      "nakshatra_lord_counts": {
+        "Moon": 1,
+        "Sun": 1,
+        "Mercury": 2
+      },
+      "asc_sign_counts": {
+        "Virgo": 1,
+        "Cancer": 3
+      },
+      "mc_sign_counts": {
+        "Gemini": 1,
+        "Pisces": 2,
+        "Aries": 1
+      },
+      "batch_prefix_counts": {
+        "mass_intake_local_reuse_round7_wave1": 1,
+        "mass_intake_source_backed_exact_round10_v1": 2,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "SCIENCE_TECH_INVENTION",
+      "dominant_field_share": 0.5,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Karka",
+      "dominant_lagna_share": 0.5,
+      "dominant_nakshatra_lord": "Mercury",
+      "dominant_nakshatra_lord_share": 0.5,
+      "dominant_asc_sign": "Cancer",
+      "dominant_asc_sign_share": 0.75,
+      "dominant_mc_sign": "Pisces",
+      "dominant_mc_sign_share": 0.5,
+      "resolution_hypothesis": "top/second route pair public_figure_media_presenter_frozen_v1 + religion_mystic_writer_channel_symbol_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=humanities_critique_interpreter_frozen_v1__features=W_angular_Jupiter+W_angular_Moon+W_angular_density_2plus+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "humanities_critique_interpreter_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Jupiter",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "ARTS": 1,
+        "SPORTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Mithuna": 1,
+        "Kanya": 2,
+        "Vrishchika": 1
+      },
+      "nakshatra_lord_counts": {
+        "Jupiter": 2,
+        "Mars": 1,
+        "Mercury": 1
+      },
+      "asc_sign_counts": {
+        "Gemini": 1,
+        "Libra": 2,
+        "Scorpio": 1
+      },
+      "mc_sign_counts": {
+        "Pisces": 1,
+        "Cancer": 2,
+        "Virgo": 1
+      },
+      "batch_prefix_counts": {
+        "mass_intake_business_round3_seeded": 1,
+        "mass_intake_local_reuse_round7_wave1": 1,
+        "mass_intake_round5b_sports_category_large_retry": 1,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "BUSINESS_ENTREPRENEURSHIP",
+      "dominant_field_share": 0.25,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Kanya",
+      "dominant_lagna_share": 0.5,
+      "dominant_nakshatra_lord": "Jupiter",
+      "dominant_nakshatra_lord_share": 0.5,
+      "dominant_asc_sign": "Libra",
+      "dominant_asc_sign_share": 0.5,
+      "dominant_mc_sign": "Cancer",
+      "dominant_mc_sign_share": 0.5,
+      "resolution_hypothesis": "top/second route pair religion_institution_doctrine_reform_frozen_v1 + humanities_critique_interpreter_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=institutions_core_governance_frozen_v1__features=W_angular_Moon+W_angular_density_2plus+W_house_cluster_H6+W_pressure_house_density_3plus",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "institutions_core_governance_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_house_cluster_H6",
+        "W_pressure_house_density_3plus"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "ARTS": 1,
+        "SPORTS": 2,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Dhanu": 1,
+        "Mesha": 2,
+        "Karka": 1
+      },
+      "nakshatra_lord_counts": {
+        "Mars": 2,
+        "Jupiter": 1,
+        "Moon": 1
+      },
+      "asc_sign_counts": {
+        "Sagittarius": 1,
+        "Taurus": 2,
+        "Leo": 1
+      },
+      "mc_sign_counts": {
+        "Libra": 1,
+        "Capricorn": 2,
+        "Aries": 1
+      },
+      "batch_prefix_counts": {
+        "legacy_astrotheme_exact_round6": 1,
+        "mass_intake_local_reuse_round7_wave1": 2,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "SPORTS",
+      "dominant_field_share": 0.5,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Mesha",
+      "dominant_lagna_share": 0.5,
+      "dominant_nakshatra_lord": "Mars",
+      "dominant_nakshatra_lord_share": 0.5,
+      "dominant_asc_sign": "Taurus",
+      "dominant_asc_sign_share": 0.5,
+      "dominant_mc_sign": "Capricorn",
+      "dominant_mc_sign_share": 0.5,
+      "resolution_hypothesis": "top/second route pair religion_institution_doctrine_reform_frozen_v1 + institutions_core_governance_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_Moon+W_angular_density_2plus+W_house_cluster_H4",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_Moon",
+        "W_angular_density_2plus",
+        "W_house_cluster_H4"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "watch_packet_needing_manual_reading",
+      "field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "INSTITUTIONS_POLITICS": 1,
+        "SPORTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Simha": 3,
+        "Tula": 1
+      },
+      "nakshatra_lord_counts": {
+        "Venus": 3,
+        "Mercury": 1
+      },
+      "asc_sign_counts": {
+        "Virgo": 3,
+        "Scorpio": 1
+      },
+      "mc_sign_counts": {
+        "Gemini": 2,
+        "Taurus": 1,
+        "Leo": 1
+      },
+      "batch_prefix_counts": {
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 2,
+        "mass_intake_source_backed_exact_round10_v1": 1
+      },
+      "dominant_field": "BUSINESS_ENTREPRENEURSHIP",
+      "dominant_field_share": 0.25,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Simha",
+      "dominant_lagna_share": 0.75,
+      "dominant_nakshatra_lord": "Venus",
+      "dominant_nakshatra_lord_share": 0.75,
+      "dominant_asc_sign": "Virgo",
+      "dominant_asc_sign_share": 0.75,
+      "dominant_mc_sign": "Gemini",
+      "dominant_mc_sign_share": 0.5,
+      "resolution_hypothesis": "top/second route pair religion_institution_doctrine_reform_frozen_v1 + religion_public_teacher_healer_media_frozen_v1 may still be separated by vedic patterning rather than by western visible packet alone"
+    },
+    {
+      "packet_id": "religion_institution_doctrine_reform_frozen_v1__second=religion_public_teacher_healer_media_frozen_v1__features=W_angular_Mercury+W_angular_density_2plus+W_house_cluster_H4+W_house_cluster_H6",
+      "support_count": 4,
+      "top_route_id": "religion_institution_doctrine_reform_frozen_v1",
+      "second_route_id": "religion_public_teacher_healer_media_frozen_v1",
+      "top_hit_features": [
+        "W_angular_Mercury",
+        "W_angular_density_2plus",
+        "W_house_cluster_H4",
+        "W_house_cluster_H6"
+      ],
+      "is_surviving_candidate": false,
+      "resolution_class": "multi_output_family_not_single_route_yet",
+      "field_counts": {
+        "BUSINESS_ENTREPRENEURSHIP": 1,
+        "REVOLUTION_ACTIVISM_IDEOLOGY": 1,
+        "ARTS": 1,
+        "SCIENCE_TECH_INVENTION": 1
+      },
+      "role_axis_counts": {},
+      "lagna_counts": {
+        "Dhanu": 1,
+        "Tula": 1,
+        "Vrishabha": 1,
+        "Kanya": 1
+      },
+      "nakshatra_lord_counts": {
+        "Ketu": 2,
+        "Rahu": 1,
+        "Sun": 1
+      },
+      "asc_sign_counts": {
+        "Capricorn": 1,
+        "Scorpio": 1,
+        "Gemini": 1,
+        "Libra": 1
+      },
+      "mc_sign_counts": {
+        "Scorpio": 1,
+        "Virgo": 1,
+        "Aquarius": 1,
+        "Cancer": 1
+      },
+      "batch_prefix_counts": {
+        "mass_intake_local_exact_archive_round8_v1": 1,
+        "mass_intake_local_reuse_round7_wave1": 2,
+        "mass_intake_structured_public_exact_round9_v1": 1
+      },
+      "dominant_field": "BUSINESS_ENTREPRENEURSHIP",
+      "dominant_field_share": 0.25,
+      "dominant_role": "",
+      "dominant_role_share": 0.0,
+      "dominant_lagna": "Dhanu",
+      "dominant_lagna_share": 0.25,
+      "dominant_nakshatra_lord": "Ketu",
+      "dominant_nakshatra_lord_share": 0.5,
+      "dominant_asc_sign": "Capricorn",
+      "dominant_asc_sign_share": 0.25,
+      "dominant_mc_sign": "Scorpio",
+      "dominant_mc_sign_share": 0.25,
+      "resolution_hypothesis": "many people share the same visible western pressure bundle, but actual manifestations diverge before a single stable route emerges"
+    }
+  ],
+  "working_hypothesis": {
+    "current_route_layer": "mainly captures visible western gate plus top/second route outcome",
+    "why_differences_can_hide": [
+      "same visible gate can still split by role output",
+      "same visible gate can still split by vedic lagna and moon-nakshatra-lord distribution",
+      "large packets may describe public-figure common pressure rather than a final narrow route"
+    ]
+  }
+}

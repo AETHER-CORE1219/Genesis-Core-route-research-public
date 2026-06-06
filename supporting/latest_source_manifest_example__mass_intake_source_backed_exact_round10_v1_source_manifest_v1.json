@@ -1,0 +1,1180 @@
+{
+  "metadata": {
+    "purpose": "trace accepted and skipped names for source-backed exact round10 batch",
+    "created_at": "2026-06-04T14:33:43+00:00",
+    "row_count": 92,
+    "accepted_count": 64,
+    "skipped_count": 28
+  },
+  "rows": [
+    {
+      "name": "Adolph Kolping",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "RELIGION_SPIRITUALITY",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "priest social reform institution",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Adolphe Sax",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "musical instrument inventor saxophone sound device",
+      "source_files": [
+        "route_family_p1_science_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_science_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_science_fresh_round1_biography_label_audit_v1.csv",
+        "route_family_p1_science_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Alan Arkin",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "ARTS",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "actor director scriptwriter expression channel",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Aldo Gucci",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "luxury brand business aesthetic market",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Andrew Forsyth",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician analysis differential equations",
+      "source_files": [
+        "science_exact_expansion_round4_chart_facts_v1.json",
+        "science_exact_expansion_round4_records_v1.json",
+        "science_exact_expansion_round4_biography_audit_v1.csv",
+        "science_exact_expansion_round4_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Antoine Jerome Balard",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "chemist bromine discovery halogen chemistry",
+      "source_files": [
+        "science_exact_expansion_round2_lmt_addendum_chart_facts_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv",
+        "science_exact_expansion_round2_lmt_addendum_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Antonio Innocenti",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "RELIGION_SPIRITUALITY",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "priest cardinal institution",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Arthur Schawlow",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physicist laser spectroscopy development",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Betty Holberton",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "ENIAC programmer debugging breakpoints BINAC C10",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json",
+        "science_exact_expansion_round9_computing_threshold_records_v1.json",
+        "science_exact_expansion_round9_computing_threshold_biography_audit_v1.csv",
+        "science_exact_expansion_round9_computing_threshold_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Bob Carriere",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "electronic lock digicode electronics engineer",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json",
+        "science_exact_expansion_round6_computing_signal_records_v1.json",
+        "science_exact_expansion_round6_computing_signal_biography_audit_v1.csv",
+        "science_exact_expansion_round6_computing_signal_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Bryan Cantrill",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "systems software engineering DTrace infrastructure",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json",
+        "science_exact_expansion_round9_computing_threshold_records_v1.json",
+        "science_exact_expansion_round9_computing_threshold_biography_audit_v1.csv",
+        "science_exact_expansion_round9_computing_threshold_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "C. Sidney Burrus",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "DSP FFT algorithms filters wavelets",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json",
+        "science_exact_expansion_round6_computing_signal_records_v1.json",
+        "science_exact_expansion_round6_computing_signal_biography_audit_v1.csv",
+        "science_exact_expansion_round6_computing_signal_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Carlo Rubbia",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "particle physicist W Z boson discovery experiment leader",
+      "source_files": [
+        "science_exact_expansion_round3_chart_facts_v1.json",
+        "science_exact_expansion_round3_records_v1.json",
+        "science_exact_expansion_round3_biography_audit_v1.csv",
+        "science_exact_expansion_round3_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Charles Laveran",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physician pathologist parasitologist malaria parasite discovery",
+      "source_files": [
+        "route_family_p1_science_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_science_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_science_fresh_round1_biography_label_audit_v1.csv",
+        "route_family_p1_science_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Daniel Meyer",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "electronics kits complete computer systems founder",
+      "source_files": [
+        "science_exact_expansion_round7_computing_engineering_chart_facts_v1.json",
+        "science_exact_expansion_round7_computing_engineering_records_v1.json",
+        "science_exact_expansion_round7_computing_engineering_biography_audit_v1.csv",
+        "science_exact_expansion_round7_computing_engineering_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "David Elboth",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "linux unix systems architecture writer",
+      "source_files": [
+        "science_exact_expansion_round7_computing_engineering_chart_facts_v1.json",
+        "science_exact_expansion_round7_computing_engineering_records_v1.json",
+        "science_exact_expansion_round7_computing_engineering_biography_audit_v1.csv",
+        "science_exact_expansion_round7_computing_engineering_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Deane Montgomery",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician topology transformation groups Hilbert fifth problem",
+      "source_files": [
+        "science_exact_expansion_round4_chart_facts_v1.json",
+        "science_exact_expansion_round4_records_v1.json",
+        "science_exact_expansion_round4_biography_audit_v1.csv",
+        "science_exact_expansion_round4_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Donald Glaser",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physicist bubble chamber inventor high energy particle observation",
+      "source_files": [
+        "science_exact_expansion_round4_chart_facts_v1.json",
+        "science_exact_expansion_round4_records_v1.json",
+        "science_exact_expansion_round4_biography_audit_v1.csv",
+        "science_exact_expansion_round4_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Elia Dalla Costa",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "RELIGION_SPIRITUALITY",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "priest cardinal institution moral action",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Elie Thierens",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "electrical engineering standardization university lecturer",
+      "source_files": [
+        "science_exact_expansion_round7_computing_engineering_chart_facts_v1.json",
+        "science_exact_expansion_round7_computing_engineering_records_v1.json",
+        "science_exact_expansion_round7_computing_engineering_biography_audit_v1.csv",
+        "science_exact_expansion_round7_computing_engineering_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Elie-Joseph Cartan",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician lie groups differential geometry",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Emile Borel",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician measure theory probability",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Eric Gerard",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "electrical engineer telegraph electrotechnical institute",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json",
+        "science_exact_expansion_round6_computing_signal_records_v1.json",
+        "science_exact_expansion_round6_computing_signal_biography_audit_v1.csv",
+        "science_exact_expansion_round6_computing_signal_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Esmond Emerson Snell",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "biochemist vitamin B6 folic acid nutritional microbiology",
+      "source_files": [
+        "science_exact_expansion_round3_chart_facts_v1.json",
+        "science_exact_expansion_round3_records_v1.json",
+        "science_exact_expansion_round3_biography_audit_v1.csv",
+        "science_exact_expansion_round3_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Evert Van Dijk",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "pilot aviation",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_exploration_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_exploration_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Fernanda Viegas",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "information visualization social collaborative visual analytics",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json",
+        "science_exact_expansion_round9_computing_threshold_records_v1.json",
+        "science_exact_expansion_round9_computing_threshold_biography_audit_v1.csv",
+        "science_exact_expansion_round9_computing_threshold_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Francis R. Scobee",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "astronaut test pilot mission",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_exploration_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_exploration_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Francis Santoni",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "software engineer astrology software Aureas",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json",
+        "science_exact_expansion_round9_computing_threshold_records_v1.json",
+        "science_exact_expansion_round9_computing_threshold_biography_audit_v1.csv",
+        "science_exact_expansion_round9_computing_threshold_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "G. Quispel",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "RELIGION_SPIRITUALITY",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "historian theologian textual doctrine",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Gene Keiffer",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "electronic engineer surveillance communications software defense",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json",
+        "science_exact_expansion_round8_named_computing_records_v1.json",
+        "science_exact_expansion_round8_named_computing_biography_audit_v1.csv",
+        "science_exact_expansion_round8_named_computing_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Giorgio Garuzzo",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "computer field technical production marketing engineer",
+      "source_files": [
+        "science_exact_expansion_round7_computing_engineering_chart_facts_v1.json",
+        "science_exact_expansion_round7_computing_engineering_records_v1.json",
+        "science_exact_expansion_round7_computing_engineering_biography_audit_v1.csv",
+        "science_exact_expansion_round7_computing_engineering_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Gustav Krupp Von Bohlen",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "industrial business institution builder",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Gustave Trouve",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "electrical engineer inventor miniaturization",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json",
+        "science_exact_expansion_round6_computing_signal_records_v1.json",
+        "science_exact_expansion_round6_computing_signal_biography_audit_v1.csv",
+        "science_exact_expansion_round6_computing_signal_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Guy Laroche",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "ARTS",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "fashion design aesthetic market",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Hans Küng",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "RELIGION_SPIRITUALITY",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "theologian priest doctrine reform writer",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Hugo Junkers",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "aircraft engineer inventor industrialist all metal aircraft",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Hugues Bersini",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "informatician AI laboratory director",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json",
+        "science_exact_expansion_round8_named_computing_records_v1.json",
+        "science_exact_expansion_round8_named_computing_biography_audit_v1.csv",
+        "science_exact_expansion_round8_named_computing_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "J. Henri Poincare",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician mathematical physicist geometry differential equations topology philosophy of mathematics",
+      "source_files": [
+        "route_family_p1_science_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_science_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_science_fresh_round1_biography_label_audit_v1.csv",
+        "route_family_p1_science_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Jacques Vallee",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "ARPANET network information center astronomy computer mapping",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json",
+        "science_exact_expansion_round6_computing_signal_records_v1.json",
+        "science_exact_expansion_round6_computing_signal_biography_audit_v1.csv",
+        "science_exact_expansion_round6_computing_signal_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "James D. Watson",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "molecular biologist DNA double helix structure",
+      "source_files": [
+        "science_exact_expansion_round4_chart_facts_v1.json",
+        "science_exact_expansion_round4_records_v1.json",
+        "science_exact_expansion_round4_biography_audit_v1.csv",
+        "science_exact_expansion_round4_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Jerome Rota",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "software developer DivX video codec",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json",
+        "science_exact_expansion_round8_named_computing_records_v1.json",
+        "science_exact_expansion_round8_named_computing_biography_audit_v1.csv",
+        "science_exact_expansion_round8_named_computing_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Johannes van der Waals",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physicist equation of state gases liquids inter molecular forces",
+      "source_files": [
+        "science_exact_expansion_round5_lmt_chart_facts_v1.json",
+        "science_exact_expansion_round5_lmt_records_v1.json",
+        "science_exact_expansion_round5_lmt_biography_audit_v1.csv",
+        "science_exact_expansion_round5_lmt_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Jules Drach",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician differential equations",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Luc Luycx",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "computer engineer euro coin digital design",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json",
+        "science_exact_expansion_round8_named_computing_records_v1.json",
+        "science_exact_expansion_round8_named_computing_biography_audit_v1.csv",
+        "science_exact_expansion_round8_named_computing_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Luitzen Brouwer",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician intuitionism topology",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Makio Murayama",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "chemist hemoglobin model sickle cell research",
+      "source_files": [
+        "science_exact_expansion_round3_chart_facts_v1.json",
+        "science_exact_expansion_round3_records_v1.json",
+        "science_exact_expansion_round3_biography_audit_v1.csv",
+        "science_exact_expansion_round3_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Max Cros",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "pilot aviation",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_exploration_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_exploration_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Max von Laue",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physicist xray diffraction crystal structure",
+      "source_files": [
+        "science_exact_expansion_round5_lmt_chart_facts_v1.json",
+        "science_exact_expansion_round5_lmt_records_v1.json",
+        "science_exact_expansion_round5_lmt_biography_audit_v1.csv",
+        "science_exact_expansion_round5_lmt_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Oscar Levant",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "ARTS",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "actor composer music performance expression",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Otto Hahn",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "chemist radiochemistry nuclear fission discovery",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Paul Ricard",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "consumer brand business",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Redd Foxx",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "ARTS",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "comedian actor public voice",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "René Henri Fonteilles",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "pilot aviation",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_exploration_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_exploration_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Richard Garwin",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physicist engineer invention policy context",
+      "source_files": [
+        "route_family_p1_science_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_science_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_science_fresh_round1_biography_label_audit_v1.csv",
+        "route_family_p1_science_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Robert Alan Good",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "physician immunology bone marrow transplant modern immunology",
+      "source_files": [
+        "route_family_p1_science_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_science_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_science_fresh_round1_biography_label_audit_v1.csv",
+        "route_family_p1_science_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Robert Mercer",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "computer scientist AI statistical language finance",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json",
+        "science_exact_expansion_round6_computing_signal_records_v1.json",
+        "science_exact_expansion_round6_computing_signal_biography_audit_v1.csv",
+        "science_exact_expansion_round6_computing_signal_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Roger B. Chaffee",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "EXPLORATION_EXTREME_ACHIEVEMENT",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "astronaut mission risk",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json",
+        "route_family_p1_exploration_fresh_round1_records_v1.json",
+        "route_family_p1_fresh_exact_screening_round1_v1.csv",
+        "route_family_p1_exploration_fresh_round1_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Ryad Boulanouar",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "smart card payment transport systems",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json",
+        "science_exact_expansion_round8_named_computing_records_v1.json",
+        "science_exact_expansion_round8_named_computing_biography_audit_v1.csv",
+        "science_exact_expansion_round8_named_computing_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Simon Newcomb",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "astronomer mathematician ephemerides astronomical constants",
+      "source_files": [
+        "science_exact_expansion_round5_lmt_chart_facts_v1.json",
+        "science_exact_expansion_round5_lmt_records_v1.json",
+        "science_exact_expansion_round5_lmt_biography_audit_v1.csv",
+        "science_exact_expansion_round5_lmt_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Sostenes Lins",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician computer scientist software developer",
+      "source_files": [
+        "science_exact_expansion_round7_computing_engineering_chart_facts_v1.json",
+        "science_exact_expansion_round7_computing_engineering_records_v1.json",
+        "science_exact_expansion_round7_computing_engineering_biography_audit_v1.csv",
+        "science_exact_expansion_round7_computing_engineering_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Stan Frankel",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "early computers desktop calculators consultant",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json",
+        "science_exact_expansion_round9_computing_threshold_records_v1.json",
+        "science_exact_expansion_round9_computing_threshold_biography_audit_v1.csv",
+        "science_exact_expansion_round9_computing_threshold_manual_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "Stuart Dreyfus",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "JOHNNIAC programmer operations research",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json",
+        "science_computing_fresh_holdout_analysis_ready_v1.json",
+        "science_computing_fresh_holdout_candidates_v1.csv"
+      ]
+    },
+    {
+      "name": "Tullio Levi-Civita",
+      "status": "accepted",
+      "reason": "local_source_backed_exact_chart_reuse",
+      "primary_field": "SCIENCE_TECH_INVENTION",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "mathematician tensor calculus differential geometry",
+      "source_files": [
+        "science_exact_expansion_round2_chart_facts_v1.json",
+        "science_exact_expansion_round2_records_v1.json",
+        "science_exact_expansion_leads_round2_v1.csv",
+        "science_exact_expansion_round2_biography_audit_v1.csv"
+      ]
+    },
+    {
+      "name": "William Jovanovich",
+      "status": "accepted",
+      "reason": "external_source_backed_exact_screening",
+      "primary_field": "BUSINESS_ENTREPRENEURSHIP",
+      "rodden_or_equivalent_rating": "AA",
+      "activity_label": "publishing business information platform",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Accident: Burned 44969",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Charles E. Leiserson",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Christa McAuliffe",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Computer Analyst 44509",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Computer Programmer 10831",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Computer Programmer 12926",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Computer Programmer 13619",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Douglas Corrigan",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "J. J. Stiffler",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Jacques Stern 1932",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Jay Miner",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Jina Anne",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Margaret Hamilton",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round6_computing_signal_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Maria Schlicker",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Mark Pottenger",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Marlon Brando",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Mensan 14587",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "P.V.R. Narasimha Rao",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round9_computing_threshold_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Pierre Cardin",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Pope Pius XII",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "six_domain_external_exact_expansion_leads_round1_v1.csv"
+      ]
+    },
+    {
+      "name": "Randy Kraft",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Reed Meschke",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round8_named_computing_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Rique Pottenger",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Robert Weber 1942",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round7_computing_engineering_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Rusty Schweickart",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Tycho Brahe",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_exact_expansion_round5_lmt_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Umberto Pelizzari",
+      "status": "skipped",
+      "reason": "excluded_context_or_non_public",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "science_computing_fresh_holdout_chart_facts_v1.json"
+      ]
+    },
+    {
+      "name": "Walter Schirra",
+      "status": "skipped",
+      "reason": "already_in_master",
+      "primary_field": "",
+      "rodden_or_equivalent_rating": "",
+      "activity_label": "",
+      "source_files": [
+        "route_family_p1_exploration_fresh_round1_chart_facts_v1.json"
+      ]
+    }
+  ]
+}
