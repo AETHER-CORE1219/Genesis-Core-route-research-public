@@ -1,0 +1,9 @@
+{
+  "device": "cuda:0",
+  "loaded_before_truth": true,
+  "model_id": "Qwen/Qwen3-4B-Instruct-2507",
+  "parameter_count": 4022468096,
+  "phase_id": "phase_aksq_development109_five_function_dual_procedure_measurement_canary",
+  "revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+  "schema_id": "AKSQ_MODEL_LOAD_PROOF_V1"
+}

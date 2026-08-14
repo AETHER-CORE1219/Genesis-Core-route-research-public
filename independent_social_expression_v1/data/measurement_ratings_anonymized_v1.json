@@ -1,0 +1,846 @@
+{
+  "phase_id": "phase_aksq_development109_five_function_dual_procedure_measurement_canary",
+  "ratings": [
+    {
+      "evidence_id": "e37fbf86d75a2da655ac604720311b6b549577c1eabc11688ffaa07feb77e5e8",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "d6560b1a4812e72f5931b9e26ad880c5d9ce359c1849f2433027f10a5b8216e7",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "34623768f31c056b446faf59911ec6b3d63d5aaa45065c1454aa9d05e099176d",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "ecd48f3966d906414b328fd8583b8252e76c1b7611b5e90450540b923221e185",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "16a6c71c6447f4d9232b49e831a416b4c898faa0960e202d2458bb726ebedb8f",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "e92a3ec333db434be04a4e1e56d0d676ea11da07a198ef74db17d310193670b5",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "ce26b9f410004330b625dcb440c79aab358a705fc24d1a2e1a58efca4c5cece6",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "b50dad5bfe3462355d2a2658be569689578f78f418f7b64f805f41021c65b0c9",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "b19112f9cdf7cf5b07ed44e42d8d8aeee334a069fbd12c9635d69d87c756f737",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "f9393c7473e43a736bfacb86d5374dda6004e83597e2470beb21c3211774776d",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "5e5abe420ebac26737738158ff3edadf59ddbc18bb9ff7270682d857a2bccb8a",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "f60d65094d47b94427c586be536e2759af0f8cd56ab19c9a73d2f77f5f570b2a",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "b19112f9cdf7cf5b07ed44e42d8d8aeee334a069fbd12c9635d69d87c756f737",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "3893a5ed83779aa942ee078198b810d8c49505b8d61d357c72e976fcc8bfc153",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "470f2856481e6b760d7fa056552501c6b1e4495e66a5acdaca4ca231f9dea95e",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "f580a153c2ff585ef24edc5982dd546984c730c9a482b29f648f7cf3bdf1d107",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "771facbbd390bf6e7d2ca03cfa6e661959d1fe63b256163f5794e21625879c0b",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "3ac6e282bbe1757efb9bb70828dac1d2963489508b97bb9177e67faf1a6914a2",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "470f2856481e6b760d7fa056552501c6b1e4495e66a5acdaca4ca231f9dea95e",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "c9f96d1f533ff4ffaf8e8c03170206ccdcdf365da1bbc633f407e716e9ae3f20",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "e132e58ceb9ad5ea1f9712bbced502dee1849e9650ad19d86fecb07f106c069d",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "9ec546a93fad41a6e7ae16807b13f25e5d56d7212f053fd5d2ad8a7437dcaf88",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "9b8128cd6a3a17f4fbe570e2e85f50faffa3592360ea4691c569084dabf0e4d3",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "14b82bbcf17f9500e1cc4f9cc8039a0b8c83d169fd477f31a11499f04316265c",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "e8f27c080d60545d31d1c7f673c7c4d10750f22a9c52f6a8c4bfbb415d783041",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "c74cfbeb76fe2292ba19deb2105ff6b036695cf2b4d5e2b641b365da7cba2776",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "64115ca04eae8645de996e596c53db9ce95e42caeaf785315ec980d7ecdff135",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "729920e137218a7e1910ca85189593cf5158b40d4d7a657fe26136fff2872a24",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "7c31909aee8fe37e4028ad0f1e985d5cd9a3b72007fab09086b57c756218c286",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "db4d139ff8a6e8fcf1393ca23c0cfebfc4a9b4b81a4e5d056819d26cb4c0aa0c",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "955f06def976f80a29fe39ef3a6f06e055fe4dd61eb7cd4fb523b91dab3c00be",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "63eedcf8c7e1b83eae90bca56f14162de333c2866ec25444ee35e47bc841bf0f",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "d6c198080b1733698b88fb3c14b99bdae100be92e1158c70d76ed53ddf9c6fb7",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "8fea6e21d5292b87c17e3d77c891d469bd5ba7a868fdd9c9736883dd4e50406a",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "df982980a71e547d454f25d83de52bc61f152afed3b4e6265012ccf413308846",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "e722463d9b47361661ff600eb4467329e6cca6fba770be4a78b6b01456ba683b",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "682a366c289f32c8c8b360bafd795c83affb175a6f0874873598803e09f2d058",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "82af2bc0c65ceb4aa6c39d63a2d00d3ad31c3b781dd43df00a42af67eed64b96",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "ba90b16820ad410a3a178cd6fb83bd4794e334ada0130ff88b3c90fa9a49adec",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "a863cdc94c13c8a5ece404559de5ab67c31e3416ff3ee2223fb7498b7f05c90e",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "efd58b1f64113c4257665f80cbe8142ece8dba9ce5148a3ddc48578b5fa9aef2",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "9a6b1dbcddd7bc2619aa5cdbba058350f1864d5d82c294b2d3210b22f676a0b9",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "d79935efb09cbed2e56b329523205964469c14a2d8b7b530af39c3060849a96a",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "26b095f8059a023230c93015ea70b2de05eede7cab0ffc83fe8ad38729a3bf2e",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "38e4f3848ceb312f1420cd2fd42b4048e55e29a10d87f7ed77f3253c44f3eec8",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "984b1169754d48e108b565081987ebe9db9f09e31e7dd8599be2e7171d5468cb",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "9e978ee9859663d14cf95dfb8d0f3e5a9189487ff6a520773bd21847ec72987f",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "7ed9fc2286b2c4d8814fa902198b48c655e59d009a5ce304e1481fb10ecb86db",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "49da4dac66fb0ecbf8f4e6d1d3a62aec89a51fc1a34190021f40ecc0081aed7e",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "d807e03337b103480f176c3cbea790c70650e1654041dc53ff59a18fb8bc131e",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "eb5c2f87d7b91d27406883aaf90f00257da4b82859c27641d81d99f459187765",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "6b43f317c9d7f165c2caf944cbe2cef1d09404ac183c002823ed25d7106bb22a",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "b82bfd0edf6823d54e1648456b610351fd1ba25466fd2180cf84ca98fbef905b",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "4411190c2a8952855125090caae7d45bbf82a3430a343c3b645040bd4647cbed",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "fcf414f015c2527f6e9fcce51999cc6e12b2420fc93bd5bcb98abc810172bb5e",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "51ee4eb31c0bfd2fb7bbfcede8b154cfeac8a6dc8b89282923cf7e132f08a4ca",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "ad75fb5e585b501d5356a49a93fc4b8aaa614c5f3228ff898463ad4958611e05",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "1a60b1e1a1ea993a73bbaf2a16d0972068e6e265d761c9ca42c62e7f95e12fea",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "761d01f71edbfd420b895ab09fba74db42ca7e0a07e44f38c2679057ede4fb79",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": null,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_A",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "2e0f698a97eb7fd015f9e68ff9cefe22419947dbec5e7ae7b90371c246898d4b",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_A",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "4b3f538671ad835bb1e33da15467a9b64d81060bfbb54e68458cccee7c718252",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "4734922310efbda6c314a55cd5308337d1a55f229a514b47890e1726ae7c3827",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "5eb54228b7c4ab4c5ff8699d3e6dee5cf632b3f798c3dcfb003adc3e0a888eb4",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_A",
+      "state": "PARTIAL",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": null,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "b591a51f6a3fa4bbb19d3ba35c5bdf983d7a7ad2ae9c44d595ce6a426b655db1",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "a0443b6708324408fa6e9969bf91d9980f1594bf0287ace2ce58b9cb461cc679",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "procedure": "PROCEDURE_B",
+      "state": "PARTIAL",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": null,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "procedure": "PROCEDURE_B",
+      "state": "NO_SUPPORT",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "b0775977af87309861c6cc895167010113b07ff005de4403943536992c07a1db",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "procedure": "PROCEDURE_B",
+      "state": "SUPPORTED",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    }
+  ],
+  "schema_id": "AKSQ_DUAL_PROCEDURE_LEDGER_V1"
+}

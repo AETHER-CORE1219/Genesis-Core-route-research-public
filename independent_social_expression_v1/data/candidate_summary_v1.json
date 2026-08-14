@@ -1,0 +1,65 @@
+{
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "candidate_class": "PRIMARY_PRIMARY_CONFIRMATORY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "development_observed_prevalence": 0.44047619047619047,
+      "development_predicted_person_count": 71,
+      "development_supported_person_count": 53,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "power_wilson_95_lower_at_n575": 0.9874089203578571,
+      "prediction_surface": "PP",
+      "replicated_development_effect_floor": 0.28410656867248507
+    },
+    {
+      "candidate_class": "PRIMARY_PRIMARY_CONFIRMATORY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "development_observed_prevalence": 0.5833333333333334,
+      "development_predicted_person_count": 85,
+      "development_supported_person_count": 76,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "power_wilson_95_lower_at_n575": 0.9939389365538295,
+      "prediction_surface": "PP",
+      "replicated_development_effect_floor": 0.25049860390905465
+    },
+    {
+      "candidate_class": "PRIMARY_PRIMARY_CONFIRMATORY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "development_observed_prevalence": 0.6285714285714286,
+      "development_predicted_person_count": 120,
+      "development_supported_person_count": 99,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "power_wilson_95_lower_at_n575": 0.9720992692737264,
+      "prediction_surface": "PP",
+      "replicated_development_effect_floor": 0.19261234412987216
+    },
+    {
+      "candidate_class": "PRIMARY_PRIMARY_CONFIRMATORY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "development_observed_prevalence": 0.3047619047619048,
+      "development_predicted_person_count": 34,
+      "development_supported_person_count": 22,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "power_wilson_95_lower_at_n575": 0.818973540573283,
+      "prediction_surface": "PP",
+      "replicated_development_effect_floor": 0.2880733944954128
+    },
+    {
+      "candidate_class": "TIER_COMPLEMENTARY_CONFIRMATORY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "development_observed_prevalence": 0.2119047619047619,
+      "development_predicted_person_count": 25,
+      "development_supported_person_count": 16,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "power_wilson_95_lower_at_n575": 0.8046426643516278,
+      "prediction_surface": "ANY_TIER_BOTH_SYSTEMS_WITH_ORIGINAL_TIER_LABELS",
+      "replicated_development_effect_floor": 0.34291658785700774
+    }
+  ],
+  "development_person_count": 420,
+  "external_route_validation_count": 0,
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "fresh_power_n": 575,
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_FIVE_CANDIDATE_SUMMARY_V1"
+}

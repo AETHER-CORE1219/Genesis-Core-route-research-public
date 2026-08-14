@@ -1,0 +1,32 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_CLAIM_BOUNDARY_V1",
+  "study_relation_to_root_release": "SEPARATE_RESEARCH_LINE_NOT_A_REPLACEMENT_FOR_THE_FIXED_16_ROUTE_RELEASE",
+  "development_candidate_count": 5,
+  "development_person_count": 420,
+  "candidate_functions": [
+    "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+    "AUTHORED_SYMBOLIC_PRODUCTION",
+    "ORGANIZED_COLLECTIVE_REALIZATION",
+    "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+    "EMBODIED_COMPETITIVE_PERFORMANCE"
+  ],
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "terminal_outcome": "MEASUREMENT_FAILURE",
+  "route_test_performed": false,
+  "external_route_validation_count": 0,
+  "publication_ready_validated_route_count": 0,
+  "adequately_powered_all_primary_null": false,
+  "candidate_rejection_count": 0,
+  "protected_access_counts": {
+    "akq72": 0,
+    "aks575": 0,
+    "charts_routes_akd_confirmation": 0
+  },
+  "prohibited_interpretations": [
+    "THE_FIVE_CANDIDATES_ARE_EXTERNALLY_VALIDATED",
+    "THE_FIVE_CANDIDATES_WERE_REJECTED",
+    "THE_MEASUREMENT_FAILURE_IS_A_ROUTE_NULL",
+    "THE_TWO_PROCEDURES_ARE_TWO_INDEPENDENT_MODELS",
+    "OCCUPATION_IS_A_DETERMINISTIC_ROUTE_LABEL"
+  ]
+}

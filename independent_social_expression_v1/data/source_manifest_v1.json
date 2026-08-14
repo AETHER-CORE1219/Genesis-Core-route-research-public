@@ -1,0 +1,39 @@
+{
+  "excluded_from_public_export": [
+    "person names",
+    "source URLs",
+    "source text",
+    "prompts",
+    "birth data",
+    "charts",
+    "routes"
+  ],
+  "protected_access_counts": {
+    "akq72": 0,
+    "aks575": 0,
+    "charts_routes_akd_confirmation": 0
+  },
+  "public_artifacts": {
+    "candidate_summary_v1.json": "4305d19b554af6c6149885258c4243f126dbf3b11be86f231b5934fb0decdbb5",
+    "measurement_expected_result_v1.json": "f77e0edf735d7f1e74331474315cee243291fe8784789779ee29b6adb9f5c99a",
+    "measurement_ratings_anonymized_v1.json": "b2186a98be5930fe05024c2f0c3d7ca95235db7ff6e8d225b674d53b31e0426e",
+    "measurement_raw_responses_v1.jsonl": "1775dc33990cc55cf15362355b979bc2a8d402f01d283fc3fea59ca167e97c2d",
+    "measurement_truth_anonymized_v1.json": "ded781cbc3230e16161568d3f563ec69c979c8919510535a464d334d24cf71de",
+    "model_proof_v1.json": "9ed1d549fa125f220e0675f1f496eb93b288f935a637df31bba1a67986205691",
+    "target_evidence_reference_v1.json": "576d52a0202c3fe254bbcd3396c51623a55ff34950994e2f01ffd242351093a0"
+  },
+  "schema_id": "AKSQ_PUBLIC_EXPORT_SOURCE_MANIFEST_V1",
+  "source_artifacts": {
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksm_development420_minimal_tier_labelled_candidate_freeze_v1.json": "9c1f49a6f6826f98c9d392a07f72a7afb5d5f027e417b6aea2654c448d2fc2fd",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksn_five_candidate_measurement_power_feasibility_freeze_v1.json": "16a03bb3c2cdb88e708a6747c67209e74a5b086868469671d951ab384f0c4f27",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akso_development109_five_function_instrument_canary_rating_surface_v1.json": "f19320bbdeac444a9c0b1d325912b97f889e21fb2611314d501fd120cde709e0",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akso_development109_five_function_instrument_canary_reference_truth_v1.json": "c805bcc91d1e0cce1e8b6ca56f43e229f938463847848268edaf49a76c1579db",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksp_development109_five_function_action_decoy_canary_surface_v1.json": "25d11bcbb3e83b30407a71c3fd3343f25b246fb20f6d837bc3d4c2121e95ba8e",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksq_development109_five_function_dual_procedure_ledger_v1.json": "b2186a98be5930fe05024c2f0c3d7ca95235db7ff6e8d225b674d53b31e0426e",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksq_development109_five_function_dual_procedure_measurement_canary_v1.json": "852441d49150fde146fbd72539a55af11dab91ecaca900e100d4d58f38bb7fb4",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksq_development109_five_function_dual_procedure_raw_v1.jsonl": "1775dc33990cc55cf15362355b979bc2a8d402f01d283fc3fea59ca167e97c2d",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksq_model_load_proof_v1.json": "9ed1d549fa125f220e0675f1f496eb93b288f935a637df31bba1a67986205691",
+    "scripts/verification/expression_path_v2/run_phase_aksq_development109_five_function_dual_procedure_measurement_canary_v1.py": "8ff205d5c7b54a9234c7982d995bb073673b5ee23d37e5047b7e2efe442bb965"
+  },
+  "terminal_outcome": "MEASUREMENT_FAILURE"
+}

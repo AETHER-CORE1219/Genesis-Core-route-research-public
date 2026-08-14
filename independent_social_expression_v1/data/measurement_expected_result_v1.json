@@ -1,0 +1,141 @@
+{
+  "akq24_access_count": 0,
+  "akq72_access_count": 0,
+  "aks_access_count": 0,
+  "chart_route_akd_confirmation_access_count": 0,
+  "gates": {
+    "abstention_each_procedure_max_0_10": true,
+    "binary_agreement_min_0_90": false,
+    "each_procedure_function_precision_min_0_75": false,
+    "each_procedure_function_recall_min_0_75": false,
+    "overall_f1_min_0_80": false,
+    "overall_precision_min_0_80": false,
+    "overall_recall_min_0_80": false,
+    "positive_target_citation_subject_marker_grounding_1": false,
+    "protected_access_zero": true,
+    "raw_citation_count_and_identity_exact": true,
+    "raw_sequence_hash_exact": true,
+    "raw_state_count_and_identity_exact_120": true,
+    "schema_complete_120": true,
+    "truth_access_after_all_model_responses": true
+  },
+  "metrics": {
+    "abstention_by_procedure": {
+      "PROCEDURE_A": 0.0,
+      "PROCEDURE_B": 0.0
+    },
+    "binary_agreement": 0.8333333333333334,
+    "overall_f1": 0.7846153846153846,
+    "overall_precision": 0.7727272727272727,
+    "overall_recall": 0.796875,
+    "positive_target_citation_grounding": 0.5303030303030303,
+    "procedure_function_metrics": {
+      "PROCEDURE_A:ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+        "f1": 0.8333333333333333,
+        "fn": 2,
+        "fp": 0,
+        "precision": 1.0,
+        "recall": 0.7142857142857143,
+        "tp": 5
+      },
+      "PROCEDURE_A:AUTHORED_SYMBOLIC_PRODUCTION": {
+        "f1": 0.875,
+        "fn": 1,
+        "fp": 1,
+        "precision": 0.875,
+        "recall": 0.875,
+        "tp": 7
+      },
+      "PROCEDURE_A:EMBODIED_COMPETITIVE_PERFORMANCE": {
+        "f1": 0.8000000000000002,
+        "fn": 1,
+        "fp": 1,
+        "precision": 0.8,
+        "recall": 0.8,
+        "tp": 4
+      },
+      "PROCEDURE_A:ORGANIZED_COLLECTIVE_REALIZATION": {
+        "f1": 0.7999999999999999,
+        "fn": 1,
+        "fp": 2,
+        "precision": 0.75,
+        "recall": 0.8571428571428571,
+        "tp": 6
+      },
+      "PROCEDURE_A:TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+        "f1": 0.8000000000000002,
+        "fn": 1,
+        "fp": 1,
+        "precision": 0.8,
+        "recall": 0.8,
+        "tp": 4
+      },
+      "PROCEDURE_B:ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+        "f1": 0.923076923076923,
+        "fn": 1,
+        "fp": 0,
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "tp": 6
+      },
+      "PROCEDURE_B:AUTHORED_SYMBOLIC_PRODUCTION": {
+        "f1": 0.75,
+        "fn": 2,
+        "fp": 2,
+        "precision": 0.75,
+        "recall": 0.75,
+        "tp": 6
+      },
+      "PROCEDURE_B:EMBODIED_COMPETITIVE_PERFORMANCE": {
+        "f1": 0.8000000000000002,
+        "fn": 1,
+        "fp": 1,
+        "precision": 0.8,
+        "recall": 0.8,
+        "tp": 4
+      },
+      "PROCEDURE_B:ORGANIZED_COLLECTIVE_REALIZATION": {
+        "f1": 0.7999999999999999,
+        "fn": 1,
+        "fp": 2,
+        "precision": 0.75,
+        "recall": 0.8571428571428571,
+        "tp": 6
+      },
+      "PROCEDURE_B:TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+        "f1": 0.4615384615384615,
+        "fn": 2,
+        "fp": 5,
+        "precision": 0.375,
+        "recall": 0.6,
+        "tp": 3
+      }
+    },
+    "state_counts": {
+      "PROCEDURE_A:NO_SUPPORT": 29,
+      "PROCEDURE_A:PARTIAL": 9,
+      "PROCEDURE_A:SUPPORTED": 22,
+      "PROCEDURE_B:NO_SUPPORT": 25,
+      "PROCEDURE_B:PARTIAL": 15,
+      "PROCEDURE_B:SUPPORTED": 20
+    }
+  },
+  "phase_id": "phase_aksq_development109_five_function_dual_procedure_measurement_canary",
+  "publication_claim_boundary": {
+    "candidate_rejection_count": 0,
+    "external_route_validation_count": 0,
+    "route_null_claim": false,
+    "route_test_performed": false,
+    "terminal_outcome": "MEASUREMENT_FAILURE"
+  },
+  "rater_independence_boundary": "SAME_FIXED_MODEL_TWO_FROZEN_PROCEDURES_NOT_MODEL_INDEPENDENCE",
+  "raw_hash_exact": true,
+  "raw_record_count": 186,
+  "raw_sequence_exact": true,
+  "route_change_count": 0,
+  "schema_id": "AKSQ_DUAL_PROCEDURE_MEASUREMENT_CANARY_SUMMARY_V1",
+  "scientific_decision": "MEASUREMENT_FAILURE_STOP",
+  "status": "MEASUREMENT_FAILURE",
+  "transport_error": null,
+  "truth_accessed_only_after_all_model_responses": true
+}

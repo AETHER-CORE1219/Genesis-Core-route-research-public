@@ -1,0 +1,866 @@
+{
+  "reference_kind": "KEYWORD_SELECTED_TARGET_FUNCTION_WINDOW_WITH_MASKED_SUBJECT_MARKER_NOT_INDEPENDENT_MANUAL_CITATION_ADJUDICATION",
+  "rows": [
+    {
+      "evidence_id": "492cea12f998a90038d554d60807a47b505e8a22eff158b3a42afed47f4faa12",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "67e0397f61d17176050a75a4828b70b6b1b83b978f4ba41b900c4fa407d5ec67",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "eb582fedf8343eed21b2e74fa7294b3ebd270144c292cfa681727567029835e2",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "200ffd450e487b4f52c40fb3d9c16782787d164cec4925720b194452e1cdbdb0",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "83c5c6b0557cfe30de770f49ee415607d21a6cee7b479453b23b0fe0f075f53d",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "955f06def976f80a29fe39ef3a6f06e055fe4dd61eb7cd4fb523b91dab3c00be",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "e03d9a16fec2a88fa27d545f85fb9331c1e29f60c4b1b12b8ea7a71f337a48df",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "4ce614fb8d3625344590da42a01df52e963843c079ef2fff354cf1a527abd81f",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "78358ac2acd877e1bb21a11a54ec672b5624e8d6b3e82cb4da02a6d02121a67f",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "db4ed63d4268bb383bccb0309ed978b27d2d12366b8515e1634ef63b8eecff54",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "dbb75dc0f0d00ce771e2dc048ddc572d1f3a5ad68bdc7b4645dfd0e4db92c34c",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "44e2caadb621c49f9e751365e1a3d301158b555e1f5360eee56d9a5cd7bdf63d",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "5f8db13742d355a599cdc26264be7d1105a6d84d558c6e26be4ca7513fdc4a8a",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "ccb4108a77295b633710627b6803e5365d5b7ea5fb95438e4af64b150f764bd8",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "eb42cb7deb3a034d32748f09516f828bd578854031c35165b9485eafe7ea329b",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "36de91a1204074b4dbe61a893c89ede5ce38cf90ce3dbde41a20f52f78c3a400",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "8142dcbe8c300cf9ab5339372dec8e362b4c6019e148dc1a3db4b8ad1501516e",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "00dffe2a0a97aa46fc15946430e51c0ee6f0f7d0e69a99aa049220a16ee93ce3"
+    },
+    {
+      "evidence_id": "470f2856481e6b760d7fa056552501c6b1e4495e66a5acdaca4ca231f9dea95e",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "865c69daef773cf03edf5583cfbbb2bade7afb1e40498b82d77c363d256f86e0",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "4e6d8410d4282a83cc4f5d6fb1f58f90e843551f900fb7b77d032dcb330f1899",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "a7b76b735090ef6bd3777f487ac9818542e77063c129eb57c0a7f7590e9c9569",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "cd2b5b21ff19bf94add31b1fdc921c176b8b6f71901e72ba334ba04989f6b999",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "f580a153c2ff585ef24edc5982dd546984c730c9a482b29f648f7cf3bdf1d107",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "3ac6e282bbe1757efb9bb70828dac1d2963489508b97bb9177e67faf1a6914a2",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "3b37654a4699b1b8229d1554d20c81a8d28330bfc103924c3c59b7e4f4e251c9",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "d106b5d60693e783b045d7faf2144932b9f47063edb8c808de5362fe4f98f962",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "1dd84d601788176e28f496fc1c5086157f148101cce21ecf1464c1e7263ceacc",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "771facbbd390bf6e7d2ca03cfa6e661959d1fe63b256163f5794e21625879c0b",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "be836de4b0e5a539fbd7341e7cc6e6d613c05cf1af37732f45951ae067d6adb5",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "db5615ff790de05f49a628119e309623acef3e681a07b3be80b0b0788706129d",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "10b9c3be967d804146c6c1c1991911fd6df1623e494970f7ae008e1f124fc163",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "d6df2c82dc423409e22706aa25d842635600ad7c1d1499a078df003b253fb2ac",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "25e659701a611339441b43ca3dbbc038e3444857b4150741b4a057000c4e2521"
+    },
+    {
+      "evidence_id": "26225217ffc5a7cdb76c390f621221fa69c184a47a8f4371f8ad8853acf0ea3b",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "945cc8663e3e1daaa673c388742f906d263f85dda34acfb629a8b8acaafb08b5",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "a024c24b4ba50ecdc2931838cbcafa93662d37ba9719b45dc5dfed4c23283f43",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "9568e5d9bca57763549bdc75b9b4c539bd179bbb941671440a722b85f6f3c11c",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "c6ea7a78ce11ba82e4a250d16684f2a796a31848f22d37b460532795e3baece4",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "0d28de2761d3242a0d7230b65e58ae4ddca01f99847a083569b53adf6d2c16d4",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "179d0e38ff27cdcc3e9237f064d9158e1141b819947f73909934fb347e198a9f",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "a68acf7dbe63975fdb6aec495b1d983094db997143a33dd4cfb1eb8952079834",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "e4b8e90f425e5dc631b0e409047cea9a9eca5be4751eef4c4b2c62735c465506",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "373d4df3e1864e574f401b21a544a8c66928cb0be13962165075e33b25d42ff2"
+    },
+    {
+      "evidence_id": "9836dcd10e7d927d13a932a377afc2e36bc2f6c671343b7923c57dfe50c9e7e3",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "c4ee1a406adcf81f0e19626413cfd8d8d70445d9ff97df027a9f4d84571087c6",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "fcf414f015c2527f6e9fcce51999cc6e12b2420fc93bd5bcb98abc810172bb5e",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "0d18145f232e09d1d9573534da079b55766b05ba31625a778b29d8132ca7b7cb",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "51ee4eb31c0bfd2fb7bbfcede8b154cfeac8a6dc8b89282923cf7e132f08a4ca",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "68d98c22b0ddc9b9204d9e030274dfaf87017a08b56d9bf078faf772fb40d018"
+    },
+    {
+      "evidence_id": "14b82bbcf17f9500e1cc4f9cc8039a0b8c83d169fd477f31a11499f04316265c",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "3cab431b3f0be5502f048f168a7b156c39f422397fc818ce28a3760c3932069b",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "5834c486021e3ee1de7000865a174342eac05008607b73c32c5a24cae6c37da7",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "b60e2e6026c09e97d2c4a2089c9dc333d9f3f3db69b512af28c84da2f0beed0c",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "e8f27c080d60545d31d1c7f673c7c4d10750f22a9c52f6a8c4bfbb415d783041",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "e93eb06ed4602d937e3eff8b2b28a330008851b155deb247122d67df0ed6c413",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "3dcfb306477ee653d8fc7354fa0eb9fdc758ff72dd1958d714760265d68ed955",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "1b5ff7b45be5e251c7e39bf0ff890b60cba6e185c38241e0bc838dc37e67ec72",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "c74cfbeb76fe2292ba19deb2105ff6b036695cf2b4d5e2b641b365da7cba2776",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "cdd5abec93f1bf25596a037d8c33b81e0533df39ec59123ee93124ca63ae5eb0",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "d3207de7d59c8f27aa06905682135f66c7f63635a4add6c986a29ed27abbd03a",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "207e61cdb971488006c334fee564982616b6411a0cb50ffd4cf40b0167d80a1e",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "37f50b4ba5a59060eb0f9444d52e5c662739b45f1cdc9f30aa7c596460d8d400",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "5d5fe870406bf5490afbd5f57576ea4203da3450b7bc2776b88bc79cb5d0ae39",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "8462d257352c7d67db6024213f11aa8e000ce66105bbebaadde8946e9f52975f",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "7181c1fd9c2c774eabe9b8285d8fbb0b17634463d0f49d5200fc6ef0dc2d092d"
+    },
+    {
+      "evidence_id": "6ba8638e82e537f536387137e0149a37a6822f2b3072641e009277f51f9393af",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "8757ae4e5a52af0c5aefaa78bb8ef64436b6fbbfc33c20c9df5c4b26285f0e6b",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "d34ed1723d8ae0f06424742e56f448c83ec0773ac199dc69bd8b55fffc81568f",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "4d14a59194557917917e353cfb7feec3e729f2466e7bbeb77adf966aeb96dab4",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "5eb54228b7c4ab4c5ff8699d3e6dee5cf632b3f798c3dcfb003adc3e0a888eb4",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "772e04c162e4c734768f6455c1ecd4039249b529d2862cc76d56a53fee26b4c2",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "b0775977af87309861c6cc895167010113b07ff005de4403943536992c07a1db",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "0524e71e2eb60f0e75e0da01a2e7ae1a5b850d40666d0063d10ca2f5b2eed0b4",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "4b3f538671ad835bb1e33da15467a9b64d81060bfbb54e68458cccee7c718252",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "c07154b7ed88e2b18416ebd677a25c3f14890090194ff68b2bacfa1163bc0a44",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "f8c7a19e2a08581133df56f100acd092c621899e51ec80afe226403411f01cec",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "12cf239a5368d789c6e830b16910bbe880d6ccaa1c33a3b300adea8183165fe1",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "43412845d4aade4574f7935f10010bb04567bec115f69ce8bf8312acd615756e",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "4734922310efbda6c314a55cd5308337d1a55f229a514b47890e1726ae7c3827",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "980e97b412deeb0cad9c6841de01b881f4c3bd4e4c05215cdd3a1cc6fcb25d22",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "9534312283f7a5f25ef90d983adeab981487e936b3a324b017e5c5123f8d8f2f"
+    },
+    {
+      "evidence_id": "9e5fb904dc40cb711abea9c10e3b3915388bda366a9fc2ddcdc80ceddcdfca93",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "de93d9e13b437811bf7111c4a43e50d15af11572de3ed0c607b54fedea63871a",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "984b1169754d48e108b565081987ebe9db9f09e31e7dd8599be2e7171d5468cb",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "c20e1329b113851654f7d380c9b80be716844ccff6b3e02f7e9d7fa6281b1390",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "8efde9270ddac0aaad823a61527f1e71c926ae9b261c78bcbca205d359cef477",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "9e978ee9859663d14cf95dfb8d0f3e5a9189487ff6a520773bd21847ec72987f",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "e4e189eeb44ff9f0348d2223f8560665aacbb5df0de19a77586c7e49ae72b182",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "ee177fcd05d22308d960508983f9e1956073be9c4186dfd156fd206376861a65",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "4bb9bbe4a31fdb9379a6016a38b0c1a258db89b20a0157f40e6eea49348bb527",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "63c02b81b754d16c051166b59e611edff59b59af0625655c6a8eb42db74afe76",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "887d0c149af930ad3c00856d79491290887747699f5af19d1a80d01bf59352df",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "49da4dac66fb0ecbf8f4e6d1d3a62aec89a51fc1a34190021f40ecc0081aed7e",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "a11d9f241e3f6e41c41ee75b15ee5efc6859cc4e8122d210a14f44208a9eaa87",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "b7a032f0d7c8ffce14e5eb4a20c5c075285964b6514acb32cf2833f51046cfe2",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "b45fff667a1590c6d4f5d1f8039ce8398375ea6578a47ff1c83b7e007721202a"
+    },
+    {
+      "evidence_id": "37ce2abd0b7708f901537a560fc90f93dd1f2f1e93b2ee26946e5f84da73c6a9",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "53b5adc05ed4ef753dbc145d0691db6365107c299374d3fc49e1355a8a5073e6",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "bbdc003277755d1731680d69746d61f0bc399b27d6ac3da7a9fd5cad557df1ab",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "d231d426731fc678a144a797f34fc540f6d59607687c23ff89a9f3d61b2392b9",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "2184b31f789fb4ed36940fc3064ab1a48bba7ec459d6c392e98c9bbdb2961f28",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "34992678266ed5ae86021534d43f9414a06ae2353e610ff7f1788703e791e691",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "4f562e7ab8d67d8600df2a0d9512325c6d6fe049f431e7fa149cea0100c73f30",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "ef0bab5c713582670a2bc89058181adf667df8ee73cc56df2c61429eebad35f4",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "25120c12c373ecfb142b6dbf3f5b2fa524fd9cb76b9b18272035df79c8519a6a",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "5c958e4612b8845b6ab7a69978fc8f6b07738f61abb99aa569573ad9485d0bbf",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "9da39c5213618d32b6e874e524b341cb5008492bb0a90acef28ce6395eb8ce9c",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "63eedcf8c7e1b83eae90bca56f14162de333c2866ec25444ee35e47bc841bf0f",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "a41c84a7fbe1210a3f4a58edde417b50cf69d8e62699ed58ac55ec60e72525c9",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "b79845f4038acdc9e04a4db4db7a11c1eeb27d4dea0f5224b258aab54ee58914",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "c42b21cfbc53bba4db4487733ea799142d00f47930dfa79714d56ab41c235014",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "50b0caf185882aa4ecc64414b5a1eab1aafed4416cd6e1e0c02b4e337a703635",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "7a309e68a58c830a3b5a15ae151b41bdac31cededec415aae29d3de6a65bc6aa",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "ca65bdee44d6c05ae7a2ef28699dde02740582e8296927a983a77736b29d6af5",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "d6c198080b1733698b88fb3c14b99bdae100be92e1158c70d76ed53ddf9c6fb7",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "c808be8bfff0fcd178ada3796df6f4e3428a2d1678ed63d2df5e28b01f6b6c96"
+    },
+    {
+      "evidence_id": "2c38b470953dcc55841f1f0c5e6332f79487d5e02e8c44121d425131d0b4b572",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "3a1bf46e14db3faeef74dfea2579ea601e5b579feae0813103447d6a536ace6f",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "534feefa522ed66f469c63fddca30930015e593193e8ebe3c575116bc412db02",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "ce26b9f410004330b625dcb440c79aab358a705fc24d1a2e1a58efca4c5cece6",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "4bb3e74a3ded67acb9f90bd02fbacc8281445150001327fbe276db9fbb0b75a7",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "a58522ab365dc1fecd46e9972ea2ee45c3ea1e68b8c35466ea65c6f8653b0872",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "b50dad5bfe3462355d2a2658be569689578f78f418f7b64f805f41021c65b0c9",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "b31889c0cf476bbc6e076274f74cb9344416ea21c54a7304f07803f02843dbf6",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "2240dfe7df70cbb61a0333bd6bc54d91b06256215c9242933d225a1d3ce0653b",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "8b39248a0bee42e2237f555c55c7a2636e2e070d32b4a9524809de11ef982438",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "b19112f9cdf7cf5b07ed44e42d8d8aeee334a069fbd12c9635d69d87c756f737",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "ea1938399151b48cc78091a9a7945bb33b9b674bf29b707ec560fb5258bc645c",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "f9393c7473e43a736bfacb86d5374dda6004e83597e2470beb21c3211774776d",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "c901c42d56c5cd21f9083be0e37a1f63650549dd7b8ef83697c1ce17d5134a51"
+    },
+    {
+      "evidence_id": "163e59a407c7f11a35252e311cde84ccaef411b30940e2c1e56dc8a2d2d180fd",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "27866e465970dc2fabd271dca6281145e3ae8564fdaf8f02e9bbf93beaee3adc",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "c07a4b77b5481e13ab42c22c337043c067facaad86977d273c8dbd9346fee411",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "e37fbf86d75a2da655ac604720311b6b549577c1eabc11688ffaa07feb77e5e8",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "27429212f3e1d28c160de9eb5b43db29c6a8c67f66a68c891a29c14b6f243d9c",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "2fc167d12394eaab15ddf496b6e6aeb27641236f9d8c81db46891a0d212c0058",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "a34e47408972bed35fa341a938d243a1354aab13f9e8af9d9595bce6c76cd0ac",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "d6560b1a4812e72f5931b9e26ad880c5d9ce359c1849f2433027f10a5b8216e7",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "716bff628417c868dc86db80531823cdb0cc70908f15211837953b8e1461b079",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "a14311574019b80a92f09afdaa34e781ce1d879a2b2180582a4ef4fab304ce32",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "d80ff8ef6fa8433a09d39309104ac7d3eea953ffc351f59a18e7d40b58374037",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "d978a4f108e6d8d27c9dfba910444a3e208515c425aabf7b5f94a30f09eb61ac",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "34623768f31c056b446faf59911ec6b3d63d5aaa45065c1454aa9d05e099176d",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "6d2d6a2634a1d4d0b3f36040dd033982cf399059b035635dca56054aec337d4f",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "788e723ac06dc0dd0f97beb985a167dd02734b0b88009105e1bc187b09cc7de3",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "b61c5e09ab1da8217f3e4da18fd25239142113ddaed76feba19dbb2f8d3190c9",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "092d6e5a89f90a9fd14cacd4ed04013d17fe9de8b415b65442144c6ba59e24b5",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "a0a013b0af64d8ba74e9898de0da53d1bc01dbaf530d3c04388cc857c21a51d3",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "ee711ca59b474ee2965904918602fb21b7d947e51b56bf2093a55b1fad0040d8",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "ceeb4730724355a8427c1f0777637ca9f9917add6149f92e0f9f46dcc474072d"
+    },
+    {
+      "evidence_id": "05c64ba6691924e379b1015a199dd9b392da0185694b6a5e59b91b0b64ee4c39",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "682a366c289f32c8c8b360bafd795c83affb175a6f0874873598803e09f2d058",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "efd58b1f64113c4257665f80cbe8142ece8dba9ce5148a3ddc48578b5fa9aef2",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "711ad52d4d21d364dce24ce5c4ee1c32c80ead10eaa229993b85705739f2fe48",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "a863cdc94c13c8a5ece404559de5ab67c31e3416ff3ee2223fb7498b7f05c90e",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "b433d42fbd8bcbb71ee07317990274957f3879cf00009addc2d67790974aabf7",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "ccfb3fabe433aa3004463cf248145f47a8d6454b388ae81f70ca537ffe3a6372",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "61f088e77b9d24128f9ecb977bebc8a70bddba050132de96e959c862705395de",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "82af2bc0c65ceb4aa6c39d63a2d00d3ad31c3b781dd43df00a42af67eed64b96",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "ce655b9193a42f74a8463bfa6429fff75c323e8a446daa00efc002e348480774",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "d79935efb09cbed2e56b329523205964469c14a2d8b7b530af39c3060849a96a",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "27b2c5d5fc947050d70e137394a9e8aa54c48b9799c908004c2dd5d28ce877d9",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "ba90b16820ad410a3a178cd6fb83bd4794e334ada0130ff88b3c90fa9a49adec",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "da7e2179b187dd6a68506d5fc693649b96a589218175915c227d976f2f9fb605"
+    },
+    {
+      "evidence_id": "17f0e0bee8b45ed01cb819e177196505dfc2baa0cb015deb3f0e3335c17c6b30",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "256efe51b5f0bd91c1a09951425f68d07f24d18066a6f817f031cb4686b9254c",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "7b44c814d650f1442242bbdc0a10b602af14bf7fc3905f15b4cf50a88b890865",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "c110933cf4723bcd563607982bcf9ee05270f2923b3e3fc72369ee470e8c1746",
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "148fb0c155b3d6cf673c15aabdede2d6f94900dd3341f38fedbbe8e0bd9e7a7d",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "ba7ee946aa546b8a164e62708ddce5ad71e406c274de2d0d335bef72e15d065e",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "3ec6c034faa665ae411dc42343c58c301f2502ffd17a2e7d61913abdd9c469ea",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "728ee7056fe652cf607f063573ca5cffb83dfb0b9e1eabf9b3596a828d109b3c",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "9b96865192e549029185ab1020c9f057b30e5ad9ed19811e337df37754446e75",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "eb5c2f87d7b91d27406883aaf90f00257da4b82859c27641d81d99f459187765",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "043d1bd84e3a35d7ff5c83fb6e408c7255850a102e73d25fe1f6b2f3296c1c19",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "3638df838ab4239d34fa8aa22d486a23bfd17d9ba8815d8a78b0e57832bada2a",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "37a920cb439c2608ca9549c313dfa0fd3c5c31f0d4590da14682f7bd4c393ec9",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "d3f1dcac8793a77f76f63593c26abdcb607ec08a8adc2998a19b7fecb49017b5",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "28eeca72653544a73330f0d4a4d56e20aad1b331c20ec349c3b2e897344bd908",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "435a2f2fdb618c901d16ddc99a99d021ff7040151e9ebff7f88867ff6ae54d3f",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "46c31b926bcf292ba580b34816a9efee768a3f2908cd2d6a5da4fc0c442e384b",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    },
+    {
+      "evidence_id": "bfce4d9d199fb9cde856754e709abb9b6d40f54e644af30e46099574567b156f",
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "subject_id_sha256": "f4c01bae84ec4238aef9272a6b2f50d30fd469414b8d794190895b06d7684796"
+    }
+  ],
+  "schema_id": "AKSQ_SUBJECT_MARKED_TARGET_ACTION_REFERENCE_V1"
+}

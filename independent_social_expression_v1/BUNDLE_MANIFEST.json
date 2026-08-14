@@ -1,0 +1,33 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_BUNDLE_MANIFEST_V1",
+  "release_id": "independent_social_expression_v1",
+  "terminal_outcome": "MEASUREMENT_FAILURE",
+  "entrypoint": "README_JA.md",
+  "reproduction_command": "python3 independent_social_expression_v1/scripts/reproduce_measurement_failure_v1.py",
+  "documents": [
+    "README_JA.md",
+    "REPRODUCTION.md",
+    "FAILURES_AND_LIMITS.md",
+    "CLAIM_BOUNDARY.json"
+  ],
+  "data": [
+    "data/candidate_summary_v1.json",
+    "data/measurement_truth_anonymized_v1.json",
+    "data/measurement_ratings_anonymized_v1.json",
+    "data/target_evidence_reference_v1.json",
+    "data/measurement_expected_result_v1.json",
+    "data/model_proof_v1.json",
+    "data/measurement_raw_responses_v1.jsonl",
+    "data/source_manifest_v1.json"
+  ],
+  "scripts": [
+    "scripts/reproduce_measurement_failure_v1.py"
+  ],
+  "claim_counts": {
+    "development_candidates": 5,
+    "externally_validated_routes": 0,
+    "publication_ready_validated_routes": 0,
+    "rejected_candidates": 0
+  },
+  "protected_surfaces_accessed": false
+}
