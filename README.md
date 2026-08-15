@@ -8,7 +8,9 @@
 - 外部検証前の現実側測定canaryは事前基準を満たさず、`MEASUREMENT_FAILURE` で終了しました。
 - したがって、5候補は開発候補であり、外部検証済みでも棄却済みでもありません。AKQ72、AKS575、出生図・経路とのlate joinは未実行です。
 
-最初に [独立・社会的発現経路研究 v1](independent_social_expression_v1/README_JA.md) を読むことで、開発結果、測定失敗、再現手順、主張境界を確認できます。
+現在の主入口は [独立・社会的発現経路研究 v2](independent_social_expression_v2/README_JA.md) です。匿名420名の人物単位matrix、五機能に関係する固定515規則、311名/109名の部分群別反復、最終actor gate、再現手順、主張境界を確認できます。
+
+[v1](independent_social_expression_v1/README_JA.md) は最初の12名canaryによる測定失敗を固定した履歴面として不変保存しています。v2も候補の人物外検証成功を主張せず、外部検証0・棄却0・`MEASUREMENT_CONSTRUCT_LIMITATION`を終端とします。
 
 以下は2026年7月24日に固定した旧16経路研究であり、新しい5候補とは別の公開面です。
 

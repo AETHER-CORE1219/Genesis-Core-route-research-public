@@ -1,0 +1,20 @@
+{
+  "candidate_count": 5,
+  "candidate_rejection_count": 0,
+  "development_person_count": 420,
+  "external_route_validation_count": 0,
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "full_chart_to_rule_reexecution_public": false,
+  "prohibited_interpretations": [
+    "THE_FIVE_CANDIDATES_ARE_EXTERNALLY_VALIDATED",
+    "THE_FIVE_CANDIDATES_WERE_REJECTED",
+    "THE_MEASUREMENT_LIMITATION_IS_A_ROUTE_NULL",
+    "OCCUPATION_IS_A_ROUTE_IDENTITY_OR_ENTRY_GATE"
+  ],
+  "publication_ready_validated_route_count": 0,
+  "released_reproduction_scope": "ANONYMOUS_PERSON_LEVEL_DEVELOPMENT_MATCH_MATRIX_RULE_SEMANTICS_AND_TERMINAL_MEASUREMENT_GATE",
+  "route_test_performed": false,
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_CLAIM_BOUNDARY_V2",
+  "study_relation_to_v1": "BOUNDED_MEASUREMENT_DEVELOPMENT_CONTINUATION_V1_PRESERVED_UNCHANGED",
+  "terminal_outcome": "MEASUREMENT_CONSTRUCT_LIMITATION"
+}

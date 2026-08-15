@@ -1,0 +1,23 @@
+{
+  "canonical_source_sha256": {
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aiy_fixed_common_tendency_matcher_spec_v1.json": "4463ebd02f2309f5628a72e4b595e7b023843cfd82534ce9431cacd6e4cb55b1",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aiy_fixed_common_tendency_rule_registry_v1.json.gz": "cb2985c32b5fc2d4793f025b38ffada796031d24f2065f9d81a1258e01cf8ebb",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aiz_development420_fixed_rule_meaning_diagnostic_v1.json": "431ee44fcfa968c446c2e9722cfbb8b0f8ef512e5452fe491ce66d331ab35545",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aiz_development420_fixed_rule_person_prediction_ledger_v1.json.gz": "0871b6c372abfb1ae5d06a62586667ff79a6dea06ee7377e6df2b1d57beccc8a",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akn_validation240_independent_reference_truth_seal_v1.json.gz": "b748110f526600ea86ee8e1928384b4fb2914d813670127b7cc8c36a8baf8d0c",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_aksl_development420_bridge_tier_semantic_correction_audit_v1.json": "8aec6a115c51736091649935d63ea096a27922c1718cb2d5b1927ea3d42a7d67",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akue_development15_function_blind_typed_action_final_iteration_protocol_v1.json": "2e7d573632332d50b7374d1c67df0667bb0911943c984251f7d655e118523c86",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akue_development15_function_blind_typed_action_final_iteration_raw_v1.jsonl": "5e8444b9e730405626de15b45bda33a6ba5a4565e98da6c18f939171cd5befda",
+    "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akuf_development15_complete_actor_gate_terminal_audit_v1.json": "1204ca3d38e53031be52b79b6d9e5230f78b1285c93825090fd20b486d4351ff"
+  },
+  "new_person_or_source_accessed": false,
+  "protected_access_counts": {
+    "AKD": 0,
+    "AKQ72": 0,
+    "AKS575": 0,
+    "chart": 0,
+    "confirmation1495": 0,
+    "route": 0
+  },
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_SOURCE_MANIFEST_V2"
+}

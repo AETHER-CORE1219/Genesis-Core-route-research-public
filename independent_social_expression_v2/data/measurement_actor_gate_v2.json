@@ -1,0 +1,32 @@
+{
+  "actor_known_precision": 0.9915966386554622,
+  "actor_reference_coverage": 0.8686131386861314,
+  "actor_response_count": 420,
+  "correct_self_count": 236,
+  "development_only": true,
+  "failed_frozen_gates": [
+    "actor_known_precision",
+    "actor_reference_coverage"
+  ],
+  "frozen_gates": {
+    "actor_known_precision_required": 1.0,
+    "actor_reference_coverage_min": 0.9,
+    "linked_action_selection_recall_min": 0.5
+  },
+  "known_reference_count": 238,
+  "linked_action_selection_recall": 0.78125,
+  "linked_reference_count": 160,
+  "person_count": 15,
+  "procedure_count": 2,
+  "reference_state_counts": {
+    "MIXED": 2,
+    "SELF": 236,
+    "UNKNOWN": 36
+  },
+  "route_evidence_generated": false,
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_ACTOR_GATE_V2",
+  "selected_linked_count": 125,
+  "self_action_count": 274,
+  "terminal_outcome": "MEASUREMENT_CONSTRUCT_LIMITATION",
+  "typed_response_count_before_stop": 184
+}

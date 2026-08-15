@@ -1,0 +1,21 @@
+{
+  "carrier_rule_match": "AT_LEAST_ONE_ACCEPTED_RELATION_CARRIER_ALTERNATIVE_IN_THE_SAME_FUNCTIONAL_ROLE_CONTEXT",
+  "core_match": "EXACT_FROZEN_MEANING_CORE_VARIANT_ID",
+  "exact_sign_house_degree_dignity_state_named_yoga_used": false,
+  "field_or_occupation_used_as_entry_or_ordering": false,
+  "late_bridge": {
+    "ALTERNATIVE_ONLY": "Only alternative-mechanism rules predict the output function",
+    "CROSS_SYSTEM_CONVERGENT": "PRIMARY Western and PRIMARY Jyotish rules both predict the same output function",
+    "NO_PREDICTION": "No frozen rule predicts the output function",
+    "SYSTEM_SINGLETON": "PRIMARY rules in exactly one system predict the output function"
+  },
+  "multiple_output_functions_per_person_allowed": true,
+  "person_function_prediction": "OR_ACROSS_MATCHED_RULES_FOR_THE_SAME_OUTPUT_FUNCTION_WITH_RULE_IDS_RETAINED",
+  "person_match_unit": "PERSON_DEDUPLICATED",
+  "post_application_rule_change_allowed": false,
+  "relation_only_rule_match": "AT_LEAST_ONE_ACCEPTED_RELATION_MODE_ALTERNATIVE_FOR_THE_CORE",
+  "schema_version": 1,
+  "status": "FROZEN_MATCHER_SPEC_BEFORE_APPLICATION",
+  "system_specific_predictions_preserved": true,
+  "unused_or_protected_accessed": false
+}

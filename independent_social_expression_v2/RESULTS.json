@@ -1,0 +1,422 @@
+{
+  "candidate_summary": {
+    "candidate_count": 5,
+    "candidate_rejection_count": 0,
+    "candidates": [
+      {
+        "both_development_subcohorts_direction_above_prevalence": true,
+        "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+        "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+        "descriptive_enrichment_ratio": 1.6947087933003426,
+        "development_person_count": 420,
+        "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+        "observed_person_count": 185,
+        "observed_prevalence": 0.44047619047619047,
+        "predicted_person_count": 71,
+        "prediction_surface": "PP",
+        "subcohorts": [
+          {
+            "development_subcohort": "SOURCE_REVIEWED311",
+            "direction_above_prevalence": true,
+            "observed_person_count": 156,
+            "observed_prevalence": 0.5016077170418006,
+            "person_count": 311,
+            "predicted_person_count": 56,
+            "support_rate": 0.7857142857142857,
+            "supported_person_count": 44
+          },
+          {
+            "development_subcohort": "RECOVERED109",
+            "direction_above_prevalence": true,
+            "observed_person_count": 29,
+            "observed_prevalence": 0.26605504587155965,
+            "person_count": 109,
+            "predicted_person_count": 15,
+            "support_rate": 0.6,
+            "supported_person_count": 9
+          }
+        ],
+        "support_rate": 0.7464788732394366,
+        "supported_person_count": 53
+      },
+      {
+        "both_development_subcohorts_direction_above_prevalence": true,
+        "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+        "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+        "descriptive_enrichment_ratio": 1.5327731092436974,
+        "development_person_count": 420,
+        "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+        "observed_person_count": 245,
+        "observed_prevalence": 0.5833333333333334,
+        "predicted_person_count": 85,
+        "prediction_surface": "PP",
+        "subcohorts": [
+          {
+            "development_subcohort": "SOURCE_REVIEWED311",
+            "direction_above_prevalence": true,
+            "observed_person_count": 187,
+            "observed_prevalence": 0.6012861736334405,
+            "person_count": 311,
+            "predicted_person_count": 62,
+            "support_rate": 0.9354838709677419,
+            "supported_person_count": 58
+          },
+          {
+            "development_subcohort": "RECOVERED109",
+            "direction_above_prevalence": true,
+            "observed_person_count": 58,
+            "observed_prevalence": 0.5321100917431193,
+            "person_count": 109,
+            "predicted_person_count": 23,
+            "support_rate": 0.782608695652174,
+            "supported_person_count": 18
+          }
+        ],
+        "support_rate": 0.8941176470588236,
+        "supported_person_count": 76
+      },
+      {
+        "both_development_subcohorts_direction_above_prevalence": true,
+        "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+        "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+        "descriptive_enrichment_ratio": 1.3125,
+        "development_person_count": 420,
+        "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+        "observed_person_count": 264,
+        "observed_prevalence": 0.6285714285714286,
+        "predicted_person_count": 120,
+        "prediction_surface": "PP",
+        "subcohorts": [
+          {
+            "development_subcohort": "SOURCE_REVIEWED311",
+            "direction_above_prevalence": true,
+            "observed_person_count": 198,
+            "observed_prevalence": 0.6366559485530546,
+            "person_count": 311,
+            "predicted_person_count": 82,
+            "support_rate": 0.8292682926829268,
+            "supported_person_count": 68
+          },
+          {
+            "development_subcohort": "RECOVERED109",
+            "direction_above_prevalence": true,
+            "observed_person_count": 66,
+            "observed_prevalence": 0.6055045871559633,
+            "person_count": 109,
+            "predicted_person_count": 38,
+            "support_rate": 0.8157894736842105,
+            "supported_person_count": 31
+          }
+        ],
+        "support_rate": 0.825,
+        "supported_person_count": 99
+      },
+      {
+        "both_development_subcohorts_direction_above_prevalence": true,
+        "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+        "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+        "descriptive_enrichment_ratio": 2.1231617647058822,
+        "development_person_count": 420,
+        "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+        "observed_person_count": 128,
+        "observed_prevalence": 0.3047619047619048,
+        "predicted_person_count": 34,
+        "prediction_surface": "PP",
+        "subcohorts": [
+          {
+            "development_subcohort": "SOURCE_REVIEWED311",
+            "direction_above_prevalence": true,
+            "observed_person_count": 94,
+            "observed_prevalence": 0.3022508038585209,
+            "person_count": 311,
+            "predicted_person_count": 24,
+            "support_rate": 0.6666666666666666,
+            "supported_person_count": 16
+          },
+          {
+            "development_subcohort": "RECOVERED109",
+            "direction_above_prevalence": true,
+            "observed_person_count": 34,
+            "observed_prevalence": 0.3119266055045872,
+            "person_count": 109,
+            "predicted_person_count": 10,
+            "support_rate": 0.6,
+            "supported_person_count": 6
+          }
+        ],
+        "support_rate": 0.6470588235294118,
+        "supported_person_count": 22
+      },
+      {
+        "both_development_subcohorts_direction_above_prevalence": true,
+        "candidate_class": "TIER_COMPLEMENTARY_DEVELOPMENT_CANDIDATE",
+        "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+        "descriptive_enrichment_ratio": 3.020224719101124,
+        "development_person_count": 420,
+        "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+        "observed_person_count": 89,
+        "observed_prevalence": 0.2119047619047619,
+        "predicted_person_count": 25,
+        "prediction_surface": "ANY_TIER_BOTH_SYSTEMS_WITH_ORIGINAL_TIER_LABELS",
+        "subcohorts": [
+          {
+            "development_subcohort": "SOURCE_REVIEWED311",
+            "direction_above_prevalence": true,
+            "observed_person_count": 58,
+            "observed_prevalence": 0.1864951768488746,
+            "person_count": 311,
+            "predicted_person_count": 17,
+            "support_rate": 0.5294117647058824,
+            "supported_person_count": 9
+          },
+          {
+            "development_subcohort": "RECOVERED109",
+            "direction_above_prevalence": true,
+            "observed_person_count": 31,
+            "observed_prevalence": 0.28440366972477066,
+            "person_count": 109,
+            "predicted_person_count": 8,
+            "support_rate": 0.875,
+            "supported_person_count": 7
+          }
+        ],
+        "support_rate": 0.64,
+        "supported_person_count": 16
+      }
+    ],
+    "development_person_count": 420,
+    "external_route_validation_count": 0,
+    "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+    "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_FIVE_CANDIDATE_SUMMARY_V2"
+  },
+  "claim_boundary": {
+    "candidate_count": 5,
+    "candidate_rejection_count": 0,
+    "development_person_count": 420,
+    "external_route_validation_count": 0,
+    "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+    "full_chart_to_rule_reexecution_public": false,
+    "prohibited_interpretations": [
+      "THE_FIVE_CANDIDATES_ARE_EXTERNALLY_VALIDATED",
+      "THE_FIVE_CANDIDATES_WERE_REJECTED",
+      "THE_MEASUREMENT_LIMITATION_IS_A_ROUTE_NULL",
+      "OCCUPATION_IS_A_ROUTE_IDENTITY_OR_ENTRY_GATE"
+    ],
+    "publication_ready_validated_route_count": 0,
+    "released_reproduction_scope": "ANONYMOUS_PERSON_LEVEL_DEVELOPMENT_MATCH_MATRIX_RULE_SEMANTICS_AND_TERMINAL_MEASUREMENT_GATE",
+    "route_test_performed": false,
+    "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_CLAIM_BOUNDARY_V2",
+    "study_relation_to_v1": "BOUNDED_MEASUREMENT_DEVELOPMENT_CONTINUATION_V1_PRESERVED_UNCHANGED",
+    "terminal_outcome": "MEASUREMENT_CONSTRUCT_LIMITATION"
+  },
+  "measurement_actor_gate": {
+    "actor_known_precision": 0.9915966386554622,
+    "actor_reference_coverage": 0.8686131386861314,
+    "actor_response_count": 420,
+    "correct_self_count": 236,
+    "development_only": true,
+    "failed_frozen_gates": [
+      "actor_known_precision",
+      "actor_reference_coverage"
+    ],
+    "frozen_gates": {
+      "actor_known_precision_required": 1.0,
+      "actor_reference_coverage_min": 0.9,
+      "linked_action_selection_recall_min": 0.5
+    },
+    "known_reference_count": 238,
+    "linked_action_selection_recall": 0.78125,
+    "linked_reference_count": 160,
+    "person_count": 15,
+    "procedure_count": 2,
+    "reference_state_counts": {
+      "MIXED": 2,
+      "SELF": 236,
+      "UNKNOWN": 36
+    },
+    "route_evidence_generated": false,
+    "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_ACTOR_GATE_V2",
+    "selected_linked_count": 125,
+    "self_action_count": 274,
+    "terminal_outcome": "MEASUREMENT_CONSTRUCT_LIMITATION",
+    "typed_response_count_before_stop": 184
+  },
+  "mechanism_counts": {
+    "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+      "actor_capability_families": {
+        "AMPLIFICATION_APPETITE_AND_BOUNDARY_CROSSING": 1,
+        "AUTHORIZATION_CENTRALITY_AND_VISIBLE_IDENTITY": 5,
+        "FORM_VALUE_RELATION_AND_SOCIAL_COHESION": 16,
+        "INITIATION_CONFLICT_AND_EMBODIED_EXECUTION": 13,
+        "KNOWLEDGE_EXPANSION_JUDGMENT_AND_LEGITIMATION": 22,
+        "MEDIATION_ANALYSIS_LANGUAGE_AND_EXCHANGE": 16,
+        "RECEPTIVITY_PUBLIC_RESPONSIVENESS_AND_CARE": 6,
+        "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE": 18
+      },
+      "by_system": {
+        "JYOTISH": 72,
+        "WESTERN": 25
+      },
+      "by_tier": {
+        "ALTERNATIVE_MECHANISM_TRAINING_RULE": 20,
+        "PRIMARY_THEORY_COHERENT_TRAINING_RULE": 77
+      },
+      "functional_roles": {
+        "A10_LORD": 21,
+        "AMATYA_CANDIDATE": 30,
+        "MC_RULER": 25,
+        "TENTH_LORD": 21
+      },
+      "rule_count": 97,
+      "semantic_relation_families": {
+        "CONFIGURATION_LEVEL_COLLABORATION": 17,
+        "DEPENDENCY_GOVERNANCE_OR_MEDIATED_DELIVERY": 41,
+        "MERGER_OR_JOINT_OPERATION": 10,
+        "MULTI_ACTOR_GEOMETRIC_CONFIGURATION": 3,
+        "ORIENTED_INFLUENCE_NOT_AUTOMATICALLY_SYMMETRIC": 23,
+        "RECIPROCAL_GOVERNANCE_OR_EXCHANGE": 3
+      }
+    },
+    "AUTHORED_SYMBOLIC_PRODUCTION": {
+      "actor_capability_families": {
+        "AMPLIFICATION_APPETITE_AND_BOUNDARY_CROSSING": 1,
+        "AUTHORIZATION_CENTRALITY_AND_VISIBLE_IDENTITY": 14,
+        "FORM_VALUE_RELATION_AND_SOCIAL_COHESION": 32,
+        "INITIATION_CONFLICT_AND_EMBODIED_EXECUTION": 17,
+        "KNOWLEDGE_EXPANSION_JUDGMENT_AND_LEGITIMATION": 26,
+        "MEDIATION_ANALYSIS_LANGUAGE_AND_EXCHANGE": 21,
+        "RECEPTIVITY_PUBLIC_RESPONSIVENESS_AND_CARE": 5,
+        "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE": 31
+      },
+      "by_system": {
+        "JYOTISH": 114,
+        "WESTERN": 33
+      },
+      "by_tier": {
+        "ALTERNATIVE_MECHANISM_TRAINING_RULE": 34,
+        "PRIMARY_THEORY_COHERENT_TRAINING_RULE": 113
+      },
+      "functional_roles": {
+        "A10_LORD": 36,
+        "AMATYA_CANDIDATE": 42,
+        "MC_RULER": 33,
+        "TENTH_LORD": 36
+      },
+      "rule_count": 147,
+      "semantic_relation_families": {
+        "AVAILABLE_COOPERATION_REQUIRING_USE": 1,
+        "CONFIGURATION_LEVEL_COLLABORATION": 18,
+        "DEPENDENCY_GOVERNANCE_OR_MEDIATED_DELIVERY": 68,
+        "MERGER_OR_JOINT_OPERATION": 14,
+        "MULTI_ACTOR_GEOMETRIC_CONFIGURATION": 6,
+        "ORIENTED_INFLUENCE_NOT_AUTOMATICALLY_SYMMETRIC": 38,
+        "RECIPROCAL_GOVERNANCE_OR_EXCHANGE": 2
+      }
+    },
+    "EMBODIED_COMPETITIVE_PERFORMANCE": {
+      "actor_capability_families": {
+        "AMPLIFICATION_APPETITE_AND_BOUNDARY_CROSSING": 1,
+        "AUTHORIZATION_CENTRALITY_AND_VISIBLE_IDENTITY": 4,
+        "FORM_VALUE_RELATION_AND_SOCIAL_COHESION": 16,
+        "INITIATION_CONFLICT_AND_EMBODIED_EXECUTION": 13,
+        "MEDIATION_ANALYSIS_LANGUAGE_AND_EXCHANGE": 12,
+        "RECEPTIVITY_PUBLIC_RESPONSIVENESS_AND_CARE": 4,
+        "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE": 4
+      },
+      "by_system": {
+        "JYOTISH": 47,
+        "WESTERN": 7
+      },
+      "by_tier": {
+        "ALTERNATIVE_MECHANISM_TRAINING_RULE": 30,
+        "PRIMARY_THEORY_COHERENT_TRAINING_RULE": 24
+      },
+      "functional_roles": {
+        "A10_LORD": 17,
+        "AMATYA_CANDIDATE": 13,
+        "MC_RULER": 7,
+        "TENTH_LORD": 17
+      },
+      "rule_count": 54,
+      "semantic_relation_families": {
+        "CONFIGURATION_LEVEL_COLLABORATION": 13,
+        "DEPENDENCY_GOVERNANCE_OR_MEDIATED_DELIVERY": 20,
+        "MERGER_OR_JOINT_OPERATION": 4,
+        "MULTI_ACTOR_GEOMETRIC_CONFIGURATION": 1,
+        "ORIENTED_INFLUENCE_NOT_AUTOMATICALLY_SYMMETRIC": 15,
+        "RECIPROCAL_GOVERNANCE_OR_EXCHANGE": 1
+      }
+    },
+    "ORGANIZED_COLLECTIVE_REALIZATION": {
+      "actor_capability_families": {
+        "AUTHORIZATION_CENTRALITY_AND_VISIBLE_IDENTITY": 12,
+        "FORM_VALUE_RELATION_AND_SOCIAL_COHESION": 9,
+        "INITIATION_CONFLICT_AND_EMBODIED_EXECUTION": 22,
+        "KNOWLEDGE_EXPANSION_JUDGMENT_AND_LEGITIMATION": 34,
+        "MEDIATION_ANALYSIS_LANGUAGE_AND_EXCHANGE": 16,
+        "RECEPTIVITY_PUBLIC_RESPONSIVENESS_AND_CARE": 1,
+        "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE": 35
+      },
+      "by_system": {
+        "JYOTISH": 106,
+        "WESTERN": 23
+      },
+      "by_tier": {
+        "ALTERNATIVE_MECHANISM_TRAINING_RULE": 4,
+        "PRIMARY_THEORY_COHERENT_TRAINING_RULE": 125
+      },
+      "functional_roles": {
+        "A10_LORD": 33,
+        "AMATYA_CANDIDATE": 40,
+        "MC_RULER": 23,
+        "TENTH_LORD": 33
+      },
+      "rule_count": 129,
+      "semantic_relation_families": {
+        "AVAILABLE_COOPERATION_REQUIRING_USE": 2,
+        "CONFIGURATION_LEVEL_COLLABORATION": 17,
+        "DEPENDENCY_GOVERNANCE_OR_MEDIATED_DELIVERY": 54,
+        "EASY_CIRCULATION_OR_REINFORCEMENT": 1,
+        "MERGER_OR_JOINT_OPERATION": 12,
+        "MULTI_ACTOR_GEOMETRIC_CONFIGURATION": 3,
+        "ORIENTED_INFLUENCE_NOT_AUTOMATICALLY_SYMMETRIC": 38,
+        "RECIPROCAL_GOVERNANCE_OR_EXCHANGE": 2
+      }
+    },
+    "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+      "actor_capability_families": {
+        "AUTHORIZATION_CENTRALITY_AND_VISIBLE_IDENTITY": 6,
+        "FORM_VALUE_RELATION_AND_SOCIAL_COHESION": 16,
+        "INITIATION_CONFLICT_AND_EMBODIED_EXECUTION": 24,
+        "KNOWLEDGE_EXPANSION_JUDGMENT_AND_LEGITIMATION": 16,
+        "MEDIATION_ANALYSIS_LANGUAGE_AND_EXCHANGE": 7,
+        "RECEPTIVITY_PUBLIC_RESPONSIVENESS_AND_CARE": 5,
+        "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE": 14
+      },
+      "by_system": {
+        "JYOTISH": 68,
+        "WESTERN": 20
+      },
+      "by_tier": {
+        "ALTERNATIVE_MECHANISM_TRAINING_RULE": 21,
+        "PRIMARY_THEORY_COHERENT_TRAINING_RULE": 67
+      },
+      "functional_roles": {
+        "A10_LORD": 23,
+        "AMATYA_CANDIDATE": 22,
+        "MC_RULER": 20,
+        "TENTH_LORD": 23
+      },
+      "rule_count": 88,
+      "semantic_relation_families": {
+        "CONFIGURATION_LEVEL_COLLABORATION": 13,
+        "DEPENDENCY_GOVERNANCE_OR_MEDIATED_DELIVERY": 39,
+        "MERGER_OR_JOINT_OPERATION": 5,
+        "MULTI_ACTOR_GEOMETRIC_CONFIGURATION": 1,
+        "ORIENTED_INFLUENCE_NOT_AUTOMATICALLY_SYMMETRIC": 28,
+        "RECIPROCAL_GOVERNANCE_OR_EXCHANGE": 2
+      }
+    }
+  },
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_RESULTS_V2"
+}

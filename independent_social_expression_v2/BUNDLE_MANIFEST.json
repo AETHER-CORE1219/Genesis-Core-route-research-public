@@ -1,0 +1,30 @@
+{
+  "claim_counts": {
+    "development_candidates": 5,
+    "externally_validated_routes": 0,
+    "rejected_candidates": 0
+  },
+  "entrypoint": "README_JA.md",
+  "files": [
+    "CLAIM_BOUNDARY.json",
+    "FAILURES_AND_LIMITS.md",
+    "METHODS.md",
+    "README.md",
+    "README_JA.md",
+    "REPRODUCTION.md",
+    "RESULTS.json",
+    "data/candidate_summary_v2.json",
+    "data/development420_anonymous_matrix_v2.json",
+    "data/five_candidate_rule_registry_v2.json",
+    "data/matcher_spec_v2.json",
+    "data/measurement_actor_gate_v2.json",
+    "data/source_manifest_v2.json",
+    "scripts/reproduce_v2.py"
+  ],
+  "phase_id": "phase_akug_independent_social_expression_v2_publication_freeze",
+  "protected_surfaces_accessed": false,
+  "release_id": "independent_social_expression_v2",
+  "reproduction_command": "python3 independent_social_expression_v2/scripts/reproduce_v2.py",
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_BUNDLE_MANIFEST_V2",
+  "terminal_outcome": "MEASUREMENT_CONSTRUCT_LIMITATION"
+}

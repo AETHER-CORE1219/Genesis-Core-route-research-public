@@ -1,0 +1,190 @@
+{
+  "candidate_count": 5,
+  "candidate_rejection_count": 0,
+  "candidates": [
+    {
+      "both_development_subcohorts_direction_above_prevalence": true,
+      "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "descriptive_enrichment_ratio": 1.6947087933003426,
+      "development_person_count": 420,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "observed_person_count": 185,
+      "observed_prevalence": 0.44047619047619047,
+      "predicted_person_count": 71,
+      "prediction_surface": "PP",
+      "subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "direction_above_prevalence": true,
+          "observed_person_count": 156,
+          "observed_prevalence": 0.5016077170418006,
+          "person_count": 311,
+          "predicted_person_count": 56,
+          "support_rate": 0.7857142857142857,
+          "supported_person_count": 44
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "direction_above_prevalence": true,
+          "observed_person_count": 29,
+          "observed_prevalence": 0.26605504587155965,
+          "person_count": 109,
+          "predicted_person_count": 15,
+          "support_rate": 0.6,
+          "supported_person_count": 9
+        }
+      ],
+      "support_rate": 0.7464788732394366,
+      "supported_person_count": 53
+    },
+    {
+      "both_development_subcohorts_direction_above_prevalence": true,
+      "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "descriptive_enrichment_ratio": 1.5327731092436974,
+      "development_person_count": 420,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "observed_person_count": 245,
+      "observed_prevalence": 0.5833333333333334,
+      "predicted_person_count": 85,
+      "prediction_surface": "PP",
+      "subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "direction_above_prevalence": true,
+          "observed_person_count": 187,
+          "observed_prevalence": 0.6012861736334405,
+          "person_count": 311,
+          "predicted_person_count": 62,
+          "support_rate": 0.9354838709677419,
+          "supported_person_count": 58
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "direction_above_prevalence": true,
+          "observed_person_count": 58,
+          "observed_prevalence": 0.5321100917431193,
+          "person_count": 109,
+          "predicted_person_count": 23,
+          "support_rate": 0.782608695652174,
+          "supported_person_count": 18
+        }
+      ],
+      "support_rate": 0.8941176470588236,
+      "supported_person_count": 76
+    },
+    {
+      "both_development_subcohorts_direction_above_prevalence": true,
+      "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "descriptive_enrichment_ratio": 1.3125,
+      "development_person_count": 420,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "observed_person_count": 264,
+      "observed_prevalence": 0.6285714285714286,
+      "predicted_person_count": 120,
+      "prediction_surface": "PP",
+      "subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "direction_above_prevalence": true,
+          "observed_person_count": 198,
+          "observed_prevalence": 0.6366559485530546,
+          "person_count": 311,
+          "predicted_person_count": 82,
+          "support_rate": 0.8292682926829268,
+          "supported_person_count": 68
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "direction_above_prevalence": true,
+          "observed_person_count": 66,
+          "observed_prevalence": 0.6055045871559633,
+          "person_count": 109,
+          "predicted_person_count": 38,
+          "support_rate": 0.8157894736842105,
+          "supported_person_count": 31
+        }
+      ],
+      "support_rate": 0.825,
+      "supported_person_count": 99
+    },
+    {
+      "both_development_subcohorts_direction_above_prevalence": true,
+      "candidate_class": "PRIMARY_PRIMARY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "descriptive_enrichment_ratio": 2.1231617647058822,
+      "development_person_count": 420,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "observed_person_count": 128,
+      "observed_prevalence": 0.3047619047619048,
+      "predicted_person_count": 34,
+      "prediction_surface": "PP",
+      "subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "direction_above_prevalence": true,
+          "observed_person_count": 94,
+          "observed_prevalence": 0.3022508038585209,
+          "person_count": 311,
+          "predicted_person_count": 24,
+          "support_rate": 0.6666666666666666,
+          "supported_person_count": 16
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "direction_above_prevalence": true,
+          "observed_person_count": 34,
+          "observed_prevalence": 0.3119266055045872,
+          "person_count": 109,
+          "predicted_person_count": 10,
+          "support_rate": 0.6,
+          "supported_person_count": 6
+        }
+      ],
+      "support_rate": 0.6470588235294118,
+      "supported_person_count": 22
+    },
+    {
+      "both_development_subcohorts_direction_above_prevalence": true,
+      "candidate_class": "TIER_COMPLEMENTARY_DEVELOPMENT_CANDIDATE",
+      "claim_status": "DEVELOPMENT_CANDIDATE_NOT_EXTERNALLY_VALIDATED_OR_REJECTED",
+      "descriptive_enrichment_ratio": 3.020224719101124,
+      "development_person_count": 420,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "observed_person_count": 89,
+      "observed_prevalence": 0.2119047619047619,
+      "predicted_person_count": 25,
+      "prediction_surface": "ANY_TIER_BOTH_SYSTEMS_WITH_ORIGINAL_TIER_LABELS",
+      "subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "direction_above_prevalence": true,
+          "observed_person_count": 58,
+          "observed_prevalence": 0.1864951768488746,
+          "person_count": 311,
+          "predicted_person_count": 17,
+          "support_rate": 0.5294117647058824,
+          "supported_person_count": 9
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "direction_above_prevalence": true,
+          "observed_person_count": 31,
+          "observed_prevalence": 0.28440366972477066,
+          "person_count": 109,
+          "predicted_person_count": 8,
+          "support_rate": 0.875,
+          "supported_person_count": 7
+        }
+      ],
+      "support_rate": 0.64,
+      "supported_person_count": 16
+    }
+  ],
+  "development_person_count": 420,
+  "external_route_validation_count": 0,
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_FIVE_CANDIDATE_SUMMARY_V2"
+}
