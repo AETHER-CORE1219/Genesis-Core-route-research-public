@@ -1,0 +1,671 @@
+{
+  "aggregation": "ANY_MATCHED_PRIMARY_FRESH_CONFIRMATION_CANDIDATE_UNIT_WITH_FUNCTION_LEAD",
+  "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+  "schema_id": "AUTHORED_CORRECTED_UNIT_MANIFEST_V3",
+  "system": "JYOTISH",
+  "unit_count": 25,
+  "units": [
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "90a8dbf5a4c59110bfa2135460ea85e652d4e784f2e721824990690b0646c853",
+      "ajz_direct_known_output_match_set_sha256": "90a8dbf5a4c59110bfa2135460ea85e652d4e784f2e721824990690b0646c853",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_f43088ce26f19df446df03a5",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "SUCCEDENT"
+      },
+      "chart_meaning_core_id": "CORE_f43088ce26f19df446df03a5",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "EMBODIED_COMPETITIVE_PERFORMANCE",
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 15,
+      "portable_all_chart_match_set_sha256": "90a8dbf5a4c59110bfa2135460ea85e652d4e784f2e721824990690b0646c853",
+      "portable_known_output_match_count": 15,
+      "portable_known_output_match_set_sha256": "90a8dbf5a4c59110bfa2135460ea85e652d4e784f2e721824990690b0646c853",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_0af535cc5c7a9241f0020d1a",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "60de444ce014d06cb9906b97f2b4907c88840b337b4f9459461e8bd06064011f",
+      "ajz_direct_known_output_match_set_sha256": "957aa768783ed3f54652acc23bbf6faf9d765f6a6b1a45a578d16b1f97f39863",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_c1a1468b7b6fae6ec6b93a1b",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "UPACHAYA"
+      },
+      "chart_meaning_core_id": "CORE_c1a1468b7b6fae6ec6b93a1b",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 1,
+      "portable_all_chart_match_count": 6,
+      "portable_all_chart_match_set_sha256": "60de444ce014d06cb9906b97f2b4907c88840b337b4f9459461e8bd06064011f",
+      "portable_known_output_match_count": 5,
+      "portable_known_output_match_set_sha256": "957aa768783ed3f54652acc23bbf6faf9d765f6a6b1a45a578d16b1f97f39863",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_0cbf6520bf1b5f2f8c0c2ff3",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "38cbe90488c83066e052ed751e5cff1207acccdbec36cfd1e9c5cc736ea27805",
+      "ajz_direct_known_output_match_set_sha256": "38cbe90488c83066e052ed751e5cff1207acccdbec36cfd1e9c5cc736ea27805",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_bafaf85bd8dfbd14ea114641",
+        "predicate_level": "CORE_PLUS_RELATION_MODE",
+        "predicate_value": "PARASHARI_DRISHTI_SPECIAL"
+      },
+      "chart_meaning_core_id": "CORE_bafaf85bd8dfbd14ea114641",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 9,
+      "portable_all_chart_match_set_sha256": "38cbe90488c83066e052ed751e5cff1207acccdbec36cfd1e9c5cc736ea27805",
+      "portable_known_output_match_count": 9,
+      "portable_known_output_match_set_sha256": "38cbe90488c83066e052ed751e5cff1207acccdbec36cfd1e9c5cc736ea27805",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_2239495a2b9b0fda9e3c2723",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "d1358abc937c7ee0dc035f694663acde74093c81cf0ddc056831dcaab980828c",
+      "ajz_direct_known_output_match_set_sha256": "d1358abc937c7ee0dc035f694663acde74093c81cf0ddc056831dcaab980828c",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_11fe6f15fc36d49d07a77686",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "ARTHA_OUTPUT"
+      },
+      "chart_meaning_core_id": "CORE_11fe6f15fc36d49d07a77686",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 5,
+      "portable_all_chart_match_set_sha256": "d1358abc937c7ee0dc035f694663acde74093c81cf0ddc056831dcaab980828c",
+      "portable_known_output_match_count": 5,
+      "portable_known_output_match_set_sha256": "d1358abc937c7ee0dc035f694663acde74093c81cf0ddc056831dcaab980828c",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_22832b03cf23049cbdb05b05",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "36dc34056b567640aa4db158cac1062135c07b299c3a8c2be21eb4f1b08666c0",
+      "ajz_direct_known_output_match_set_sha256": "36dc34056b567640aa4db158cac1062135c07b299c3a8c2be21eb4f1b08666c0",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_34d99bfde7c6ad26fdda296f",
+        "predicate_level": "CORE_PLUS_RELATION_MODE",
+        "predicate_value": "PARASHARI_DRISHTI_SPECIAL"
+      },
+      "chart_meaning_core_id": "CORE_34d99bfde7c6ad26fdda296f",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "PERFORMED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 15,
+      "portable_all_chart_match_set_sha256": "36dc34056b567640aa4db158cac1062135c07b299c3a8c2be21eb4f1b08666c0",
+      "portable_known_output_match_count": 15,
+      "portable_known_output_match_set_sha256": "36dc34056b567640aa4db158cac1062135c07b299c3a8c2be21eb4f1b08666c0",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_23d9a31bc2dc72f7c3461e10",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "62b7ad0c0d18e39dbd87225d474039113d5c41fb01aec68306bbe9da61f05fd0",
+      "ajz_direct_known_output_match_set_sha256": "62b7ad0c0d18e39dbd87225d474039113d5c41fb01aec68306bbe9da61f05fd0",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_4ef811fbb59558766f3dd563",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "DUSTHANA"
+      },
+      "chart_meaning_core_id": "CORE_4ef811fbb59558766f3dd563",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 8,
+      "portable_all_chart_match_set_sha256": "62b7ad0c0d18e39dbd87225d474039113d5c41fb01aec68306bbe9da61f05fd0",
+      "portable_known_output_match_count": 8,
+      "portable_known_output_match_set_sha256": "62b7ad0c0d18e39dbd87225d474039113d5c41fb01aec68306bbe9da61f05fd0",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_29e6144c7132ecfafb2fe1c3",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "9653532d75121a986aaebdd895a2fb0eb33b06e658ca498cdac9b0b9f3ed204c",
+      "ajz_direct_known_output_match_set_sha256": "9653532d75121a986aaebdd895a2fb0eb33b06e658ca498cdac9b0b9f3ed204c",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_ebcb9b237ce19078a737794d",
+        "predicate_level": "CORE_PLUS_RELATION_MODE",
+        "predicate_value": "PARASHARI_DRISHTI_SPECIAL"
+      },
+      "chart_meaning_core_id": "CORE_ebcb9b237ce19078a737794d",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 12,
+      "portable_all_chart_match_set_sha256": "9653532d75121a986aaebdd895a2fb0eb33b06e658ca498cdac9b0b9f3ed204c",
+      "portable_known_output_match_count": 12,
+      "portable_known_output_match_set_sha256": "9653532d75121a986aaebdd895a2fb0eb33b06e658ca498cdac9b0b9f3ed204c",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_2f089896993d97532b3b0e3a",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "a58591dbbbd042ebbc493a72e4eaa89921514f1548d753d8b90081b0ff4efb1b",
+      "ajz_direct_known_output_match_set_sha256": "a58591dbbbd042ebbc493a72e4eaa89921514f1548d753d8b90081b0ff4efb1b",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_f749d1829f9d6d9c11ac7626",
+        "predicate_level": "CORE_PLUS_RELATION_MODE",
+        "predicate_value": "PARASHARI_DRISHTI_SPECIAL"
+      },
+      "chart_meaning_core_id": "CORE_f749d1829f9d6d9c11ac7626",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 7,
+      "portable_all_chart_match_set_sha256": "a58591dbbbd042ebbc493a72e4eaa89921514f1548d753d8b90081b0ff4efb1b",
+      "portable_known_output_match_count": 7,
+      "portable_known_output_match_set_sha256": "a58591dbbbd042ebbc493a72e4eaa89921514f1548d753d8b90081b0ff4efb1b",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_3f917b22ce4d055333788d64",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "d121c91b7b19c14d5512e592696e7e35167ee3f7861073a11d1a62f2cd551b54",
+      "ajz_direct_known_output_match_set_sha256": "d121c91b7b19c14d5512e592696e7e35167ee3f7861073a11d1a62f2cd551b54",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_f1c75b9923348aa3c727e772",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "DUSTHANA"
+      },
+      "chart_meaning_core_id": "CORE_f1c75b9923348aa3c727e772",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 10,
+      "portable_all_chart_match_set_sha256": "d121c91b7b19c14d5512e592696e7e35167ee3f7861073a11d1a62f2cd551b54",
+      "portable_known_output_match_count": 10,
+      "portable_known_output_match_set_sha256": "d121c91b7b19c14d5512e592696e7e35167ee3f7861073a11d1a62f2cd551b54",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_49c30f79b1253bcc5bc41545",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "162d6137b23cdb2ea887fb4ee9613e51e92ccefe69c1599b4c7f0785d6568f18",
+      "ajz_direct_known_output_match_set_sha256": "162d6137b23cdb2ea887fb4ee9613e51e92ccefe69c1599b4c7f0785d6568f18",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_6fa4807a9d726e965196753e",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "KENDRA_OR_ANGULAR"
+      },
+      "chart_meaning_core_id": "CORE_6fa4807a9d726e965196753e",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 5,
+      "portable_all_chart_match_set_sha256": "162d6137b23cdb2ea887fb4ee9613e51e92ccefe69c1599b4c7f0785d6568f18",
+      "portable_known_output_match_count": 5,
+      "portable_known_output_match_set_sha256": "162d6137b23cdb2ea887fb4ee9613e51e92ccefe69c1599b4c7f0785d6568f18",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_4f34e55b5439a06283439202",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "8ebb92ba6d6837081641c8b38ac5820d1e67a97e4bb8c0a2e9a546920d4424c8",
+      "ajz_direct_known_output_match_set_sha256": "8ebb92ba6d6837081641c8b38ac5820d1e67a97e4bb8c0a2e9a546920d4424c8",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_cfe9e08e6fb2157b43ac5901",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "UPACHAYA"
+      },
+      "chart_meaning_core_id": "CORE_cfe9e08e6fb2157b43ac5901",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 13,
+      "portable_all_chart_match_set_sha256": "8ebb92ba6d6837081641c8b38ac5820d1e67a97e4bb8c0a2e9a546920d4424c8",
+      "portable_known_output_match_count": 13,
+      "portable_known_output_match_set_sha256": "8ebb92ba6d6837081641c8b38ac5820d1e67a97e4bb8c0a2e9a546920d4424c8",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_5543d745bd2ca80020019603",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "8b493a147ad3febcab6d40f82e2b29bbcefbf2c2dab2fb594dda2c539b592533",
+      "ajz_direct_known_output_match_set_sha256": "8b493a147ad3febcab6d40f82e2b29bbcefbf2c2dab2fb594dda2c539b592533",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_a8f4a039386e873e99d5dd63",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "CADENT"
+      },
+      "chart_meaning_core_id": "CORE_a8f4a039386e873e99d5dd63",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION",
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 19,
+      "portable_all_chart_match_set_sha256": "8b493a147ad3febcab6d40f82e2b29bbcefbf2c2dab2fb594dda2c539b592533",
+      "portable_known_output_match_count": 19,
+      "portable_known_output_match_set_sha256": "8b493a147ad3febcab6d40f82e2b29bbcefbf2c2dab2fb594dda2c539b592533",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_696761388f8967893842c090",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "a11816c161d2404bcfbb0aa49baa09b9f9bf00f1242171955162385981ca368d",
+      "ajz_direct_known_output_match_set_sha256": "a11816c161d2404bcfbb0aa49baa09b9f9bf00f1242171955162385981ca368d",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_fe6cf2651fe8f605ad5aa042",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "ARTHA_OUTPUT"
+      },
+      "chart_meaning_core_id": "CORE_fe6cf2651fe8f605ad5aa042",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "EMBODIED_COMPETITIVE_PERFORMANCE",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 12,
+      "portable_all_chart_match_set_sha256": "a11816c161d2404bcfbb0aa49baa09b9f9bf00f1242171955162385981ca368d",
+      "portable_known_output_match_count": 12,
+      "portable_known_output_match_set_sha256": "a11816c161d2404bcfbb0aa49baa09b9f9bf00f1242171955162385981ca368d",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_69f6edcf51510ed233bd70e1",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "3aa9d4d407ca167d484704b73bb547b3641c35e1aa665485953d6838d4550e88",
+      "ajz_direct_known_output_match_set_sha256": "3aa9d4d407ca167d484704b73bb547b3641c35e1aa665485953d6838d4550e88",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_fbde4408abfb6c4a5da497e3",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "SUCCEDENT"
+      },
+      "chart_meaning_core_id": "CORE_fbde4408abfb6c4a5da497e3",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 8,
+      "portable_all_chart_match_set_sha256": "3aa9d4d407ca167d484704b73bb547b3641c35e1aa665485953d6838d4550e88",
+      "portable_known_output_match_count": 8,
+      "portable_known_output_match_set_sha256": "3aa9d4d407ca167d484704b73bb547b3641c35e1aa665485953d6838d4550e88",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_74957ea0f8fe92170de58cbf",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "07ade9468db47fa81de809409da64451851c6455f7812c46859f5e5020dd84d9",
+      "ajz_direct_known_output_match_set_sha256": "07ade9468db47fa81de809409da64451851c6455f7812c46859f5e5020dd84d9",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_c0af1e33276bfa7dff869d1e",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "KENDRA_OR_ANGULAR"
+      },
+      "chart_meaning_core_id": "CORE_c0af1e33276bfa7dff869d1e",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 5,
+      "portable_all_chart_match_set_sha256": "07ade9468db47fa81de809409da64451851c6455f7812c46859f5e5020dd84d9",
+      "portable_known_output_match_count": 5,
+      "portable_known_output_match_set_sha256": "07ade9468db47fa81de809409da64451851c6455f7812c46859f5e5020dd84d9",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_7c05246433b523de3bdfcd06",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "01def42cec83dcf1dc51266cefe1e9933620ceb14d0e188df8f74dd399634473",
+      "ajz_direct_known_output_match_set_sha256": "01def42cec83dcf1dc51266cefe1e9933620ceb14d0e188df8f74dd399634473",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_85e2676300e4d4e270851bdb",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "CADENT"
+      },
+      "chart_meaning_core_id": "CORE_85e2676300e4d4e270851bdb",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 7,
+      "portable_all_chart_match_set_sha256": "01def42cec83dcf1dc51266cefe1e9933620ceb14d0e188df8f74dd399634473",
+      "portable_known_output_match_count": 7,
+      "portable_known_output_match_set_sha256": "01def42cec83dcf1dc51266cefe1e9933620ceb14d0e188df8f74dd399634473",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_7c0e5b9d7b40a159d750fcd3",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "246ad8a69dea4cbe6bd6cdf893a8b3cb3282ba4900c07969ae7edad3481f901f",
+      "ajz_direct_known_output_match_set_sha256": "246ad8a69dea4cbe6bd6cdf893a8b3cb3282ba4900c07969ae7edad3481f901f",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_ad1458f72b398aa2a9a316c4",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "TRIKONA"
+      },
+      "chart_meaning_core_id": "CORE_ad1458f72b398aa2a9a316c4",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 7,
+      "portable_all_chart_match_set_sha256": "246ad8a69dea4cbe6bd6cdf893a8b3cb3282ba4900c07969ae7edad3481f901f",
+      "portable_known_output_match_count": 7,
+      "portable_known_output_match_set_sha256": "246ad8a69dea4cbe6bd6cdf893a8b3cb3282ba4900c07969ae7edad3481f901f",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_898ecb67a78fd9b0e1252ec6",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "d193acb5ea7547402815c2deb9429a405c179317580c7dfaa65002caa02759e7",
+      "ajz_direct_known_output_match_set_sha256": "d193acb5ea7547402815c2deb9429a405c179317580c7dfaa65002caa02759e7",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_bafaf85bd8dfbd14ea114641",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "UPACHAYA"
+      },
+      "chart_meaning_core_id": "CORE_bafaf85bd8dfbd14ea114641",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 8,
+      "portable_all_chart_match_set_sha256": "d193acb5ea7547402815c2deb9429a405c179317580c7dfaa65002caa02759e7",
+      "portable_known_output_match_count": 8,
+      "portable_known_output_match_set_sha256": "d193acb5ea7547402815c2deb9429a405c179317580c7dfaa65002caa02759e7",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_9097c46372ace781dfca56e4",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "7de6578c519963e581e483b1ea6db93b6976a9d0eda6ce2fea6e680bff08b205",
+      "ajz_direct_known_output_match_set_sha256": "7de6578c519963e581e483b1ea6db93b6976a9d0eda6ce2fea6e680bff08b205",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_c4ea98707ffe669c498d50ee",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "SUCCEDENT"
+      },
+      "chart_meaning_core_id": "CORE_c4ea98707ffe669c498d50ee",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 6,
+      "portable_all_chart_match_set_sha256": "7de6578c519963e581e483b1ea6db93b6976a9d0eda6ce2fea6e680bff08b205",
+      "portable_known_output_match_count": 6,
+      "portable_known_output_match_set_sha256": "7de6578c519963e581e483b1ea6db93b6976a9d0eda6ce2fea6e680bff08b205",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_93643a77def940700bb95743",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "ff3cbfca330f9e9a7a9cdd1ddfea85316cde76fc9662bb643a846f1cccc1c915",
+      "ajz_direct_known_output_match_set_sha256": "ff3cbfca330f9e9a7a9cdd1ddfea85316cde76fc9662bb643a846f1cccc1c915",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_6ed5cb8024cf02640b828cc9",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "UPACHAYA"
+      },
+      "chart_meaning_core_id": "CORE_6ed5cb8024cf02640b828cc9",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 8,
+      "portable_all_chart_match_set_sha256": "ff3cbfca330f9e9a7a9cdd1ddfea85316cde76fc9662bb643a846f1cccc1c915",
+      "portable_known_output_match_count": 8,
+      "portable_known_output_match_set_sha256": "ff3cbfca330f9e9a7a9cdd1ddfea85316cde76fc9662bb643a846f1cccc1c915",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_b2f63eb28ccab05ee1e5a0d8",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "a05c1c9f9a4d95c3fa10c59ffb8c5c2c7088d7c57da6e18fb08db9fc0d31c285",
+      "ajz_direct_known_output_match_set_sha256": "a05c1c9f9a4d95c3fa10c59ffb8c5c2c7088d7c57da6e18fb08db9fc0d31c285",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_b458f2fb2d11891b1149535b",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "SUCCEDENT"
+      },
+      "chart_meaning_core_id": "CORE_b458f2fb2d11891b1149535b",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 5,
+      "portable_all_chart_match_set_sha256": "a05c1c9f9a4d95c3fa10c59ffb8c5c2c7088d7c57da6e18fb08db9fc0d31c285",
+      "portable_known_output_match_count": 5,
+      "portable_known_output_match_set_sha256": "a05c1c9f9a4d95c3fa10c59ffb8c5c2c7088d7c57da6e18fb08db9fc0d31c285",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_c4f1f7a27d7952e29bdc6b30",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "af38528ceeaca862ee2039aad5dc77b2dfe41ce0120aa451fe39d49f23dfe412",
+      "ajz_direct_known_output_match_set_sha256": "af38528ceeaca862ee2039aad5dc77b2dfe41ce0120aa451fe39d49f23dfe412",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_e020b46a4f8eac65f043de6b",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "ARTHA_OUTPUT"
+      },
+      "chart_meaning_core_id": "CORE_e020b46a4f8eac65f043de6b",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 7,
+      "portable_all_chart_match_set_sha256": "af38528ceeaca862ee2039aad5dc77b2dfe41ce0120aa451fe39d49f23dfe412",
+      "portable_known_output_match_count": 7,
+      "portable_known_output_match_set_sha256": "af38528ceeaca862ee2039aad5dc77b2dfe41ce0120aa451fe39d49f23dfe412",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_eedbf8c9646933caa48d6052",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "578a60a1298c5302ae9eb53cffb645a1dc2b2b964c0d1ad52fc1642c919d93fb",
+      "ajz_direct_known_output_match_set_sha256": "578a60a1298c5302ae9eb53cffb645a1dc2b2b964c0d1ad52fc1642c919d93fb",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_421027767dadfd32348c635f",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "UPACHAYA"
+      },
+      "chart_meaning_core_id": "CORE_421027767dadfd32348c635f",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 15,
+      "portable_all_chart_match_set_sha256": "578a60a1298c5302ae9eb53cffb645a1dc2b2b964c0d1ad52fc1642c919d93fb",
+      "portable_known_output_match_count": 15,
+      "portable_known_output_match_set_sha256": "578a60a1298c5302ae9eb53cffb645a1dc2b2b964c0d1ad52fc1642c919d93fb",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_f5e2460b62936d3c515a7469",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "ff690a0a4d8182d83a04b34ca1a67a41391714ac79681a78dfc0ad2dbb4b6197",
+      "ajz_direct_known_output_match_set_sha256": "ff690a0a4d8182d83a04b34ca1a67a41391714ac79681a78dfc0ad2dbb4b6197",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_958d58003b3b6c4d307fac13",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "UPACHAYA"
+      },
+      "chart_meaning_core_id": "CORE_958d58003b3b6c4d307fac13",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 7,
+      "portable_all_chart_match_set_sha256": "ff690a0a4d8182d83a04b34ca1a67a41391714ac79681a78dfc0ad2dbb4b6197",
+      "portable_known_output_match_count": 7,
+      "portable_known_output_match_set_sha256": "ff690a0a4d8182d83a04b34ca1a67a41391714ac79681a78dfc0ad2dbb4b6197",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_fd793fc061117a198858d5eb",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_TENSION_OR_ALTERNATIVE_MECHANISM_PRESERVED"
+    },
+    {
+      "ajz_corrected_all_chart_match_set_sha256": "f2a4982961b2e940c9f29ee50c1d62cefdebf8aa4a82f67ef86587a218385bc4",
+      "ajz_direct_known_output_match_set_sha256": "f2a4982961b2e940c9f29ee50c1d62cefdebf8aa4a82f67ef86587a218385bc4",
+      "aka_corrected_train_match_counts_exact": true,
+      "astrology_system": "JYOTISH",
+      "candidate_stratum": "PRIMARY_FRESH_CONFIRMATION_CANDIDATE",
+      "canonical_chart_predicate_identity": {
+        "chart_meaning_core_id": "CORE_f041f9350059b4f58a2ea346",
+        "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+        "predicate_value": "EXPLICIT_PUBLIC_VOCATIONAL_HOUSE"
+      },
+      "chart_meaning_core_id": "CORE_f041f9350059b4f58a2ea346",
+      "direct_known_output_reference_exact": true,
+      "lead_meaning_functions": [
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ],
+      "output_unknown_or_unlinked_chart_matches_preserved": 0,
+      "portable_all_chart_match_count": 6,
+      "portable_all_chart_match_set_sha256": "f2a4982961b2e940c9f29ee50c1d62cefdebf8aa4a82f67ef86587a218385bc4",
+      "portable_known_output_match_count": 6,
+      "portable_known_output_match_set_sha256": "f2a4982961b2e940c9f29ee50c1d62cefdebf8aa4a82f67ef86587a218385bc4",
+      "portable_vs_ajz_all_chart_exact": true,
+      "prospective_hypothesis_unit_id": "PHUNIT_fded08ce507d6d453d980840",
+      "route_or_tendency_claim": false,
+      "theory_stratum": "THEORY_CONCORDANT_NOT_YET_CONFIRMED"
+    }
+  ]
+}

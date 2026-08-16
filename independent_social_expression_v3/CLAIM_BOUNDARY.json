@@ -1,0 +1,23 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_CLAIM_BOUNDARY_V3",
+  "study_population": "AKS575_SINGLE_FIXED_HELDOUT",
+  "tested_candidate": "AUTHORED_SYMBOLIC_PRODUCTION",
+  "tested_system": "JYOTISH",
+  "tested_unit": "ANY_OF_25_CORRECTED_PRIMARY_CANDIDATE_UNITS",
+  "terminal_outcome": "AUTHORED_CORRECTED_MECHANISM_FAMILY_NULL_OTHER_FOUR_INSUFFICIENT_POWER",
+  "externally_validated_positive_family_count": 0,
+  "individual_route_validation_count": 0,
+  "other_four_status": "INSUFFICIENT_POWER_NOT_TESTED",
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "legacy_515_fresh_application_valid": false,
+  "full_birth_to_chart_reproduction_public": false,
+  "statistical_late_join_reproduction_public": true,
+  "prohibited_interpretations": [
+    "ASTROLOGY_AS_A_WHOLE_WAS_REJECTED",
+    "ALL_25_INDIVIDUAL_UNITS_WERE_REJECTED",
+    "THE_OTHER_FOUR_FUNCTIONS_WERE_REJECTED",
+    "WESTERN_JYOTISH_CONVERGENCE_WAS_TESTED",
+    "CAUSALITY_WAS_TESTED",
+    "OCCUPATION_WAS_PREDICTED"
+  ]
+}

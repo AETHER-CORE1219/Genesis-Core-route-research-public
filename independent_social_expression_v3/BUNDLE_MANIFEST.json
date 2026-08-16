@@ -1,0 +1,27 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_BUNDLE_MANIFEST_V3",
+  "release_status": "PUBLIC_REPRODUCIBLE_TERMINAL_RESULT",
+  "terminal_outcome": "AUTHORED_CORRECTED_MECHANISM_FAMILY_NULL_OTHER_FOUR_INSUFFICIENT_POWER",
+  "people": 575,
+  "tested_units": 25,
+  "positive_external_families": 0,
+  "files": [
+    "README.md",
+    "README_JA.md",
+    "METHODS.md",
+    "FAILURES_AND_LIMITS.md",
+    "REPRODUCTION.md",
+    "CLAIM_BOUNDARY.json",
+    "RESULTS.json",
+    "requirements.txt",
+    "scripts/reproduce_v3.py",
+    "data/aks575_anonymous_late_join_v3.json",
+    "data/authored_corrected_unit_manifest_v3.json",
+    "CHECKSUMS.sha256"
+  ],
+  "canonical_data_sha256": {
+    "RESULTS.json": "260916dc21f00292c50f3830d82b7fe87cbee5b53a3885233b269eb1d3beaf2d",
+    "data/aks575_anonymous_late_join_v3.json": "81a60e6c17c049e626fe67d7b1a9ba02385da52bf9455d5aaa0c2553bdba3913",
+    "data/authored_corrected_unit_manifest_v3.json": "4376c6425b51afffe2573c5130362c063629df61d1cc8821a7c38c7014e5cdff"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "candidate_functions_unchanged": true,
+  "development_candidates": [
+    {
+      "development_subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "exposed_observed_count": 48,
+          "exposed_person_count": 77,
+          "exposed_rate": 0.6233766233766234,
+          "person_count": 311,
+          "positive_direction": true,
+          "risk_difference": 0.1618381618381618,
+          "unexposed_observed_count": 108,
+          "unexposed_person_count": 234,
+          "unexposed_rate": 0.46153846153846156
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "exposed_observed_count": 12,
+          "exposed_person_count": 27,
+          "exposed_rate": 0.4444444444444444,
+          "person_count": 109,
+          "positive_direction": true,
+          "risk_difference": 0.23712737127371272,
+          "unexposed_observed_count": 17,
+          "unexposed_person_count": 82,
+          "unexposed_rate": 0.2073170731707317
+        }
+      ],
+      "eligible_for_aks575": false,
+      "external_status": "INSUFFICIENT_POWER_NOT_TESTED",
+      "fixed_unit_count": 12,
+      "function": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+      "holm_design_assurance": 0.3204353296426774,
+      "max_t_sensitivity_power": 0.2552516356316054,
+      "system": "JYOTISH"
+    },
+    {
+      "development_subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "exposed_observed_count": 96,
+          "exposed_person_count": 123,
+          "exposed_rate": 0.7804878048780488,
+          "person_count": 311,
+          "positive_direction": true,
+          "risk_difference": 0.29644525168655944,
+          "unexposed_observed_count": 91,
+          "unexposed_person_count": 188,
+          "unexposed_rate": 0.48404255319148937
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "exposed_observed_count": 30,
+          "exposed_person_count": 43,
+          "exposed_rate": 0.6976744186046512,
+          "person_count": 109,
+          "positive_direction": true,
+          "risk_difference": 0.2734319943622269,
+          "unexposed_observed_count": 28,
+          "unexposed_person_count": 66,
+          "unexposed_rate": 0.42424242424242425
+        }
+      ],
+      "eligible_for_aks575": true,
+      "external_status": "TESTED_NULL",
+      "fixed_unit_count": 25,
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "holm_design_assurance": 0.8778686462003019,
+      "max_t_sensitivity_power": 0.8595520885757423,
+      "system": "JYOTISH"
+    },
+    {
+      "development_subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "exposed_observed_count": 94,
+          "exposed_person_count": 138,
+          "exposed_rate": 0.6811594202898551,
+          "person_count": 311,
+          "positive_direction": true,
+          "risk_difference": 0.08000335092569322,
+          "unexposed_observed_count": 104,
+          "unexposed_person_count": 173,
+          "unexposed_rate": 0.6011560693641619
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "exposed_observed_count": 29,
+          "exposed_person_count": 41,
+          "exposed_rate": 0.7073170731707317,
+          "person_count": 109,
+          "positive_direction": true,
+          "risk_difference": 0.16319942611190819,
+          "unexposed_observed_count": 37,
+          "unexposed_person_count": 68,
+          "unexposed_rate": 0.5441176470588235
+        }
+      ],
+      "eligible_for_aks575": false,
+      "external_status": "INSUFFICIENT_POWER_NOT_TESTED",
+      "fixed_unit_count": 27,
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "holm_design_assurance": 0.2070508303975843,
+      "max_t_sensitivity_power": 0.15120281831907398,
+      "system": "JYOTISH"
+    },
+    {
+      "development_subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "exposed_observed_count": 29,
+          "exposed_person_count": 56,
+          "exposed_rate": 0.5178571428571429,
+          "person_count": 311,
+          "positive_direction": true,
+          "risk_difference": 0.2629551820728292,
+          "unexposed_observed_count": 65,
+          "unexposed_person_count": 255,
+          "unexposed_rate": 0.2549019607843137
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "exposed_observed_count": 11,
+          "exposed_person_count": 20,
+          "exposed_rate": 0.55,
+          "person_count": 109,
+          "positive_direction": true,
+          "risk_difference": 0.2915730337078652,
+          "unexposed_observed_count": 23,
+          "unexposed_person_count": 89,
+          "unexposed_rate": 0.25842696629213485
+        }
+      ],
+      "eligible_for_aks575": false,
+      "external_status": "INSUFFICIENT_POWER_NOT_TESTED",
+      "fixed_unit_count": 8,
+      "function": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+      "holm_design_assurance": 0.5298565676899849,
+      "max_t_sensitivity_power": 0.4748993457473578,
+      "system": "JYOTISH"
+    },
+    {
+      "development_subcohorts": [
+        {
+          "development_subcohort": "SOURCE_REVIEWED311",
+          "exposed_observed_count": 27,
+          "exposed_person_count": 82,
+          "exposed_rate": 0.32926829268292684,
+          "person_count": 311,
+          "positive_direction": true,
+          "risk_difference": 0.19389711364362552,
+          "unexposed_observed_count": 31,
+          "unexposed_person_count": 229,
+          "unexposed_rate": 0.13537117903930132
+        },
+        {
+          "development_subcohort": "RECOVERED109",
+          "exposed_observed_count": 11,
+          "exposed_person_count": 26,
+          "exposed_rate": 0.4230769230769231,
+          "person_count": 109,
+          "positive_direction": true,
+          "risk_difference": 0.18211306765523633,
+          "unexposed_observed_count": 20,
+          "unexposed_person_count": 83,
+          "unexposed_rate": 0.24096385542168675
+        }
+      ],
+      "eligible_for_aks575": false,
+      "external_status": "INSUFFICIENT_POWER_NOT_TESTED",
+      "fixed_unit_count": 11,
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "holm_design_assurance": 0.6246351283341721,
+      "max_t_sensitivity_power": 0.5836487166582788,
+      "system": "JYOTISH"
+    }
+  ],
+  "externally_validated_positive_family_count": 0,
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "heldout": {
+    "bootstrap_95_interval": [
+      -0.12690355673278828,
+      0.07692778433850898
+    ],
+    "claim_stage": "EXTERNAL_PERSON_NULL_FOR_ONE_ELIGIBLE_CORRECTED_JYOTISH_MECHANISM_FAMILY",
+    "claim_unit": "FIXED_25_PRIMARY_CORRECTED_MECHANISM_UNITS_AGGREGATED_BY_ANY_MATCH",
+    "cluster_adjusted_one_sided_p": 0.680317851116229,
+    "cluster_adjusted_standard_error": 0.05467824444365531,
+    "cluster_variance_multiplier": 1.1,
+    "conservative_raw_p": 0.6923015384923076,
+    "era_standardized_risk_difference": -0.025621558392630476,
+    "era_stats": {
+      "1900_1949": {
+        "n0": 56,
+        "n1": 37,
+        "unknown0": 45,
+        "unknown1": 28,
+        "y0": 28,
+        "y1": 15
+      },
+      "1950_1974": {
+        "n0": 58,
+        "n1": 27,
+        "unknown0": 33,
+        "unknown1": 19,
+        "y0": 17,
+        "y1": 9
+      },
+      "1975_OR_LATER": {
+        "n0": 59,
+        "n1": 41,
+        "unknown0": 41,
+        "unknown1": 23,
+        "y0": 13,
+        "y1": 9
+      },
+      "BEFORE_1900": {
+        "n0": 39,
+        "n1": 22,
+        "unknown0": 26,
+        "unknown1": 21,
+        "y0": 14,
+        "y1": 7
+      }
+    },
+    "era_weights": {
+      "1900_1949": 0.288695652173913,
+      "1950_1974": 0.2382608695652174,
+      "1975_OR_LATER": 0.2852173913043478,
+      "BEFORE_1900": 0.18782608695652173
+    },
+    "exposed_analyzable": 127,
+    "exposed_person_count": 218,
+    "family_alpha": 0.05,
+    "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+    "holm_adjusted_p": 1.0,
+    "holm_family_size": 5,
+    "input_sha256": {
+      "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/failure_control_v2/phase_akuo_joint_measurement_power_design_spec_v1.json": "06f16d8ee9bc46c63fb9eee00b1f2ce449c7a6c57c183b75467966cc05b34300",
+      "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akut_aks575_reality_measurement_union_gate_v1.json": "ddcb758cfab3fa7d270867c573cd24ab593e7b0a1331c3297ca7a4ec77a6d8ca",
+      "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akut_aks575_reality_measurement_union_ledger_v1.json.gz": "f330dcdb645ef9146ceeeb260647944b9550657714ebf3e3aa797380394d5b5b",
+      "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akuu_corrected_portable_five_function_identifiability_v1.json": "06ae18c2c8de17d70836a7304848e8e50b94eb6c6d5ab4680243ba89cbe3518e",
+      "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akuv_aks575_authored_corrected_chart_membership_seal_v1.json": "6ad7b828db9dbdcac9816d140f6d313481b2fc57c1167b6d46debc40d1ac783e",
+      "scripts/verification/data/astrological_validation/expression_path_machine_discovery_v2_private_analysis/social_output_discovery_mining_phase_a_v1/phase_akuv_aks575_authored_corrected_chart_membership_v1.json.gz": "a8b015788d70ae7305b823061f0a5b5327237313eb54bc9e891bd64ea269efe3"
+    },
+    "measurement_surface": {
+      "citation_grounding": 1.0,
+      "non_english_predeclared_abstain": 43,
+      "source_language_english_rated": 532
+    },
+    "not_claimed": [
+      "INDIVIDUAL_515_ROUTE_VALIDATION",
+      "WESTERN_JYOTISH_CONVERGENCE",
+      "CAUSALITY",
+      "OCCUPATION_PREDICTION"
+    ],
+    "permutation_count": 200000,
+    "permutation_method": "CONDITIONAL_HYPERGEOMETRIC_WITHIN_ERA",
+    "permutation_one_sided_p": 0.6923015384923076,
+    "person_count": 575,
+    "phase_id": "phase_akuw_aks575_authored_corrected_single_late_join",
+    "positive_enrichment_pass": false,
+    "post_result_change_count": 0,
+    "schema_id": "AKUW_AKS575_AUTHORED_CORRECTED_SINGLE_LATE_JOIN_V1",
+    "single_late_join": true,
+    "system": "JYOTISH",
+    "terminal_outcome": "AUTHORED_CORRECTED_MECHANISM_FAMILY_NULL_OTHER_FOUR_INSUFFICIENT_POWER",
+    "unexposed_analyzable": 212,
+    "unexposed_person_count": 357,
+    "unknown_as_negative": false
+  },
+  "individual_route_validation_count": 0,
+  "legacy_515_fresh_application_valid": false,
+  "post_result_change_count": 0,
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_RESULTS_V3",
+  "scientific_conclusion": "ONE_CORRECTED_AUTHORED_JYOTISH_MECHANISM_FAMILY_TESTED_NULL; FOUR_FUNCTIONS_INSUFFICIENT_POWER",
+  "study_relation": "CORRECTED_PORTABLE_MECHANISM_FAMILY_EXTERNAL_VALIDATION_AFTER_V2"
+}

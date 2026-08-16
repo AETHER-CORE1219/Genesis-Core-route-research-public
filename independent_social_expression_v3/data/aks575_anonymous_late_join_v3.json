@@ -1,0 +1,4605 @@
+{
+  "rows": [
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0059307d14c1bf2a504a8e0ac371b2a5a470922e58809fab3e77bf6098f390f9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0187667db0028d9417c7a46691dd3f1b8d3e61dc86dc74cb0b852f6a8e28daff",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0258acb7dffc30527e2b2b78ff0706a0fd562a69d579d475b279260220be83c7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "03558e45c42bdb2abf931bb352bad38896098bc35ef6437938929b0813915c03",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "04f2f63d3b17ca14516d412025b2b629c2d739ce13531286af841a1736f7b36d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "05284f3a19e33971c2ccf7d0ae5d5f3eba8433296c420ca95cb32da480d2d661",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "057b47f7f03a2d923875ca95a710b1b5abf2db58da160a855c5cd3d686ff82f6",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0583afec609463e40304c2373585a259b56b8577bb80e6ca207acab933666c04",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "0618ba07b5e6cb4f3748fa9e26b0481620d37af99dd49071faddc1577e47152e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "062a37f35e0e427f33ca75c4e30fdfdbbb0a4b345a1b2a55c0bf0f2b02d2dc69",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "08c048f1be1f58bcc191dc3f7a05019a86319d2714fb4e68fe5711536922fbd0",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "093b9461893dd33c1eee7edfe7f11249d7f26bd2267bff6cc99400e6391e3639",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0a355d01301b7d185a702a0634e3e77662eb6c7f24973431b2f444032c4f365b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "0a982596316085eae2738066bb7fa8ae9e2ff894f2f735ca36b693b2f79261ce",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0ac0af9baaf71940f7252f5577b54d6d44f267386accc5132b2961709bc41f5e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "0b098c59e507bf186c803c8542227f1887f4f15599e890c7823a1daff70065e8",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0b14cfdf609b876809d36c0a41e870dd463066f2f70426dfc8a186016670c787",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0b594a6852e4f502a2ede2bccb43a36c2024061dfee73212b4e09d31a167aef5",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "0c59639f3ad6d25b5a06d0d813a349ead9d325ca9676675b594b3386cf5ecfcc",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0d4f727b8b3ed0e1f971cad0bc55a0b2e02e94f425128a4368ab7cf428bd47be",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0d5f8b4bde6f5eb65e1e846b78b8537a3785d410d7fc1411ef63136ba6ad60ae",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0dc794692bc21c734b2a0a9c7d9d67afc1d67626a0390c59d33a9b977d091553",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0f47cbf5b5382a7648e2cc893257025e3923351efc78f43520d91192c4d93356",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0f649753182008f01a2607707d15bee7e463c60015a53de7466eb9c31ef77e24",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "0f99706f6ddebf5c60d17549445877169355bf8c9f7a2862e965031dfc3574b2",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "0fdcf51015e2625c4aa40f982a963d0e6900c5967add69177ecd983a0ef05812",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "10e77f648cde3a7c02ef31577100a44b268a4ec27cbc9b309fd3787a6224af59",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1192f8cf092ccf10108d385378759cad6dbe14f0fe9a509fb6bdbae1fee4ca4a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "11aa685ac8c3e764cae517cd41e279b39bc8b85184c042005049d0b6198d4183",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "120e1b899de38496399b507b490e8af9f9fa2f0849de974e0d2825b088c58a59",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "121520acccdd83abae3960a158861b90bcf00cfe9badd9b119957ef6db044c0e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1215b620466a02d3e6fba382f506db22d166c024572f7cd67fae2c9592de042e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "123a0758c141f56d90856e5f3f213517b60a0d2f97d6dc8880e6a3e975e2ebf1",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "126ccc04886b4aba2a357f81674a125701328416aa296e62c76c01406a8fa152",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "12df13180cbf4b064aa8918e316bb5eb813e621a8b6c7cd5602743dd651c8d32",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "136b1ecc18a6eab3787f7f15cff6173f8cf617501143cfe1b96d48d6070b2965",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "13c07a5fa831dd79b98c828e964d9ee423d49531d7829356fd421aa137a1cc58",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1439c54e846db2357a059a314989989c286efb3f721ea6848be97a8d106631bc",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1447e805ce8d755da7373e0bb685dc9d5f96591672297e289e62cc5f6da43689",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "150d8f49b111c76aa9e3b13e2bd0df8f4b4539a420d8238daf99c9b992d0981d",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "169954e7801bf5c62250ca4d0c0a77c682ba746279912e9ae1eed84b94b84057",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "16c54485e6ea34b8a8b0268f6f38f36ebed33daec0b368ee34d32b64f18acbe3",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "17b2019cde2e76d0047761d7117c4a109ec1313d31fffdf5f38641edfd04d876",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "17f8a385f3522918f86e96a0be789aa569e5dff8d4566776876eda271b212564",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1813e420fc5bfec61561f75673a481049261586c0fc750df3df1ef99114f73a9",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "186c53fa042a20ef54eeba76bb88413efa89414e0f6de3009946247e024c0fa7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "18aa503568c63e01bce26e256ada6931c793ba61be17b07478cb53f480ea185e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "18f6cdd1c4d94b0e898807249a02ba49c7700571de4b4a3f8282cf63ac07c7ec",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "19ab080f6c91e861c858f69425cf5928b835f93587ecc9cdafca8386427f365a",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1a642f817692222c4910d4775142015859d7fa7b7c851e0aac014d58f582823b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1af4fc8139a9bf2fdc3b8fd4e3e99c77ea87b4b714146516071a777b3602aea4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "1b5cd48fd914464db49896f76fe898ebcb81f4c8bbc19847180a891b74b3b724",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1b64b9c76bed7aab97c38fa4931050dc0f85f5544783e8cf99ee637c22410811",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1ba8f5a85afcf90f48ee2873f3779e55eb333ebf81faa58b38a2591a98b07a6b",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "1c3391fdcb0020de43ce8ce80d6fad57b205589bcdc8dc9846ab87e53c33a569",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "1c6c5794854219a3d6691f7b674d7297cae4cbf68cec19e6a4c0794eb08d8efc",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1c98853cf9191fc285563d9fad22a10bd278e55ac8497502c68cf434e5ec0db9",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1cc9dd8de96fb29fb2418732794d4262494bd8dd0a4788fa6917ca6ec056cdd2",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "1d1bcef238c7176f85ac8acc873e7ac78e979c67a6725839c41fb28970c77a5a",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1da4344f1b6bb186cceacc98e619fa144a5d6a94c6ad1b7b0766cb4d40757398",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1dbe3285b25290ffcc1273dbe7be5f64dfad700a8f2bf721ad15ed2742c9d231",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "1de42375a599c35383a99e90b33f56b1605f17f4a7e046c20ddd0ef19d79fd1c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "1df3f194ce1728d0d4f0bbffe3db61da6da36c6377fcd1fd9a188beaca59f984",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1e32d29d8ed841f3da6e5a35df30925ff6c67de02c4fae1b8e5697abd17e8298",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1e54a289a402b689c874ba0ab9a7a74475ab9057b8f740d4cee43d7ae3f964c1",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1e81c486dc09e2adff4879c3a8958521bac04b7d4bec07c80e12fa6243b17ff4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1f1e2c4b10fe30514773d02f0fecd7faa5a27a79c3a0b902225eef6bfeb0277e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1f3604efde140db092825703b3afd3e3b34a62eb0f513a91e71298ff08c8a845",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "1fbd770736e3b17699b35e92268f69af143411430270cfd814ed1b280538132e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "1fef19ab2173c404fab847fb7fccb67a774baf7aa2a856131c7fc553a963a983",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2135ae42d13d3ec8fd6765e69ba0b65b92ab94e68966fa8f5791ae43972fd162",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "2241c20804c1e34af631e99168f48e092a0a3127b6601f6863cbfe78bf10583f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "2340b64d10566ccf524ec619a6dbc3f0efe70a9af4d434f818f3d6723b312f46",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "249eb3bc4ca066cc832413b71fd8eb48fce1a1320afea8d83a6f67a7428b0533",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "24bc2b5226fe6b12897a53ca7afac48fee958f8a6a8b0355f56b22596ed79a96",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "24c4a989a87f6e739c42ae1e6e6830e3ea3653bef73829dcd3100a95b071558f",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2576738ea83df72d38725ef71cdb45aaf5b64ef3d0e1a41d914cbe2cf0359a96",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "25b6fa50e257450b08e2a7b4a477b9d86a04c0fc95d56d243a1a2538cb0e406b",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "25c0f0c16e567c225f092dba17ed1603f7b0fd6189a77d60589c65557c3d1077",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "26a351266c826aa4de03f8e7f1c13a98b18796c53327e304c42371172754a493",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2736c3f06a6a9b16057e52bf9d059431db58a8d879b3282b29c34763fab7b390",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "278968e1e977e0431c0d3487e8032cb9bc2d1e9af4a031991a92a8e65fa64262",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "278a86ca7c95261abcc006eb01d8025af548cefd877cc960375ec56c9db3dffc",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "27e262df295a6c21c2d20dd7ae20657fdf7e6dd0d02b58c376c03b81f30df182",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2867992d3c78ece4e655f576893e4ef22282410e6a010d981ee3e96a515fb3e4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "28cf16b6bd0a0db992ab52f220002f30f3fd2ba018bde3bdbccdab0bde88192c",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "293a171934f021e24b4bd1c7b090844a275d61fec72bcf129556a2d569d4102e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "295e870e07b1bb16ad63f214b3d5cbe5ada69f53a0d4036d972af263957967f5",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2983b76cda343306f01dd70717877c2a2c42ab4f53e1f63949b297ff840632e2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2a35c4c243a50142897a5244708b08b505cddcb1ec599ed9cd1cf3a753141556",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "2a6810510fc0bf16594c16834df1ea1dacada90fae50f5a5662dba93407d6229",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "2b839ef0985b315efbeb9749ea9bb563850a3f5b746f074d2f0da5d9b245471a",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "2b8ba493698bc73655e8203bd70693d285493946503c888d17b994ff3826f294",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2d6358367ce722339c13e2983420544d530849f31c4ff30fc906fcac64380fad",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2dbcb8d9e9e6dd1a28c1a28ca93e4d74392e879a52ff4b2a1b4cf100d4d28f56",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2ea79db0639eb4b263d4631f04ee4870fc0c29593ca2c29064afac339be37472",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "2ed4041c17c7f7bcda697b10ba67749357661ba928fc03662f6abd664e4dd013",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2f92321c6e7793a6490118b25069445d612f6eea4fa0011176036f73ddb2124d",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "2fad47e50296d902578b311d262f98312ddd3379c5077bdd45f03a69d3e7ec58",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3177e09cc0880bfd85d91312287d50f687ba62cb26e26bae4a866bf3e3786f52",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "320e68cfa7c90389b05c28080316f8ff14dbe2ba1933ef92625a98add55f2e96",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "32da1302014fececd29ea450db90502a3d23e6c9774585c2ae0778582d02012e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3314fcba15d6dcdf9b8a7f5a737d88280f289a3bf3353c78ce79ec69aae4d331",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "331d751c2ab04decfe3a356cb2408a3406f74dbe3edf7d5428cd765c1a619b4f",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "33734e74cbd40f1206f518bda576b1314a73942521f79f50d259f466b2ee5d2c",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "34509014211b947073ed55c104e7ea0beb22357aae4a4cb87787ebdc694f0406",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "35185c7e55e5d39193d84b779bd5e82dbee270db4a5b9373d767794d59c82e7f",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "35fb9d927709011e125155748e6b1ee3989f06ce91f38ed9f3db96a93a65b19b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "363af3cfcaf2feb943d0bf6c7c0ba741a83be18dc75812430f9393033ccbb8cd",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "36647dcf1af84ebc8a6644e8acea42b1d7aa439be285ebf4435c5fafb2af46db",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "36e386a66b9f46da4225129c089baa8f2e10124a64b60a6af8ee8b01bc616096",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "36eeafc666eba9302f2ec9b8a2fc518b53f7b92437010297c0088eca55eb65b4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3771c88c0994d5ae7424eeea80ecf51322e706407a3a215aec2f3049d58ac1af",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "378f617958a0072e862fee5bc5e2e557521ee3bece3f6505f533d175de44815f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "37a1bc6522b600d49f5bdecf4af6d02325586540e0d74893b5c32bc296d5f40c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "382b881c39be1e357c852c15be5703566fdfc0de5b22bfc818126d45b1ccc26e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "391cdd85c20d6128f915de084deafa821bfa6a70b36c6371b83790170b97fd26",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "396817f986e0eef90dba31bfd2def0c47e2123d8792a69c502164525b3eec528",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "39909753778bb7ed27b434d38daf593e769970d182d7911f866c5300c32976c1",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "399fd2e606af042abdebfede29a14fd2d09e77a3fea74dfc34acd3a2bc03d8ca",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3a03f8edc5e47f06272e0d2814c24e95edc86aa12180ecc4ada9c9bc2f7ced29",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "3a85e70eb3d965a24e8d6adf8ace154c7bf8f5275b95ef57fc40f9ea6d18b670",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3a8f9c02f4e0ca732d58058570719d74f54f20df1017650ec88afaae077132bf",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3aea2420c35f6a8c41e29338a302132a1f285ca8eb1e33f2203581660f54aef9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3aefc3e81ece30f4d768ee28080c9b707aded41f749e574e65749e98c6210887",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3ba2e8d260f4fffda98e51ec2d13d1b74da151128b444fc57984b921edb481f8",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "3bc753e5495d48b692255f5f70706bc4329efa174f126b63841b31de14e92d0d",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3c943b3c0cac4a785c3f50cbe27c1257bd9bf6a9c478d780a8edb4f2a2ab3ce2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3d1041e304b1bfdbca2e05eb1b833dc8be02e94303710922bd88ada1ee778037",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3d143eb65635c24cd337af99a74e56171a769632701b4750c02d26708a7cf9fc",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3d3342d4ab6e02f236f15e79ad3322b280e0e87649da70c24a905cf6fb40dbe4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "3d76ab111c3d0337d645ae6ca8887bf4b6f8fd548a2e47265748cfb9eb970eb8",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3ddec58101b5d428fa428f4abd3d03d01fd4d777cf083a9ef2441e602ef7ab82",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "3de4175e79f971bfb52dc1b79045f5c0ef54bb2e8d71dc4dc446fe307b3336db",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3e2e3a0ebabac9d74d9cc9833502575b3739da639e322e54aa1cd4c042be2bf0",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3e3b4f0a3292bea1879eafc98c790dd07ee5a7cb6cdc67c996e7470f4d4f3e03",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3e51a8b815b8d6cc87abe6447234d4d1110aaa9a3d0f8ce4eb730a36ffc9e842",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3edf9cc79cc45c4be4c30dcd3093c8138946e846d367e25c21aee126190d585e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3eee863b78a19bfba8e086c3c1b9bf9ae1d065081def5162f43747525c7e6038",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "3f2f605f779a3cf8044f4735b439f039be8fffd8c0bd455402d1f631b2bd7e2c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "3fa98af291392e5470fdbc4de8c6c89a5050934030a37906152e3a51a69ab9b8",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "400c2f223443042bd7b28f67170178b36c4ea7733d47aab3946e86bf854046c4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "40108282206900f93d948a52a005022e5938476b2cdbb76da193f2994bc5543d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "40b7fd67838c0c1d250c597b37a5244136da747b464575dcdf9a022eec003e31",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "41449f4037d059a59dd64fd57b08444ad6d5f3d3b7cff4afdea3933ce243fba6",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4254339822bf4cd4f0b526cc5835ebc62df5717f08bfada05b0912a9fd0feeb7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4285c2812889826c612f78968c262f5087d7f97299b31b631d378af4ba7badc1",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "42fe3d8747fca98de7afa69c691f25553f8cb35da4340080f282c98fff705ddd",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "430420ff7deb70e3a5e9ee449bcf9d135053d1e4d15a5206af01f726faa4e5ca",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "43225c73aba85972d8a563e5616d8b83bdbeccaa79e452e201e6a9a0c801e87d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4380f5778b72c6821d13e0c1aa22b76bd9ed2597d94474c637a3cdee66f44e13",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "43b4b3385c7d7e62fd74bef55c981234ae0b6714633b330ae737f827d14e612b",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "4456635f01ea37b29d49b21e2eabead1bdd2f23683512a3853f666e07102eeda",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "459c4281f3c17efc23f1e36ae74b549c4f8d58f0094a231e7cf5be547e45a53a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "45f35c24152caac5188222252a8a9be0b1578527af27bc8e4990d8740ef38587",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "462de051eaa486770a2c4cc93980cbb2f4c81d18d6e26a0b322faae7110373db",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "46b417e58a7516bcab6ffe3f40dd2faa5b1a1da80ca636b62fb09e36c772e471",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "47af4dd3b839e3ab5e130916c53964b1747fa5c7801b7be7f0b56e37b5707b3b",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "47f69603b894a972c10cd9fdeefaadd48e7799d9b53b97658f7d69c33030bb0c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4872991ee53f9edd69ec51a6cdbe56bbc163a64c6798d6d5f14552d35f257576",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "48ca83042e8f819a67be3233bc52edac674bc57560f24c232b6df8fecb227f5d",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "491f60c5cd3e1df983476b2d18603416c90e9d033706d45efa6f24f829121c02",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "49bfcc05c763ade7dce0c1ed825357aeedc58adcc8bc242a95a2ef79fad59b12",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "4a119258d09d795db8cf801a1c4f4ff40e42d7c1a904e605850e4cd5842ab8b5",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4a975fa34f7268f6c0d88077c56704394fc4676129e1efcd637581ed6b427d63",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4ad13d4d366c03aca5821dddc05ef3e3e5d2e3cbe049f8ac967f7c85a464cc82",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4b3c57393326892c9e2b849aaa5f96499637e49584c6b4f372ba3a3ca5a44883",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4bb040d949b0d0610fdcbfaa11cfab7918fb46710e24122198c84d00a3124b96",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4bd5774665701a60d0bb35a2531013a3c73fa4074be5196ca76137201f25d3d0",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4bef061c63ef01b00c7e0efa836da0bf5af2061719a4eeeade00512f0ffdafc4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4c023eebbf06197848c43b9e9f42d3ce42e556867e62b280a0b3c604347a75f2",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4d25404cb6d7460574acb938c9de391f18c91e195d79f719c655fa941614fda6",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4d4ffece6ff8825fec0e6a1a3b852ece494722814badbbca5b044a47ab926687",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4d67aae4713ef12230c9ef1e4e7adc4ca66fc27801c9744c30994a8f87d1ff98",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4da43c43ab8f926a0ef48a04153bf65840a99aee335ea44803505e9a73d7570c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "4dd46d969bc1152fb4e5cee3458b64960309bedaea1a86fb93b3c551065ceb39",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4e21e88f66ebefafe883e211e366bc66c5cb46a4b2ff86187b59281060f018f6",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4e607e25cf5bfe536a2373bdae4494a262b1839e9d0b5b5bcd3792a3c1e6ffaf",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4e9e89fb5f1b4912392c1c62ca36d6b3d8172ec8f8380b0a9d5218726ea8a4b5",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4ee7a4cdcf523df911513a18f1aa8939b3bc5a02ee49bf430d2afcfca3b65339",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "4febe667600fd9aca214eaf92333a0ec75b61754196c74bdab184b92d5ddf6c2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4fec49f1302f5adfa12bdf63e07b5b6d7202132c410c1fd2e060d469ffecaa86",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "4ff32e9a15096c9876e54fbacdea3d707d3d38b085337651dd036f3f30f8be6a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "4ff9a729f25a60ad82080f97b97d82b5866d26a49a8339f3fa0586f4cc7db26a",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "505ca09e3658116314a8cdadeda77aebdd4143f50e7af95c8cf2c4973f98b823",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "50a10c9853d2adc1c76c22aa878c4f345359209c7eb7030ee4c7e14e569ddeec",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5106c80fa85c1f775e82300df561f782c2ffdf91a564b2ae0330e8373fad0029",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "51081eaabfb9ad3ead694c5d482572601c5c2ea8ffb81c45eb4eca7e25cc0de4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5154643be91d60e046fd277a7c1f415f15fbd272dccc2a6d9e71cfc0cf1e8cac",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5232e5d5b2f014d9ae810a17e7aec84b69eff01b9e6140007af27c8b84eb4601",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "524378be320d82c8056c2c1e278b6efa6d87f0cd06fa2e247577b18650d9df56",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5295c99ea836fe0e6e0357f774bc05f2cbcc79d5af0bd41b1a26075c21f435e6",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "536249b3dc6e5ec91565e6e1b8b491fbf268e5f84cb6f701041eec1d20350cd7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "53b979e3d2443d6683b0f1ff023e450a215932cb1d324696036b5b02e1046c25",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "546c00e314d4ebb3feec9b57b9bd618fe2a99b13cbd78683be298245f1954bfa",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "549386c4ccf5d3b5ebea205c0137a23436b6e88af3007967fa01edd5a5fc268f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5494cb3d8a73880e81c6d9738142e81c7608a338cb9aca16aac3336fa92f1a6f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "55012202324d0cc461e47674b9bbef062c093d5020ed787342fa322bb91a481d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "55e198dfa351ffeb05aeb60e55bf8988e1bd8757525f772227d736e0ce423a0d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "564330e13b3c497f3a79a0571256f62587f6d1183bd77a75010ac92a66ff8d19",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "569c12919b657dcfcd263729292d82ec27b43b67562710a0cd38ff9146a1ac2e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "56c7c181ca08dc2d557f2111c8f398b9e6e2843fc1895d58ae322deaedc5c0a9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "57022345d9c2a27bd6ad9264a914c0b535c48aa84a82aedb550f741934a39b50",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5734a7f5bdd98fe6493ab6b689520744b05e40c0d6f14a7ed0be8a1bdd9c3a78",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "58321665f7d5e46e66a3bae0e55ced3c78c11f47603b9358f3551fbe0fee3ca0",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5872ccbc3b176986e9e577243618b27ff93f95e39cc9d6c32678a148aa095b28",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5889da534874e362e4aa12ac72f7b2913e6fb898051101b8733079705c287d61",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "590f61a1c5ce4e3621ca8b785e581fbd6df83184093274517789cbde72bb90fd",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "597c20fd3998ee8467077f78f5bd704b6dcb5e27bec1f77e1933f9a574790ed6",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "599126fec87414256cc79710b0d7f3f9ca8ce008fc805599b73c11a526907d15",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "59a06cd4ec9b9c67e01304f80bd8ca5f8aa6bd320ac160ea3d1df88f76a7ae20",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5b5502c2b219d2a59e7ece4d46326947c24e8833f44c0477cdac2d80d106f6bf",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5b6b6dce7f0fdcd2397369fd78476bc9ee21538ce0185853d6daf859f811a4a2",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5c26623999ef4c0215f4891e83c0463e948d51c523313adb0444936b7e0f7ac9",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5c3cfbef5f3a9ab8f9baab2396ac0ad302122cde502bb062a7a8af78247b516c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "5c443868751f87a44329fdee5c6c57fde337bb05c51f02580df0a3f4dfcffec6",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5c87817eb2d575966d912e5c185a84e19f4717a83dec732e47d8c33731f406b6",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "5ccb0dda90b6bd5465b78886457fee4b5ae72f04e9fc25be0d07b1c55d7c9805",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5cfe3fc158bcfb4fc108e02a9d791d6be1558a5be1b33e81e68494552251c40d",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5dd3eb585dbe42836f9e24033528acf7db13a7c231ff62f4c054723066783e72",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5e03f38ffd9747a9f768024d1ae372c471f5f98602c672527ed06326bcd7cf58",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "5e59574efe09795bb9b863c3de9837beb808811d046b6842fedbc9e03904c3a7",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5e5bb77279b1b339577f6645361ca7c587cb6d8ad5d464f6a6f868bcd739b87b",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5e66c2aa365897f6cf8fb1d0e28f8e68ff29d855ffcd0d3671637648a8245547",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5e8588ed069d9df888643295d18a95e7d1a48c4a9e229feb21c3dcf2b2a43dd7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "5e92b1323774cd6dc57f9e42d61841ceadb13c0269380424dbd0caed5fad8066",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "5e9a4182db0e4edcfe44a01eaa1ce845cdd2088221c66bb9e7565ebd0b8cc218",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5ea2d5df74250112453580eed184f3b0bbd4daecb054a7ad5d99f829e016e146",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5ed8e00ad8614e713a1977ae1dff5cfd7448e86c4b0e5ca2950757ed767a290c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "5f27c942e7bcebbf11cf7c0c95aa8c20bf6052807104a065d5862a749a7b8820",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "5f939714976a4103287676bb3bdf80d326f34eadb15aef3989f0848e0d31a1a9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "608b8c66cb73be1451383ef2d0953e69eb4984cfcb4bcb2e0a0427741e7fa9df",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "60ed4432b0c0d91d3128e1850cec8324883065e85a06b18301e572f4c9777f40",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "60f0e1346090be92a85f69d3e6c8f947974cc49ab61116e0e6c4631af7c4d397",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "61bdc703f87d9670505b1b2bdec94ba6d9b10ffab8385557cc1c364cc8df63a0",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "622db3a62d8474b2db7050fb7f16b883a0841361302c83b8e141e636a70ef9b7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "62f023c1551c761639e9ea88d7070a8e0779e352d0501a79222a038d4c09a87a",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "63a8554b8e2a3fb6dda3d4b215bb357d5a9530dcd7ec6afeb1b6c1d8ae3631a0",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "63b6450d7c0ca6dbcccb46713999a9ca60320b779cbdf1911d6fdff3066d5975",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "640e165491f669365f436a014e9fd6ad494e038757c1eb933cad076bcc4b0d6c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "656acd94db9461853495ef855d9a73765d21e6d2d05a50e6748ffd9f54963537",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "658dc5241ce249114abc9ba75dfe7036a11704ecf81fc94991c45027b73bb80c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "663f597922bc38d390687202188360baeeea2a888161a637dca2af22dba86059",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "67168c21bb9ab06f775fc9a9b904e1e25166b126de362e63426b4b68fedfec12",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "67e4c5b8c477c20f4db25f9c561d14f35699fa0015b0ad9b138a7f0f0027093c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "68aef5be5a5158722150dde1a4c3e2156edd291ccd0df9da45782fdf43f7c6d0",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "68d95bea68dff91966e6adc8ea33864246c37c96d579b9f6348c481b7019c7ef",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "69b6cc80a42fcb2f8755b84ddd7943c09788ae3772868405e301366e7e25a5c2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "6a026e4ff916a9ca4ebff9fd7155f4bdda3b8cc212fd8c8359d30c90156a291a",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "6a0b370678b8b4133a4292f1e753362047bb838eba66282cf40182577844f72e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "6a1412d3bfa536eb91e89fab0be047d0dc72a11cea6495275ac53b0c193f0028",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "6c189c03331f098292f5ef3087f2171eb7141aa3080f2cfa6cd5ce1a9d3485c6",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "6c77d5ddce9a395a0e0c1f3add85d3f7cbc3dd9fe20a2c07b7fc4632f2b8dc69",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "6ca9945215018787a4c17dd108f0f71f53dda18c5ea8ce22b2be0b95f8af6f5c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "6d6d8bfa652be40555a3b892196d411f755e762839cd5652bec771e78e48fb5e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "6e050efbefe3580589c89b35110bd357512e3ed9f2db71f3b53da15e788599a4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "6ed95ec282685bcccc708f6203d79d436037278205027ba44339c1f5e34e0322",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "6f690b55f9778d5c7f466df1978d20be439678731eede5f7a1b7bccb85dd2ac7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "708fa33696aa7e3311fc059baf1810696e514cbbaea21af9e0c94247ff8c4044",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "70b55af0107197c7fcea4459a210b112a9e3b58b2f50f57a97b078297ceefe44",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "70d63659782ce769032c4f07d6b6b2861daeb33304ab3d7f7e3c468ccd06bb7f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "71d1954a7ca183f40302b0fce023c74e643a503049248ea2458186a0a68b4f28",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "71eb772ba455f5ceafe9cc45d5f7807b8ce5ea187729197bb77d51b12f4430cb",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "726f866f82532705cfdfac74d4841cc927f86bcafc64df1dae08fc29c8d4eca5",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "729a2cd3af7a6427d17c60c344e63643f3a9de8daea041959239ec1ad0d8ce44",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "730952ca7b066bfc50bcde5d63f222911ea2f15ba9871e1e2a0bc1ae89f4663c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "7378a205466c0b5d14f1126e3161e767297d769d792306cf03425280fdc465db",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "738b6859e8b0b52dd1b1a34299f7df68a4c286883151d6c2d4f111d9f4424fe3",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "74f2fea6e03e47a44982e5b5b622970bf71aa1bce1206ffe8248e31f1ab4a65f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "76a305ae74e16e2b2c5e6fcb9f852018634a21b03c99e56bcc154994123cef63",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "76c23d98456241444bd63803efb003541ff55663b7df7a9f3dc3a168e93d1350",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "77472b7e424c2c067de7fc990850ffc9085442ad746fe0d4b07127a5c5d2fc9c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "775aa80c154246d7c31add99ba6d35b9b63005d1c21a15a21aae1e74f38d3abb",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "78679ebc6b3087ee70f03da48fd22b59ee5353793e3d217ac80424e341cee316",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "787c11987f64db8db3fcb9fa194dfbd309d1395ea7e2ceb0c94715f9a06e46ae",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "78cf88531180a12c542ea6821b6110b726b20ba4bee8506030d556e5f49e0a56",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7978347c804cfcc9233686a892dcd0ba442fa6a7f1665a7bc7a702e16ed346fc",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "79d5ec73536a46dcab47aaf357a11583a8833457deb80d6eebfe009d8e3485ef",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "7a1d2eefb645618135b882c04ea2aaa0e9d053ab48baf99708d5020dd12badb3",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "7a4b94be97781147a127d54ef474e1201f7173dbe7ec8821eb8569f5816dc6b7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "7a72d504d465f8ab3bd599049d78e85de0e96312a19a4be22d700bd7de859b89",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7a745ba88b4d2c81fc39a18eb69c609525b8c724cbbe8e0b78e35b94c455bcec",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7ae1fba143edf6bc43affe604840dcf13cfe38d8e56d2c7070393f2f851bf94f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7b1903e9cf20a7aa0e5f426cbce217b90ebf15fa41bab01ffd97ea13974bea99",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "7b58577da7d0f9383d15fe0b85c9a0b2df5471e22e73487f5742e8b1648a9f2e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7bab8a78e034fdba25a04ed231c4dded1ecf3ed83b002f07c6df289bfb5adaa3",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "7bd7d77b82514d34f49bac9b342072efda6f4640b6b83f218a8946e7981a84f1",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7c6c5a61e5fb36f40fbe4bd46032964cfb2c066878f17bf728c4ddb2e5412007",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "7c960a4175acb569565089d739b27ee572ae9a6a51e9a7baf2a8bfcdc456fe83",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "7cef1dfd6502f1ee2878fd2a83d6dc3294e8ade6a890a804a9a73af8c62d8778",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "7d8e2b42666ee74ff183e7fb5c16bdd65a6b83ec433e98127008bf6508a9432f",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "7e88ab16abc02522b83b31be637165a7d102fd29084ee6ba8aca77620944eab7",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7ed0f891d0fde06dadb70db334966f5acb4ab15e42ef79487149512b0353d7a2",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7faa148e150b84dcf83a3d911d43491da154d1d87920ccf61c9291cc81dc69ca",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "7fc5959d2a7e7caf5cfd0873850c5fa24ad95edc41a1a4f6694cefdebcb19a23",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "808d695e41654b42451782339933f14b95de2b5fbab199a8df55e2652c76a6eb",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "80c0ade96cf8a1cba1007ff9c2b865ceb325257bea981509d0cfcefc5d19fa5f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "81712c03b4d4491371855a555e8a8717a9f66a2fafe0b718d5a3f989e14e5502",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "81d50dbe0e959ae42f145d40c3e72e8ae5c9855e4e38f024bbea446150105d2d",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "82472eee5cf83a4bba9f87b33839805ba324d39ca0a3a0a9f5fd6a6618b13c0d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "827adec928e099d6e45bbfd49a450e53d51d25ab944e1074dfbf0e0be73d3517",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "83bc2c30cd9ceaddcd705c2c84b15af68efc6fe91254fbcb504ccc032bcdfb6c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8405fe5b45256b02ed15ef9a1e197a6df5d66f08f8fdcc53a7047fc080deab15",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8451a0cd6f54180154327cd86c28b4ab9f64e87556ac13dd6dc8e7ad3fec9b78",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "84cb7e9120f7b635c987058f1805f4acf19a7f59e7ee0f87c1ab1b9c94d1f1ec",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8514e910ac3b5e54de57efd9cb7e598d997cea504ce295ef3d85c51ef118e20f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "852d1b7767019e0abdec17862e25f4f3744b84298a36353b368679239ff0f099",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "8564fb15c464f148ff41f30780062256825b589bbd2745e538f7d52246595a24",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "85b5f4777768a628f502eb6cd31b6ab3903ac5140c04307d0147df6933a1f3fa",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "85bf755b326cb841aebf2d30290938cb274981c2da7baacd5bf0183f2e16aa56",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "85c31a5f53b95dec80b47099b89e4bc8fcd81971a609ac32c8965ca3f49ae145",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "85df075234d62fa9f937405124c39ce23e48666230f273f59fd053dd0ff8847a",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "863ee813dac42753f1a8f0ef073ca541721da4b7355c1030a924925c84109800",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "865c338f100e1fa7710a717a0c2f550b0d7dbbc3b881c112f049321f16cdde1c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "86e3c07dbf932583a9dc1def66f87821ba1b205ac3d265c3c807f6100ab549f8",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "87505aef1ab03e75d8671ed57a61b06cf813550e8209733320b6405803cfdab9",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "875f4b598eb3563a4558eb467cf3e2ae37cef24a64e21707d9cec799891cbb95",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "87814282cb1d83db3f7ea3b3b6614e82513db3caedbb5e3bd98b748b4552b389",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8828bdb892eccafa7338fd94e7a930ad6551c8128c1c13ba51166f5f5c1214c3",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "887a915bc3e70b357d102baf9eb115ecb213f4c65369e6136822be85605848fd",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "88a31fde9e020843f18618aef4e48bde26ee1ef0ba8606930fdd07d1c9b07514",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "88ecceaa5864064635a4a27fde6833cb9a9c801796f2d4291fdadf013b6952b7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "88fb96ea7bcafd95f51073bf74564085550ea6e84ec6b348b3b273f8e95765bd",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8900436b6cc9a3b01763d6fefbfc0e78ebbb0fdcfd5e6f15a0a4a4d5fdd48fd2",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "890b0aebf9968e5879851962dcb2ee59728ffead824a00453f93048d05a9cbb3",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "896d11e151da4aef74ab7bf9424bba42afbb124feaa7f02f37966e5de7912643",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "89bdb202d2a4649b73c3f9c5aec7d686a2808b106d795f55a3198a40d02c808e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8b6adb2acc57daff4a54330bef311153eb63ce849f9b139504ecec3d2d6ba910",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8ba1e27e555263ff4656f71c833d5032d025958c8b5a55b70ab4c957ba19ceba",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8c59a303adaa26f95cc93fba4cb2cdca07ebc8ec4d4819ab8780e18b82edb5f2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8d26b3633c23b012cccc17c43972d3bfca2fa69ec66608a7065e5128410166b5",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8d40611ea894eb1f63eb8b73371c0aa56fc3915e959b0c3523ac4708f362aa44",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8d564ab06cb44a62f08e99ad1821df7525a8aeea68567fc3a9c3466e6c85f381",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "8d6a9bb69df7d249c327c930fa81f4b214c34ee1019a70d20f11ab1403b2aefb",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8dea1354f8c25851e11937abd0f9a8615eeed7361a5bf334e9edca2524efc944",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8e1676f93804f9c3ee960fe2e6b588f557b69e8027593711529fe0e6d9bcd6a9",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8e54d0ab542481d73123e8276f06d3a85af5838afcd968be3872997a9283aac3",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "8f594e613f1165f33eaea8b4b559d45cd50c926b929a007e66e361e67a443f2a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8f5a61bbb0e30ab9ec7aade566ef0233baa03627258900bc9e709c46002fc9f5",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8fd166662924ad01a5984c08cb8a928ae29a2d8cbade999ec6f0f22eada1d3ff",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "8ffb277939cc71851b860e2a1812a4c8c3bed94301ca7865262fab5cb8dd18da",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9010ac7f044c1eaec2c09e1f4da5df13b876cf53d985129f9b38ca56a641b38c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "91916971bceeac0b53c848d8d5cbec865bcdfc60908a2e083d068379dd772bba",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "91b2e2a9d570ef549779359b3b3cd2ca639e18ea3153e74a9a4eb1b463bb4e3e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "9270f0b2fae9297d2534d26f7147f4ee56034f006070128a501c8770e29f9995",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "92793e426b67f0734a71fd100bcfeddae927a26714da093ae3e286cdbca9ff3b",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9304fa6f6b499c4a75965736b27bfa94794d5fe3d1b4b4f93c278b5078d31cbc",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9394a361e4b892d3ad17f1d7f5d3d44d281ed52757486b50978bdfa89f40ae99",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "93b9d93dc07879ca30bca8f442e660a382b4576535fe5804c04a884dcd6d1779",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "93f133ca23a57fb24bec74433f7ca1816b84d6785327acbce5c4cbefb590c8c2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9478f094ce9d15dc29457dddbef7e440e72ad724e7cadf55c94554a18300cc3d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "94a379e5d864cd89f2387192bef7d6f210022a81d2a7f5cc8de96335b4b3961e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "956e2ffd014b570e87fb41071bd244ef849d42389d01efb12cc578af2283f405",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "95e37cc642b25deed46298ad8a138d39c9269baba0650a25d19e359057e37584",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9674501661f1e9dbc0b136e7a3c87ab30f830782fa535c549ea2dd89ac45c585",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "96bf6e74dfbf36c17b621d4d4645d7a23c8cda1f1562f607d731b4bdf2a240a2",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "96ce18be7b9eca7401b83c09b98aa0079f5b43b32913498c64ff0402ac72ff08",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "97240c5cbc0a288408306fc3fae447986775d67d68889f98969c1a6296ec92df",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "977654990d6376bfaef31f2a922f860770c7871581e37e4ef1e89e68683fc96e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "98299b4a76589027651165350dc76065a915532392d0a990f9abbba07a5d6203",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "982ec57dd121dddb8851ad007ea67d1dddd6110306ea99b7f21f95c7e91b42bb",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "98715522f6c804841056cab4b9d44a9f15acf1e916f06359195f5bc5bc3c8c8e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "98d33ca8bc9d068bdc122152f913ff55b523ed55e737644d3849e866b4751138",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "9909da928fe07920c8cb21393b838437d66929c3ee41c43d5ac169da5413cbca",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "9924040326993487b6d88676d73d68aace56e57fa879faf4b1ba2785948e7bae",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "99650c84ccecadc5d87cd46a497cec847e9d9425ca783ed71ba26c11eae064af",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9968119da3eadfa0b6c2b80efaf0ef8d01b2c85b8c00497e8ab03fa34bfbc973",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9979cd7f42949e2c916f1ee8a9f84cd845dbafe183322f69c3dbe0cab748890e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "9a2e51decc366f913f17817e095ffabeb63bec32ad071bd9eabeacad2ebc509c",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9b141b6cc0c07a8e382ebe50ca0600940cb3bdaf5213ef8e8cb9c52cb625cb84",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9b8f851942e1ff2e4a426edc4a76d4a3d91a8527b48e28365feab63b7674e5cc",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9c1addf05061d83c18427e30dfe0acb9f8e1377db06c3fd0703ede5038f955b6",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9c6df34bf99c583e92919a14a9d3ebc283cb6f21639799796426766f47ffa66e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9c7080c679e6eac0fada56dd7fd59a96747987b46d489839efa6e13f6d655bed",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9cb1057545db5d56867656df1e1bc7a83fae6d31a79a129d10a127b2b839f412",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9e1c5b674a5667081fb5711586e10e3373091e9ccfb2ca680f38575b3e9ae1e2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9e992b2ba1f5adcf4a7bfafed310172d1c504cba94b3f5644fa70c428fa13a60",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9efb275e28c7bca050c32b436047b9ef3c0e0569c9e4442f4c2ea8a64eb839c0",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "9f6c975c298432acc5613f75a5a2023732cd19047efbc20c5c403cf47c73973b",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "9fbd8895b12ec1ee5ab490dd16065534f59536315a4d3c2cfacbca0bc1db3a4e",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "9fd99fdc45dfd00d3484d49350a3c7badab2c9c98c002ced10909bbd013eb7ce",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a04721571600c335eca49771fa0870d27f84d825e2845a71340f1573261e72ab",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a1607434ea2df517bf85c0795a82935b72fda4bef7ba0313fbd0c28fd612f661",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a1990b5434779a064cf5e4817de018c5c0b4c9340f22e7de040c9cc907f55448",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "a27bad307083c7db92f90e20f65871fdde9885bda848434fe804f9b605cede7b",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a333e72f0a0263f42c1c711973648cbb2b38d71f1d037b3b1ee747344d2c42f4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a376179cc58a2441e0d9e00c75185e3402111f205f43d9a2d5b115e8ab8bf137",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a416fa729753166a2997326d2cd923378336a7023fb74ab0fcd49214ba0a6244",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a420f7f6eaba3f86d94c041c7836eb83ee96a41136f6c6db44de5c81c1c0a5a0",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a45cfac8066ce6e7193d5a57e899c091c0da436e392fbbc96dcbecf55dac1bfb",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a46fa7f5c704feefd3097120bc09f775865a1ab669a021b6dd9db67c66e263fb",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "a5062203b07954fd26cf3c4fe3dfa5447dd3833625bae8ddf7b079598e0c9897",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a5737a25770a86b364b9b4be015d10a3b49e95b7ae13f9b594e73e5aba1a5338",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a57a9c44421508d7fedb2af07c735b9ac24e258019c258384b8a235b013f0bbc",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a58165ba20830f4cf1fc8540625b5b026b79140b85baaadf64dfc8e5cce82695",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a60bef4552eeb84d8564cfa11e7528de448979094d7daf08a89a102129afe26f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a62564dc5476002413629adf5a12372a51172168494e7b3dc8ab9988faa08b12",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "a65715d54a64654e459160b01ef3ece9bc6dc2b9bd9fb0b3500c22f305c4477a",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a6c52517caa34bc8d46e17fa95335636e58ddb2a47f6a51681feec53e4846650",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a7818f84a9952e1d18f0ef89d6666001bcf13cf68e27b9b26c141534f0552982",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a844aba9fb70c698b23cd6b4590cad0043682a922161ffe79f64e7488b4059c7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "a93f60e5d3f2b2ebdbe6bb20947044bfb97021e7c763e9dd7038a0d3b11e171a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "a9ee81c47138b94e7bfa2bbc8d384fa75b059ae208e819dd12327ca99a79d793",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "aa3b87e5c2959bce8ecf033de7bf7031206ee8041c076a0233f99a65eb9d869e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "aaa0e60c61f7ee22be113699e502cc7684c1290b1a981bae71301bb5cf624add",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ab5e07d4011d379284dae20bdec0d874b2c08d7cbd3df44c5bb63878f202d0c5",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ac06320a71e3ffc49606874cf32d5e3223e0d8982a25c3319c87972933e7c439",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "ac4317ab2e3a50ab9248c3de08a834ac54a723d6cd3d75d6a13c4d5056123823",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ad0b622648861fb0a2599d0c4158b5b2fb938f5cb04ac0b7d6d1dd95bc4615e7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ad7825c1c263b32d2314a1b2266714a215f9eb76020d6984ecfee05b779246a6",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "adafc7b3659db608b67553abbd0b6ca83517761293764dd0ca4ae1f7cab0248f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ae7f49e7ed2aab199d058be9ae386a97a2a9daf702a830c3557b36bd00446228",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ae8fadb3a470c4f0f3812cf1e4c64d22455f6fba71f3c462106b38131f3efc20",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "aea43154056bc325793892e52e840612704f521dd5d609c3f5a05a59f9f1e2f4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "aea5e13305089a51b5afd5d7b82156f1365c2e38899defe816874b5570104008",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "b02731c7772b7310b4885d70c92cd5afc1006f5785c53091c204110a7541a04d",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "b0656de7352ba2c5fb88f23bdf1526c534cd7f07a4a8e1f99aeee94d7cac5cbd",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "b13aba8c3210f1c649285bdab5a3503e6efd14cc23e9fa9b116afd7802d3de1b",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b187e5f0df1ac4cad8d221a9b76e8da7619ef67357964f994a0226dd6a2bf804",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "b20f7ade20181b6f71fd17f16f9cb6177e8ac8860532344b39ecf1bfa6c0b972",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b220a3c68d8b823cefc08ca807b3cecd1d67d786ab44371e5b0a5a6a22c875ca",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b24609384f66e242292449d647eabebf1f400db176d9b35b9dfdad3e14fe8247",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "b277995eb5c172312de46a0fa07cb7c8e0e66db894516399f3a5d982bcf80db6",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b332f6ae36452bb37b53f59fe0bb2479c8ab33731fdeb3de63ac33e85765c406",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b436dc809d5d34ab0e4b352cc3fbd6bf84f7bfbcbce789fc89b573829fecae8a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b4a40d0308dcc87d253744dd88b5a4277cc62b7d9f276896c9dc5b34591f3330",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b52d176a7fc3de08ef4e5931e49e835da32ec518f587fd6725c127ef26e2126b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "b68435d15ba3d8c863b5a61005bee7ed2bc3daabf9c9303b57751044bed3e1b0",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b6ed2b2f44e65899cd7cc0cb4ccc21d974169d3f0a89cdf6fb3144fc3b61b033",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "b79962c4c2da2b174a0dde2dfda48e530413847ed87403352f9138e3c8df61a4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "b81bb49fd2a59909b6d3d68c045587198e4dc766168807a6f0ec8d7610be0336",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b854ce4309c22f16f84d8253234636a8b92b05a7d28f7ead5da66e85c01ce951",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b8da33bf8feb120b97a1bc53b6e70347d41016b7d69e4fd40435afee9bae3056",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b90f897d8b5eeb87a6fdd1cf403b0c1877514ac9732967e1737fc89779734df3",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "b93c51c71e5d8cb82bb4a024406fd933b75c4c83ea9c7cac861ef81575c5e77b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ba0c356fea1be8324a0f18c4bc1f3f04ef2bc6edb50a693cf6222b3c4b14ee1a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "bb4346c89d18aa21f551ed718513df69443a76d27e552961823ee422b18eb121",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "bb7d09030bc4993892d5094eb9210497522645bf97f811332043e31fe178abe7",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "bbb2929d0561be96864143f1ee7e10eb10c23505a2d8c7a881a0acbb10fbc1f9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "bc6dd65c05e9e8ecae1935bbc86d8fa2255a67d1680ea14e49be262e722d2e1a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "bc70112874e6b8c6673be40e268211a477cecb036709949eea78b745df1faab7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "bd65d1b21d2fbf2ff037847f07f6f4012cac9b05777df9d1b3c7988bea58975b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "bd81e77b20d4e2fa43dae7cadadbb8c78713f304aee19b41ada4874e2cbffc16",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "bda3a1ab074e27bb47bceafe1273e7bcba25cc360a8515ce61576490a1ea362e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "be5378efb444f5c96ad4d97f9000a2f697a313b70c0073405e55881a78fab7dd",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "be9995c17cc7e65daca84a0f5d2c642a2fc5b4b9d77da7b94d7a34bd57a6d900",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "bf3b6ef94fb362edb24075db7f925be7440b5a3c73863d4ddbcaa8c7e71c9add",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "bf81672c2b2ad941093320c814e07982ff94093af212707f617523eb9f5dd053",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "bfb61569c823efaeb577e2150046296505a994b7f38ea569f86f3b14af977487",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "c0f9d8a29a9b7bbe3ce1e85088b67ad6edffcbe209a9a7218b2a2842412b2c2b",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "c120710d4e3cca94a4e66667556d791e6f1b73aedee06afce72b928007c8b18d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "c1e555eddafdd4ddff88fe194a5a70b07eead6c2e97b4d4fbfef6b69568011dd",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "c20eabe3b2fcced70a1d48330be9869548d1008b77aa543904cfbf79679d1551",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "c34b3308ad2d602199c4538d58fe62e409a911648b6948728bd406d4c1769046",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "c35f3535c46dae42730f91a00c7333db13f806f67ddd48f6b6a64f4f6a0c8ea2",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "c47d017ee96ef6917d638d2b4367b3a78d3da5cfaa098b8ec0af56778c56b2f4",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "c4c0fe598d87df43f54a4d2cb84c593d8789ee5f89600c3cbbcd1489f0bd204b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "c5ada8b75b227b88966c768a4ddfaf97dcd2accc04d618429c4644b6251bfbc1",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "c5cbcd11a2b2726776d8d0471730e204c27a757288514efafe7445ebc7013fb7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "c6163c96002497adb38dfce4690e3dfa692b52373ea86e4c53be9e6660ddcdcc",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "c717838096bf5d3d4c98348be25ab552e356d8c959110959bbb50c7c4505b62a",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "c97c855c3c2f8f54ced231280b42de29a4fd2241e78128f3916c721ab677c822",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "c9bfcec1d23c31358c82b2793ffb44c8f61fec577a7c4709ede46341eceb5c16",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "cc0a52802500149fe8806c1030b17f6eec43f6136c59da99bdf800a621720439",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "cc2e11bf2740f83d87473d82164251a07a1b65463ccd51f5c5c41126e7522859",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ccca33ff04f4fbd538d420429df905d9be6b51aee269058beae324fc964193cd",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "cd60c8acca30d86f1dcaa35528cc08d3c4fc04c40b759f5ee772d9ed0f2c1e26",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ce69d8c75ed01c99ace317f40b27e8fd2fd7108fb7320e5eaf6273237b6e2a4a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ce70b72ef6c7d3b633383c0b9a14d3ec9b461b3463f9148b0e8833eccc87c934",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "cf334c1903b767ecd41a19a1d83b1b463d547ee40e36c73a1e868c6ddd0d4e9f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "cf6603aacbcea68a3f071f1da29fb71b17db4c8f726dd4bdb4a8c3b7cf508c2f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d0158d42c4b6965e29d108851dd68db3ffd56eb9dca8e6005f05c96c18c12a4e",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "d06e93e9262d155f2bc03b9b948700ef5aaee147ef2e93f835c83941a8b6abcd",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d0c2f157521eea834e91467f202987f7fd497dc558306c75c9770e192d8ef56c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d104b4f77c09fdd7c7f82e2f75db01d490688a2645fcff995fccd63d4dfb9a6d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "d147711895f2b41af730406188a797306fa9707b0b029fcb891a9d1e09344281",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d197da62f045ec5dcb4d3d25ea8fb4c5c2caa138798b343a3baba3fb0688d9b1",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d20027e41ea1a54d80fe02696d471d4412593f492f109e9ec3c8ceb30bb30668",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d2725d6de61935464ab15ae4bebad773698447104347262ea08ac7b42e8b3213",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d2b153a31523723f44df5a09be68ad7aec69632090ac7fb63d9c4928bab39209",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d2fee6ccae2c5e6e6f31dc9c1c66d010f81afc06f500d12cbf146c1ad524be06",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d3b771f0426cd28e31eeba9ee5f55d199262ed9ca76e3474104b9354bf93f61a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d45e18384739bfdaef3cce5fe57d32d5e25c6e9ed90ae1d5068086b913d87352",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d46498a34b6c1518584b08a3bfc2f29def89d62ccaf61a342e1a935f6aacbc8f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d56b2070e9fd7544d94903935e8bfa4cf4d28cdca536bae8cf6eeb9c15ae83b7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d6747785f6e1a5d96a2c11378b79ec11b7070d7337e9ae616fe0befc97af9ca0",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d694ead91a54682990944cfb43c91a0e020429ca7ccc4cba396610153c438e81",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d69a460b7c4998948dae28831af5e53b4322b9d8555ac9895f82e0d66691bae1",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d6e67c0fb544ab32fe009085b677abb26f7cb0ecb472db4eea668358a02597e4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "d6f5d3647b52cfce4764bd9e68624d789896a97cdc71a29f4aeaeb726598415d",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d7325e1520876b2888460759584ad0e14c546e53061eed3c2422ce89f649a026",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "d798a309cd6d2be4f25287bce79c8ffeb8c9ec08dda16e2197296b36b9f15212",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d8be3ea67bb9978da346e9870515ecc6e1d849379dbceedade2bcb546f2c8b25",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d8c286711ac0b3c42f0bde2cc7f70beb2693d05b9d4743045d21eedaed41bf06",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d8f5b05c335442ece77dd03576ff18c70005f7a153f80c05612326efe24b3681",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d9dd62a34514d0f59ac5f66241e9952176d75bade27740a300c475a97be1d876",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d9ded6d5f736611b0b503aa311b343af126ada5f219b8ee48aab3abca4d612d7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "d9e14ea15bf74386f2b006731dff970c96993cf899eed3b168b9b4e4e9f8b1d3",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "d9fe70b1bc188695e7f5bc77a94eef7abe198718785a623a0f4ffc6bcfd104ab",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "da4d01ae327eb426621658b4e89b089d8ade5db7567b00b9f239b1fda273891e",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "da4e726fef7563a2d5e473f528ce077432f40773ba0f026c88b78b4e94f5dbb7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "db20bef948cb0b41c646c7f6b5aab8dbf389b0c928f95c490ec12ca6fee9d8f9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "dc361519447b0e7edc3f75e766ce4e0409adcdf1db7247d42c9fe0a07ff1c382",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "dcd68a467c4db1c25f67023da9cd869f878fee73e3a273643f63cfc56efc5e8f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "dce56a0199d1b460f5cdae9d9287aa4553f12c7f8d067e07f7c921d5f2415fee",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "dd05b297a1cd669488e0c863a206b7a97de5ce7a7c2bd6ca2236229f6f19ef0d",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "de0bc19a2d0af448c4c55deb8de5b20e3a8c0813bcea05caef2a246ccf5d8887",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "de45d78c56731b1b56619b8c82736c73322952053d37636d054b7476e183d1d9",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e07162822d0e7ff31c4f7be6d514cf7cbc9f0a6c80662123bd98e3331fa6391f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "e0d3ee8190c1892e73f1b4213e6fa658120678dce88c8573aab870a6205abcc4",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "e1756655516077ba1c351c8dd321d3e2b0b6823d2bcd9098eaacb74abd88d51b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e26648a8dc5c5567f0ebb933025580ca0e2464500d34b360c02a576d3d33358f",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e2a5af45cd0f393680c9c7b8ff0d74f86fa65d589c76a7b45d2afa6785d1d4fb",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e355ce031237f7ea548862e848574feb48a2f62a312dc0366691ade2bf4fb228",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e35f9ef88c8b512257f0271f3eb546e78a0054cdcfb998f4b093fa695c31299a",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e4f7273db4583d504d8d3cab921a43ba200750eb5deb876974de3ebffd348c5b",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e50145ac9ff084448f229ce47ee0375c30846fb2e56ededf47ea9f589366677c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e5367c1ba066b2ca219f6bcd0d0312fc89650c1643c25e753e9782671f754f04",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "e63ba7ba95c899a41b3d8eb2cd118ee07d702d48221d9259c1c7f8589228bce1",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e68bcd0ae0544a30a8c79db2cd4cf20cf05c3899966b13b0f52f69608871ade6",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e6be3a47d5861c7918ba3f72dd6b7add150a22ced63295ada979e68407da3f2c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e753dba2040a3b0afa3b99ec4ef6a5abebe8128bec9e9ba5cd114c2a3a0c134c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "e79a057291185663b7f8bdd2eca6cd6db957e07f3b1c3152a3d8c42fea16eb35",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e81dd9419992d1f7054effd7d699e1ca69653fe0111c5c48ed43fd73725b1312",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "e9981ba3cb8c40854e7cf0d4c8093b84ce11888663e71f711c6d16765e224d9d",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "e9a5ac801262a42430d85f0044293f2e079f7aceaf7c54ef924577184a86507a",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "e9b15ae7587d48fa831ef6162caaa41b9062b48e8862311fab9a7789d468842f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ea371ecc36a219766834c30b64522a33c10809d4a84d226f8639ddbe0aecd29c",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "ebb32bed0b9d0bdacb7c3a5820524804f3a98af87ec20f59bb676ede95c4d786",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "ebb4031f2afa8118b03a12381be9a083b5d57e5fa1a4f2de6c7a8e9b1bcf3ec3",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ec457f7d654b97b17bed7f2a166fd1d7a766746f10d395967b98bbdb2be8d8f0",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ec7e20d217e897d6bfeb17482fa9d0e8cfdbbe23550c5b597129fd85d21f94f8",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "eccfa53e89d4bf7ee791f3f0905861288d3830af1b7c1aa19239b5138afe7829",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "ece0a7810f0bbe2f31804bb8f754d1fccd2111da4a81bd9598dad2e22f854dc7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "edd482c6566c037d65194eaac78bcd0dbec57eb34a5daf77c3983ae55cd1f3ac",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ef25bea3fe234cf3936e3008284b1511ae82802dde6c4ab7a771063bdad65e5a",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "ef3e1ffb71ca2704c4d7b119e2ae7f87e9d57088fb51608fb98bd106128d2daf",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "efadafbc3cc29ee994d82cfb6ae5bcfbc675681aa34cbea4e340b9a9850fc0e6",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "eff71ca5e7d2dc6063e8f7994d12ba6ca8b29e8b9e745b0bbca0db60438c9e23",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f05af2f31521debc43d47be94424cabdb12fcdc760ec1977c1c33d63e0d1d48a",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f06deb1803766430aa84ba579b1aee07437fe8e3432934907cc0bd77c68eb046",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f11136e2a7104f20682c2522419f0ddf2fbc8ad9e238dfec638e77ac7db184ae",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f16110fdbebeef6515c8b8d976e401d6d304880c13631bd41043261c44c9f57c",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "f35da18662f6d8f825e22fa0080c1a2fff3396b43c78e3c19a0083816545d15d",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f455555cc0d1dd32680822a83394d55a69070e596fabd85974f0b1de3f32b5f1",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f49070fb29917fd917907168db88e4f874ea60c9c4f90450f6465f40d1e712e0",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f4aef1d7b14c75b28b92dfc63dbccbdc4129662f1a18e989b4a221819d3b16b1",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f557c9b32aa3f489df7bd23caff85f2518194fce136ad24c835e0e493cf7c981",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "f68b8de3f25b558690136f88ef82ea32cb8b5272bc34b0336ed5271e917ea7f3",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "f6b4ecb013c7e6872ce161dda3074d8bce5b53d8c9c7206aea119197b97fa138",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f70daf0d0ef662237be117bdbb66c275cba035a1d33affc41fa1b9e18e4502cb",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f71e79d829badb684d5c6ab84a98260b2c01de6ab2573de4bc1d9756211bef1f",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f723de546edc66b37770db95c9bf65e5ce9d6058b76e081405fd941dafe20fec",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f81202c7c8b64aaaba39e99543d9d3f738af5a1b851386cb8df42b6dedca2c89",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f8229a8d2f217400ce9161f888b53398ee45a7d014a608dad8bc63bc48db06bb",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f86e6a8debfbacd9aa97169d9147d650c0e214fbb1ed991015d792a3a9030616",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f86ecdd12fb4fe1a56ccb346aa7fbfa726f5f6b218c954a4604fdf4231817664",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f8e54be0a0ddb77e4344036b8bfc3ac429aa96f0e07da753f3b08f956946e0ac",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f8e94a6779c37e62b74bcad9d06be2a6ab52caf9693909178725f944f72d0046",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "f8e99c534fda545ff5da61c89724a1b06f63d62bbcc4c7d9f58fa680636d7739",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1950_1974",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "f90961ce353ca091ca4b71526e81b908bce99a8c7f853312982038f506a2dba1",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f9176afd1512f47b5178b5424f9e724f927dbef3383b6a14f7ca896007b58f35",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "f92d913c31e7027e60443abd3d1870a558eac88651c354fa0d66a0a0db427a78",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "f95d6ad59b118ac0474051c9b3dfee825a99f30d2181983774baf35d5d0e81b8",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "fa381f68d9b8d7335b6c0edfcf9bb5d5697caf0d9994737fd1b439cc1ec576e7",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "fa83e640653570d99f1307d62ed344a5d6d89d3a086db8df0f15c3957dee1ef1",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1950_1974",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "fa89013dba99a142d956b0bbd17f9a9e074baf9759bd9116662a066dfc02cee7",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "1900_1949",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "faf586fceddcb5efafc99c4b05bbce495e0bcb4287c533cda16325d8d76707fd",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "fb758f000ff9032653fe931ede58d0fdf8a2ab6875bb3b7dc15c8b059e532381",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "fba5c765a6efa006893b4e750e82ec8d5af020235e3ab052b724e81d5db12543",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": true,
+      "era_stratum": "BEFORE_1900",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "fca8cec4842f183b8395a2dd5dabe10bbb54b065917e0cb7390b2c78ffa32a19",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "ABSENT",
+      "subject_id_sha256": "fd55c995a880547d468688de85bb3dbdc45f87f79773c023fe7d60b5992612f9",
+      "supported_outcome": 0
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1900_1949",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "fe2ab60fb9b98049a900e09555cc0f6d93538051d0cc0c31ccbeea13945bb742",
+      "supported_outcome": 1
+    },
+    {
+      "analyzable": false,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "UNADJUDICATED",
+      "subject_id_sha256": "ffaefd7d4e5baf59bb6aaa057db4c43da3d2ff89b59c0fed94bff30c21c2eb8b",
+      "supported_outcome": null
+    },
+    {
+      "analyzable": true,
+      "candidate_exposed": false,
+      "era_stratum": "1975_OR_LATER",
+      "measurement_state": "SUPPORTED",
+      "subject_id_sha256": "fff8d771fcb37a94ff4447555b2904adb1a10d1850b78dec46b875dd4f405912",
+      "supported_outcome": 1
+    }
+  ],
+  "schema_id": "AKS575_ANONYMOUS_LATE_JOIN_V3"
+}
