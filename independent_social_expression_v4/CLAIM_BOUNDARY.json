@@ -1,0 +1,91 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_CLAIM_BOUNDARY_V4",
+  "release_status": "PUBLIC_REPRODUCIBLE_TERMINAL_RESULT",
+  "terminal_outcome": "ADEQUATELY_POWERED_PRIMARY_NULL",
+  "study": {
+    "candidate_family": "JYOTISH_MARS_MERCURY_ORGANIZED_REALIZATION_TWO_BRANCH_FAMILY",
+    "candidate_unit": "ONE_FIXED_TWO_BRANCH_AGGREGATE_FAMILY",
+    "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+    "system": "JYOTISH",
+    "confirmation_surface": "CONDITIONAL_PERSON_OUT_SEMANTIC_OUTCOME_BLIND_CONFIRMATION1495",
+    "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY"
+  },
+  "population": {
+    "fixed_frame_people": 1495,
+    "primary_independent_person_pages": 1457,
+    "primary_exposed": 59,
+    "primary_unexposed": 1398,
+    "primary_exposed_decided": 58,
+    "primary_unexposed_decided": 1378,
+    "shared_page_secondary_people": 14,
+    "structural_unknown_people": 24
+  },
+  "primary_result": {
+    "supported_exposed": 35,
+    "supported_unexposed": 739,
+    "harmonic_risk_difference": 0.0710069495149408,
+    "hc3_one_sided_95_lower": -0.02927419104214718,
+    "hc3_one_sided_95_upper": 0.17128809007202886,
+    "permutations": 9999,
+    "permutation_one_sided_p": 0.1357,
+    "frozen_decoy_count": 98,
+    "decoy_empirical_one_sided_p": 0.13131313131313133,
+    "delta_ref": 0.1993299573270514,
+    "minimum_power_at_delta_ref": 0.9061767589853145,
+    "manski_sharp_lower": 0.050301884047428524,
+    "manski_sharp_upper": 0.0815571882350089
+  },
+  "scientific_interpretation": {
+    "development_sized_effect_reproduced": false,
+    "route_specific_positive_confirmation": false,
+    "zero_association_established": false,
+    "smaller_positive_association_excluded": false,
+    "plain_language": "THE_PREDECLARED_DEVELOPMENT_SIZED_EFFECT_DID_NOT_REPRODUCE; A_SMALLER_POSITIVE_DIFFERENCE_REMAINS_UNCONFIRMED"
+  },
+  "measurement_boundary": {
+    "observation_scope": "DOCUMENTED_PERSON_ACTIONS_IN_FIXED_MATERIAL_ONLY_NOT_WHOLE_LIFE",
+    "ai_rater_count": 1,
+    "independent_human_replication": false,
+    "unknown_or_partial_as_negative": false,
+    "fully_untouched_external_cohort": false,
+    "source_birth_and_old_prediction_previously_exposed": true,
+    "semantic_and_outcome_blind_until_late_join": true,
+    "related_person_adjustment": "UNAVAILABLE_NOT_CLAIMED"
+  },
+  "validation_scope": {
+    "aggregate_family_tested": true,
+    "individual_branches_tested": false,
+    "individual_515_rules_tested": false,
+    "western_jyotish_convergence_tested": false,
+    "fixed16_release_retested": false,
+    "causality_tested": false,
+    "occupation_prediction_tested": false
+  },
+  "public_reproduction": {
+    "statistical_late_join_reproduction_public": true,
+    "anonymous_primary_ledger_public": true,
+    "fixed_permutation_draws_public": true,
+    "decoy_summary_public": true,
+    "decoy_person_vectors_public": false,
+    "full_birth_to_exposure_recomputation_public": false,
+    "identity_mapping_public": false,
+    "private_source_or_chart_artifacts_public": false
+  },
+  "no_rescue": {
+    "candidate_or_threshold_change": false,
+    "person_replacement": false,
+    "new_cohort": false,
+    "branchwise_confirmatory_test": false
+  },
+  "prohibited_interpretations": [
+    "ASTROLOGY_AS_A_WHOLE_WAS_REJECTED",
+    "A_ZERO_ASSOCIATION_WAS_ESTABLISHED",
+    "THE_FIXED16_RELEASE_WAS_RETESTED",
+    "ALL_SOCIAL_EXPRESSION_FAMILIES_WERE_REJECTED",
+    "THE_TWO_BRANCHES_WERE_INDIVIDUALLY_TESTED",
+    "THE_515_RULES_WERE_TESTED",
+    "WESTERN_JYOTISH_CONVERGENCE_WAS_TESTED",
+    "CAUSALITY_OR_OCCUPATION_PREDICTION_WAS_TESTED",
+    "ALL_1495_PEOPLE_ENTERED_THE_PRIMARY_ESTIMATOR"
+  ]
+}

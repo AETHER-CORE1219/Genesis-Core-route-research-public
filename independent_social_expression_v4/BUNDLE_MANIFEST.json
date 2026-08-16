@@ -1,0 +1,41 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_BUNDLE_MANIFEST_V4",
+  "release_status": "PUBLIC_REPRODUCIBLE_TERMINAL_RESULT",
+  "terminal_outcome": "ADEQUATELY_POWERED_PRIMARY_NULL",
+  "fixed_frame_people": 1495,
+  "primary_people": 1457,
+  "primary_exposed": 59,
+  "primary_unexposed": 1398,
+  "tested_candidate_families": 1,
+  "positive_confirmatory_families": 0,
+  "files": [
+    "README.md",
+    "README_JA.md",
+    "METHODS.md",
+    "FAILURES_AND_LIMITS.md",
+    "REPRODUCTION.md",
+    "CLAIM_BOUNDARY.json",
+    "RESULTS.json",
+    "requirements.txt",
+    "scripts/reproduce_v4.py",
+    "scripts/validate_public_v4_privacy.py",
+    "data/confirmation1457_anonymous_primary_v4.json",
+    "data/decoy_summary_v4.json",
+    "data/primary_permutation_draws_v4.json.gz",
+    "CHECKSUMS.sha256"
+  ],
+  "canonical_data_sha256": {
+    "RESULTS.json": "b5fbd5e4c2987eebe47e3f8ba1fe177585ca47e4a7c8055f7c7d0e0ccedf6b45",
+    "data/confirmation1457_anonymous_primary_v4.json": "4fc60e60a6acaedf6c86815fc1dd4013c64d48dc5ff0aa1448a647528354dff4",
+    "data/decoy_summary_v4.json": "ddb3ddd64b43f19de94e63e8bfffe5b66a982ec4bfe648f35ecfea9c2e161d4a",
+    "data/primary_permutation_draws_v4.json.gz": "f61b990275dd334488370d85f2c613c9b576acdd822f07dbc4c56d4809fa3fad"
+  },
+  "public_boundary": {
+    "person_rows_are_unlinkable": true,
+    "person_row_key_count": 4,
+    "shared_or_structural_person_rows_published": false,
+    "decoy_person_vectors_published": false,
+    "full_birth_to_exposure_reproduction_public": false,
+    "statistical_reproduction_public": true
+  }
+}

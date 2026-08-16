@@ -1,0 +1,693 @@
+{
+  "decoy_count": 98,
+  "person_level_decoy_vectors_published": false,
+  "rows": [
+    {
+      "decoy_id": "DECOY_SET_000",
+      "estimable_stratum_count": 20,
+      "estimate": 0.051219373800128136,
+      "exposed_decided_person_count": 70,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_001",
+      "estimable_stratum_count": 17,
+      "estimate": -0.06919666430770714,
+      "exposed_decided_person_count": 52,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_002",
+      "estimable_stratum_count": 17,
+      "estimate": -0.057756935526147024,
+      "exposed_decided_person_count": 54,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_003",
+      "estimable_stratum_count": 18,
+      "estimate": 0.05275637165802925,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_004",
+      "estimable_stratum_count": 14,
+      "estimate": -0.013939940944122113,
+      "exposed_decided_person_count": 56,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_005",
+      "estimable_stratum_count": 16,
+      "estimate": 0.0176717025164137,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_006",
+      "estimable_stratum_count": 16,
+      "estimate": -0.1186973678885026,
+      "exposed_decided_person_count": 43,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_007",
+      "estimable_stratum_count": 16,
+      "estimate": 0.11466544897113713,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_008",
+      "estimable_stratum_count": 19,
+      "estimate": 0.09913905259337419,
+      "exposed_decided_person_count": 60,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_009",
+      "estimable_stratum_count": 15,
+      "estimate": 0.016208696811107495,
+      "exposed_decided_person_count": 46,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_010",
+      "estimable_stratum_count": 17,
+      "estimate": 0.03198353411462105,
+      "exposed_decided_person_count": 54,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_011",
+      "estimable_stratum_count": 16,
+      "estimate": -0.040888564792967444,
+      "exposed_decided_person_count": 47,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_012",
+      "estimable_stratum_count": 20,
+      "estimate": -0.05961949710549701,
+      "exposed_decided_person_count": 52,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_013",
+      "estimable_stratum_count": 22,
+      "estimate": 0.0477856370482787,
+      "exposed_decided_person_count": 56,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_014",
+      "estimable_stratum_count": 19,
+      "estimate": -0.07408684534018051,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_015",
+      "estimable_stratum_count": 16,
+      "estimate": 0.02476262388819066,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_016",
+      "estimable_stratum_count": 16,
+      "estimate": -0.017779514295712794,
+      "exposed_decided_person_count": 47,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_017",
+      "estimable_stratum_count": 16,
+      "estimate": 0.07090344850109968,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_018",
+      "estimable_stratum_count": 18,
+      "estimate": -0.08813097857231508,
+      "exposed_decided_person_count": 59,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_019",
+      "estimable_stratum_count": 20,
+      "estimate": 0.039637135557865216,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_020",
+      "estimable_stratum_count": 20,
+      "estimate": -0.020561972124763774,
+      "exposed_decided_person_count": 63,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_021",
+      "estimable_stratum_count": 15,
+      "estimate": -0.03208833905709913,
+      "exposed_decided_person_count": 45,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_022",
+      "estimable_stratum_count": 18,
+      "estimate": -0.07226294160894689,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_023",
+      "estimable_stratum_count": 20,
+      "estimate": 0.009902316145217041,
+      "exposed_decided_person_count": 54,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_024",
+      "estimable_stratum_count": 19,
+      "estimate": -0.03326114528320404,
+      "exposed_decided_person_count": 58,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_025",
+      "estimable_stratum_count": 16,
+      "estimate": -0.09838936810987646,
+      "exposed_decided_person_count": 53,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_026",
+      "estimable_stratum_count": 16,
+      "estimate": -0.012624037835793252,
+      "exposed_decided_person_count": 52,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_027",
+      "estimable_stratum_count": 15,
+      "estimate": -0.12373610291502571,
+      "exposed_decided_person_count": 46,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_028",
+      "estimable_stratum_count": 18,
+      "estimate": -0.009490022157950806,
+      "exposed_decided_person_count": 63,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_029",
+      "estimable_stratum_count": 16,
+      "estimate": -0.07408407395612454,
+      "exposed_decided_person_count": 59,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_030",
+      "estimable_stratum_count": 17,
+      "estimate": -0.09227963050889097,
+      "exposed_decided_person_count": 59,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_031",
+      "estimable_stratum_count": 12,
+      "estimate": -0.1249145972802597,
+      "exposed_decided_person_count": 43,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_032",
+      "estimable_stratum_count": 19,
+      "estimate": -0.048188930051760795,
+      "exposed_decided_person_count": 56,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_033",
+      "estimable_stratum_count": 20,
+      "estimate": -0.09276631477223028,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_034",
+      "estimable_stratum_count": 21,
+      "estimate": -0.04144380088912851,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_035",
+      "estimable_stratum_count": 18,
+      "estimate": 0.053048471467643576,
+      "exposed_decided_person_count": 58,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_036",
+      "estimable_stratum_count": 18,
+      "estimate": 0.004302592214173701,
+      "exposed_decided_person_count": 55,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_037",
+      "estimable_stratum_count": 15,
+      "estimate": 0.07794928844197858,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_038",
+      "estimable_stratum_count": 13,
+      "estimate": 0.22836134743371633,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_039",
+      "estimable_stratum_count": 17,
+      "estimate": -0.05497497390999583,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_040",
+      "estimable_stratum_count": 20,
+      "estimate": 0.13425232152085428,
+      "exposed_decided_person_count": 54,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_041",
+      "estimable_stratum_count": 18,
+      "estimate": 0.11980290108742987,
+      "exposed_decided_person_count": 46,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_042",
+      "estimable_stratum_count": 18,
+      "estimate": -0.04753673696839361,
+      "exposed_decided_person_count": 51,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_043",
+      "estimable_stratum_count": 17,
+      "estimate": -0.07753900684154488,
+      "exposed_decided_person_count": 45,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_044",
+      "estimable_stratum_count": 13,
+      "estimate": -0.13140348059908025,
+      "exposed_decided_person_count": 47,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_045",
+      "estimable_stratum_count": 16,
+      "estimate": 0.03190676660095567,
+      "exposed_decided_person_count": 55,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_046",
+      "estimable_stratum_count": 16,
+      "estimate": -0.04051130178542638,
+      "exposed_decided_person_count": 53,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_047",
+      "estimable_stratum_count": 15,
+      "estimate": -0.06047737207079278,
+      "exposed_decided_person_count": 51,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_048",
+      "estimable_stratum_count": 17,
+      "estimate": -0.04817684555335176,
+      "exposed_decided_person_count": 52,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_049",
+      "estimable_stratum_count": 18,
+      "estimate": 0.0740941924631145,
+      "exposed_decided_person_count": 61,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_050",
+      "estimable_stratum_count": 20,
+      "estimate": 0.1443962963278048,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_051",
+      "estimable_stratum_count": 17,
+      "estimate": 0.08746094063790445,
+      "exposed_decided_person_count": 46,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_052",
+      "estimable_stratum_count": 19,
+      "estimate": -0.045643802353748736,
+      "exposed_decided_person_count": 49,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_053",
+      "estimable_stratum_count": 14,
+      "estimate": -0.05881271209261768,
+      "exposed_decided_person_count": 59,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_054",
+      "estimable_stratum_count": 16,
+      "estimate": -0.09896067620814693,
+      "exposed_decided_person_count": 43,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_055",
+      "estimable_stratum_count": 20,
+      "estimate": -0.046705550520767296,
+      "exposed_decided_person_count": 62,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_056",
+      "estimable_stratum_count": 21,
+      "estimate": 0.05008520636824714,
+      "exposed_decided_person_count": 56,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_057",
+      "estimable_stratum_count": 17,
+      "estimate": -0.07785997563741928,
+      "exposed_decided_person_count": 64,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_058",
+      "estimable_stratum_count": 19,
+      "estimate": -0.027463416104510828,
+      "exposed_decided_person_count": 58,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_059",
+      "estimable_stratum_count": 18,
+      "estimate": 0.028749505341749207,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_060",
+      "estimable_stratum_count": 17,
+      "estimate": -0.11043884624785832,
+      "exposed_decided_person_count": 57,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_061",
+      "estimable_stratum_count": 15,
+      "estimate": 0.006204180126930098,
+      "exposed_decided_person_count": 42,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_062",
+      "estimable_stratum_count": 18,
+      "estimate": -0.0966545909767427,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_063",
+      "estimable_stratum_count": 17,
+      "estimate": -0.05566582633655711,
+      "exposed_decided_person_count": 61,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_064",
+      "estimable_stratum_count": 19,
+      "estimate": 0.02421878223811617,
+      "exposed_decided_person_count": 62,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_065",
+      "estimable_stratum_count": 20,
+      "estimate": -0.009025477932034084,
+      "exposed_decided_person_count": 54,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_066",
+      "estimable_stratum_count": 20,
+      "estimate": -0.018720894125080607,
+      "exposed_decided_person_count": 53,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_067",
+      "estimable_stratum_count": 17,
+      "estimate": -0.01956048671862125,
+      "exposed_decided_person_count": 53,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_068",
+      "estimable_stratum_count": 18,
+      "estimate": -0.08197709691564245,
+      "exposed_decided_person_count": 51,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_069",
+      "estimable_stratum_count": 17,
+      "estimate": -0.02158760475893709,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_070",
+      "estimable_stratum_count": 16,
+      "estimate": 0.06916586529972933,
+      "exposed_decided_person_count": 43,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_071",
+      "estimable_stratum_count": 16,
+      "estimate": -0.04844020526914437,
+      "exposed_decided_person_count": 49,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_072",
+      "estimable_stratum_count": 16,
+      "estimate": -0.03244258203716028,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_073",
+      "estimable_stratum_count": 18,
+      "estimate": -0.06212676920772455,
+      "exposed_decided_person_count": 51,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_074",
+      "estimable_stratum_count": 17,
+      "estimate": 0.013821346684589026,
+      "exposed_decided_person_count": 45,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_075",
+      "estimable_stratum_count": 17,
+      "estimate": -0.04031970009281547,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_076",
+      "estimable_stratum_count": 20,
+      "estimate": -0.0136390985816183,
+      "exposed_decided_person_count": 64,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_077",
+      "estimable_stratum_count": 17,
+      "estimate": 0.11755686793009072,
+      "exposed_decided_person_count": 49,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_078",
+      "estimable_stratum_count": 19,
+      "estimate": 0.02999344820349149,
+      "exposed_decided_person_count": 56,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_079",
+      "estimable_stratum_count": 19,
+      "estimate": 0.07226971364440885,
+      "exposed_decided_person_count": 52,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_080",
+      "estimable_stratum_count": 16,
+      "estimate": 0.06401742415357634,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_081",
+      "estimable_stratum_count": 17,
+      "estimate": 0.04569259828005796,
+      "exposed_decided_person_count": 50,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_082",
+      "estimable_stratum_count": 20,
+      "estimate": 0.061781010835234663,
+      "exposed_decided_person_count": 56,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_083",
+      "estimable_stratum_count": 17,
+      "estimate": -0.01727185383997541,
+      "exposed_decided_person_count": 43,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_084",
+      "estimable_stratum_count": 15,
+      "estimate": -0.026888509382822504,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_085",
+      "estimable_stratum_count": 14,
+      "estimate": 0.040753117196695346,
+      "exposed_decided_person_count": 48,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_086",
+      "estimable_stratum_count": 20,
+      "estimate": -0.03856196476815345,
+      "exposed_decided_person_count": 59,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_087",
+      "estimable_stratum_count": 18,
+      "estimate": -0.033490127715323795,
+      "exposed_decided_person_count": 65,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_088",
+      "estimable_stratum_count": 20,
+      "estimate": -0.07275238452590989,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_089",
+      "estimable_stratum_count": 17,
+      "estimate": -0.02971536059606561,
+      "exposed_decided_person_count": 53,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_090",
+      "estimable_stratum_count": 17,
+      "estimate": 0.061062326459233596,
+      "exposed_decided_person_count": 47,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_091",
+      "estimable_stratum_count": 19,
+      "estimate": -0.04686262288957531,
+      "exposed_decided_person_count": 43,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_092",
+      "estimable_stratum_count": 21,
+      "estimate": 0.055829752587185096,
+      "exposed_decided_person_count": 59,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_093",
+      "estimable_stratum_count": 19,
+      "estimate": -0.03505741111471061,
+      "exposed_decided_person_count": 49,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_094",
+      "estimable_stratum_count": 17,
+      "estimate": 0.046728245268882744,
+      "exposed_decided_person_count": 47,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_095",
+      "estimable_stratum_count": 15,
+      "estimate": -0.11440536394306214,
+      "exposed_decided_person_count": 44,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_096",
+      "estimable_stratum_count": 21,
+      "estimate": 0.18113055686970309,
+      "exposed_decided_person_count": 52,
+      "status": "ESTIMABLE"
+    },
+    {
+      "decoy_id": "DECOY_SET_097",
+      "estimable_stratum_count": 22,
+      "estimate": -0.003546054551830083,
+      "exposed_decided_person_count": 67,
+      "status": "ESTIMABLE"
+    }
+  ],
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_DECOY_SUMMARY_V4"
+}

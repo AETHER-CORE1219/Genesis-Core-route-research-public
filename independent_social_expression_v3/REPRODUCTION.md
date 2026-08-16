@@ -7,7 +7,7 @@ python3 -m venv .venv
 . .venv/bin/activate
 pip install -r independent_social_expression_v3/requirements.txt
 python independent_social_expression_v3/scripts/reproduce_v3.py
-sha256sum -c independent_social_expression_v3/CHECKSUMS.sha256
+(cd independent_social_expression_v3 && sha256sum -c CHECKSUMS.sha256)
 ```
 
 再現器は匿名575名ledgerから、人物集合、25単位manifest、年代別群数、解析可能数、年代標準化差、200,000回の層内null、cluster感度、Holm補正値を再生成します。

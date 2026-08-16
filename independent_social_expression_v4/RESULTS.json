@@ -1,0 +1,365 @@
+{
+  "branches_report_only": [
+    {
+      "branch_label": "BRANCH_1",
+      "descriptive_harmonic_risk_difference": 0.058127208985969916,
+      "estimable_stratum_count": 10,
+      "exposed_decided_count": 16,
+      "exposed_person_count": 16,
+      "inference_status": "REPORT_ONLY_NO_BRANCHWISE_P_VALUE_OR_PROMOTION",
+      "unexposed_decided_count": 1420
+    },
+    {
+      "branch_label": "BRANCH_2",
+      "descriptive_harmonic_risk_difference": 0.0743859414133887,
+      "estimable_stratum_count": 21,
+      "exposed_decided_count": 42,
+      "exposed_person_count": 43,
+      "inference_status": "REPORT_ONLY_NO_BRANCHWISE_P_VALUE_OR_PROMOTION",
+      "unexposed_decided_count": 1394
+    }
+  ],
+  "claim_boundary": {
+    "causality": false,
+    "confirmation_surface": "CONDITIONAL_PERSON_OUT_SEMANTIC_OUTCOME_BLIND_CONFIRMATION1495",
+    "full_birth_to_exposure_recomputation_public": false,
+    "fully_untouched_external_cohort": false,
+    "individual_515_rule_validated": false,
+    "individual_branch_validated": false,
+    "occupation_prediction": false,
+    "related_person_adjustment": "UNAVAILABLE_NOT_CLAIMED",
+    "statistical_late_join_reproduction_public": true,
+    "western_jyotish_convergence_validated": false
+  },
+  "conditional_power_and_mde": {
+    "alpha_one_sided": 0.05,
+    "base_rate_grid": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8
+    ],
+    "decided_mask_states": [
+      "NO_DIRECT_ANCHOR_OBSERVED_IN_ADEQUATE_FIXED_SOURCE",
+      "SUPPORTED"
+    ],
+    "delta_ref": 0.1993299573270514,
+    "estimable_stratum_count": 24,
+    "harmonic_weight_sum": 54.72451883557552,
+    "mde_at_or_below_delta_ref": true,
+    "mde_by_base_rate": [
+      {
+        "mde": 0.14186419843001208,
+        "q0": 0.1
+      },
+      {
+        "mde": 0.15994630092774134,
+        "q0": 0.2
+      },
+      {
+        "mde": 0.16695679312101627,
+        "q0": 0.3
+      },
+      {
+        "mde": 0.1664621630342079,
+        "q0": 0.4
+      },
+      {
+        "mde": 0.15975618081846998,
+        "q0": 0.5
+      },
+      {
+        "mde": 0.14718753721997807,
+        "q0": 0.6
+      },
+      {
+        "mde": 0.12840754149255668,
+        "q0": 0.7
+      },
+      {
+        "mde": 0.1021224234850519,
+        "q0": 0.8
+      }
+    ],
+    "minimum_power_at_delta_ref": 0.9061767589853145,
+    "minimum_power_q0": 0.3,
+    "power_by_base_rate_at_delta_ref": [
+      {
+        "power": 0.9482040947176584,
+        "q0": 0.1,
+        "q1": 0.29932995732705137
+      },
+      {
+        "power": 0.9183998700660683,
+        "q0": 0.2,
+        "q1": 0.3993299573270514
+      },
+      {
+        "power": 0.9061767589853145,
+        "q0": 0.3,
+        "q1": 0.4993299573270514
+      },
+      {
+        "power": 0.9137628951331205,
+        "q0": 0.4,
+        "q1": 0.5993299573270514
+      },
+      {
+        "power": 0.9399060825821361,
+        "q0": 0.5,
+        "q1": 0.6993299573270514
+      },
+      {
+        "power": 0.9765298730363541,
+        "q0": 0.6,
+        "q1": 0.7993299573270514
+      },
+      {
+        "power": 0.9989796484596858,
+        "q0": 0.7,
+        "q1": 0.8993299573270513
+      },
+      {
+        "power": 1.0,
+        "q0": 0.8,
+        "q1": 0.9993299573270514
+      }
+    ],
+    "retained_person_count": 1221,
+    "target_power": 0.8,
+    "undecided_states_excluded_from_decided_mask": [
+      "PARTIAL",
+      "UNKNOWN_NO_ANALYSIS_ELIGIBLE_EVIDENCE",
+      "UNKNOWN_SEMANTIC_OR_ACTOR"
+    ],
+    "worst_case_mde_q0": 0.3,
+    "worst_case_observed_mde_80pct": 0.16695679312101627
+  },
+  "decoy_specificity": {
+    "all_decoys_estimable": true,
+    "effective_decided_mask_vector_count": 98,
+    "empirical_one_sided_p": 0.13131313131313133,
+    "estimable_decoy_count": 98,
+    "exceed_or_equal_count": 12,
+    "fixed_denominator": 99,
+    "frozen_decoy_count": 98
+  },
+  "independent_validation": {
+    "producer_imported": false,
+    "result": "PASS",
+    "scientific_surfaces_recomputed": [
+      "AKVA_MEASUREMENT_PRECHECK",
+      "PERSON_JOIN",
+      "GROUP_COVERAGE",
+      "FE_HC3",
+      "PERMUTATION_9999",
+      "DECOY_98",
+      "MANSKI",
+      "CONDITIONAL_MDE",
+      "TERMINAL_PRECEDENCE"
+    ]
+  },
+  "manski_missingness_bounds": {
+    "all_undecided_one_risk_difference": 0.06725103658980147,
+    "all_undecided_zero_risk_difference": 0.06460803569263596,
+    "exposed_denominator": 59,
+    "formula": "LOWER=s1/n1-(s0+u0)/n0;UPPER=(s1+u1)/n1-s0/n0",
+    "population": "ALL_FIXED_PRIMARY_UNIQUE_PERSON_PAGES",
+    "sharp_lower_risk_difference": 0.050301884047428524,
+    "sharp_upper_risk_difference": 0.0815571882350089,
+    "supported_exposed_count": 35,
+    "supported_unexposed_count": 739,
+    "undecided_exposed_count": 1,
+    "undecided_person_count": 21,
+    "undecided_states_in_u": [
+      "PARTIAL",
+      "UNKNOWN_NO_ANALYSIS_ELIGIBLE_EVIDENCE",
+      "UNKNOWN_SEMANTIC_OR_ACTOR"
+    ],
+    "undecided_unexposed_count": 20,
+    "unexposed_denominator": 1398,
+    "unknown_as_negative": false
+  },
+  "measurement": {
+    "absolute_coverage_difference": 0.002643000897165404,
+    "ai_rater_count": 1,
+    "coverage": {
+      "0": 0.9856938483547926,
+      "1": 0.9830508474576272
+    },
+    "coverage_denominators": {
+      "0": 1398,
+      "1": 59
+    },
+    "coverage_pass": true,
+    "decided_counts": {
+      "0": 1378,
+      "1": 58
+    },
+    "endpoint_state_counts_primary": {
+      "NO_DIRECT_ANCHOR_OBSERVED_IN_ADEQUATE_FIXED_SOURCE": 662,
+      "PARTIAL": 7,
+      "SUPPORTED": 774,
+      "UNKNOWN_NO_ANALYSIS_ELIGIBLE_EVIDENCE": 14
+    },
+    "independent_human_rating": false,
+    "observation_scope": "DOCUMENTED_PERSON_ACTIONS_IN_FIXED_MATERIAL_ONLY_NOT_WHOLE_LIFE",
+    "undecided_counts": {
+      "0": 20,
+      "1": 1
+    },
+    "unknown_no_analysis_eligible_evidence_is_negative": false,
+    "zero_analysis_eligible_people": 15,
+    "zero_analysis_eligible_primary": 14,
+    "zero_analysis_eligible_secondary": 1
+  },
+  "no_rescue": {
+    "branchwise_confirmatory_test": false,
+    "candidate_or_threshold_change": false,
+    "new_candidate": false,
+    "new_cohort": false,
+    "person_replacement": false
+  },
+  "population": {
+    "all_primary_stratum_count": 36,
+    "analysis_unit": "PERSON",
+    "fixed_estimable_strata": [
+      "EN|1900_1924|TEXT_MEDIUM",
+      "EN|1900_1924|TEXT_SHORT",
+      "EN|1925_1949|TEXT_LONG",
+      "EN|1925_1949|TEXT_MEDIUM",
+      "EN|1925_1949|TEXT_SHORT",
+      "EN|1950_AND_LATER|TEXT_LONG",
+      "EN|1950_AND_LATER|TEXT_MEDIUM",
+      "EN|1950_AND_LATER|TEXT_SHORT",
+      "EN|BEFORE_1900|TEXT_LONG",
+      "EN|BEFORE_1900|TEXT_MEDIUM",
+      "EN|BEFORE_1900|TEXT_SHORT",
+      "FR|1900_1924|TEXT_LONG",
+      "FR|1900_1924|TEXT_SHORT",
+      "FR|1925_1949|TEXT_LONG",
+      "FR|1925_1949|TEXT_MEDIUM",
+      "FR|1950_AND_LATER|TEXT_LONG",
+      "FR|1950_AND_LATER|TEXT_MEDIUM",
+      "FR|BEFORE_1900|TEXT_MEDIUM",
+      "FR|BEFORE_1900|TEXT_SHORT",
+      "OTHER|1950_AND_LATER|TEXT_MEDIUM",
+      "OTHER|1950_AND_LATER|TEXT_SHORT",
+      "OTHER|BEFORE_1900|TEXT_LONG",
+      "OTHER|BEFORE_1900|TEXT_MEDIUM",
+      "OTHER|BEFORE_1900|TEXT_SHORT"
+    ],
+    "fixed_estimable_stratum_count": 24,
+    "fixed_frame_people": 1495,
+    "fixed_material_present_people": 1471,
+    "primary_exposed": 59,
+    "primary_independent_person_pages": 1457,
+    "primary_unexposed": 1398,
+    "shared_page_secondary_people": 14,
+    "stratification": "LANGUAGE_X_BIRTH_ERA_X_FIXED_TEXT_LENGTH",
+    "structural_unknown_people": 24
+  },
+  "primary_analysis": {
+    "covariance": "HC3",
+    "endpoint": "SUPPORTED_VS_NO_DIRECT_ANCHOR_OBSERVED_IN_ADEQUATE_FIXED_SOURCE",
+    "estimable_stratum_count": 24,
+    "estimate": 0.0710069495149408,
+    "estimator": "STRATUM_FE_OLS_EXPOSURE_COEFFICIENT_EQUIVALENT_HARMONIC_RD",
+    "harmonic_weight_sum": 54.72451883557552,
+    "interval": "HC3_ONE_SIDED_95_PERCENT",
+    "one_sided_95_lower": -0.02927419104214718,
+    "one_sided_95_upper": 0.17128809007202886,
+    "partial_unknown_as_negative": false,
+    "permutation": {
+      "exceed_or_equal_count": 1356,
+      "one_sided_p": 0.1357,
+      "permutations": 9999,
+      "rng": "NumPy Generator(PCG64(primary_seed))",
+      "seed": 20260817,
+      "statistics_float64_le_sha256": "94012f1e46750cc7f538f61eca446fd7c5a586591388d336c2aa005e0a6b47ee",
+      "statistics_max": 0.23546705243592342,
+      "statistics_median": -0.00208642956105146,
+      "statistics_min": -0.25791325632702433
+    },
+    "retained_person_count": 1221,
+    "standard_error_hc3": 0.060966604513586056,
+    "z_one_sided_95": 1.6448536269514722
+  },
+  "prohibited_interpretations": [
+    "ASTROLOGY_AS_A_WHOLE_WAS_REJECTED",
+    "THE_FIXED16_RELEASE_WAS_RETESTED",
+    "ALL_SOCIAL_EXPRESSION_FAMILIES_WERE_REJECTED",
+    "THE_TWO_BRANCHES_WERE_INDIVIDUALLY_TESTED",
+    "THE_515_RULES_WERE_TESTED",
+    "A_ZERO_ASSOCIATION_WAS_ESTABLISHED",
+    "CAUSALITY_OR_OCCUPATION_PREDICTION_WAS_TESTED",
+    "ALL_1495_PEOPLE_ENTERED_THE_PRIMARY_ESTIMATOR"
+  ],
+  "public_projection": {
+    "decoy_person_vectors_published": false,
+    "identity_mapping_or_shuffle_seed_saved": false,
+    "person_row_keys": [
+      "endpoint_state",
+      "family_exposure",
+      "fixed_stratum",
+      "release_id"
+    ],
+    "private_artifacts_or_paths_published": false,
+    "release_ids_unlinkable_and_randomly_assigned": true,
+    "shared_and_structural_people_row_level_published": false
+  },
+  "release_status": "PUBLIC_REPRODUCIBLE_TERMINAL_RESULT",
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_RESULTS_V4",
+  "scientific_interpretation": {
+    "delta_ref": 0.1993299573270514,
+    "large_predeclared_effect_reproduced": false,
+    "plain_language": "THE_PREDECLARED_DEVELOPMENT_SIZED_EFFECT_DID_NOT_REPRODUCE; A_SMALLER_POSITIVE_DIFFERENCE_REMAINS_UNCONFIRMED",
+    "route_specific_positive_confirmation": false,
+    "smaller_positive_association_excluded": false
+  },
+  "shared_page_secondary": {
+    "contrast_estimable": false,
+    "decidable_coverage": 0.9285714285714286,
+    "decided_supported_rate": 0.5384615384615384,
+    "endpoint_state_counts": {
+      "NO_DIRECT_ANCHOR_OBSERVED_IN_ADEQUATE_FIXED_SOURCE": 6,
+      "SUPPORTED": 7,
+      "UNKNOWN_NO_ANALYSIS_ELIGIBLE_EVIDENCE": 1
+    },
+    "group_count": 6,
+    "inference_status": "DESCRIPTIVE_SECONDARY_NO_PROMOTION_EFFECT",
+    "person_count": 14
+  },
+  "structural_unknown_aggregate": {
+    "inference_status": "OUTSIDE_PRIMARY_ANALYSIS",
+    "missing_fixed_material": 20,
+    "person_count": 24,
+    "unresolved_identity_binding": 4
+  },
+  "study": {
+    "candidate_family": "JYOTISH_MARS_MERCURY_ORGANIZED_REALIZATION_TWO_BRANCH_FAMILY",
+    "candidate_unit": "ONE_FIXED_TWO_BRANCH_AGGREGATE_FAMILY",
+    "field_or_occupation_used_as_entry": false,
+    "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+    "previous_release_relation": "SEPARATE_FUNCTION_POPULATION_CANDIDATE_AND_CONTRACT_FROM_V3",
+    "system": "JYOTISH"
+  },
+  "terminal_outcome": "ADEQUATELY_POWERED_PRIMARY_NULL",
+  "terminal_rule_audit": {
+    "adequate_null_requires": "minimum_power_at_delta_ref>=0.80 AND HC3_upper<delta_ref",
+    "positive_requires": "permutation_p<0.05 AND HC3_lower>0 AND decoy_p<=0.05",
+    "precedence": [
+      "INVALID_EXECUTION_NO_SCIENTIFIC_RESULT",
+      "MEASUREMENT_NONIDENTIFIABLE",
+      "PASS_ONE_CORRECTED_ROUTE_FAMILY",
+      "POSITIVE_ASSOCIATION_NOT_ROUTE_SPECIFIC",
+      "ADEQUATELY_POWERED_PRIMARY_NULL",
+      "INSUFFICIENT_POWER_OR_SUPPORT"
+    ],
+    "result_driven_change": false
+  }
+}
