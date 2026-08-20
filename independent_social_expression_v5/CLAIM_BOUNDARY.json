@@ -1,0 +1,22 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_CLAIM_BOUNDARY_V5",
+  "confirmed": [
+    "The frozen strict Jyotish full-chain candidate was evaluated once on a 313-person development-disjoint legacy surface.",
+    "The strict full chain did not show route-specific enrichment for the fixed athlete anchor.",
+    "The same meaning core without the Dusthana carrier had a small positive but unconfirmed direction."
+  ],
+  "not_confirmed": [
+    "astrology-wide null or positive",
+    "causality",
+    "individual diagnosis accuracy",
+    "all embodied expression",
+    "Western-Jyotish convergence",
+    "the historical fixed16 routes",
+    "the 515 historical candidate rules",
+    "Advocacy or Technology candidates"
+  ],
+  "terminal_state": "INCONCLUSIVE_STRICT_ROUTE_WITH_DIRECTION_AND_LIMITS_REPORTED",
+  "occupation_or_field_as_entry": false,
+  "unknown_to_negative": false,
+  "result_driven_rerun_or_candidate_change": false
+}

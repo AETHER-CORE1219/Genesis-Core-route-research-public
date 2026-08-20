@@ -1,0 +1,172 @@
+{
+  "candidate": {
+    "actor_capability": "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE",
+    "carrier": "DUSTHANA",
+    "connected_capability": "KNOWLEDGE_EXPANSION_JUDGMENT_AND_LEGITIMATION",
+    "direction": "ROLE_BOUND_ACTOR_TO_CONNECTED_CAPABILITY",
+    "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+    "functional_role": "AMATYA_CANDIDATE",
+    "meaning_core_id": "CORE_9c50e1365ffe981519e8d8d3",
+    "predicate_level": "CORE_PLUS_HOUSE_OR_VARGA_CLASS",
+    "predicate_value": "DUSTHANA",
+    "relation": "DEPENDENCY_GOVERNANCE_OR_MEDIATED_DELIVERY",
+    "system": "JYOTISH",
+    "unit_id": "PHUNIT_7afe73a6228e0150b8ec7cf5"
+  },
+  "claim_boundary": {
+    "field_or_occupation_as_entry": false,
+    "not_tested": [
+      "causality",
+      "all astrology",
+      "all embodied expression",
+      "flight or astronaut operational branch",
+      "Western convergence",
+      "all 515 rules",
+      "old fixed16 routes"
+    ],
+    "person_counting": true,
+    "result_driven_candidate_or_threshold_change": false,
+    "tested": "Fixed Jyotish Amatya Saturn-to-Jupiter dependency meaning core with Dusthana carrier versus a fixed legacy-ledger strict athlete anchor",
+    "unknown_to_negative": false
+  },
+  "claim_stage": "ONE_SHOT_LEGACY_PERSON_DISJOINT_REPLICATION_COMPLETE",
+  "development": {
+    "direct_supported_person_count": 6,
+    "interpretation": "DEVELOPMENT_REPEATED_CANDIDATE_NOT_INDEPENDENT_CONFIRMATION",
+    "matched_person_count": 14,
+    "recovered109": {
+      "function_base_rate": 0.27522935779816515,
+      "matched": 4,
+      "supported": 2
+    },
+    "source_reviewed311": {
+      "function_base_rate": 0.1832797427652733,
+      "matched": 10,
+      "supported": 4
+    }
+  },
+  "development_reference": {
+    "fifty_percent_shrunk_risk_difference_for_null_power_reference": 0.11453201970443348,
+    "full_chain_direct_supported_n": 6,
+    "full_chain_matched_n": 14,
+    "matched_rate": 0.42857142857142855,
+    "nonmatched_direct_supported_n": 81,
+    "nonmatched_n": 406,
+    "nonmatched_rate": 0.19950738916256158,
+    "risk_difference": 0.22906403940886697
+  },
+  "interpretation": {
+    "development_candidate_erased": false,
+    "development_sized_effect_supported": false,
+    "same_core_without_carrier_direction": "SMALL_POSITIVE_NOT_DISTINGUISHED_FROM_NULL_OR_DECOYS",
+    "scientific_reading": "The strict Dusthana-carried route did not transport its development association to the legacy person-disjoint athlete endpoint; the carrier-free core remained weakly positive but unconfirmed.",
+    "strict_route_specific_enrichment_replicated": false
+  },
+  "outcome_blind_power_screen": {
+    "alpha": 0.05,
+    "assumed_primary_coverage": 0.85,
+    "baseline_rate_from_development_nonmatched": 0.19950738916256158,
+    "best_case_power_at_exposed_rate_one": 0.9999999999999996,
+    "decided_exposed_n": 8,
+    "decided_unexposed_n": 257,
+    "exact_mde_at_80_percent_power": 0.47336857992758014,
+    "low_power_cannot_be_interpreted_as_route_null": true,
+    "method": "EXACT_ONE_SIDED_FISHER_REJECTION_REGION_BINOMIAL_POWER_SCREEN",
+    "positive_result_has_no_arbitrary_effect_size_floor": true,
+    "power_at_fifty_percent_shrunk_development_effect": 0.11198658459511329,
+    "screening_only_final_power_requires_frozen_reality_decided_mask_and_strata": true,
+    "secondary_meaning_core_decided_exposed_n": 14,
+    "secondary_meaning_core_decided_unexposed_n": 251,
+    "secondary_meaning_core_exact_mde_at_80_percent_power": 0.3477980376727976,
+    "secondary_meaning_core_power_at_primary_shrunk_development_effect": 0.18313807267324153,
+    "target_power": 0.8
+  },
+  "population": {
+    "development_role": 420,
+    "legacy_total_retained": 1030,
+    "other_quality_or_overlap_roles": 237,
+    "primary_endpoint_state_counts": {
+      "NO_ANALYSIS_ELIGIBLE_EVIDENCE": 73,
+      "NO_DIRECT_ANCHOR_OBSERVED_IN_ADEQUATE_FIXED_SOURCE": 203,
+      "SECONDARY_EMBODIED_OPERATIONAL_PERFORMANCE": 8,
+      "SECONDARY_NONCOMPETITIVE_BODY_EXPRESSION": 2,
+      "SUPPORTED": 27
+    },
+    "primary_person_disjoint_role": 313,
+    "source_missing_secondary_role": 60
+  },
+  "primary_full_chain": {
+    "absolute_coverage_difference": 0.03597359735973604,
+    "coverage_exposed": 0.7,
+    "coverage_unexposed": 0.735973597359736,
+    "decided_exposed": 7,
+    "decided_unexposed": 223,
+    "decoy_empirical_p": 0.63,
+    "decoy_equal_or_greater_count": 62,
+    "estimate": -0.052742635139418625,
+    "hc3_se": 0.0440456102790774,
+    "manski_lower": -0.35313531353135313,
+    "manski_upper": 0.21089108910891088,
+    "n": 230,
+    "one_sided_95_lower": -0.12519121695825014,
+    "one_sided_95_upper": 0.019705946679412875,
+    "permutation_count": 9999,
+    "permutation_statistic_sha256": "755d28d8c27458dc0f59824651b60dd72b76d276a68f9a208226d803a834823a",
+    "population_exposed": 10,
+    "population_unexposed": 303,
+    "rank": 20,
+    "raw_decided_risk_difference": -0.1210762331838565,
+    "seed": 20260821,
+    "stratified_permutation_p_one_sided": 1.0,
+    "supported_exposed": 0,
+    "supported_rate_exposed_decided": 0.0,
+    "supported_rate_unexposed_decided": 0.1210762331838565,
+    "supported_unexposed": 27,
+    "unknown_exposed": 3,
+    "unknown_unexposed": 80
+  },
+  "public_projection": {
+    "birth_or_chart_data_included": false,
+    "identity_or_source_text_included": false,
+    "input_sha256_by_role": {
+      "candidate_freeze": "5542cdacd8fc5e42b2c372b49f5a57c0cf08366e7d57ef6fc7baf7e772915843",
+      "chart_exposure": "9c7734fe21b4a83cae8b63458b4d471bcada91d8c93776d7ef18c90bb97aa504",
+      "one_shot_result": "a66ac9f412fc3f4776bab4da92588da0e44856c9b09e9eab1390759f69e0cd03",
+      "power_and_decoy_freeze": "be63d0f5138591efa1b93b840cd54a608269f824ccad505ad7207875251110be",
+      "reality_summary": "8b86e6125583531888b6cf05879b9f0058090eaf6de51bfcb8efe63bb49d0a6e",
+      "reality_surface": "04e8b19648f159b1d4280c74ec0f085185ee6982fc90a4a3300ab8793ec13495"
+    },
+    "private_paths_included": false
+  },
+  "research_line": "DEVELOPMENT420_TO_LEGACY1030_STRICT_ATHLETE_ROUTE",
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_RESULTS_V5",
+  "secondary_same_meaning_core_without_carrier": {
+    "absolute_coverage_difference": 0.03159777424483301,
+    "coverage_exposed": 0.7647058823529411,
+    "coverage_unexposed": 0.7331081081081081,
+    "decided_exposed": 13,
+    "decided_unexposed": 217,
+    "estimate": 0.03379125878935242,
+    "hc3_se": 0.08022016059778157,
+    "manski_lower": -0.23370429252782196,
+    "manski_upper": 0.2684817170111288,
+    "n": 230,
+    "one_sided_95_lower": -0.09815916332453818,
+    "one_sided_95_upper": 0.16574168090324304,
+    "permutation_count": 9999,
+    "permutation_statistic_sha256": "0889d1253f31577cf122b26a35cc266dad4e3be930c0363511747bc97cab9b5c",
+    "population_exposed": 17,
+    "population_unexposed": 296,
+    "rank": 20,
+    "raw_decided_risk_difference": 0.03863878057426445,
+    "seed": 20260821,
+    "stratified_permutation_p_one_sided": 0.5276,
+    "supported_exposed": 2,
+    "supported_rate_exposed_decided": 0.15384615384615385,
+    "supported_rate_unexposed_decided": 0.1152073732718894,
+    "supported_unexposed": 25,
+    "unknown_exposed": 4,
+    "unknown_unexposed": 79
+  },
+  "terminal_state": "INCONCLUSIVE_STRICT_ROUTE_WITH_DIRECTION_AND_LIMITS_REPORTED"
+}
