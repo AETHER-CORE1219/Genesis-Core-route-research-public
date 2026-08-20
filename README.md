@@ -1,5 +1,7 @@
 # 発現経路研究 GitHub公開 README v1
 
+GenesisCoreへの事業・診断利用については、[GenesisCore向け社会的発現経路研究の事業利用境界](GENESISCORE_SOCIAL_EXPRESSION_BUSINESS_USE_JA.md)を参照してください。五機能を既存48経路へ直ちに置き換えず、研究betaとして分離する方針を固定しています。
+
 ## 最新: legacy1030厳密身体経路研究 v5
 
 2026年8月21日、development420だけから固定した一つの厳密なJyotish完全鎖を、候補発見と人物分離されたlegacy1030側313名へ一回適用しました。
