@@ -1,0 +1,28 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_CLAIM_BOUNDARY_V7",
+  "claim_stage": "DEVELOPMENT420_MEASURED_CONFOUND_AND_FIXED22_SELECTION_AWARE_ROBUSTNESS",
+  "supported_claims": [
+    "All five fixed aggregate social-function associations remain positive after sequential adjustment for birth era, measurement regime, and collection source.",
+    "All five retain positive direction in the declared factor-specific secondary checks.",
+    "All five pass simultaneous correction in the fixed 22-surface person-package maxT family.",
+    "All five exceed both predicate-weighted and unique-exposure 95th percentiles of the outcome-selected adversarial decoys.",
+    "Within development420 and the declared 22-surface null, chance alone is an implausible explanation for the observed five-function pattern.",
+    "Measured era, measurement regime, and collection source do not explain away the associations."
+  ],
+  "unsupported_claims": [
+    "Independent person-out replication has been achieved.",
+    "Astrology has been established as a causal system.",
+    "All unmeasured confounding has been excluded.",
+    "All 515 individual rules or 136 meaning families have been validated.",
+    "Western and Jyotish have a formally tested synergistic interaction.",
+    "A chart deterministically predicts occupation, behavior, or future outcome.",
+    "Earlier discovery flexibility across the 741, 515, or 136 candidate universes is fully corrected by the fixed-22 maxT."
+  ],
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_ONLY_NOT_ENTRY",
+  "multiple_functions_per_person_allowed": true,
+  "fixed_source_nonobservation_is_whole_life_negative": false,
+  "adversarial_decoy_is_random_null": false,
+  "western_jyotish_ablation_is_interaction_test": false,
+  "new_person_source_chart_route_or_heldout_accessed": false,
+  "candidate_or_threshold_changed_after_result": false
+}

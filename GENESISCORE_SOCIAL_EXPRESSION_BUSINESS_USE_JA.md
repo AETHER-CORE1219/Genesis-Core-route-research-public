@@ -25,9 +25,11 @@
 
 ## 現在の科学status
 
+公開v7で、development420の五機能は、年代、現実資料の測定形態、収集元を順に加えたM0→M3でもすべて正方向を維持し、固定22面のperson-package maxTでも同時補正後p=`0.0001`～`0.0047`でした。したがって、GenesisCoreの研究betaでは科学statusを`DEVELOPMENT_MEASURED_CONFOUND_ROBUST`へ更新できます。ただし同じdevelopment420内の結果であり、`EXTERNALLY_REPLICATED`や診断精度には昇格しません。
+
 | レイヤー | 現在利用できること | 利用してはいけないこと |
 |---|---|---|
-| 五機能 | development420での候補関連と311/109の内部方向反復を説明 | 外部確認済み、因果、成功確率と表示 |
+| 五機能 | development420での候補関連、311/109方向反復、年代・資料形態・収集元調整、固定22面maxTを説明 | 外部確認済み、因果、成功確率と表示 |
 | mechanism family | 同じ機能へ至る異なる担い手・関係・carrierを提示 | 有意な一意ルート、唯一の原因と表示 |
 | exact branch | 個人の全図文脈を説明する | 一枝を機能全体の代表予測器にする |
 | v3-v5 | 特定ANY、二枝family、完全一枝の人物外ストレス結果を表示 | そのnullを他の機能・枝・占星術全体へ拡張 |
@@ -38,23 +40,26 @@
 
 ## 「再現可能」と「偶然ではない」の区別
 
-公開v6が達成したのは、次の二点です。
+公開v6とv7が達成したのは、次の三点です。
 
 1. `COMPUTATIONALLY_REPRODUCIBLE`
    - 固定済みデータ、コード、manifest、checksumから、第三者が同じ人数・比率・外部ストレス結果を再生成できます。
 2. `DEVELOPMENT_PATTERN_REPEATED`
    - development420では五機能すべてが各基礎率より高く、311名側と109名側の双方で上昇方向が反復しています。単発の人物例や一つの集計ミスだけではない、追跡可能な開発所見です。
+3. `DEVELOPMENT_MEASURED_CONFOUND_ROBUST`
+   - 五機能すべてが年代、資料形態、収集元を順に調整しても正で、固定22面maxTの同時補正後も残りました。
+   - 固定22面という宣言範囲では、偶然だけでは説明しにくく、測定済み三要因だけでも説明されません。
 
 まだ達成していないのは、次です。
 
 - `CHANCE_EXCLUDED_BY_INDEPENDENT_CONFIRMATION`
   - 311名と109名は同じ候補開発面の内部部分群であり、独立した外部再現ではありません。
   - v3、v4、v5の人物外ストレスは、三つの限定された集約・family・branchを正に確認しませんでした。
-  - 候補選択、多重性、資料の年代・知名度・source偏りを含めた帰無仮説に対して、占星術と社会的発現の関係全体で偶然を統計的に排除したとは言えません。
+  - v7は固定22面の多重性を扱いましたが、それ以前の741/515/136候補形成の全自由度や未測定交絡を排除していません。
 
 したがって外部向けには、次の表現を使います。
 
-> 固定データ内で反復し、人物まで追跡でき、第三者が同じ結果を再生成できる探索的・開発的所見である。独立確認によって偶然を排除した結果、因果の証明、検証済み診断精度ではない。
+> 固定development420と固定22面の範囲では、五機能の関連は測定済みの年代・資料形態・収集元だけでは説明されず、宣言した同時nullの偶然だけでも説明しにくい。独立人物外再現、因果、検証済み診断精度ではない。
 
 「科学的手順を用いた再現可能な占星術研究」として公開・紹介することはできます。ただし「科学的に占星術を確認した」「偶然ではないことを証明した」とは表示しません。
 
@@ -65,6 +70,7 @@ GenesisCoreでは、科学statusを次の有限値で保持し、ユーザーに
 | status | 意味 | 製品での扱い |
 |---|---|---|
 | `DEVELOPMENT_REPEATED_NOT_EXTERNALLY_CONFIRMED` | development内で人物支持と方向反復がある | 解釈候補として表示できる |
+| `DEVELOPMENT_MEASURED_CONFOUND_ROBUST` | 年代・資料形態・収集元調整と固定22面maxTを通過した | research-betaで根拠値と同時下限を表示できる |
 | `EXTERNAL_STRESS_NONPOSITIVE_LIMITED` | 特定の集約・family・branchが人物外で正に確認されなかった | その単位を昇格せず、限定nullを併記する |
 | `UNTESTED_EXTERNALLY` | 人物外でまだ評価していない | 仮説・研究候補としてのみ表示する |
 | `AMBIGUOUS_MULTI_ROUTE` | 複数のmeaning familyまたはbranchが同時に成立する | 一つへ強制せず、代替経路を並列表示する |
@@ -118,7 +124,7 @@ rule_id
 
 ```json
 {
-  "research_layer": "SOCIAL_EXPRESSION_V6",
+  "research_layer": "SOCIAL_EXPRESSION_V7",
   "functions": [
     {
       "function_id": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
@@ -129,7 +135,7 @@ rule_id
       "western_reading": {"status": "...", "chain": ["..."]},
       "jyotish_reading": {"status": "...", "chain": ["..."]},
       "cross_system_relation": "COMPLEMENTARY",
-      "scientific_status": "DEVELOPMENT_SIGNAL_NOT_EXTERNALLY_CONFIRMED",
+      "scientific_status": "DEVELOPMENT_MEASURED_CONFOUND_ROBUST_NOT_EXTERNALLY_REPLICATED",
       "counterevidence": ["..."],
       "unknowns": ["..."]
     }
@@ -161,7 +167,7 @@ rule_id
 既存48経路を直ちに置き換えません。両者を混在させず、別version・別namespaceにします。
 
 - 既存48経路: 現行製品の歴史的診断レイヤー
-- 新しい社会的発現研究: `social_expression_v6`研究レイヤー
+- 新しい社会的発現研究: `social_expression_v7`研究レイヤー
 
 移行する場合は、最初にread-onlyの比較表示を行います。同じ人物について、48経路結果と五機能・mechanism family結果を並べますが、相互変換や自動統合はしません。
 
@@ -208,7 +214,7 @@ rule_id
 - Western/Jyotishの別表示
 - 科学status、反例、unknownの表示
 - ユーザーとの仮説確認
-- `social_expression_v6`専用namespaceと科学statusの永続保存
+- `social_expression_v7`専用namespaceと科学statusの永続保存
 - 515 rule・120 mechanism・136 familyのread-only対応表作成
 
 ### No-Go
@@ -227,4 +233,4 @@ rule_id
 
 この境界は、今後の研究で正の人物外再現が得られた場合だけ、該当function family単位で更新します。他のfunction、mechanism、branchへ自動昇格させません。
 
-研究根拠と再現手順は [占星術的社会発現経路研究 v6](independent_social_expression_v6/README_JA.md) を正本とします。
+研究根拠と再現手順は [社会的発現経路・外部要因頑健性研究 v7](independent_social_expression_v7/README_JA.md) を最新正本とし、意味familyと人物例は [v6](independent_social_expression_v6/README_JA.md) を参照します。

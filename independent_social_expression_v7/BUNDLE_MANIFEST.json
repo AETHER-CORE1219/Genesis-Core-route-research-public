@@ -1,0 +1,28 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_BUNDLE_MANIFEST_V7",
+  "release": "independent_social_expression_v7",
+  "status": "PUBLIC_REPRODUCIBLE_DEVELOPMENT_ROBUSTNESS_ADDENDUM",
+  "person_count": 420,
+  "primary_function_count": 5,
+  "fixed_surface_count": 22,
+  "max_t_draw_count": 9999,
+  "files": [
+    "README_JA.md",
+    "README.md",
+    "METHODS.md",
+    "FAILURES_AND_LIMITS.md",
+    "REPRODUCTION.md",
+    "CLAIM_BOUNDARY.json",
+    "RESULTS.json",
+    "requirements.txt",
+    "scripts/reproduce_v7.py",
+    "scripts/validate_public_v7_privacy.py",
+    "data/PUBLIC_PROJECTION_ATTESTATION_V7.json",
+    "data/development420_external_factor_matrix_v7.json.gz",
+    "data/development420_observation_opportunity_v7.json.gz",
+    "data/development420_adversarial_decoy_memberships_v7.json.gz"
+  ],
+  "private_identity_mapping_persisted": false,
+  "new_person_source_chart_route_or_heldout_accessed": false,
+  "candidate_or_threshold_changed_after_result": false
+}
