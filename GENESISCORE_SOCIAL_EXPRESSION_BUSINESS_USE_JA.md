@@ -36,6 +36,82 @@
 
 公開v6では、五機能に136の訂正済みmeaning familyを整理し、そのうち134が311名側と109名側の双方に人物支持を持つことを再現可能にしました。ただし136は診断精度でも検証済みroute数でもありません。GenesisCoreへ載せる際は、136 familyを一律スコア化せず、該当する上位meaning familyと有限branchを説明候補として返します。
 
+## 「再現可能」と「偶然ではない」の区別
+
+公開v6が達成したのは、次の二点です。
+
+1. `COMPUTATIONALLY_REPRODUCIBLE`
+   - 固定済みデータ、コード、manifest、checksumから、第三者が同じ人数・比率・外部ストレス結果を再生成できます。
+2. `DEVELOPMENT_PATTERN_REPEATED`
+   - development420では五機能すべてが各基礎率より高く、311名側と109名側の双方で上昇方向が反復しています。単発の人物例や一つの集計ミスだけではない、追跡可能な開発所見です。
+
+まだ達成していないのは、次です。
+
+- `CHANCE_EXCLUDED_BY_INDEPENDENT_CONFIRMATION`
+  - 311名と109名は同じ候補開発面の内部部分群であり、独立した外部再現ではありません。
+  - v3、v4、v5の人物外ストレスは、三つの限定された集約・family・branchを正に確認しませんでした。
+  - 候補選択、多重性、資料の年代・知名度・source偏りを含めた帰無仮説に対して、占星術と社会的発現の関係全体で偶然を統計的に排除したとは言えません。
+
+したがって外部向けには、次の表現を使います。
+
+> 固定データ内で反復し、人物まで追跡でき、第三者が同じ結果を再生成できる探索的・開発的所見である。独立確認によって偶然を排除した結果、因果の証明、検証済み診断精度ではない。
+
+「科学的手順を用いた再現可能な占星術研究」として公開・紹介することはできます。ただし「科学的に占星術を確認した」「偶然ではないことを証明した」とは表示しません。
+
+## GenesisCore採用status
+
+GenesisCoreでは、科学statusを次の有限値で保持し、ユーザーにも表示します。
+
+| status | 意味 | 製品での扱い |
+|---|---|---|
+| `DEVELOPMENT_REPEATED_NOT_EXTERNALLY_CONFIRMED` | development内で人物支持と方向反復がある | 解釈候補として表示できる |
+| `EXTERNAL_STRESS_NONPOSITIVE_LIMITED` | 特定の集約・family・branchが人物外で正に確認されなかった | その単位を昇格せず、限定nullを併記する |
+| `UNTESTED_EXTERNALLY` | 人物外でまだ評価していない | 仮説・研究候補としてのみ表示する |
+| `AMBIGUOUS_MULTI_ROUTE` | 複数のmeaning familyまたはbranchが同時に成立する | 一つへ強制せず、代替経路を並列表示する |
+| `INSUFFICIENT_PERSON_LEVEL_EVIDENCE` | 個人の全図または現実側証拠が不足する | 不在判定をせずunknownとして返す |
+
+これらを確率へ変換しません。`interpretive_strength`は説明上の優先度であり、発現確率・診断精度・成功確率ではありません。
+
+## 実装前に必要な対応表
+
+現在の公開面には、粒度の異なる三つの集合があります。
+
+- 515件のdevelopment rule
+- 120件のpublic mechanism ID
+- 136件の訂正済みmeaning family
+
+これらは同じものではなく、一対一対応でもありません。GenesisCoreへ実装する前に、研究結果を変更しないread-onlyの対応表を一度作ります。
+
+```text
+rule_id
+→ mechanism_id
+→ corrected_meaning_family_id
+→ function_id（複数可）
+→ system（Western / Jyotish）
+→ actor / relation / carrier
+→ scientific_status
+→ supporting / counter / unknown evidence
+```
+
+対応不能、意味衝突、旧定義しかない項目は推測で接続せず、`UNMAPPED`または`CONFLICTING_DEFINITION`として保存します。この対応表は実装上の索引であり、新しい科学的発見や経路昇格ではありません。
+
+## 診断時の処理順序
+
+1. 出生図からWesternとJyotishを別々に意味鎖へ変換する。
+2. 各体系で、担い手、方向付き関係、状態、carrier、modifierを保持したまま候補familyを照合する。
+3. 一人につき複数の五機能と複数branchを許容する。
+4. 両体系は加点票にせず、一致、補完、緊張、片側のみを記述する。
+5. 科学status、反証、unknownを付けて説明候補を返す。
+6. 本人の現実情報は、出力後の共同確認にだけ用いる。現実情報を見て出生図側のrule、score、順位を書き換えない。
+
+診断の一次出力は「この職業になる」ではなく、「どの意味機能が、どの実現枝を通じて、どの社会的作用として現れ得るか」です。職業、分野、事業形態は、その後に現れるmanifestation、covariate、moderator、transport boundaryとして扱います。
+
+## 一般向け表示例
+
+> あなたの図では、情報や媒介を現実の仕組みへ変える枝と、構造を持続可能な組織へ固定する枝が、組織的実現という同じ上位機能へ接続する可能性があります。これは職業や成功を予測する確率ではなく、公開研究のdevelopment内で反復した解釈候補です。人物外で正に確認された診断器ではないため、代替枝、反証、未確認点も同時に表示します。
+
+この形式なら、占星術の多義性を消さず、研究結果より強い断定も避けられます。
+
 ## GenesisCoreでの推奨出力
 
 一人へ一つのroute labelを返さず、次の階層を返します。
@@ -132,6 +208,8 @@
 - Western/Jyotishの別表示
 - 科学status、反例、unknownの表示
 - ユーザーとの仮説確認
+- `social_expression_v6`専用namespaceと科学statusの永続保存
+- 515 rule・120 mechanism・136 familyのread-only対応表作成
 
 ### No-Go
 
@@ -140,6 +218,8 @@
 - 職業・成功・人生の確率表示
 - 一つの経路への強制分類
 - 科学statusを隠したマーケティング
+- development内反復を「偶然を排除した外部確認」と表現すること
+- 対応不能なruleを類似語だけでfamilyへ自動統合すること
 
 ## 採用判断
 
