@@ -1,0 +1,75 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PERSON_TRACE_SUMMARY_V6",
+  "claim_status": "DEVELOPMENT_PERSON_TRACE_NOT_INDEPENDENT_CONFIRMATION",
+  "person_count": 6,
+  "people": [
+    {
+      "name": "Francesco Totti",
+      "source_url": "https://en.wikipedia.org/wiki/Francesco_Totti",
+      "finding": "One upper meaning core connects to three distinct documented functions; occupation is not the route label.",
+      "functions": [
+        "EMBODIED_COMPETITIVE_PERFORMANCE",
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+        "AUTHORED_SYMBOLIC_PRODUCTION"
+      ]
+    },
+    {
+      "name": "Jawaharlal Nehru",
+      "source_url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+      "finding": "The label politician separates into authorship, mobilization, collective organization, and institutional operation.",
+      "functions": [
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+        "AUTHORED_SYMBOLIC_PRODUCTION",
+        "ORGANIZED_COLLECTIVE_REALIZATION",
+        "RULE_OR_INSTITUTION_OPERATION"
+      ]
+    },
+    {
+      "name": "Charles E. Leiserson",
+      "source_url": "https://en.wikipedia.org/wiki/Charles_E._Leiserson",
+      "finding": "Knowledge production, working implementation, and laboratory organization are related but non-identical functions.",
+      "functions": [
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION",
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ]
+    },
+    {
+      "name": "Seymour Cray",
+      "source_url": "https://en.wikipedia.org/wiki/Seymour_Cray",
+      "finding": "One technical field contains distinct method, machine, and enterprise routes.",
+      "functions": [
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION",
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ]
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "source_url": "https://en.wikipedia.org/wiki/Michelle_Pfeiffer",
+      "finding": "Performance, product implementation, and production organization coexist beyond the person's best-known occupation.",
+      "functions": [
+        "PERFORMED_SYMBOLIC_PRODUCTION",
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+        "ORGANIZED_COLLECTIVE_REALIZATION"
+      ]
+    },
+    {
+      "name": "Nancy Kerrigan",
+      "source_url": "https://en.wikipedia.org/wiki/Nancy_Kerrigan",
+      "finding": "Measured competition, later advocacy, and show performance require separate functional labels.",
+      "functions": [
+        "EMBODIED_COMPETITIVE_PERFORMANCE",
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+        "PERFORMED_SYMBOLIC_PRODUCTION"
+      ]
+    }
+  ],
+  "counterexample_boundaries": [
+    "Same meaning core can have other observed outputs and is not a sufficient condition.",
+    "The same function can arise through alternative chart expressions and is not tied to one core.",
+    "Shared evidence components within one person are not independent observations.",
+    "PARTIAL, CONTESTED, SOURCE_THIN, and unknown states are not upgraded to supported.",
+    "Field and occupation are manifestation, covariate, moderator, or transport boundary only."
+  ]
+}

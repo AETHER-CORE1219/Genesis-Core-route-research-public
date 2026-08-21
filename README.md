@@ -2,6 +2,18 @@
 
 GenesisCoreへの事業・診断利用については、[GenesisCore向け社会的発現経路研究の事業利用境界](GENESISCORE_SOCIAL_EXPRESSION_BUSINESS_USE_JA.md)を参照してください。五機能を既存48経路へ直ちに置き換えず、研究betaとして分離する方針を固定しています。
 
+## 最新: 五機能・複数経路の最終統合 v6
+
+2026年8月21日、development420の五機能結果、訂正済みmeaning family、人物内経路、公開v3～v5の人物外stressを、機能群・mechanism family・個別枝・人物解釈の四階層へ統合しました。
+
+- 五機能のdevelopment候補はすべて311名側と109名側で基礎率より高い方向でした。
+- 訂正済み五機能atlasには136 meaning familyがあり、134 familyが両development部分群に人物支持を持ちます。
+- 人物traceでは、同じ上位coreが複数機能へ出ること、同じ機能へ複数chart expressionから至ることを確認しました。
+- v3は広すぎる著作ANY25、v4は集団実現の有限二枝family、v5は狭すぎる身体競技Dusthana枝を検査した別々の境界結果です。
+- 人物外で陽性確認された個別routeは0です。三つの非陽性を、未検査family、旧16経路、515規則、占星術全体のnullへ拡張しません。
+
+現在の主入口は [占星術的社会発現経路研究 v6](independent_social_expression_v6/README_JA.md) です。公開済みv2～v5を上書きせず、五機能atlas、人物例、検査粒度の発見、主張境界、決定的再現器を追加しています。
+
 ## 最新: legacy1030厳密身体経路研究 v5
 
 2026年8月21日、development420だけから固定した一つの厳密なJyotish完全鎖を、候補発見と人物分離されたlegacy1030側313名へ一回適用しました。
@@ -23,7 +35,7 @@ GenesisCoreへの事業・診断利用については、[GenesisCore向け社会
 - 事前基準効果 `+0.19933` に対する最小検出力は `0.9062` であったため、終端は `ADEQUATELY_POWERED_PRIMARY_NULL` です。これは約20ポイント以上の事前効果が再現しなかったという限定nullであり、約7ポイントの正方向差や、他の経路を否定するものではありません。
 - 個別二枝、515規則、西洋・インド収束、因果、職業予測、旧16経路の検証結果ではありません。
 
-現在の主入口は [独立・社会的発現経路研究 v4](independent_social_expression_v4/README_JA.md) です。連結不能な匿名一次台帳、人物非対応の置換集約面、decoy集約、再現スクリプトを公開しています。
+当該公開面の入口は [独立・社会的発現経路研究 v4](independent_social_expression_v4/README_JA.md) です。連結不能な匿名一次台帳、人物非対応の置換集約面、decoy集約、再現スクリプトを公開しています。
 
 ## 以前の人物外検証: 独立・社会的発現経路研究 v3
 
@@ -35,7 +47,7 @@ GenesisCoreへの事業・診断利用については、[GenesisCore向け社会
 - よって、この25単位集約は人物外再現しませんでした。他4機能は検出力不足であり、否定していません。
 - 個別515規則、西洋・インド収束、因果、職業予測の検証結果ではありません。
 
-現在の主入口は [独立・社会的発現経路研究 v3](independent_social_expression_v3/README_JA.md) です。匿名575名ledger、訂正後25単位manifest、固定解析の再現スクリプトを公開しています。
+当該公開面の入口は [独立・社会的発現経路研究 v3](independent_social_expression_v3/README_JA.md) です。匿名575名ledger、訂正後25単位manifest、固定解析の再現スクリプトを公開しています。
 
 ## 以前の独立研究: 社会的発現5機能
 

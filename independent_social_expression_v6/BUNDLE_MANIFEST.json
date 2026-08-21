@@ -1,0 +1,32 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_BUNDLE_MANIFEST_V6",
+  "release_status": "PUBLIC_REPRODUCIBLE_SYNTHESIS",
+  "entrypoint": "README_JA.md",
+  "reproduction_command": "PYTHONDONTWRITEBYTECODE=1 python3 independent_social_expression_v6/scripts/reproduce_v6.py",
+  "bundle_files": [
+    "README_JA.md",
+    "README.md",
+    "METHODS.md",
+    "GRANULARITY_FINDINGS.md",
+    "PERSON_TRACE_EXAMPLES.md",
+    "CLAIM_BOUNDARY.json",
+    "RESULTS.json",
+    "REPRODUCTION.md",
+    "requirements.txt",
+    "scripts/reproduce_v6.py",
+    "data/corrected_meaning_family_atlas_v6.json",
+    "data/person_trace_summary_v6.json"
+  ],
+  "frozen_public_dependencies": {
+    "../independent_social_expression_v2/RESULTS.json": "42260a18c117ca7d84405b7623124bd314edc79e088e1cfb6a89d47531d08c76",
+    "../independent_social_expression_v2/data/five_candidate_rule_registry_v2.json": "b99051453a5e62fd4c94292afba5ba3c58c6611531b9a1b65b107e8c13cf878e",
+    "../independent_social_expression_v3/RESULTS.json": "260916dc21f00292c50f3830d82b7fe87cbee5b53a3885233b269eb1d3beaf2d",
+    "../independent_social_expression_v4/RESULTS.json": "b5fbd5e4c2987eebe47e3f8ba1fe177585ca47e4a7c8055f7c7d0e0ccedf6b45",
+    "../independent_social_expression_v5/RESULTS.json": "4742d3fec09b697098e88f89c149e74f8f1a134fdeccf56c41d7ee2ff9e4ecc7"
+  },
+  "private_data_included": false,
+  "birth_or_chart_data_included": false,
+  "new_people_or_new_outcomes_collected": false,
+  "new_statistical_test_performed": false,
+  "external_positive_route_count": 0
+}

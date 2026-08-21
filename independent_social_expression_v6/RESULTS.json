@@ -1,0 +1,69 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_PUBLIC_RESULTS_V6",
+  "release_status": "PUBLIC_REPRODUCIBLE_SYNTHESIS",
+  "terminal_outcome": "DEVELOPMENT_MULTI_ROUTE_ASSOCIATION_WITH_THREE_LIMITED_NONPOSITIVE_EXTERNAL_STRESSES",
+  "research_question": "How far can the already observed astrology-to-social-expression route structure be stated reproducibly without collapsing a multi-layer symbolic system into either heterogeneous ANY rules or one over-specific branch?",
+  "development420": {
+    "person_count": 420,
+    "subcohorts": [311, 109],
+    "subcohorts_are_independent_external_replications": false,
+    "five_functions": [
+      {"function":"ADVOCACY_OR_PUBLIC_CAUSE_ACTION","predicted":71,"supported":53,"support_rate":0.7464788732394366,"base_rate":0.44047619047619047,"enrichment_ratio":1.6947087933003426},
+      {"function":"AUTHORED_SYMBOLIC_PRODUCTION","predicted":85,"supported":76,"support_rate":0.8941176470588236,"base_rate":0.5833333333333334,"enrichment_ratio":1.5327731092436974},
+      {"function":"ORGANIZED_COLLECTIVE_REALIZATION","predicted":120,"supported":99,"support_rate":0.825,"base_rate":0.6285714285714286,"enrichment_ratio":1.3125},
+      {"function":"TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION","predicted":34,"supported":22,"support_rate":0.6470588235294118,"base_rate":0.3047619047619048,"enrichment_ratio":2.1231617647058822},
+      {"function":"EMBODIED_COMPETITIVE_PERFORMANCE","predicted":25,"supported":16,"support_rate":0.64,"base_rate":0.2119047619047619,"enrichment_ratio":3.020224719101124}
+    ],
+    "public_rule_registry_count": 515,
+    "public_mechanism_id_count": 120,
+    "corrected_meaning_family_count": 136,
+    "cross_subcohort_supported_meaning_family_count": 134,
+    "meaning_families_are_externally_validated_routes": false
+  },
+  "person_trace": {
+    "example_person_count": 6,
+    "same_core_can_support_multiple_functions": true,
+    "same_function_can_have_alternative_chart_expressions": true,
+    "occupation_is_route_entry": false
+  },
+  "external_stress_results": [
+    {
+      "release": "v3",
+      "function": "AUTHORED_SYMBOLIC_PRODUCTION",
+      "tested_unit": "HETEROGENEOUS_ANY25_JYOTISH_AGGREGATE",
+      "adjusted_risk_difference": -0.025621558392630476,
+      "one_sided_p": 0.6923015384923076,
+      "interpretation": "The heterogeneous ANY25 aggregate did not reproduce; coherent authored families were not individually tested."
+    },
+    {
+      "release": "v4",
+      "function": "ORGANIZED_COLLECTIVE_REALIZATION",
+      "tested_unit": "ONE_JYOTISH_MARS_MERCURY_TWO_BRANCH_FAMILY",
+      "adjusted_risk_difference": 0.0710069495149408,
+      "one_sided_p": 0.1357,
+      "decoy_empirical_p": 0.13131313131313133,
+      "predeclared_development_scale_effect": 0.1993299573270514,
+      "one_sided_95_upper": 0.17128809007202886,
+      "interpretation": "The development-scale effect did not reproduce; a smaller positive difference remains unresolved."
+    },
+    {
+      "release": "v5",
+      "function": "EMBODIED_COMPETITIVE_PERFORMANCE",
+      "tested_unit": "ONE_STRICT_JYOTISH_DUSTHANA_CARRIED_BRANCH",
+      "adjusted_risk_difference": -0.052742635139418625,
+      "supported_exposed_decided": "0/7",
+      "carrier_free_core_adjusted_risk_difference": 0.03379125878935242,
+      "carrier_free_core_one_sided_p": 0.5276,
+      "interpretation": "The Dusthana-required branch did not transport; the carrier-free core stayed weakly positive and unconfirmed."
+    }
+  ],
+  "granularity_finding": {
+    "too_broad": "Heterogeneous ANY aggregation loses route specificity.",
+    "too_narrow": "Exact all-condition branches can mistake person-level modifiers for route cores.",
+    "minimum_defensible_route_unit": "A finite meaning-coherent mechanism family with predeclared alternative relation and carrier branches."
+  },
+  "strongest_current_conclusion": "Fixed development evidence contains repeated, person-traceable astrology-to-social-function structures across five non-exclusive functions. Three external stress tests constrain three particular aggregations or branches but do not validate the remaining families and do not establish that astrology as a whole is either confirmed or absent.",
+  "external_positive_route_count": 0,
+  "individual_515_rule_validation_count": 0,
+  "post_result_rescue_count": 0
+}

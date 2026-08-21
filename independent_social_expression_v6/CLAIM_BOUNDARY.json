@@ -1,0 +1,28 @@
+{
+  "schema_id": "INDEPENDENT_SOCIAL_EXPRESSION_CLAIM_BOUNDARY_V6",
+  "supported_claims": [
+    "Five non-exclusive social functions show descriptive development enrichment in fixed development420.",
+    "The direction is positive in both internal development subcohorts for all five functions.",
+    "The corrected atlas contains 136 five-function meaning families, 134 with person support in both development subcohorts.",
+    "Fixed person traces show that one person and one upper meaning core can connect to multiple documented functions.",
+    "v3, v4, and v5 constrain three different candidate granularities rather than astrology or all route families."
+  ],
+  "unsupported_claims": [
+    "Astrology has been scientifically proven as a causal system.",
+    "Any of the 515 individual rules has been externally validated.",
+    "All 136 corrected meaning families are function-specific or externally replicated.",
+    "Western and Jyotish convergence has been externally validated.",
+    "A natal chart uniquely determines occupation, behavior, or future outcome.",
+    "The nonpositive v3-v5 results imply that astrology or all social-expression routes are absent."
+  ],
+  "field_or_occupation_role": "MANIFESTATION_COVARIATE_MODERATOR_OR_TRANSPORT_BOUNDARY_ONLY",
+  "claim_hierarchy": [
+    "FUNCTION_GROUP",
+    "MEANING_MECHANISM_FAMILY",
+    "FINITE_ROUTE_BRANCH",
+    "PERSON_LEVEL_INTERPRETATION"
+  ],
+  "unknown_states_are_negative": false,
+  "multiple_functions_per_person_allowed": true,
+  "western_and_jyotish_are_independent_votes": false
+}
