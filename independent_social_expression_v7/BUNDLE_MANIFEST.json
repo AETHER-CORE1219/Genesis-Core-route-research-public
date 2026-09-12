@@ -9,9 +9,13 @@
   "files": [
     "README_JA.md",
     "README.md",
+    "METHODS_EN.md",
     "METHODS.md",
+    "FAILURES_AND_LIMITS_EN.md",
     "FAILURES_AND_LIMITS.md",
+    "REPRODUCTION_EN.md",
     "REPRODUCTION.md",
+    "DATA_DICTIONARY_EN.md",
     "CLAIM_BOUNDARY.json",
     "RESULTS.json",
     "requirements.txt",

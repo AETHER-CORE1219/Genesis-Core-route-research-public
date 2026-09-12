@@ -1,0 +1,28 @@
+name: Documentation problem
+description: Report an unclear explanation, broken link, translation problem, or terminology issue.
+title: "[Documentation] "
+labels:
+  - documentation
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or file
+      placeholder: docs/STUDY_MAP.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What was unclear or incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: interpretation
+    attributes:
+      label: What did you understand instead?
+      description: This helps identify a real first-reader failure rather than only a wording preference.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite the repository and the release version you examined."
+title: "GenesisCore Social-Expression Route Research Public Package"
+type: dataset
+version: 1.2.0
+date-released: 2026-09-13
+authors:
+  - name: "AETHERCORE Research"
+repository-code: "https://github.com/AETHER-CORE1219/Genesis-Core-route-research-public"
+url: "https://github.com/AETHER-CORE1219/Genesis-Core-route-research-public"
+license: Apache-2.0
+keywords:
+  - astrology research
+  - Western astrology
+  - Jyotish
+  - social expression
+  - reproducible research
+  - statistical analysis
+abstract: >-
+  A public research package examining associations between separately structured
+  Western and Jyotish chart classifications and documented human activity. The
+  repository includes development findings, non-positive person-out stress tests,
+  anonymous analysis projections, claim boundaries, and public reproduction code.
+contact:
+  - name: "AETHERCORE Research"
+    email: "takatsusora@aether-core.org"
