@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this research package, please cite the repository and the release version you examined."
 title: "GenesisCore Social-Expression Route Research Public Package"
 type: dataset
-version: 1.2.0
+version: 1.2.1
 date-released: 2026-09-13
 authors:
   - name: "AETHERCORE Research"

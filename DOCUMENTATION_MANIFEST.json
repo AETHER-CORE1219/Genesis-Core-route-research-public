@@ -1,8 +1,8 @@
 {
   "schema_id": "GENESISCORE_PUBLIC_ENGLISH_DOCUMENTATION_RELEASE_V1",
-  "documentation_version": "1.2.0",
+  "documentation_version": "1.2.1",
   "date": "2026-09-13",
-  "purpose": "Make the public research understandable and reproducible for first-time English readers while preserving the existing analysis results and historical artifacts.",
+  "purpose": "Give first-time English readers, including people new to astrology or statistics, a plain conceptual entrypoint before the detailed research and reproduction materials, while preserving the existing analysis results and historical artifacts.",
   "analysis_data_or_results_changed": false,
   "existing_release_tags_rewritten": false,
   "english_gateway_source": "README.md",

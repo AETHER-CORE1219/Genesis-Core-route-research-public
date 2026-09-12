@@ -4,9 +4,21 @@ English | [日本語の研究概要](README_JA.md)
 
 Can structures defined from birth charts be associated with documented real-world actions?
 
-This repository publishes research comparing separately structured Western and Jyotish chart classifications with documented human activity. **AETHERCORE** is the business and research project that conducts this work and operates **GenesisCore**, its public analysis service.
+> **New to astrology or statistics?** Begin with the [five-minute plain-language guide](docs/PLAIN_LANGUAGE_SUMMARY.md).
 
-The premise is simple: if astrology contains repeatable structure, it should survive measurement against documented lives. The public record therefore preserves positive development findings, failed measurements, and non-positive tests on separate people rather than presenting only favorable results.
+## What this project actually does
+
+Imagine replacing a personal astrological reading with a checklist that gives the same answer whenever the same birth data are entered. Then compare that checklist with public records of what people actually did. That is the core of this research.
+
+1. **Calculate:** date, time, and place of birth are converted into Western and Jyotish (Indian astrology) charts. The two traditions are calculated separately.
+2. **Compare:** fixed chart conditions are compared with five broad kinds of documented activity—public advocacy, authored work, organizing people, building technology or products, and physical competition.
+3. **Challenge:** the patterns are tested against alternative explanations, multiple comparisons, and different groups of people. Positive, failed, and non-positive results are all kept in the public record.
+
+Here, an **association** means that a documented activity appeared at different rates between people who did and did not meet a fixed chart condition. It does not by itself establish cause, personal prediction, or scientific proof.
+
+**Current position:** five broad associations remained positive inside a fixed 420-person development analysis, while three narrower formulations did not receive positive confirmation in separate-person tests. The latest v7 result tests the robustness of the five development associations; it is not an independent replication.
+
+This repository publishes the evidence, calculations, and limits behind that work. **AETHERCORE** conducts the research and operates **GenesisCore**, its public analysis service.
 
 ## Research at a glance
 
