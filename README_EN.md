@@ -1,6 +1,6 @@
 # English documentation
 
-The English project gateway is [.github/README.md](.github/README.md). GitHub displays that file on the repository front page.
+The canonical English project gateway is the repository [README](README.md), which GitHub displays on the repository front page. The previous Japanese gateway is preserved as [README_JA.md](README_JA.md).
 
 Start with:
 
@@ -11,4 +11,4 @@ Start with:
 - [Latest v7 Result](independent_social_expression_v7/README.md)
 - [Public Reproduction Guide](PUBLIC_REPRODUCTION.md)
 
-The historical Japanese project overview remains in [README.md](README.md).
+For the full English narrative, begin with the [repository landing page](README.md).
