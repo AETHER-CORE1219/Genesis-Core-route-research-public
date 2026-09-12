@@ -1,6 +1,6 @@
 # Social-expression route external-factor robustness v7
 
-[English](README.md) | [日本語](README_JA.md) | [Project overview](../.github/README.md) | [Study map](../docs/STUDY_MAP.md)
+[English](README.md) | [日本語](README_JA.md) | [Project overview](../README.md) | [Study map](../docs/STUDY_MAP.md)
 
 ## Question and analysis surface
 
