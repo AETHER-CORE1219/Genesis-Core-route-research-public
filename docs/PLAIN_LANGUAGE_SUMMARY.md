@@ -1,5 +1,7 @@
 # Plain-language summary
 
+No prior knowledge of astrology or statistics is required. This page explains the question, the people, the comparison, the result, and the remaining uncertainty in that order.
+
 ## The question
 
 Astrology makes structured claims from birth data, but those claims are usually presented as individual interpretations. This research asks a narrower and more testable question:
@@ -32,7 +34,7 @@ One person may support several functions. The outcome is based on activity docum
 
 The astrology side was structured separately under Western and Jyotish frameworks. The five headline tests used a both-system exposure definition fixed for the relevant function. Western and Jyotish were not simply counted as two votes.
 
-The underlying candidate structures are more specific than the anonymous Boolean fields. Public examples use roles such as the Western MC ruler and the Jyotish A10 lord or Amatya candidate, together with directed relations, dispositor or lordship chains, angular or vocational house classes, and D10 or Dusthana carriers. Separate-person tests include a Jyotish Mars–Mercury organized-realization family and a strict Saturn-to-Jupiter embodied-competition chain. Both failed their declared positive-confirmation rules. See [Astrological Structure Examples](ASTROLOGICAL_STRUCTURE_EXAMPLES.md).
+The underlying candidate structures are much more specific than everyday Sun signs. In technical astrology, they involve particular planetary rulers, traditional house connections, and geometric relationships; practitioners can inspect the exact terms in [Astrological Structure Examples](ASTROLOGICAL_STRUCTURE_EXAMPLES.md). For example, separate-person tests examined a Mars–Mercury structure linked to organizing collective activity and a Saturn–Jupiter structure linked to physical competition. Neither formulation met its declared positive-confirmation rule.
 
 The reality side recorded whether a person's fixed source material supported each activity. The study then compared activity rates between people who did and did not meet the fixed chart-structure exposure for that function.
 
@@ -56,7 +58,7 @@ All five adjusted associations remained positive in the fixed 420-person develop
 | Technology or product implementation | +32.49 percentage points | 0.0008 |
 | Embodied competition | +32.14 percentage points | 0.0047 |
 
-Within this dataset and the declared test family, the measured factors did not explain away the five associations. The result also makes chance alone implausible under the declared simultaneous null.
+Within this dataset and the declared test family, the measured factors did not explain away the five associations. The statistical test also found that results this strong would be very unlikely if the compared chart conditions had no relationship to the recorded activities.
 
 ## What the result does not prove
 
