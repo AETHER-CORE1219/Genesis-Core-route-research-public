@@ -1,0 +1,42 @@
+name: Data provenance question
+description: Report a source-link, birth-data, biography, or classification-provenance issue.
+title: "[Provenance] "
+labels:
+  - data-provenance
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use lawful public links and short factual descriptions. Do not paste private records or copyrighted source text.
+  - type: input
+    id: file
+    attributes:
+      label: Public file and row or identifier
+      placeholder: supporting/...json; subject name or anonymous release_id
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What appears incorrect, missing, or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Public source supporting the correction
+      placeholder: URL, publication title, and relevant location
+    validations:
+      required: true
+  - type: dropdown
+    id: claim_impact
+    attributes:
+      label: Possible impact
+      options:
+        - Documentation only
+        - Source provenance
+        - Classification
+        - Analysis result or claim boundary
+        - Unknown
+    validations:
+      required: true

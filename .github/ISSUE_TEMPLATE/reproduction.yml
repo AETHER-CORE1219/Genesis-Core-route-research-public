@@ -1,0 +1,51 @@
+name: Reproduction report
+description: Report a successful or failed run of a public reproduction command.
+title: "[Reproduction] "
+labels:
+  - reproduction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for checking the public result. Do not include private birth data, credentials, or copyrighted source text.
+  - type: input
+    id: commit
+    attributes:
+      label: Commit or release tag
+      placeholder: cd72007... or route-research-public-release-...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Operating system, Python, and NumPy
+      placeholder: Ubuntu 24.04; Python 3.11.9; NumPy 2.2.6
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Exact command
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Exit code and final output
+      render: text
+    validations:
+      required: true
+  - type: dropdown
+    id: modifications
+    attributes:
+      label: Was the checkout modified before the run?
+      options:
+        - No
+        - Yes — described below
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes or local modifications

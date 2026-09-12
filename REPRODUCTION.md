@@ -1,5 +1,7 @@
 # Route Research Reproduction Protocol v1
 
+> **Archival maintainer build protocol.** The `scripts/verification/` commands below depend on private maintainer artifacts that are not included in this standalone public repository. External readers should use [PUBLIC_REPRODUCTION.md](PUBLIC_REPRODUCTION.md), which verifies every released public checksum manifest and runs the public v1–v7 reproduction scripts.
+
 ## Goal
 
 - Rebuild the current public release claim surface for the route research from local research artifacts.
@@ -80,4 +82,3 @@
 - `mass_route_discovery_ledger_v1.json` subject_count should match the publication freeze package snapshot.
 - `watch_packet_provisional_subbranch_registry_v1.json` row_count should match the publication freeze package snapshot.
 - `route_research_publication_freeze_package_v1.json` should be rebuilt last so its snapshot reflects the regenerated ledgers.
-
