@@ -2,6 +2,8 @@
 
 English | [日本語の研究概要](README_JA.md)
 
+> **Research status correction (2026-10-23):** v7's five positive development associations are **historical reported values**, not the current corrected-input result; their reported significance requires independent statistical assessment. A later audit changed calculation inputs for 74 of the same 420 people. The corrected portable fixed-515 evaluation met the criterion for **two of five** functions (authored work and organized realization); advocacy and technology did not, and embodied competition was not estimable. A separate symmetric rediscovery yielded zero confirmatory candidates across 11 functions. Three completed limited person-out tests did not meet positive-confirmation criteria; positively confirmed person-out routes remain zero. The corrected evaluation uses a different representation and five-test family, not a directly comparable rerun of v7's 22 tests, and its saved results have not been independently recalculated. See the [full status note and product boundary](docs/RESEARCH_STATUS_20261023.md). Historical data and code below are preserved.
+
 Can structures defined from birth charts be associated with documented real-world actions?
 
 > **New to astrology or statistics?** Begin with the [five-minute plain-language guide](docs/PLAIN_LANGUAGE_SUMMARY.md).
@@ -16,7 +18,7 @@ Imagine replacing a personal astrological reading with a checklist that gives th
 
 Here, an **association** means that a documented activity appeared at different rates between people who did and did not meet a fixed chart condition. It does not by itself establish cause, personal prediction, or scientific proof.
 
-**Current position:** five broad associations remained positive inside a fixed 420-person development analysis, while three narrower formulations did not receive positive confirmation in separate-person tests. The latest v7 result tests the robustness of the five development associations; it is not an independent replication.
+**Historical v7 position:** five broad associations were reported as positive inside the same fixed 420-person sample used to develop the candidates, while three narrower formulations did not receive positive confirmation in separate-person tests. The v7 robustness result predates the later input and representation audit above; it is not an independent replication.
 
 This repository publishes the evidence, calculations, and limits behind that work. **AETHERCORE** conducts the research and operates **GenesisCore**, its public analysis service.
 
@@ -46,9 +48,11 @@ The latest result is meaningful only alongside the tests that preceded it.
 
 Read the [study map](docs/STUDY_MAP.md) for the exact population and independence boundary of each release.
 
-## Latest result: five functions under development-sample robustness testing
+## Historical v7: five functions under development-sample robustness testing
 
 The five functions are non-exclusive. One person may have documented activity in more than one function.
+
+The table preserves historical v7 reported values, before the later input and representation audit. The reported significance values require independent statistical assessment; neither this table nor its re-run establishes the validity of the selection or statistical design.
 
 | Social function | Adjusted risk difference | Simultaneous maxT p-value |
 |---|---:|---:|
@@ -58,12 +62,12 @@ The five functions are non-exclusive. One person may have documented activity in
 | Technology or product implementation | +32.49 percentage points | 0.0008 |
 | Embodied competitive performance | +32.14 percentage points | 0.0047 |
 
-All five remained positive after sequential adjustment for birth era, the way real-world evidence was measured, and collection-source group. They also remained positive in the declared factor-specific checks. A 9,999-draw simultaneous test across 22 predefined comparisons prevents the five headline results from being treated as five isolated tests.
+Historical v7 reported that all five remained positive after sequential adjustment for birth era, the way real-world evidence was measured, and collection-source group, including the declared factor-specific checks. Its 9,999-draw simultaneous test addressed 22 predefined comparisons, not all freedom in earlier candidate selection.
 
-### What this result supports
+### Interpretation reported for historical v7
 
-- Within the fixed development dataset and the declared 22-surface test family, the three measured external factors do not explain away the five associations.
-- Chance alone is an implausible explanation under the declared simultaneous null.
+- Within that fixed development dataset and declared test family, the analysis reported that the five associations remained after adjustment for the three measured external factors.
+- The historical significance calculation was interpreted against the declared simultaneous null; its calibration and statistical interpretation still require independent assessment. It is not presented here as a current confirmed exclusion of chance.
 - The reported statistics can be recalculated from the released anonymous matrices and code.
 
 ### Boundary of the result

@@ -37,6 +37,13 @@
     "independent_social_expression_v7/FAILURES_AND_LIMITS_EN.md",
     "independent_social_expression_v7/METHODS_EN.md",
     "independent_social_expression_v7/README.md",
-    "independent_social_expression_v7/REPRODUCTION_EN.md"
-  ]
+    "independent_social_expression_v7/REPRODUCTION_EN.md",
+    "docs/RESEARCH_STATUS_20261023.md"
+  ],
+  "research_status_correction": {
+    "date": "2026-10-23",
+    "note": "docs/RESEARCH_STATUS_20261023.md",
+    "new_analysis": false,
+    "historical_results_preserved": true
+  }
 }
