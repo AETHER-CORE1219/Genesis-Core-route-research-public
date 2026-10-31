@@ -1,0 +1,48 @@
+{
+  "schema": "RESEARCH_UPDATE_20261101_CONTRACT",
+  "new_people": 0,
+  "population_unit": "person; multiple activities and rules are non-independent",
+  "historical_selection": {
+    "people": 420,
+    "functions": 11,
+    "rules_recovered": 741,
+    "draws": 999,
+    "seed": 20261031,
+    "shuffle": "whole activity profile within each fixed source group",
+    "comparison_surfaces": 66
+  },
+  "repaired_internal": {
+    "people": 420,
+    "folds": 5,
+    "endpoints": [
+      "recorded_any",
+      "recorded_supported"
+    ],
+    "functions": 11,
+    "surfaces": 132,
+    "draws": 199,
+    "seed": 20261101,
+    "grammar_historically_exposed_to_same_people": true,
+    "training_selection_only": true
+  },
+  "unchanged_archives": "independent_social_expression_v1 through v7",
+  "public_reproduction": "Candidate and branch selection, permutation and fold evaluation from opaque incidence data",
+  "not_public_regeneration": [
+    "raw birth records to astronomical chart",
+    "all chart meaning encodings from source",
+    "full biographical adjudication",
+    "identity join to anonymous people"
+  ],
+  "no_assertion": [
+    "independent empirical confirmation",
+    "causality",
+    "individual predictive accuracy",
+    "universal absence of any correspondence"
+  ],
+  "open_questions": [
+    "unresolved legacy predicate meanings",
+    "consistent source-grounded function adjudication",
+    "source and population transport",
+    "future external confirmation"
+  ]
+}

@@ -1,5 +1,19 @@
 # Public reproduction guide
 
+### Standalone Reproduction Instructions
+
+This update provides a self-contained reproduction script that re-executes historical rule selection, cluster-conditioned permutation baselines (999 runs), training-only candidate selection across 5 folds, and selection-inclusive permutation tests (199 runs) using pre-extracted incidence inputs. It relies strictly on the Python standard library.
+
+From the repository root, run:
+```bash
+python research_update_20261101/scripts/reproduce.py
+```
+
+**Scope of Reproduction:**
+- **Input Data**: Loads `data/historical_selection_input.json.gz` and `data/repaired_chain_input.json.gz` (anonymized incidence matrices; excludes raw birth dates, times, locations, personal names, and identity mappings).
+- **Verification**: Automatically compares runtime outputs against pre-computed values in `EXPECTED_REPLAY_RESULTS.json`.
+- **Boundary**: Replays the mechanical rule selection procedures, permutation baselines, and cross-validation mechanics; it does not perform end-to-end chart calculation from raw historical records.
+
 ## What the public package can reproduce
 
 The public scripts recalculate frozen results from the released fixed or anonymous data projections. They check reported counts, estimators, permutation results, decision rules, and available privacy constraints.
@@ -39,7 +53,7 @@ Use checksum-only mode when dependencies have not yet been installed:
 python scripts/verify_public_release.py --checksums-only
 ```
 
-## Verify only the latest v7 result
+## Verify only the historical v7 result
 
 ```bash
 python independent_social_expression_v7/scripts/reproduce_v7.py

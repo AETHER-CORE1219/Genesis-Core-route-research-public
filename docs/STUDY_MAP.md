@@ -1,5 +1,8 @@
 # Study map
 
+### Research Update (November 1, 2026)
+An audit and update directory, [`research_update_20261101/`](../research_update_20261101/), has been added to this repository. It preserves the central inquiry of how distinct astrological realization conditions converge onto shared overarching social functions, while disambiguating chart topologies and isolating candidate selection within cross-validation training folds. Readers can directly execute and inspect the rule selection procedures and permutation evaluations locally using the provided standalone Python script.
+
 ## Why this map is necessary
 
 This repository contains two related research lines and several versioned tests. Their populations, hypotheses, and purposes differ. A larger number does not automatically mean a later or stronger test, and the counts must not be added together.

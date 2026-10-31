@@ -22,12 +22,15 @@ REPRODUCTION_COMMANDS = [
     ("v5", "independent_social_expression_v5/scripts/reproduce_v5.py"),
     ("v6", "independent_social_expression_v6/scripts/reproduce_v6.py"),
     ("v7", "independent_social_expression_v7/scripts/reproduce_v7.py"),
+    ("research_update_20261101", "research_update_20261101/scripts/reproduce.py"),
 ]
 
 PRIVACY_COMMANDS = [
     ("v4_privacy", "independent_social_expression_v4/scripts/validate_public_v4_privacy.py"),
     ("v5_privacy", "independent_social_expression_v5/scripts/validate_public_v5_privacy.py"),
     ("v7_privacy", "independent_social_expression_v7/scripts/validate_public_v7_privacy.py"),
+    ("update_projection", "research_update_20261101/scripts/validate_inputs.py"),
+    ("update_query_regressions", "research_update_20261101/scripts/test_query_projection.py"),
 ]
 
 
@@ -113,6 +116,7 @@ def main() -> int:
     if documentation_manifest.is_file():
         manifests.append(documentation_manifest)
     manifests.extend(sorted(ROOT.glob("independent_social_expression_v*/CHECKSUMS.sha256")))
+    manifests.append(ROOT / "research_update_20261101/CHECKSUMS.sha256")
     checksum_results = [verify_manifest(path) for path in manifests]
 
     run_results: list[dict[str, object]] = []

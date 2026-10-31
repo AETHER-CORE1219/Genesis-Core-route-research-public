@@ -1,5 +1,8 @@
 # Reproducibility boundary
 
+### Research Update (November 1, 2026)
+An audit and update directory, [`research_update_20261101/`](../research_update_20261101/), has been added to this repository. It preserves the central inquiry of how distinct astrological realization conditions converge onto shared overarching social functions, while disambiguating chart topologies and isolating candidate selection within cross-validation training folds. Readers can directly execute and inspect the rule selection procedures and permutation evaluations locally using the provided standalone Python script.
+
 ## Three different claims
 
 The word reproducible can refer to three different levels. This repository does not claim the same level for every part of the research.

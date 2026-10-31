@@ -1,5 +1,8 @@
 # Data provenance and public coverage
 
+### Research Update (November 1, 2026)
+An audit and update directory, [`research_update_20261101/`](../research_update_20261101/), has been added to this repository. It preserves the central inquiry of how distinct astrological realization conditions converge onto shared overarching social functions, while disambiguating chart topologies and isolating candidate selection within cross-validation training folds. Readers can directly execute and inspect the rule selection procedures and permutation evaluations locally using the provided standalone Python script.
+
 ## Two different public data surfaces
 
 This repository contains a named legacy route-research surface and anonymous versioned test surfaces. They serve different purposes.
@@ -8,12 +11,12 @@ This repository contains a named legacy route-research surface and anonymous ver
 
 The broader public snapshot reports:
 
-- 1,030 master subjects;
-- 795 exact-like subjects;
+- 1,030 master records;
+- 795 exact-like records;
 - 761 subject-level discovery traces;
 - 16 fixed public route-family or route-branch claims.
 
-The 1,030-person master ledger spans several primary fields.
+The 1,030-record master ledger spans several primary fields.
 
 | Primary field | Master count | Public subject-trace count |
 |---|---:|---:|

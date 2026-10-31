@@ -1,0 +1,209 @@
+{
+  "scope": "Provenance checks and focused review; not full new ground-truth labeling",
+  "component_function_links": 1594,
+  "reference_checks": {
+    "anchor_hash_verified": 4306,
+    "references": 4306
+  },
+  "function_support_states_before_review": {
+    "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION": {
+      "component_link_states": {
+        "SUPPORTED": 9
+      },
+      "no_record_not_verified_negative_people": 412,
+      "other_states": {},
+      "partial_without_supported_people": 0,
+      "recorded_any_people": 8,
+      "supported_people": 8
+    },
+    "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+      "component_link_states": {
+        "CONTESTED": 4,
+        "PARTIAL": 12,
+        "SUPPORTED": 188
+      },
+      "no_record_not_verified_negative_people": 235,
+      "other_states": {
+        "CONTESTED": 4
+      },
+      "partial_without_supported_people": 11,
+      "recorded_any_people": 185,
+      "supported_people": 171
+    },
+    "AUTHORED_SYMBOLIC_PRODUCTION": {
+      "component_link_states": {
+        "CONTESTED": 1,
+        "PARTIAL": 23,
+        "SUPPORTED": 233
+      },
+      "no_record_not_verified_negative_people": 175,
+      "other_states": {
+        "CONTESTED": 1
+      },
+      "partial_without_supported_people": 22,
+      "recorded_any_people": 245,
+      "supported_people": 222
+    },
+    "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+      "component_link_states": {
+        "PARTIAL": 9,
+        "SUPPORTED": 46
+      },
+      "no_record_not_verified_negative_people": 368,
+      "other_states": {},
+      "partial_without_supported_people": 8,
+      "recorded_any_people": 52,
+      "supported_people": 44
+    },
+    "EMBODIED_COMPETITIVE_PERFORMANCE": {
+      "component_link_states": {
+        "CONTESTED": 1,
+        "PARTIAL": 1,
+        "SUPPORTED": 91
+      },
+      "no_record_not_verified_negative_people": 331,
+      "other_states": {
+        "CONTESTED": 1
+      },
+      "partial_without_supported_people": 1,
+      "recorded_any_people": 89,
+      "supported_people": 87
+    },
+    "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+      "component_link_states": {
+        "PARTIAL": 19,
+        "SOURCE_THIN": 1,
+        "SUPPORTED": 123
+      },
+      "no_record_not_verified_negative_people": 298,
+      "other_states": {
+        "SOURCE_THIN": 1
+      },
+      "partial_without_supported_people": 18,
+      "recorded_any_people": 122,
+      "supported_people": 103
+    },
+    "ORGANIZED_COLLECTIVE_REALIZATION": {
+      "component_link_states": {
+        "PARTIAL": 19,
+        "SOURCE_THIN": 5,
+        "SUPPORTED": 309
+      },
+      "no_record_not_verified_negative_people": 156,
+      "other_states": {
+        "SOURCE_THIN": 5
+      },
+      "partial_without_supported_people": 11,
+      "recorded_any_people": 264,
+      "supported_people": 248
+    },
+    "PERFORMED_SYMBOLIC_PRODUCTION": {
+      "component_link_states": {
+        "PARTIAL": 2,
+        "SUPPORTED": 159
+      },
+      "no_record_not_verified_negative_people": 287,
+      "other_states": {},
+      "partial_without_supported_people": 2,
+      "recorded_any_people": 133,
+      "supported_people": 131
+    },
+    "RULE_OR_INSTITUTION_OPERATION": {
+      "component_link_states": {
+        "PARTIAL": 9,
+        "SOURCE_THIN": 1,
+        "SUPPORTED": 95
+      },
+      "no_record_not_verified_negative_people": 339,
+      "other_states": {
+        "SOURCE_THIN": 1
+      },
+      "partial_without_supported_people": 9,
+      "recorded_any_people": 81,
+      "supported_people": 71
+    },
+    "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+      "component_link_states": {
+        "PARTIAL": 3,
+        "SUPPORTED": 140
+      },
+      "no_record_not_verified_negative_people": 292,
+      "other_states": {},
+      "partial_without_supported_people": 2,
+      "recorded_any_people": 128,
+      "supported_people": 126
+    },
+    "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+      "component_link_states": {
+        "PARTIAL": 7,
+        "SUPPORTED": 84
+      },
+      "no_record_not_verified_negative_people": 343,
+      "other_states": {},
+      "partial_without_supported_people": 6,
+      "recorded_any_people": 77,
+      "supported_people": 71
+    }
+  },
+  "focused_review": {
+    "scope": "Focused review of existing disputed component-function edges and frozen surrounding source text. Not a new full-biography recoding or independent human adjudication.",
+    "reviewed": 50,
+    "new_people": 0,
+    "counts": {
+      "CONCRETE_ACTION_SUPPORTED_WITH_SCOPE": 28,
+      "FUNCTION_BOUNDARY_OPEN": 12,
+      "ROLE_OR_REFERENCE_CONFIRMED_OPERATION_SCOPE_OPEN": 7,
+      "NON_OUTPUT_OVERLAY_PRESERVED": 2,
+      "CONTESTED_ATTRIBUTION_PRESERVED": 1
+    },
+    "completed_scope": "Every one of the 50 inherited status discrepancies has a source-bound disposition; open semantic questions remain explicit.",
+    "historical_analysis_labels_changed": 0
+  },
+  "full109_restoration": {
+    "people": 109,
+    "characters": 3002408,
+    "source_hashes_matched": true
+  },
+  "source_volume": {
+    "groups": {
+      "ALL": {
+        "n_with_source": 410,
+        "spearman_descriptive_only": {
+          "dispositor_paths__recorded_function_count": -0.0030590163593595208,
+          "source_characters__dispositor_paths": -0.018011770682144577,
+          "source_characters__recorded_function_count": 0.2669530550954815,
+          "source_characters__supported_record_function_count": 0.22318059953534164,
+          "source_characters__typed_relations": -0.06379379354427629,
+          "typed_relations__recorded_function_count": -0.0824138052329424
+        }
+      },
+      "RECOVERED109": {
+        "n_with_source": 109,
+        "spearman_descriptive_only": {
+          "dispositor_paths__recorded_function_count": 0.02095517315078465,
+          "source_characters__dispositor_paths": -0.026319674170188906,
+          "source_characters__recorded_function_count": 0.3029284088871104,
+          "source_characters__supported_record_function_count": 0.1601790823926402,
+          "source_characters__typed_relations": -0.11997561801047688,
+          "typed_relations__recorded_function_count": -0.02124073726796037
+        }
+      },
+      "SOURCE_REVIEWED311": {
+        "n_with_source": 301,
+        "spearman_descriptive_only": {
+          "dispositor_paths__recorded_function_count": -0.025535464693966958,
+          "source_characters__dispositor_paths": -0.04028392743032578,
+          "source_characters__recorded_function_count": 0.1915056570620142,
+          "source_characters__supported_record_function_count": 0.1577479542397112,
+          "source_characters__typed_relations": -0.03662190682129431,
+          "typed_relations__recorded_function_count": -0.09120401418522446
+        }
+      }
+    },
+    "no_full_text_in_primary_volume_input": 10,
+    "those_with_prior_repair_exact_spans": 10,
+    "descriptive_only": true
+  },
+  "analysis_labels_changed_by_focused_review": false,
+  "independent_human_recoding_completed": false
+}

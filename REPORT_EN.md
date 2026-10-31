@@ -1,5 +1,8 @@
 # GenesisCore social-expression route research
 
+### Research Update (November 1, 2026)
+An audit and update directory, [`research_update_20261101/`](./research_update_20261101/), has been added to this repository. It preserves the central inquiry of how distinct astrological realization conditions converge onto shared overarching social functions, while disambiguating chart topologies and isolating candidate selection within cross-validation training folds. Readers can directly execute and inspect the rule selection procedures and permutation evaluations locally using the provided standalone Python script.
+
 ## Abstract
 
 This repository investigates whether structured Western and Jyotish chart classifications are associated with actions documented in people's lives. The wider route-research program tracks 1,030 notable public figures, including 795 exact-like birth records and 761 public subject-level legacy traces. A later research line replaces single occupational labels with five non-exclusive social functions and evaluates versioned development and person-out surfaces.

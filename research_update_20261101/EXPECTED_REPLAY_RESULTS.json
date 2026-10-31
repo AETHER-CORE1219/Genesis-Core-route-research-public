@@ -1,0 +1,2305 @@
+{
+  "historical_selection": {
+    "observed": {
+      "surfaces": {
+        "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_both": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 8,
+          "rd": null,
+          "z": null
+        },
+        "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_jyotish": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 8,
+          "rd": null,
+          "z": null
+        },
+        "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_western": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 8,
+          "rd": null,
+          "z": null
+        },
+        "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_both": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 8,
+          "rd": null,
+          "z": null
+        },
+        "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_jyotish": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 8,
+          "rd": null,
+          "z": null
+        },
+        "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_western": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 8,
+          "rd": null,
+          "z": null
+        },
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_both": {
+          "exposed": 99,
+          "supported": 70,
+          "recorded": 185,
+          "rd": 0.34881525535731145,
+          "z": 6.111818290382405
+        },
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_jyotish": {
+          "exposed": 282,
+          "supported": 154,
+          "recorded": 185,
+          "rd": 0.32146160962072157,
+          "z": 6.233013423490824
+        },
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_western": {
+          "exposed": 137,
+          "supported": 87,
+          "recorded": 185,
+          "rd": 0.28874674370018827,
+          "z": 5.588245105839781
+        },
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_both": {
+          "exposed": 71,
+          "supported": 53,
+          "recorded": 185,
+          "rd": 0.3682553775374309,
+          "z": 5.697650887287075
+        },
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_jyotish": {
+          "exposed": 254,
+          "supported": 143,
+          "recorded": 185,
+          "rd": 0.3099800777914809,
+          "z": 6.256184315205291
+        },
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_western": {
+          "exposed": 114,
+          "supported": 73,
+          "recorded": 185,
+          "rd": 0.27433780529755764,
+          "z": 5.036207885933557
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION|any_both": {
+          "exposed": 142,
+          "supported": 119,
+          "recorded": 245,
+          "rd": 0.38479075894214204,
+          "z": 7.566826608994733
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION|any_jyotish": {
+          "exposed": 326,
+          "supported": 225,
+          "recorded": 245,
+          "rd": 0.47741809163294613,
+          "z": 8.271688629865917
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION|any_western": {
+          "exposed": 162,
+          "supported": 127,
+          "recorded": 245,
+          "rd": 0.32658627619867936,
+          "z": 6.608271381079537
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION|primary_both": {
+          "exposed": 85,
+          "supported": 76,
+          "recorded": 245,
+          "rd": 0.3896400351185251,
+          "z": 6.507557570330646
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+          "exposed": 280,
+          "supported": 204,
+          "recorded": 245,
+          "rd": 0.43571428571428567,
+          "z": 8.538221389129934
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION|primary_western": {
+          "exposed": 113,
+          "supported": 90,
+          "recorded": 245,
+          "rd": 0.29157418350580844,
+          "z": 5.375019650191706
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_both": {
+          "exposed": 4,
+          "supported": 4,
+          "recorded": 52,
+          "rd": 0.8846153846153846,
+          "z": 5.346015493505862
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_jyotish": {
+          "exposed": 74,
+          "supported": 23,
+          "recorded": 52,
+          "rd": 0.2269957819090767,
+          "z": 5.3810962525054
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_western": {
+          "exposed": 13,
+          "supported": 7,
+          "recorded": 52,
+          "rd": 0.4278964278964279,
+          "z": 4.611121925258819
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_both": {
+          "exposed": 1,
+          "supported": 1,
+          "recorded": 52,
+          "rd": 0.8782816229116945,
+          "z": 2.663421316302195
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_jyotish": {
+          "exposed": 50,
+          "supported": 15,
+          "recorded": 52,
+          "rd": 0.19999999999999998,
+          "z": 4.03009166099068
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_western": {
+          "exposed": 8,
+          "supported": 4,
+          "recorded": 52,
+          "rd": 0.38349514563106796,
+          "z": 3.2617640101985383
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE|any_both": {
+          "exposed": 25,
+          "supported": 16,
+          "recorded": 89,
+          "rd": 0.45518987341772155,
+          "z": 5.401032478980969
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE|any_jyotish": {
+          "exposed": 182,
+          "supported": 65,
+          "recorded": 89,
+          "rd": 0.25630252100840334,
+          "z": 6.369314525359705
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE|any_western": {
+          "exposed": 43,
+          "supported": 19,
+          "recorded": 89,
+          "rd": 0.25618407254333475,
+          "z": 3.8946880067203504
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE|primary_both": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 89,
+          "rd": null,
+          "z": null
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE|primary_jyotish": {
+          "exposed": 108,
+          "supported": 41,
+          "recorded": 89,
+          "rd": 0.2257834757834758,
+          "z": 4.948766629828611
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE|primary_western": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 89,
+          "rd": null,
+          "z": null
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_both": {
+          "exposed": 49,
+          "supported": 30,
+          "recorded": 122,
+          "rd": 0.36426646130150175,
+          "z": 5.278867720085008
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_jyotish": {
+          "exposed": 266,
+          "supported": 106,
+          "recorded": 122,
+          "rd": 0.29460013670539986,
+          "z": 6.408711487276639
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_western": {
+          "exposed": 69,
+          "supported": 32,
+          "recorded": 122,
+          "rd": 0.2073578595317726,
+          "z": 3.4684481180868114
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_both": {
+          "exposed": 6,
+          "supported": 3,
+          "recorded": 122,
+          "rd": 0.21256038647342995,
+          "z": 1.138661730489888
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_jyotish": {
+          "exposed": 135,
+          "supported": 67,
+          "recorded": 122,
+          "rd": 0.3033138401559454,
+          "z": 6.394670032368555
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_western": {
+          "exposed": 25,
+          "supported": 13,
+          "recorded": 122,
+          "rd": 0.2440506329113924,
+          "z": 2.606664205271493
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION|any_both": {
+          "exposed": 127,
+          "supported": 104,
+          "recorded": 264,
+          "rd": 0.2728225524710435,
+          "z": 5.314670216093446
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION|any_jyotish": {
+          "exposed": 289,
+          "supported": 217,
+          "recorded": 264,
+          "rd": 0.3920864259489157,
+          "z": 7.704185995823687
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION|any_western": {
+          "exposed": 159,
+          "supported": 121,
+          "recorded": 264,
+          "rd": 0.21311356900166278,
+          "z": 4.384199423931788
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION|primary_both": {
+          "exposed": 120,
+          "supported": 99,
+          "recorded": 264,
+          "rd": 0.2749999999999999,
+          "z": 5.269195676469328
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION|primary_jyotish": {
+          "exposed": 279,
+          "supported": 212,
+          "recorded": 264,
+          "rd": 0.391062304583238,
+          "z": 7.8328172834988266
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION|primary_western": {
+          "exposed": 159,
+          "supported": 121,
+          "recorded": 264,
+          "rd": 0.21311356900166278,
+          "z": 4.384199423931788
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION|any_both": {
+          "exposed": 49,
+          "supported": 31,
+          "recorded": 133,
+          "rd": 0.35772044666923375,
+          "z": 5.059255768502002
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION|any_jyotish": {
+          "exposed": 226,
+          "supported": 97,
+          "recorded": 133,
+          "rd": 0.2436365295137305,
+          "z": 5.351251535289414
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION|any_western": {
+          "exposed": 87,
+          "supported": 42,
+          "recorded": 133,
+          "rd": 0.20948534741638192,
+          "z": 3.7401866072425305
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION|primary_both": {
+          "exposed": 10,
+          "supported": 9,
+          "recorded": 133,
+          "rd": 0.5975609756097562,
+          "z": 4.0135810022821845
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+          "exposed": 115,
+          "supported": 61,
+          "recorded": 133,
+          "rd": 0.2943692088382039,
+          "z": 5.782945465502145
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION|primary_western": {
+          "exposed": 34,
+          "supported": 21,
+          "recorded": 133,
+          "rd": 0.3274916184090217,
+          "z": 3.935420799684374
+        },
+        "RULE_OR_INSTITUTION_OPERATION|any_both": {
+          "exposed": 18,
+          "supported": 11,
+          "recorded": 81,
+          "rd": 0.43698175787728033,
+          "z": 4.5972156149294605
+        },
+        "RULE_OR_INSTITUTION_OPERATION|any_jyotish": {
+          "exposed": 131,
+          "supported": 50,
+          "recorded": 81,
+          "rd": 0.2744129533268179,
+          "z": 6.60345866568145
+        },
+        "RULE_OR_INSTITUTION_OPERATION|any_western": {
+          "exposed": 55,
+          "supported": 19,
+          "recorded": 81,
+          "rd": 0.17559153175591533,
+          "z": 3.076901765608421
+        },
+        "RULE_OR_INSTITUTION_OPERATION|primary_both": {
+          "exposed": 9,
+          "supported": 6,
+          "recorded": 81,
+          "rd": 0.4841849148418491,
+          "z": 3.641964488674875
+        },
+        "RULE_OR_INSTITUTION_OPERATION|primary_jyotish": {
+          "exposed": 108,
+          "supported": 41,
+          "recorded": 81,
+          "rd": 0.25142450142450146,
+          "z": 5.707935527431378
+        },
+        "RULE_OR_INSTITUTION_OPERATION|primary_western": {
+          "exposed": 34,
+          "supported": 13,
+          "recorded": 81,
+          "rd": 0.20618713806766228,
+          "z": 2.9213054441906188
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_both": {
+          "exposed": 54,
+          "supported": 32,
+          "recorded": 128,
+          "rd": 0.33029751062537943,
+          "z": 4.922332626399452
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_jyotish": {
+          "exposed": 255,
+          "supported": 109,
+          "recorded": 128,
+          "rd": 0.31229946524064167,
+          "z": 6.790652981447255
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_western": {
+          "exposed": 81,
+          "supported": 38,
+          "recorded": 128,
+          "rd": 0.20364907680541894,
+          "z": 3.5772808597354437
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_both": {
+          "exposed": 34,
+          "supported": 22,
+          "recorded": 128,
+          "rd": 0.37244742456568125,
+          "z": 4.522997222245572
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_jyotish": {
+          "exposed": 190,
+          "supported": 90,
+          "recorded": 128,
+          "rd": 0.30846681922196795,
+          "z": 6.835612076318892
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_western": {
+          "exposed": 57,
+          "supported": 30,
+          "recorded": 128,
+          "rd": 0.25634333768305057,
+          "z": 3.9087780397955982
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_both": {
+          "exposed": 18,
+          "supported": 11,
+          "recorded": 77,
+          "rd": 0.4469320066334992,
+          "z": 4.79427519306784
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_jyotish": {
+          "exposed": 195,
+          "supported": 57,
+          "recorded": 77,
+          "rd": 0.20341880341880342,
+          "z": 5.373186100548619
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_western": {
+          "exposed": 35,
+          "supported": 15,
+          "recorded": 77,
+          "rd": 0.2675324675324675,
+          "z": 3.916274318715542
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_both": {
+          "exposed": 0,
+          "supported": 0,
+          "recorded": 77,
+          "rd": null,
+          "z": null
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_jyotish": {
+          "exposed": 41,
+          "supported": 16,
+          "recorded": 77,
+          "rd": 0.22929403436514578,
+          "z": 3.604429301954169
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_western": {
+          "exposed": 12,
+          "supported": 7,
+          "recorded": 77,
+          "rd": 0.411764705882353,
+          "z": 3.6333065835858798
+        }
+      },
+      "max_rd": 0.8846153846153846,
+      "max_z": 8.538221389129934,
+      "selected_rules": 741,
+      "training_leads": 786
+    },
+    "draws": 999,
+    "seed": 20261031,
+    "max_rd_p": 0.034,
+    "max_z_p": 0.958,
+    "selected_rules_median": 782,
+    "selected_rules_range": [
+      690,
+      870
+    ],
+    "tests": {
+      "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_both": {
+        "same_surface_p": 0.791,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_jyotish": {
+        "same_surface_p": 0.954,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_western": {
+        "same_surface_p": 0.499,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_both": {
+        "same_surface_p": 0.605,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_jyotish": {
+        "same_surface_p": 0.925,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_western": {
+        "same_surface_p": 0.58,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION|any_both": {
+        "same_surface_p": 0.292,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.771,
+        "max_z_p": 0.985,
+        "max_rd_p": 1.0
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION|any_western": {
+        "same_surface_p": 0.213,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION|primary_both": {
+        "same_surface_p": 0.115,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.377,
+        "max_z_p": 0.958,
+        "max_rd_p": 1.0
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION|primary_western": {
+        "same_surface_p": 0.208,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_both": {
+        "same_surface_p": 0.138,
+        "max_z_p": 1.0,
+        "max_rd_p": 0.034
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_jyotish": {
+        "same_surface_p": 0.576,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_western": {
+        "same_surface_p": 0.161,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_both": {
+        "same_surface_p": 0.279,
+        "max_z_p": 1.0,
+        "max_rd_p": 0.271
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_jyotish": {
+        "same_surface_p": 0.505,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_western": {
+        "same_surface_p": 0.184,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE|any_both": {
+        "same_surface_p": 0.429,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE|any_jyotish": {
+        "same_surface_p": 0.462,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE|any_western": {
+        "same_surface_p": 0.608,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE|primary_jyotish": {
+        "same_surface_p": 0.658,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_both": {
+        "same_surface_p": 0.738,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.641,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_western": {
+        "same_surface_p": 0.944,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_both": {
+        "same_surface_p": 0.987,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.337,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_western": {
+        "same_surface_p": 0.85,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION|any_both": {
+        "same_surface_p": 0.989,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION|any_jyotish": {
+        "same_surface_p": 0.953,
+        "max_z_p": 0.999,
+        "max_rd_p": 1.0
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION|any_western": {
+        "same_surface_p": 0.99,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION|primary_both": {
+        "same_surface_p": 0.92,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION|primary_jyotish": {
+        "same_surface_p": 0.905,
+        "max_z_p": 0.999,
+        "max_rd_p": 1.0
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION|primary_western": {
+        "same_surface_p": 0.921,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION|any_both": {
+        "same_surface_p": 0.848,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.963,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION|any_western": {
+        "same_surface_p": 0.923,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION|primary_both": {
+        "same_surface_p": 0.622,
+        "max_z_p": 1.0,
+        "max_rd_p": 0.859
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.701,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION|primary_western": {
+        "same_surface_p": 0.555,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "RULE_OR_INSTITUTION_OPERATION|any_both": {
+        "same_surface_p": 0.522,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "RULE_OR_INSTITUTION_OPERATION|any_jyotish": {
+        "same_surface_p": 0.285,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "RULE_OR_INSTITUTION_OPERATION|any_western": {
+        "same_surface_p": 0.765,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "RULE_OR_INSTITUTION_OPERATION|primary_both": {
+        "same_surface_p": 0.446,
+        "max_z_p": 1.0,
+        "max_rd_p": 0.999
+      },
+      "RULE_OR_INSTITUTION_OPERATION|primary_jyotish": {
+        "same_surface_p": 0.432,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "RULE_OR_INSTITUTION_OPERATION|primary_western": {
+        "same_surface_p": 0.583,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_both": {
+        "same_surface_p": 0.856,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_jyotish": {
+        "same_surface_p": 0.467,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_western": {
+        "same_surface_p": 0.935,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_both": {
+        "same_surface_p": 0.598,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_jyotish": {
+        "same_surface_p": 0.448,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_western": {
+        "same_surface_p": 0.58,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_both": {
+        "same_surface_p": 0.291,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.654,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_western": {
+        "same_surface_p": 0.416,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null,
+        "max_rd_p": null
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.6,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_western": {
+        "same_surface_p": 0.206,
+        "max_z_p": 1.0,
+        "max_rd_p": 1.0
+      }
+    }
+  },
+  "repaired_internal": {
+    "observed": {
+      "endpoints": {
+        "recorded_any": {
+          "surfaces": {
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 8,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_jyotish": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 8,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 8,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 8,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_jyotish": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 8,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 8,
+              "rd": null,
+              "z": null
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_both": {
+              "exposed": 5,
+              "supported": 2,
+              "recorded": 185,
+              "rd": -0.040963855421686735,
+              "z": -0.18340650079151205
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_jyotish": {
+              "exposed": 89,
+              "supported": 39,
+              "recorded": 185,
+              "rd": -0.002885366102040099,
+              "z": -0.04867598799994396
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_western": {
+              "exposed": 15,
+              "supported": 5,
+              "recorded": 185,
+              "rd": -0.1111111111111111,
+              "z": -0.8512075784293853
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_both": {
+              "exposed": 2,
+              "supported": 1,
+              "recorded": 185,
+              "rd": 0.05980861244019137,
+              "z": 0.16996978124979387
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_jyotish": {
+              "exposed": 80,
+              "supported": 34,
+              "recorded": 185,
+              "rd": -0.019117647058823517,
+              "z": -0.3099015450565782
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_western": {
+              "exposed": 10,
+              "supported": 3,
+              "recorded": 185,
+              "rd": -0.14390243902439026,
+              "z": -0.9056594709969169
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|any_both": {
+              "exposed": 6,
+              "supported": 2,
+              "recorded": 245,
+              "rd": -0.2536231884057972,
+              "z": -1.251086484342449
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|any_jyotish": {
+              "exposed": 119,
+              "supported": 71,
+              "recorded": 245,
+              "rd": 0.018565565761188174,
+              "z": 0.3477663005751707
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|any_western": {
+              "exposed": 15,
+              "supported": 7,
+              "recorded": 245,
+              "rd": -0.12098765432098768,
+              "z": -0.9333333333333336
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|primary_both": {
+              "exposed": 5,
+              "supported": 2,
+              "recorded": 245,
+              "rd": -0.18554216867469875,
+              "z": -0.8365160106923106
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+              "exposed": 112,
+              "supported": 65,
+              "recorded": 245,
+              "rd": -0.0040584415584414835,
+              "z": -0.0746047096952977
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|primary_western": {
+              "exposed": 11,
+              "supported": 5,
+              "recorded": 245,
+              "rd": -0.13225161146921544,
+              "z": -0.8779737832031197
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 52,
+              "rd": null,
+              "z": null
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_jyotish": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 52,
+              "rd": -0.12440191387559808,
+              "z": -0.5328798085574392
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 52,
+              "rd": null,
+              "z": null
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 52,
+              "rd": null,
+              "z": null
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_jyotish": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 52,
+              "rd": -0.12440191387559808,
+              "z": -0.5328798085574392
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 52,
+              "rd": null,
+              "z": null
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 89,
+              "rd": null,
+              "z": null
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|any_jyotish": {
+              "exposed": 37,
+              "supported": 13,
+              "recorded": 89,
+              "rd": 0.15291793098581613,
+              "z": 2.1735733835137685
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|any_western": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 89,
+              "rd": -0.21291866028708134,
+              "z": -0.7350764488288308
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 89,
+              "rd": null,
+              "z": null
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|primary_jyotish": {
+              "exposed": 1,
+              "supported": 0,
+              "recorded": 89,
+              "rd": -0.21241050119331742,
+              "z": -0.5191569115355645
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|primary_western": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 89,
+              "rd": -0.21291866028708134,
+              "z": -0.7350764488288308
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 122,
+              "rd": null,
+              "z": null
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_jyotish": {
+              "exposed": 35,
+              "supported": 8,
+              "recorded": 122,
+              "rd": -0.06753246753246753,
+              "z": -0.8425847668387761
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_western": {
+              "exposed": 3,
+              "supported": 0,
+              "recorded": 122,
+              "rd": -0.29256594724220625,
+              "z": -1.112215718184099
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 122,
+              "rd": null,
+              "z": null
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_jyotish": {
+              "exposed": 29,
+              "supported": 8,
+              "recorded": 122,
+              "rd": -0.015698033336273065,
+              "z": -0.17966737492606313
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 122,
+              "rd": null,
+              "z": null
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|any_both": {
+              "exposed": 11,
+              "supported": 8,
+              "recorded": 264,
+              "rd": 0.10135585685707937,
+              "z": 0.6865421862465615
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|any_jyotish": {
+              "exposed": 133,
+              "supported": 78,
+              "recorded": 264,
+              "rd": -0.061617458279845994,
+              "z": -1.215712637132238
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|any_western": {
+              "exposed": 18,
+              "supported": 14,
+              "recorded": 264,
+              "rd": 0.15588723051409625,
+              "z": 1.3391221793244485
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|primary_both": {
+              "exposed": 11,
+              "supported": 8,
+              "recorded": 264,
+              "rd": 0.10135585685707937,
+              "z": 0.6865421862465615
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|primary_jyotish": {
+              "exposed": 131,
+              "supported": 76,
+              "recorded": 264,
+              "rd": -0.07036635938614333,
+              "z": -1.382642919218156
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|primary_western": {
+              "exposed": 18,
+              "supported": 14,
+              "recorded": 264,
+              "rd": 0.15588723051409625,
+              "z": 1.3391221793244485
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|any_both": {
+              "exposed": 2,
+              "supported": 1,
+              "recorded": 133,
+              "rd": 0.1842105263157895,
+              "z": 0.5586958667729874
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|any_jyotish": {
+              "exposed": 45,
+              "supported": 18,
+              "recorded": 133,
+              "rd": 0.09333333333333338,
+              "z": 1.271793332206911
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|any_western": {
+              "exposed": 11,
+              "supported": 2,
+              "recorded": 133,
+              "rd": -0.1384752167148255,
+              "z": -0.9742892852587062
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|primary_both": {
+              "exposed": 1,
+              "supported": 1,
+              "recorded": 133,
+              "rd": 0.684964200477327,
+              "z": 1.470729357704065
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+              "exposed": 31,
+              "supported": 15,
+              "recorded": 133,
+              "rd": 0.18052906542831082,
+              "z": 2.079508298531522
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|primary_western": {
+              "exposed": 6,
+              "supported": 2,
+              "recorded": 133,
+              "rd": 0.016908212560386437,
+              "z": 0.08839574715560598
+            },
+            "RULE_OR_INSTITUTION_OPERATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 81,
+              "rd": null,
+              "z": null
+            },
+            "RULE_OR_INSTITUTION_OPERATION|any_jyotish": {
+              "exposed": 23,
+              "supported": 5,
+              "recorded": 81,
+              "rd": 0.025955536085861347,
+              "z": 0.3067407402254706
+            },
+            "RULE_OR_INSTITUTION_OPERATION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 81,
+              "rd": null,
+              "z": null
+            },
+            "RULE_OR_INSTITUTION_OPERATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 81,
+              "rd": null,
+              "z": null
+            },
+            "RULE_OR_INSTITUTION_OPERATION|primary_jyotish": {
+              "exposed": 17,
+              "supported": 4,
+              "recorded": 81,
+              "rd": 0.0442271201284484,
+              "z": 0.45273902517365905
+            },
+            "RULE_OR_INSTITUTION_OPERATION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 81,
+              "rd": null,
+              "z": null
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 128,
+              "rd": null,
+              "z": null
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_jyotish": {
+              "exposed": 60,
+              "supported": 18,
+              "recorded": 128,
+              "rd": -0.005555555555555591,
+              "z": -0.08655309558972735
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_western": {
+              "exposed": 4,
+              "supported": 1,
+              "recorded": 128,
+              "rd": -0.055288461538461564,
+              "z": -0.23907788269999372
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 128,
+              "rd": null,
+              "z": null
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_jyotish": {
+              "exposed": 50,
+              "supported": 14,
+              "recorded": 128,
+              "rd": -0.0281081081081081,
+              "z": -0.40527117363097875
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_western": {
+              "exposed": 4,
+              "supported": 1,
+              "recorded": 128,
+              "rd": -0.055288461538461564,
+              "z": -0.23907788269999372
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 77,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_jyotish": {
+              "exposed": 9,
+              "supported": 4,
+              "recorded": 77,
+              "rd": 0.2668288726682887,
+              "z": 2.0464786094713046
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 77,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 77,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_jyotish": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 77,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 77,
+              "rd": null,
+              "z": null
+            }
+          },
+          "fold_rule_counts": [
+            284,
+            299,
+            285,
+            317,
+            314
+          ],
+          "max_rd": 0.684964200477327,
+          "max_z": 2.1735733835137685
+        },
+        "recorded_supported": {
+          "surfaces": {
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 7,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_jyotish": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 7,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 7,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 7,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_jyotish": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 7,
+              "rd": null,
+              "z": null
+            },
+            "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 7,
+              "rd": null,
+              "z": null
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_both": {
+              "exposed": 4,
+              "supported": 2,
+              "recorded": 165,
+              "rd": 0.10817307692307693,
+              "z": 0.44086784762595405
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_jyotish": {
+              "exposed": 69,
+              "supported": 27,
+              "recorded": 165,
+              "rd": -0.00185804533630618,
+              "z": -0.02888996349323061
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_western": {
+              "exposed": 10,
+              "supported": 4,
+              "recorded": 165,
+              "rd": 0.007317073170731714,
+              "z": 0.0468103522510372
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_both": {
+              "exposed": 2,
+              "supported": 1,
+              "recorded": 165,
+              "rd": 0.1076555023923445,
+              "z": 0.31099395941237074
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_jyotish": {
+              "exposed": 60,
+              "supported": 22,
+              "recorded": 165,
+              "rd": -0.030555555555555558,
+              "z": -0.4486726975674848
+            },
+            "ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_western": {
+              "exposed": 8,
+              "supported": 3,
+              "recorded": 165,
+              "rd": -0.018203883495145623,
+              "z": -0.10441676447283219
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|any_both": {
+              "exposed": 6,
+              "supported": 3,
+              "recorded": 210,
+              "rd": 0.0,
+              "z": 0.0
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|any_jyotish": {
+              "exposed": 112,
+              "supported": 63,
+              "recorded": 210,
+              "rd": 0.08522727272727271,
+              "z": 1.5447859516333113
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|any_western": {
+              "exposed": 15,
+              "supported": 8,
+              "recorded": 210,
+              "rd": 0.03456790123456788,
+              "z": 0.26293687924887166
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|primary_both": {
+              "exposed": 5,
+              "supported": 3,
+              "recorded": 210,
+              "rd": 0.1012048192771084,
+              "z": 0.44989958719053824
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+              "exposed": 103,
+              "supported": 56,
+              "recorded": 210,
+              "rd": 0.05788490398456403,
+              "z": 1.0207488778941434
+            },
+            "AUTHORED_SYMBOLIC_PRODUCTION|primary_western": {
+              "exposed": 13,
+              "supported": 8,
+              "recorded": 210,
+              "rd": 0.11907011907011911,
+              "z": 0.8452341181120855
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 42,
+              "rd": null,
+              "z": null
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_jyotish": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 42,
+              "rd": -0.10047846889952153,
+              "z": -0.4725309370225204
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 42,
+              "rd": null,
+              "z": null
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 42,
+              "rd": null,
+              "z": null
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_jyotish": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 42,
+              "rd": -0.10047846889952153,
+              "z": -0.4725309370225204
+            },
+            "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 42,
+              "rd": null,
+              "z": null
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 84,
+              "rd": null,
+              "z": null
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|any_jyotish": {
+              "exposed": 20,
+              "supported": 6,
+              "recorded": 84,
+              "rd": 0.10499999999999998,
+              "z": 1.1456439237389597
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|any_western": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 84,
+              "rd": -0.20095693779904306,
+              "z": -0.7087964055337805
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 84,
+              "rd": null,
+              "z": null
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|primary_jyotish": {
+              "exposed": 1,
+              "supported": 0,
+              "recorded": 84,
+              "rd": -0.20047732696897375,
+              "z": -0.5005963031337898
+            },
+            "EMBODIED_COMPETITIVE_PERFORMANCE|primary_western": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 84,
+              "rd": -0.20095693779904306,
+              "z": -0.7087964055337805
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 100,
+              "rd": null,
+              "z": null
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_jyotish": {
+              "exposed": 16,
+              "supported": 2,
+              "recorded": 100,
+              "rd": -0.11757425742574257,
+              "z": -1.0829603953154439
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 100,
+              "rd": null,
+              "z": null
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 100,
+              "rd": null,
+              "z": null
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_jyotish": {
+              "exposed": 11,
+              "supported": 2,
+              "recorded": 100,
+              "rd": -0.05779062013780839,
+              "z": -0.4440838785863219
+            },
+            "KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 100,
+              "rd": null,
+              "z": null
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|any_both": {
+              "exposed": 9,
+              "supported": 8,
+              "recorded": 234,
+              "rd": 0.3390105433901054,
+              "z": 2.0254224303432777
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|any_jyotish": {
+              "exposed": 127,
+              "supported": 67,
+              "recorded": 234,
+              "rd": -0.04240681518905709,
+              "z": -0.8035845395377338
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|any_western": {
+              "exposed": 23,
+              "supported": 17,
+              "recorded": 234,
+              "rd": 0.19253093856094616,
+              "z": 1.807257117221032
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|primary_both": {
+              "exposed": 9,
+              "supported": 8,
+              "recorded": 234,
+              "rd": 0.3390105433901054,
+              "z": 2.0254224303432777
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|primary_jyotish": {
+              "exposed": 125,
+              "supported": 66,
+              "recorded": 234,
+              "rd": -0.0414915254237288,
+              "z": -0.7826825669918289
+            },
+            "ORGANIZED_COLLECTIVE_REALIZATION|primary_western": {
+              "exposed": 23,
+              "supported": 17,
+              "recorded": 234,
+              "rd": 0.19253093856094616,
+              "z": 1.807257117221032
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|any_both": {
+              "exposed": 2,
+              "supported": 1,
+              "recorded": 131,
+              "rd": 0.18899521531100477,
+              "z": 0.5755645328713939
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|any_jyotish": {
+              "exposed": 42,
+              "supported": 16,
+              "recorded": 131,
+              "rd": 0.07671957671957669,
+              "z": 1.0181618475534118
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|any_western": {
+              "exposed": 11,
+              "supported": 2,
+              "recorded": 131,
+              "rd": -0.13358524116470327,
+              "z": -0.9437491020368729
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|primary_both": {
+              "exposed": 1,
+              "supported": 1,
+              "recorded": 131,
+              "rd": 0.6897374701670644,
+              "z": 1.4870682707115368
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+              "exposed": 30,
+              "supported": 14,
+              "recorded": 131,
+              "rd": 0.16666666666666669,
+              "z": 1.8988110765905057
+            },
+            "PERFORMED_SYMBOLIC_PRODUCTION|primary_western": {
+              "exposed": 6,
+              "supported": 2,
+              "recorded": 131,
+              "rd": 0.021739130434782594,
+              "z": 0.1141190217283348
+            },
+            "RULE_OR_INSTITUTION_OPERATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 70,
+              "rd": null,
+              "z": null
+            },
+            "RULE_OR_INSTITUTION_OPERATION|any_jyotish": {
+              "exposed": 14,
+              "supported": 2,
+              "recorded": 70,
+              "rd": -0.02463054187192118,
+              "z": -0.24313226954193232
+            },
+            "RULE_OR_INSTITUTION_OPERATION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 70,
+              "rd": null,
+              "z": null
+            },
+            "RULE_OR_INSTITUTION_OPERATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 70,
+              "rd": null,
+              "z": null
+            },
+            "RULE_OR_INSTITUTION_OPERATION|primary_jyotish": {
+              "exposed": 7,
+              "supported": 0,
+              "recorded": 70,
+              "rd": -0.1694915254237288,
+              "z": -1.1932010784269858
+            },
+            "RULE_OR_INSTITUTION_OPERATION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 70,
+              "rd": null,
+              "z": null
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 122,
+              "rd": null,
+              "z": null
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_jyotish": {
+              "exposed": 35,
+              "supported": 6,
+              "recorded": 122,
+              "rd": -0.12987012987012986,
+              "z": -1.6203553208438004
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_western": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 122,
+              "rd": -0.291866028708134,
+              "z": -0.9070334123523783
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 122,
+              "rd": null,
+              "z": null
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_jyotish": {
+              "exposed": 25,
+              "supported": 2,
+              "recorded": 122,
+              "rd": -0.22379746835443037,
+              "z": -2.390343524336099
+            },
+            "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_western": {
+              "exposed": 2,
+              "supported": 0,
+              "recorded": 122,
+              "rd": -0.291866028708134,
+              "z": -0.9070334123523783
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 69,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_jyotish": {
+              "exposed": 6,
+              "supported": 1,
+              "recorded": 69,
+              "rd": 0.0024154589371980506,
+              "z": 0.01585338462110843
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|any_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 69,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_both": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 69,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_jyotish": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 69,
+              "rd": null,
+              "z": null
+            },
+            "VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_western": {
+              "exposed": 0,
+              "supported": 0,
+              "recorded": 69,
+              "rd": null,
+              "z": null
+            }
+          },
+          "fold_rule_counts": [
+            246,
+            261,
+            213,
+            255,
+            263
+          ],
+          "max_rd": 0.6897374701670644,
+          "max_z": 2.0254224303432777
+        }
+      },
+      "max_z": 2.1735733835137685
+    },
+    "draws": 199,
+    "seed": 20261101,
+    "max_z_p": 0.785,
+    "tests": {
+      "recorded_any|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_both": {
+        "same_surface_p": 0.435,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_jyotish": {
+        "same_surface_p": 0.5,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_western": {
+        "same_surface_p": 0.695,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_both": {
+        "same_surface_p": 0.285,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_jyotish": {
+        "same_surface_p": 0.65,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_western": {
+        "same_surface_p": 0.735,
+        "max_z_p": 1.0
+      },
+      "recorded_any|AUTHORED_SYMBOLIC_PRODUCTION|any_both": {
+        "same_surface_p": 0.82,
+        "max_z_p": 1.0
+      },
+      "recorded_any|AUTHORED_SYMBOLIC_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.33,
+        "max_z_p": 1.0
+      },
+      "recorded_any|AUTHORED_SYMBOLIC_PRODUCTION|any_western": {
+        "same_surface_p": 0.84,
+        "max_z_p": 1.0
+      },
+      "recorded_any|AUTHORED_SYMBOLIC_PRODUCTION|primary_both": {
+        "same_surface_p": 0.665,
+        "max_z_p": 1.0
+      },
+      "recorded_any|AUTHORED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.435,
+        "max_z_p": 1.0
+      },
+      "recorded_any|AUTHORED_SYMBOLIC_PRODUCTION|primary_western": {
+        "same_surface_p": 0.79,
+        "max_z_p": 1.0
+      },
+      "recorded_any|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_jyotish": {
+        "same_surface_p": 0.48,
+        "max_z_p": 1.0
+      },
+      "recorded_any|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_jyotish": {
+        "same_surface_p": 0.335,
+        "max_z_p": 1.0
+      },
+      "recorded_any|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|EMBODIED_COMPETITIVE_PERFORMANCE|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|EMBODIED_COMPETITIVE_PERFORMANCE|any_jyotish": {
+        "same_surface_p": 0.025,
+        "max_z_p": 0.785
+      },
+      "recorded_any|EMBODIED_COMPETITIVE_PERFORMANCE|any_western": {
+        "same_surface_p": 0.43,
+        "max_z_p": 1.0
+      },
+      "recorded_any|EMBODIED_COMPETITIVE_PERFORMANCE|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|EMBODIED_COMPETITIVE_PERFORMANCE|primary_jyotish": {
+        "same_surface_p": 0.435,
+        "max_z_p": 1.0
+      },
+      "recorded_any|EMBODIED_COMPETITIVE_PERFORMANCE|primary_western": {
+        "same_surface_p": 0.38,
+        "max_z_p": 1.0
+      },
+      "recorded_any|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.67,
+        "max_z_p": 1.0
+      },
+      "recorded_any|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_western": {
+        "same_surface_p": 0.755,
+        "max_z_p": 1.0
+      },
+      "recorded_any|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.515,
+        "max_z_p": 1.0
+      },
+      "recorded_any|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|ORGANIZED_COLLECTIVE_REALIZATION|any_both": {
+        "same_surface_p": 0.29,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ORGANIZED_COLLECTIVE_REALIZATION|any_jyotish": {
+        "same_surface_p": 0.85,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ORGANIZED_COLLECTIVE_REALIZATION|any_western": {
+        "same_surface_p": 0.13,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ORGANIZED_COLLECTIVE_REALIZATION|primary_both": {
+        "same_surface_p": 0.3,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ORGANIZED_COLLECTIVE_REALIZATION|primary_jyotish": {
+        "same_surface_p": 0.885,
+        "max_z_p": 1.0
+      },
+      "recorded_any|ORGANIZED_COLLECTIVE_REALIZATION|primary_western": {
+        "same_surface_p": 0.13,
+        "max_z_p": 1.0
+      },
+      "recorded_any|PERFORMED_SYMBOLIC_PRODUCTION|any_both": {
+        "same_surface_p": 0.15,
+        "max_z_p": 1.0
+      },
+      "recorded_any|PERFORMED_SYMBOLIC_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.145,
+        "max_z_p": 1.0
+      },
+      "recorded_any|PERFORMED_SYMBOLIC_PRODUCTION|any_western": {
+        "same_surface_p": 0.76,
+        "max_z_p": 1.0
+      },
+      "recorded_any|PERFORMED_SYMBOLIC_PRODUCTION|primary_both": {
+        "same_surface_p": 0.07,
+        "max_z_p": 0.995
+      },
+      "recorded_any|PERFORMED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.075,
+        "max_z_p": 0.82
+      },
+      "recorded_any|PERFORMED_SYMBOLIC_PRODUCTION|primary_western": {
+        "same_surface_p": 0.335,
+        "max_z_p": 1.0
+      },
+      "recorded_any|RULE_OR_INSTITUTION_OPERATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|RULE_OR_INSTITUTION_OPERATION|any_jyotish": {
+        "same_surface_p": 0.335,
+        "max_z_p": 1.0
+      },
+      "recorded_any|RULE_OR_INSTITUTION_OPERATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|RULE_OR_INSTITUTION_OPERATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|RULE_OR_INSTITUTION_OPERATION|primary_jyotish": {
+        "same_surface_p": 0.31,
+        "max_z_p": 1.0
+      },
+      "recorded_any|RULE_OR_INSTITUTION_OPERATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_jyotish": {
+        "same_surface_p": 0.49,
+        "max_z_p": 1.0
+      },
+      "recorded_any|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_western": {
+        "same_surface_p": 0.365,
+        "max_z_p": 1.0
+      },
+      "recorded_any|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_jyotish": {
+        "same_surface_p": 0.535,
+        "max_z_p": 1.0
+      },
+      "recorded_any|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_western": {
+        "same_surface_p": 0.35,
+        "max_z_p": 1.0
+      },
+      "recorded_any|VISUAL_OR_DIRECTORIAL_PRODUCTION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|VISUAL_OR_DIRECTORIAL_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.085,
+        "max_z_p": 0.845
+      },
+      "recorded_any|VISUAL_OR_DIRECTORIAL_PRODUCTION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_any|VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_both": {
+        "same_surface_p": 0.18,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_jyotish": {
+        "same_surface_p": 0.465,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|any_western": {
+        "same_surface_p": 0.37,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_both": {
+        "same_surface_p": 0.135,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_jyotish": {
+        "same_surface_p": 0.6,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ADVOCACY_OR_PUBLIC_CAUSE_ACTION|primary_western": {
+        "same_surface_p": 0.365,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|AUTHORED_SYMBOLIC_PRODUCTION|any_both": {
+        "same_surface_p": 0.53,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|AUTHORED_SYMBOLIC_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.1,
+        "max_z_p": 0.99
+      },
+      "recorded_supported|AUTHORED_SYMBOLIC_PRODUCTION|any_western": {
+        "same_surface_p": 0.425,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|AUTHORED_SYMBOLIC_PRODUCTION|primary_both": {
+        "same_surface_p": 0.38,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|AUTHORED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.19,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|AUTHORED_SYMBOLIC_PRODUCTION|primary_western": {
+        "same_surface_p": 0.24,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_jyotish": {
+        "same_surface_p": 0.36,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_jyotish": {
+        "same_surface_p": 0.225,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|EMBODIED_COMPETITIVE_PERFORMANCE|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|EMBODIED_COMPETITIVE_PERFORMANCE|any_jyotish": {
+        "same_surface_p": 0.145,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|EMBODIED_COMPETITIVE_PERFORMANCE|any_western": {
+        "same_surface_p": 0.36,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|EMBODIED_COMPETITIVE_PERFORMANCE|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|EMBODIED_COMPETITIVE_PERFORMANCE|primary_jyotish": {
+        "same_surface_p": 0.365,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|EMBODIED_COMPETITIVE_PERFORMANCE|primary_western": {
+        "same_surface_p": 0.315,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.745,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.545,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|KNOWLEDGE_OR_DISCOVERY_PRODUCTION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|ORGANIZED_COLLECTIVE_REALIZATION|any_both": {
+        "same_surface_p": 0.01,
+        "max_z_p": 0.86
+      },
+      "recorded_supported|ORGANIZED_COLLECTIVE_REALIZATION|any_jyotish": {
+        "same_surface_p": 0.83,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ORGANIZED_COLLECTIVE_REALIZATION|any_western": {
+        "same_surface_p": 0.05,
+        "max_z_p": 0.95
+      },
+      "recorded_supported|ORGANIZED_COLLECTIVE_REALIZATION|primary_both": {
+        "same_surface_p": 0.01,
+        "max_z_p": 0.86
+      },
+      "recorded_supported|ORGANIZED_COLLECTIVE_REALIZATION|primary_jyotish": {
+        "same_surface_p": 0.81,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|ORGANIZED_COLLECTIVE_REALIZATION|primary_western": {
+        "same_surface_p": 0.05,
+        "max_z_p": 0.95
+      },
+      "recorded_supported|PERFORMED_SYMBOLIC_PRODUCTION|any_both": {
+        "same_surface_p": 0.145,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|PERFORMED_SYMBOLIC_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.19,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|PERFORMED_SYMBOLIC_PRODUCTION|any_western": {
+        "same_surface_p": 0.67,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|PERFORMED_SYMBOLIC_PRODUCTION|primary_both": {
+        "same_surface_p": 0.07,
+        "max_z_p": 0.99
+      },
+      "recorded_supported|PERFORMED_SYMBOLIC_PRODUCTION|primary_jyotish": {
+        "same_surface_p": 0.06,
+        "max_z_p": 0.925
+      },
+      "recorded_supported|PERFORMED_SYMBOLIC_PRODUCTION|primary_western": {
+        "same_surface_p": 0.33,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|RULE_OR_INSTITUTION_OPERATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|RULE_OR_INSTITUTION_OPERATION|any_jyotish": {
+        "same_surface_p": 0.335,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|RULE_OR_INSTITUTION_OPERATION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|RULE_OR_INSTITUTION_OPERATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|RULE_OR_INSTITUTION_OPERATION|primary_jyotish": {
+        "same_surface_p": 0.815,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|RULE_OR_INSTITUTION_OPERATION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_jyotish": {
+        "same_surface_p": 0.855,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|any_western": {
+        "same_surface_p": 0.65,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_jyotish": {
+        "same_surface_p": 0.97,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION|primary_western": {
+        "same_surface_p": 0.64,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|VISUAL_OR_DIRECTORIAL_PRODUCTION|any_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|VISUAL_OR_DIRECTORIAL_PRODUCTION|any_jyotish": {
+        "same_surface_p": 0.335,
+        "max_z_p": 1.0
+      },
+      "recorded_supported|VISUAL_OR_DIRECTORIAL_PRODUCTION|any_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_both": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_jyotish": {
+        "same_surface_p": null,
+        "max_z_p": null
+      },
+      "recorded_supported|VISUAL_OR_DIRECTORIAL_PRODUCTION|primary_western": {
+        "same_surface_p": null,
+        "max_z_p": null
+      }
+    }
+  }
+}

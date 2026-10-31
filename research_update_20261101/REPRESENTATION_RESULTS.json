@@ -1,0 +1,949 @@
+{
+  "scope": "Representation and condition diagnostics; not independent empirical validation",
+  "full_rules": 741,
+  "public_five_function_rules": 515,
+  "people": 420,
+  "original_response_parity": {
+    "direct_old_match_persons": 420,
+    "semantic_old_match_persons": 420
+  },
+  "full741_transitions": [
+    {
+      "by_function": {
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+          "added|ACTOR_CHANGED": 115,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 17,
+          "lost|ACTOR_CHANGED": 217,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 389,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 3
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION": {
+          "added|ACTOR_CHANGED": 132,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 19,
+          "lost|ACTOR_CHANGED": 375,
+          "lost|CARRIER_CHANGED": 1,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 653,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 15
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+          "added|ACTOR_CHANGED": 33,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1,
+          "lost|ACTOR_CHANGED": 39,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 66,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 14
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE": {
+          "added|ACTOR_CHANGED": 96,
+          "lost|ACTOR_CHANGED": 165,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 156,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 4
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+          "added|ACTOR_CHANGED": 92,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 18,
+          "lost|ACTOR_CHANGED": 212,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 270,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 4
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION": {
+          "added|ACTOR_CHANGED": 159,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 25,
+          "lost|ACTOR_CHANGED": 309,
+          "lost|CARRIER_CHANGED": 1,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 433,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 7
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION": {
+          "added|ACTOR_CHANGED": 93,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 4,
+          "lost|ACTOR_CHANGED": 173,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 249,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 2
+        },
+        "RULE_OR_INSTITUTION_OPERATION": {
+          "added|ACTOR_CHANGED": 44,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2,
+          "lost|ACTOR_CHANGED": 91,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 150,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 30
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+          "added|ACTOR_CHANGED": 94,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 13,
+          "lost|ACTOR_CHANGED": 204,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 282,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 35
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+          "added|ACTOR_CHANGED": 71,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 7,
+          "lost|ACTOR_CHANGED": 135,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 147
+        }
+      },
+      "by_system": {
+        "JYOTISH": {
+          "added|ACTOR_CHANGED": 929,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 19,
+          "lost|ACTOR_CHANGED": 1920,
+          "lost|CARRIER_CHANGED": 2,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1410,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 114
+        },
+        "WESTERN": {
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 87,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1385
+        }
+      },
+      "from": "ait",
+      "link_changes": {
+        "added|ACTOR_CHANGED": 929,
+        "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 106,
+        "lost|ACTOR_CHANGED": 1920,
+        "lost|CARRIER_CHANGED": 2,
+        "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2795,
+        "lost|TOPOLOGY_OR_MODE_CHANGED": 114
+      },
+      "persons_changed": 416,
+      "to": "ajh"
+    },
+    {
+      "by_function": {
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 44
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 58
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 8
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 20
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 12
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 35
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 29
+        },
+        "RULE_OR_INSTITUTION_OPERATION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 13
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 14
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 19
+        }
+      },
+      "by_system": {
+        "JYOTISH": {
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 252
+        }
+      },
+      "from": "ajh",
+      "link_changes": {
+        "lost|TOPOLOGY_OR_MODE_CHANGED": 252
+      },
+      "persons_changed": 95,
+      "to": "ajy"
+    },
+    {
+      "by_function": {
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+          "added|ACTOR_CHANGED": 12,
+          "added|CARRIER_CHANGED": 8,
+          "lost|ACTOR_CHANGED": 12,
+          "lost|CARRIER_CHANGED": 15
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION": {
+          "added|ACTOR_CHANGED": 15,
+          "added|CARRIER_CHANGED": 10,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2,
+          "lost|ACTOR_CHANGED": 24,
+          "lost|CARRIER_CHANGED": 27,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 2
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+          "added|ACTOR_CHANGED": 3,
+          "lost|CARRIER_CHANGED": 1
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE": {
+          "added|ACTOR_CHANGED": 10,
+          "added|CARRIER_CHANGED": 1,
+          "lost|ACTOR_CHANGED": 9,
+          "lost|CARRIER_CHANGED": 9,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+          "added|ACTOR_CHANGED": 10,
+          "added|CARRIER_CHANGED": 4,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2,
+          "lost|ACTOR_CHANGED": 14,
+          "lost|CARRIER_CHANGED": 12,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 1
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION": {
+          "added|ACTOR_CHANGED": 9,
+          "added|CARRIER_CHANGED": 11,
+          "lost|ACTOR_CHANGED": 16,
+          "lost|CARRIER_CHANGED": 23,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION": {
+          "added|ACTOR_CHANGED": 6,
+          "added|CARRIER_CHANGED": 5,
+          "lost|ACTOR_CHANGED": 4,
+          "lost|CARRIER_CHANGED": 6,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1
+        },
+        "RULE_OR_INSTITUTION_OPERATION": {
+          "added|ACTOR_CHANGED": 5,
+          "added|CARRIER_CHANGED": 3,
+          "lost|ACTOR_CHANGED": 5
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+          "added|ACTOR_CHANGED": 11,
+          "added|CARRIER_CHANGED": 6,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 3,
+          "lost|ACTOR_CHANGED": 15,
+          "lost|CARRIER_CHANGED": 11,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 1
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+          "added|ACTOR_CHANGED": 6,
+          "added|CARRIER_CHANGED": 2,
+          "lost|ACTOR_CHANGED": 3,
+          "lost|CARRIER_CHANGED": 4
+        }
+      },
+      "by_system": {
+        "JYOTISH": {
+          "added|ACTOR_CHANGED": 79,
+          "added|CARRIER_CHANGED": 42,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 7,
+          "lost|ACTOR_CHANGED": 94,
+          "lost|CARRIER_CHANGED": 105,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 5,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 4
+        },
+        "WESTERN": {
+          "added|ACTOR_CHANGED": 8,
+          "added|CARRIER_CHANGED": 8,
+          "lost|ACTOR_CHANGED": 8,
+          "lost|CARRIER_CHANGED": 3
+        }
+      },
+      "from": "ajy",
+      "link_changes": {
+        "added|ACTOR_CHANGED": 87,
+        "added|CARRIER_CHANGED": 50,
+        "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 7,
+        "lost|ACTOR_CHANGED": 102,
+        "lost|CARRIER_CHANGED": 108,
+        "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 5,
+        "lost|TOPOLOGY_OR_MODE_CHANGED": 4
+      },
+      "persons_changed": 56,
+      "to": "corrected"
+    },
+    {
+      "by_function": {
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+          "added|ACTOR_CHANGED": 95,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 14,
+          "lost|ACTOR_CHANGED": 217,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 386,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 27
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION": {
+          "added|ACTOR_CHANGED": 108,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 19,
+          "lost|ACTOR_CHANGED": 375,
+          "lost|CARRIER_CHANGED": 1,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 650,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 52
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+          "added|ACTOR_CHANGED": 31,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1,
+          "lost|ACTOR_CHANGED": 39,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 64,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 22
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE": {
+          "added|ACTOR_CHANGED": 82,
+          "lost|ACTOR_CHANGED": 165,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 156,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 10
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+          "added|ACTOR_CHANGED": 87,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 18,
+          "lost|ACTOR_CHANGED": 212,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 269,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 12
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION": {
+          "added|ACTOR_CHANGED": 135,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 25,
+          "lost|ACTOR_CHANGED": 309,
+          "lost|CARRIER_CHANGED": 1,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 427,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 24
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION": {
+          "added|ACTOR_CHANGED": 80,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 4,
+          "lost|ACTOR_CHANGED": 173,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 247,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 20
+        },
+        "RULE_OR_INSTITUTION_OPERATION": {
+          "added|ACTOR_CHANGED": 37,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2,
+          "lost|ACTOR_CHANGED": 91,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 149,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 37
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+          "added|ACTOR_CHANGED": 89,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 13,
+          "lost|ACTOR_CHANGED": 204,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 281,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 45
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+          "added|ACTOR_CHANGED": 62,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 7,
+          "lost|ACTOR_CHANGED": 135,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 146,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 11
+        }
+      },
+      "by_system": {
+        "JYOTISH": {
+          "added|ACTOR_CHANGED": 806,
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 16,
+          "lost|ACTOR_CHANGED": 1920,
+          "lost|CARRIER_CHANGED": 2,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1390,
+          "lost|TOPOLOGY_OR_MODE_CHANGED": 260
+        },
+        "WESTERN": {
+          "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 87,
+          "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 1385
+        }
+      },
+      "from": "ait",
+      "link_changes": {
+        "added|ACTOR_CHANGED": 806,
+        "added|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 103,
+        "lost|ACTOR_CHANGED": 1920,
+        "lost|CARRIER_CHANGED": 2,
+        "lost|CONNECTED_CAPABILITY_OR_RELATION_CHANGED": 2775,
+        "lost|TOPOLOGY_OR_MODE_CHANGED": 260
+      },
+      "persons_changed": 417,
+      "to": "ajy"
+    }
+  ],
+  "public515_changes": {
+    "representation_people": 416,
+    "input_correction_people": 55
+  },
+  "function_surfaces": {
+    "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+      "ait": {
+        "both_any": 99,
+        "both_primary": 71,
+        "jyotish_any": 282,
+        "western_any": 137
+      },
+      "ajh": {
+        "both_any": 36,
+        "both_primary": 34,
+        "jyotish_any": 275,
+        "western_any": 45
+      },
+      "ajy": {
+        "both_any": 36,
+        "both_primary": 34,
+        "jyotish_any": 258,
+        "western_any": 45
+      },
+      "corrected": {
+        "both_any": 37,
+        "both_primary": 35,
+        "jyotish_any": 256,
+        "western_any": 47
+      }
+    },
+    "AUTHORED_SYMBOLIC_PRODUCTION": {
+      "ait": {
+        "both_any": 142,
+        "both_primary": 85,
+        "jyotish_any": 326,
+        "western_any": 162
+      },
+      "ajh": {
+        "both_any": 56,
+        "both_primary": 42,
+        "jyotish_any": 311,
+        "western_any": 63
+      },
+      "ajy": {
+        "both_any": 55,
+        "both_primary": 39,
+        "jyotish_any": 295,
+        "western_any": 63
+      },
+      "corrected": {
+        "both_any": 53,
+        "both_primary": 37,
+        "jyotish_any": 293,
+        "western_any": 60
+      }
+    },
+    "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+      "ait": {
+        "both_any": 4,
+        "both_primary": 1,
+        "jyotish_any": 74,
+        "western_any": 13
+      },
+      "ajh": {
+        "both_any": 1,
+        "both_primary": 0,
+        "jyotish_any": 75,
+        "western_any": 5
+      },
+      "ajy": {
+        "both_any": 1,
+        "both_primary": 0,
+        "jyotish_any": 72,
+        "western_any": 5
+      },
+      "corrected": {
+        "both_any": 1,
+        "both_primary": 0,
+        "jyotish_any": 74,
+        "western_any": 4
+      }
+    },
+    "EMBODIED_COMPETITIVE_PERFORMANCE": {
+      "ait": {
+        "both_any": 25,
+        "both_primary": 0,
+        "jyotish_any": 182,
+        "western_any": 43
+      },
+      "ajh": {
+        "both_any": 1,
+        "both_primary": 0,
+        "jyotish_any": 201,
+        "western_any": 1
+      },
+      "ajy": {
+        "both_any": 0,
+        "both_primary": 0,
+        "jyotish_any": 196,
+        "western_any": 1
+      },
+      "corrected": {
+        "both_any": 0,
+        "both_primary": 0,
+        "jyotish_any": 191,
+        "western_any": 1
+      }
+    },
+    "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+      "ait": {
+        "both_any": 49,
+        "both_primary": 6,
+        "jyotish_any": 266,
+        "western_any": 69
+      },
+      "ajh": {
+        "both_any": 12,
+        "both_primary": 4,
+        "jyotish_any": 263,
+        "western_any": 17
+      },
+      "ajy": {
+        "both_any": 12,
+        "both_primary": 4,
+        "jyotish_any": 257,
+        "western_any": 17
+      },
+      "corrected": {
+        "both_any": 10,
+        "both_primary": 3,
+        "jyotish_any": 254,
+        "western_any": 15
+      }
+    },
+    "ORGANIZED_COLLECTIVE_REALIZATION": {
+      "ait": {
+        "both_any": 127,
+        "both_primary": 120,
+        "jyotish_any": 289,
+        "western_any": 159
+      },
+      "ajh": {
+        "both_any": 58,
+        "both_primary": 57,
+        "jyotish_any": 302,
+        "western_any": 72
+      },
+      "ajy": {
+        "both_any": 56,
+        "both_primary": 55,
+        "jyotish_any": 297,
+        "western_any": 72
+      },
+      "corrected": {
+        "both_any": 56,
+        "both_primary": 55,
+        "jyotish_any": 289,
+        "western_any": 73
+      }
+    },
+    "PERFORMED_SYMBOLIC_PRODUCTION": {
+      "ait": {
+        "both_any": 49,
+        "both_primary": 10,
+        "jyotish_any": 226,
+        "western_any": 87
+      },
+      "ajh": {
+        "both_any": 13,
+        "both_primary": 6,
+        "jyotish_any": 217,
+        "western_any": 20
+      },
+      "ajy": {
+        "both_any": 13,
+        "both_primary": 6,
+        "jyotish_any": 202,
+        "western_any": 20
+      },
+      "corrected": {
+        "both_any": 14,
+        "both_primary": 6,
+        "jyotish_any": 199,
+        "western_any": 22
+      }
+    },
+    "RULE_OR_INSTITUTION_OPERATION": {
+      "ait": {
+        "both_any": 18,
+        "both_primary": 9,
+        "jyotish_any": 131,
+        "western_any": 55
+      },
+      "ajh": {
+        "both_any": 4,
+        "both_primary": 1,
+        "jyotish_any": 108,
+        "western_any": 9
+      },
+      "ajy": {
+        "both_any": 3,
+        "both_primary": 1,
+        "jyotish_any": 101,
+        "western_any": 9
+      },
+      "corrected": {
+        "both_any": 3,
+        "both_primary": 1,
+        "jyotish_any": 103,
+        "western_any": 10
+      }
+    },
+    "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+      "ait": {
+        "both_any": 54,
+        "both_primary": 34,
+        "jyotish_any": 255,
+        "western_any": 81
+      },
+      "ajh": {
+        "both_any": 24,
+        "both_primary": 21,
+        "jyotish_any": 233,
+        "western_any": 38
+      },
+      "ajy": {
+        "both_any": 24,
+        "both_primary": 21,
+        "jyotish_any": 227,
+        "western_any": 38
+      },
+      "corrected": {
+        "both_any": 24,
+        "both_primary": 22,
+        "jyotish_any": 226,
+        "western_any": 41
+      }
+    },
+    "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+      "ait": {
+        "both_any": 18,
+        "both_primary": 0,
+        "jyotish_any": 195,
+        "western_any": 35
+      },
+      "ajh": {
+        "both_any": 11,
+        "both_primary": 0,
+        "jyotish_any": 195,
+        "western_any": 18
+      },
+      "ajy": {
+        "both_any": 11,
+        "both_primary": 0,
+        "jyotish_any": 187,
+        "western_any": 18
+      },
+      "corrected": {
+        "both_any": 12,
+        "both_primary": 0,
+        "jyotish_any": 186,
+        "western_any": 19
+      }
+    }
+  },
+  "invariant_nonempty_rules_old_to_portable": 290,
+  "invariant_nonempty_rules_all_four_states": 158,
+  "graph_preservation_counts": {
+    "baseline_parity": 420,
+    "complete_participant_relations": 3237,
+    "cycle_people": 226,
+    "incoming_paths": 881,
+    "self_terminal_people": 62,
+    "typed_relations_preserved": 13136
+  },
+  "logical_state_counts": {
+    "EXACT_TYPED_QUERY_MATCH": 3953,
+    "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 309,
+    "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 29962,
+    "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 261857,
+    "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 7486,
+    "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 3792,
+    "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 2675,
+    "UNRESOLVED_LEGACY_PATH_GRANULARITY_NO_NONTRIVIAL_PATH": 41,
+    "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 1145
+  },
+  "old_positive_link_mapping": {
+    "boundary": "Possible means unresolved representation, not observed route support. Translated query matches are a separate diagnostic version. No activity labels used.",
+    "by_function": {
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+        "EXACT_TYPED_QUERY_MATCH": 388,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 25,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 24,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 239,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 51,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 3,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 216,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 91
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION": {
+        "EXACT_TYPED_QUERY_MATCH": 532,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 39,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 44,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 420,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 62,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 16,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 376,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 169
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+        "EXACT_TYPED_QUERY_MATCH": 71,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 7,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 5,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 39,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 9,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 14,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 41,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 11
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE": {
+        "EXACT_TYPED_QUERY_MATCH": 231,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 6,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 13,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 170,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 26,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 4,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 114,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 9
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+        "EXACT_TYPED_QUERY_MATCH": 345,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 8,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 22,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 231,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 26,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 4,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 174,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 49
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION": {
+        "EXACT_TYPED_QUERY_MATCH": 548,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 15,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 29,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 329,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 75,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 8,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 255,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 81
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION": {
+        "EXACT_TYPED_QUERY_MATCH": 261,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 17,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 8,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 181,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 3,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 2,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 195,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 40
+      },
+      "RULE_OR_INSTITUTION_OPERATION": {
+        "EXACT_TYPED_QUERY_MATCH": 79,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 7,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 12,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 103,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 24,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 28,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 83,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 24
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+        "EXACT_TYPED_QUERY_MATCH": 313,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 11,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 16,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 218,
+        "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 45,
+        "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 34,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 147,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 79
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+        "EXACT_TYPED_QUERY_MATCH": 184,
+        "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 10,
+        "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 7,
+        "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 140,
+        "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 115,
+        "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 26
+      }
+    },
+    "current_states_of_old_positive_links": {
+      "EXACT_TYPED_QUERY_MATCH": 2952,
+      "MATCH_AFTER_EXPLICIT_DERIVATION_NAMESPACE_TRANSLATION": 145,
+      "NO_MATCH_CARRIER_WITHIN_FIXED_INPUT": 180,
+      "NO_MATCH_ROLE_OR_ACTOR_WITHIN_FIXED_INPUT": 2070,
+      "NO_MATCH_SPECIFIED_TYPED_PREDICATE_WITHIN_FIXED_INPUT": 321,
+      "UNRESOLVED_LEGACY_DRISHTI_TYPE_OR_DIRECTION": 113,
+      "UNRESOLVED_LEGACY_EMPTY_RELATION_MEANING": 1716,
+      "UNRESOLVED_LEGACY_PATH_GRANULARITY_WITH_EXPLICIT_PATHS_AVAILABLE": 579
+    },
+    "logical_exposure_bounds": {
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+        "exact_any_tier_both_people": 37,
+        "possible_any_tier_both_people": 163,
+        "translated_any_tier_both_people": 37
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION": {
+        "exact_any_tier_both_people": 53,
+        "possible_any_tier_both_people": 186,
+        "translated_any_tier_both_people": 53
+      },
+      "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+        "exact_any_tier_both_people": 1,
+        "possible_any_tier_both_people": 7,
+        "translated_any_tier_both_people": 1
+      },
+      "EMBODIED_COMPETITIVE_PERFORMANCE": {
+        "exact_any_tier_both_people": 0,
+        "possible_any_tier_both_people": 45,
+        "translated_any_tier_both_people": 1
+      },
+      "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+        "exact_any_tier_both_people": 10,
+        "possible_any_tier_both_people": 76,
+        "translated_any_tier_both_people": 10
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION": {
+        "exact_any_tier_both_people": 56,
+        "possible_any_tier_both_people": 194,
+        "translated_any_tier_both_people": 58
+      },
+      "PERFORMED_SYMBOLIC_PRODUCTION": {
+        "exact_any_tier_both_people": 14,
+        "possible_any_tier_both_people": 79,
+        "translated_any_tier_both_people": 14
+      },
+      "RULE_OR_INSTITUTION_OPERATION": {
+        "exact_any_tier_both_people": 3,
+        "possible_any_tier_both_people": 33,
+        "translated_any_tier_both_people": 3
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+        "exact_any_tier_both_people": 24,
+        "possible_any_tier_both_people": 84,
+        "translated_any_tier_both_people": 24
+      },
+      "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+        "exact_any_tier_both_people": 12,
+        "possible_any_tier_both_people": 29,
+        "translated_any_tier_both_people": 12
+      }
+    },
+    "old_positive_rule_person_links": 8076
+  },
+  "counterfactual_diagnostics": {
+    "ait_without_pure_missing_witness": {
+      "added_links": 0,
+      "base": "ait",
+      "changed_people": 203,
+      "functions": {
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+          "both_any": 78,
+          "both_primary": 56,
+          "jyotish_any": 282,
+          "western_any": 105
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION": {
+          "both_any": 130,
+          "both_primary": 82,
+          "jyotish_any": 326,
+          "western_any": 148
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+          "both_any": 4,
+          "both_primary": 1,
+          "jyotish_any": 74,
+          "western_any": 13
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE": {
+          "both_any": 12,
+          "both_primary": 0,
+          "jyotish_any": 182,
+          "western_any": 22
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+          "both_any": 40,
+          "both_primary": 5,
+          "jyotish_any": 266,
+          "western_any": 52
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION": {
+          "both_any": 110,
+          "both_primary": 104,
+          "jyotish_any": 289,
+          "western_any": 135
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION": {
+          "both_any": 26,
+          "both_primary": 10,
+          "jyotish_any": 226,
+          "western_any": 51
+        },
+        "RULE_OR_INSTITUTION_OPERATION": {
+          "both_any": 11,
+          "both_primary": 6,
+          "jyotish_any": 131,
+          "western_any": 31
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+          "both_any": 45,
+          "both_primary": 34,
+          "jyotish_any": 255,
+          "western_any": 65
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+          "both_any": 12,
+          "both_primary": 0,
+          "jyotish_any": 195,
+          "western_any": 22
+        }
+      },
+      "lost_links": 369,
+      "mutations": 334
+    },
+    "ajy_topology_namespace_projection": {
+      "added_links": 313,
+      "base": "ajy",
+      "changed_people": 115,
+      "functions": {
+        "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+          "both_any": 36,
+          "both_primary": 34,
+          "jyotish_any": 277,
+          "western_any": 45
+        },
+        "AUTHORED_SYMBOLIC_PRODUCTION": {
+          "both_any": 56,
+          "both_primary": 42,
+          "jyotish_any": 316,
+          "western_any": 63
+        },
+        "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION": {
+          "both_any": 1,
+          "both_primary": 0,
+          "jyotish_any": 75,
+          "western_any": 5
+        },
+        "EMBODIED_COMPETITIVE_PERFORMANCE": {
+          "both_any": 1,
+          "both_primary": 0,
+          "jyotish_any": 203,
+          "western_any": 1
+        },
+        "KNOWLEDGE_OR_DISCOVERY_PRODUCTION": {
+          "both_any": 12,
+          "both_primary": 4,
+          "jyotish_any": 264,
+          "western_any": 17
+        },
+        "ORGANIZED_COLLECTIVE_REALIZATION": {
+          "both_any": 59,
+          "both_primary": 58,
+          "jyotish_any": 304,
+          "western_any": 72
+        },
+        "PERFORMED_SYMBOLIC_PRODUCTION": {
+          "both_any": 13,
+          "both_primary": 6,
+          "jyotish_any": 223,
+          "western_any": 20
+        },
+        "RULE_OR_INSTITUTION_OPERATION": {
+          "both_any": 4,
+          "both_primary": 1,
+          "jyotish_any": 109,
+          "western_any": 9
+        },
+        "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+          "both_any": 24,
+          "both_primary": 21,
+          "jyotish_any": 234,
+          "western_any": 38
+        },
+        "VISUAL_OR_DIRECTORIAL_PRODUCTION": {
+          "both_any": 11,
+          "both_primary": 0,
+          "jyotish_any": 197,
+          "western_any": 18
+        }
+      },
+      "lost_links": 0,
+      "mutations": 1760
+    }
+  }
+}

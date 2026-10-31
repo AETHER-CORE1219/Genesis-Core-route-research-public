@@ -2,9 +2,10 @@
 
 English | [日本語の研究概要](README_JA.md)
 
-> **Research status correction (2026-10-23):** v7's five positive development associations are **historical reported values**, not the current corrected-input result; their reported significance requires independent statistical assessment. A later audit changed calculation inputs for 74 of the same 420 people. The corrected portable fixed-515 evaluation met the criterion for **two of five** functions (authored work and organized realization); advocacy and technology did not, and embodied competition was not estimable. A separate symmetric rediscovery yielded zero confirmatory candidates across 11 functions. Three completed limited person-out tests did not meet positive-confirmation criteria; positively confirmed person-out routes remain zero. The corrected evaluation uses a different representation and five-test family, not a directly comparable rerun of v7's 22 tests, and its saved results have not been independently recalculated. See the [full status note and product boundary](docs/RESEARCH_STATUS_20261023.md). Historical data and code below are preserved.
-
 Can structures defined from birth charts be associated with documented real-world actions?
+
+### Research Update (November 1, 2026)
+An audit and update directory, [`research_update_20261101/`](./research_update_20261101/), has been added to this repository. It preserves the central inquiry of how distinct astrological realization conditions converge onto shared overarching social functions, while disambiguating chart topologies and isolating candidate selection within cross-validation training folds. Readers can directly execute and inspect the rule selection procedures and permutation evaluations locally using the provided standalone Python script.
 
 > **New to astrology or statistics?** Begin with the [five-minute plain-language guide](docs/PLAIN_LANGUAGE_SUMMARY.md).
 

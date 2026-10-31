@@ -1,6 +1,7 @@
 # English documentation
 
-> **2026-10-23 status correction:** historical v7 significance values require independent assessment. The later corrected portable fixed-rule evaluation met the criterion for 2/5 aggregate functions, while three completed limited person-out tests did not meet positive-confirmation criteria. Read the [status correction](docs/RESEARCH_STATUS_20261023.md) before interpreting the historical results below.
+### Research Update (November 1, 2026)
+An audit and update directory, [`research_update_20261101/`](./research_update_20261101/), has been added to this repository. It preserves the central inquiry of how distinct astrological realization conditions converge onto shared overarching social functions, while disambiguating chart topologies and isolating candidate selection within cross-validation training folds. Readers can directly execute and inspect the rule selection procedures and permutation evaluations locally using the provided standalone Python script.
 
 The canonical English project gateway is the repository [README](README.md), which GitHub displays on the repository front page. The previous Japanese gateway is preserved as [README_JA.md](README_JA.md).
 

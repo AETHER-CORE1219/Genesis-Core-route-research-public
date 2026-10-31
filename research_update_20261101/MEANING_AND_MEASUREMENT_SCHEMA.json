@@ -1,0 +1,92 @@
+{
+  "query_dimensions": [
+    "system",
+    "functional_role",
+    "actor_capability_family",
+    "connected_capability_families",
+    "semantic_relation_family",
+    "relation_type",
+    "actor_direction",
+    "named_configuration",
+    "ordered_capabilities",
+    "same_context_carrier"
+  ],
+  "planet_capability_families": {
+    "Sun": "AUTHORIZATION_CENTRALITY_AND_VISIBLE_IDENTITY",
+    "Moon": "RECEPTIVITY_PUBLIC_RESPONSIVENESS_AND_CARE",
+    "Mercury": "MEDIATION_ANALYSIS_LANGUAGE_AND_EXCHANGE",
+    "Venus": "FORM_VALUE_RELATION_AND_SOCIAL_COHESION",
+    "Mars": "INITIATION_CONFLICT_AND_EMBODIED_EXECUTION",
+    "Jupiter": "KNOWLEDGE_EXPANSION_JUDGMENT_AND_LEGITIMATION",
+    "Saturn": "STRUCTURE_LIMIT_DUTY_AND_PERSISTENCE",
+    "Uranus": "INNOVATION_DISCONTINUITY_AND_SYSTEM_CHANGE",
+    "Neptune": "IMAGINATION_IMAGE_PERMEABILITY_AND_DISSOLUTION",
+    "Pluto": "POWER_DEPTH_CRISIS_AND_TRANSFORMATION",
+    "Rahu": "AMPLIFICATION_APPETITE_AND_BOUNDARY_CROSSING",
+    "Ketu": "SEPARATION_ABSTRACTION_AND_DEMATERIALIZATION"
+  },
+  "activity_function_definitions": {
+    "question": "What upper social-output function is realized?",
+    "cardinality": "exactly_one_per_component",
+    "values": [
+      {
+        "id": "ADVERSARIAL_OR_DESTRUCTIVE_REALIZATION",
+        "definition": "Publicly attributable coercive, destructive, exploitative, criminal or pathologically adversarial action or record."
+      },
+      {
+        "id": "ADVOCACY_OR_PUBLIC_CAUSE_ACTION",
+        "definition": "Mobilization, public argument or sustained intervention for a cause, population or collective claim."
+      },
+      {
+        "id": "AUTHORED_SYMBOLIC_PRODUCTION",
+        "definition": "Attributable creation and public transmission of authored verbal, textual, musical or symbolic content."
+      },
+      {
+        "id": "BELIEF_OR_SPIRITUAL_SYSTEM_MEDIATION",
+        "definition": "Public formulation, mediation, transmission or institutional embodiment of a belief, spiritual or metaphysical system."
+      },
+      {
+        "id": "EMBODIED_COMPETITIVE_PERFORMANCE",
+        "definition": "Measurable bodily execution, competition, exploration or physical performance."
+      },
+      {
+        "id": "KNOWLEDGE_OR_DISCOVERY_PRODUCTION",
+        "definition": "Discovery, explanation, testing, systematization or transmission of knowledge."
+      },
+      {
+        "id": "ORGANIZED_COLLECTIVE_REALIZATION",
+        "definition": "Formation, coordination, direction or durable operation of a collective organization or enterprise."
+      },
+      {
+        "id": "PERFORMED_SYMBOLIC_PRODUCTION",
+        "definition": "Public embodiment or interpretation of affect, narrative, music, character or symbolic content through performance."
+      },
+      {
+        "id": "RULE_OR_INSTITUTION_OPERATION",
+        "definition": "Exercise, design or maintenance of public rule, law, policy, governance or formal institutional authority."
+      },
+      {
+        "id": "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION",
+        "definition": "Design, construction or implementation of a technical artifact, product, method, infrastructure or operative system."
+      },
+      {
+        "id": "VISUAL_OR_DIRECTORIAL_PRODUCTION",
+        "definition": "Creation, composition, curation or direction of publicly realized visual, spatial or screen form."
+      },
+      {
+        "id": "NEW_FUNCTION",
+        "definition": "Evidence supports an upper function not representable by the eleven frozen classes; the new-function detail and evidence must remain visible and cannot be forced into an old class."
+      }
+    ]
+  },
+  "measurement_axes": [
+    "attributable_action",
+    "function_fit",
+    "source_support",
+    "primacy",
+    "temporal_role",
+    "component_kind"
+  ],
+  "unknown_is_false": false,
+  "public_meaning_dictionary_to_individual_incidence_mapping": false
+}
