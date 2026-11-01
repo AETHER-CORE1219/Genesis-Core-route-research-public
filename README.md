@@ -1,5 +1,8 @@
 # GenesisCore Social-Expression Research
 
+### Research Q&A and Evidence FAQ
+A comprehensive methodological FAQ, [`docs/RESEARCH_QA.md`](./docs/RESEARCH_QA.md) (Japanese: [`docs/RESEARCH_QA_JA.md`](./docs/RESEARCH_QA_JA.md)), is available alongside its numerical companion [`docs/RESEARCH_QA_EVIDENCE_20261101.json`](./docs/RESEARCH_QA_EVIDENCE_20261101.json). It addresses core inquiries regarding sample structures, biographical confounding, graph topology disambiguation, and cross-validation boundaries, presenting empirical findings with conclusions placed upfront.
+
 English | [日本語の研究概要](README_JA.md)
 
 Can structures defined from birth charts be associated with documented real-world actions?
@@ -27,8 +30,8 @@ This repository publishes the evidence, calculations, and limits behind that wor
 
 | Public research surface | Size | What it represents |
 |---|---:|---|
-| Broader legacy route-research master ledger | 1,030 people | Multi-field corpus of notable public figures |
-| Exact-like birth records in that ledger | 795 people | Records with exact or equivalent birth-time precision |
+| Broader legacy route-research master ledger | 1,030 records | Multi-field corpus of notable public figures |
+| Exact-like birth records in that ledger | 795 records | Records with exact or equivalent birth-time precision |
 | Public subject-level legacy traces | 761 people | Named traces with field, birth-data provenance, chart snapshots, and route observations |
 | Five-function development analysis | 420 people | Separate fixed analysis used to develop and test five non-exclusive social functions |
 | Person-out stress tests | 575 / 1,457 / 313 | Different people, hypotheses, and test boundaries in v3, v4, and v5 |

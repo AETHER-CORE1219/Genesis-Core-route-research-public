@@ -28,6 +28,9 @@
     "docs/GLOSSARY.md",
     "docs/PLAIN_LANGUAGE_SUMMARY.md",
     "docs/REPRODUCIBILITY_BOUNDARY.md",
+    "docs/RESEARCH_QA.md",
+    "docs/RESEARCH_QA_EVIDENCE_20261101.json",
+    "docs/RESEARCH_QA_JA.md",
     "docs/RESEARCH_STATUS_20261023.md",
     "docs/STUDY_MAP.md",
     "independent_social_expression_v7/BUNDLE_MANIFEST.json",
@@ -67,5 +70,13 @@
     "entry": "research_update_20261101/README.md",
     "public_selection_replay": true,
     "full_raw_source_regeneration": false
+  },
+  "research_qa_20261101": {
+    "english": "docs/RESEARCH_QA.md",
+    "japanese": "docs/RESEARCH_QA_JA.md",
+    "evidence": "docs/RESEARCH_QA_EVIDENCE_20261101.json",
+    "historical_v1_v7_changed": false,
+    "new_evening_aggregate_results_included": true,
+    "evening_full_replay_included": false
   }
 }

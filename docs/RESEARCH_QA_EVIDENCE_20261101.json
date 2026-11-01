@@ -1,0 +1,292 @@
+{
+  "schema": "GENESISCORE_RESEARCH_QA_AGGREGATE_EVIDENCE_V1",
+  "as_of": "2026-11-01 evening JST",
+  "scope": "Verified aggregate summaries supporting the FAQ; not a full anonymous replay package for the evening analyses.",
+  "population_map": {
+    "legacy_master_records": 1030,
+    "exact_like_records": 795,
+    "deduplicated_people": 793,
+    "discovery_construction_people": 731,
+    "common_development_people": 420,
+    "development_parts": [
+      311,
+      109
+    ],
+    "public_named_legacy_traces": 761,
+    "counts_must_not_be_added": true
+  },
+  "historical_reproduction": {
+    "rules_all11": 741,
+    "five_function_rules": 515,
+    "people_exact": 420,
+    "historical_rule_person_matches": 8076,
+    "five_function_representation_change_people": 416,
+    "five_function_input_change_people": 55,
+    "all11_representation_change_people": 417,
+    "all11_input_change_people": 56
+  },
+  "source_recovery": {
+    "drishti_rules": 83,
+    "branches": 101,
+    "previous_unresolved_cells": 3792,
+    "condition_matches": 165,
+    "condition_nonmatches": 3627,
+    "distinct_people_with_matches": 105,
+    "distinct_rules_with_matches": 35,
+    "western_path_historical_links": 1262,
+    "concrete_path_witness_preserved": 823,
+    "absence_marker_only": 346,
+    "role_or_carrier_changed": 93,
+    "previous_unresolved_path_cells_with_preserved_witness": 576,
+    "counts_are_not_new_independent_hits": true
+  },
+  "fixed_selected_covariate_sensitivity": {
+    "stage": "Descriptive selected-sample coefficient, not selection-adjusted significance",
+    "added_model": "Original era/regime/source + source-group-centered log1p full text volume + missing-volume indicator + continuous birth year and square + unit-sphere birth-coordinate x/y/z",
+    "all_person_n": 420,
+    "complete_text_n": 410,
+    "unmeasured_confounding_eliminated": false,
+    "four_functions": {
+      "ADVOCACY_OR_PUBLIC_CAUSE_ACTION": {
+        "M0": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 35,
+          "documented_exposed": 20,
+          "documented_total": 185,
+          "risk_difference": 0.1428571428571428,
+          "residual_exposure_ss": 32.08333333333332,
+          "design_rank": 1
+        },
+        "M5_year_geo": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 35,
+          "documented_exposed": 20,
+          "documented_total": 185,
+          "risk_difference": 0.12377084651820175,
+          "residual_exposure_ss": 31.10513549324515,
+          "design_rank": 20
+        },
+        "complete410_M5": {
+          "estimable": true,
+          "n": 410,
+          "exposed": 35,
+          "documented_exposed": 20,
+          "documented_total": 181,
+          "risk_difference": 0.122433373190062,
+          "residual_exposure_ss": 31.093255985905806,
+          "design_rank": 19
+        }
+      },
+      "AUTHORED_SYMBOLIC_PRODUCTION": {
+        "M0": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 39,
+          "documented_exposed": 32,
+          "documented_total": 245,
+          "risk_difference": 0.26145770240258415,
+          "residual_exposure_ss": 35.37857142857143,
+          "design_rank": 1
+        },
+        "M5_year_geo": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 39,
+          "documented_exposed": 32,
+          "documented_total": 245,
+          "risk_difference": 0.2367382745577849,
+          "residual_exposure_ss": 33.34040168279289,
+          "design_rank": 20
+        },
+        "complete410_M5": {
+          "estimable": true,
+          "n": 410,
+          "exposed": 38,
+          "documented_exposed": 31,
+          "documented_total": 239,
+          "risk_difference": 0.23095792017775746,
+          "residual_exposure_ss": 32.58707823961563,
+          "design_rank": 19
+        }
+      },
+      "ORGANIZED_COLLECTIVE_REALIZATION": {
+        "M0": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 60,
+          "documented_exposed": 51,
+          "documented_total": 264,
+          "risk_difference": 0.2583333333333332,
+          "residual_exposure_ss": 51.42857142857143,
+          "design_rank": 1
+        },
+        "M5_year_geo": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 60,
+          "documented_exposed": 51,
+          "documented_total": 264,
+          "risk_difference": 0.2732965688069533,
+          "residual_exposure_ss": 49.403542963273466,
+          "design_rank": 20
+        },
+        "complete410_M5": {
+          "estimable": true,
+          "n": 410,
+          "exposed": 59,
+          "documented_exposed": 50,
+          "documented_total": 260,
+          "risk_difference": 0.2634823698874613,
+          "residual_exposure_ss": 48.53442980799638,
+          "design_rank": 19
+        }
+      },
+      "TECHNOLOGY_OR_PRODUCT_IMPLEMENTATION": {
+        "M0": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 24,
+          "documented_exposed": 14,
+          "documented_total": 128,
+          "risk_difference": 0.29545454545454536,
+          "residual_exposure_ss": 22.628571428571426,
+          "design_rank": 1
+        },
+        "M5_year_geo": {
+          "estimable": true,
+          "n": 420,
+          "exposed": 24,
+          "documented_exposed": 14,
+          "documented_total": 128,
+          "risk_difference": 0.19493966661582293,
+          "residual_exposure_ss": 21.09401533800901,
+          "design_rank": 20
+        },
+        "complete410_M5": {
+          "estimable": true,
+          "n": 410,
+          "exposed": 24,
+          "documented_exposed": 14,
+          "documented_total": 127,
+          "risk_difference": 0.19367991590993242,
+          "residual_exposure_ss": 21.090499381759624,
+          "design_rank": 19
+        }
+      }
+    }
+  },
+  "measurement": {
+    "links_preserved": 1594,
+    "anchor_hashes_verified": 4306,
+    "focused_review_counts": {
+      "concrete_action_supported": 28,
+      "function_boundary_open": 12,
+      "operation_scope_open": 7,
+      "contested_attribution": 1,
+      "already_non_output": 2
+    },
+    "supported_record_links": 1457,
+    "uncertain_record_links": 137,
+    "new_independent_adjudication": false,
+    "no_record_means_lifetime_absence": false
+  },
+  "implementation_correction": {
+    "named_modifiers_in_branch_identity_version": "Preserved as implementation mismatch, not adopted as an original-research verdict",
+    "canonical_identity_restored": true,
+    "proof_records_preserved": 53648,
+    "all_historical_buggy_responses_claimed_equivalent": false
+  },
+  "canonical_repaired_internal_evaluation": {
+    "n": 420,
+    "folds": 5,
+    "functions": 11,
+    "surfaces_per_endpoint": 66,
+    "record_endpoints": 2,
+    "total_surfaces": 132,
+    "training_only_selection": true,
+    "independent_confirmation": false,
+    "source_only": {
+      "draws": 999,
+      "seed": 20261103,
+      "max_z_reference_p": 0.26,
+      "max_rd_reference_p": 0.633
+    },
+    "source_era_volume": {
+      "draws": 999,
+      "seed": 20261104,
+      "max_z_reference_p": 0.298,
+      "max_rd_reference_p": 0.69
+    },
+    "body_any_both": {
+      "apparent_in_sample": {
+        "exposed": 21,
+        "recorded": 13,
+        "risk_difference": 0.42857142857142855
+      },
+      "selection_excluded": {
+        "documented_supported": 0,
+        "documented_total": 89,
+        "exposed": 4,
+        "rd": -0.21394230769230768,
+        "z": -1.0420510174796835
+      },
+      "strict_primary_both_exposed": 0
+    },
+    "local_belief_primary_jyotish": {
+      "observed": {
+        "documented_supported": 6,
+        "documented_total": 44,
+        "exposed": 18,
+        "rd": 0.2388059701492537,
+        "z": 3.2366731382454423
+      },
+      "non_exposed_n": 402,
+      "non_exposed_supported_record": 38,
+      "source_only_p": {
+        "max_rd_reference": 0.785,
+        "max_z_reference": 0.26,
+        "same_surface_z": 0.008,
+        "two_statistic_adjusted_reference": 0.52
+      },
+      "source_era_volume_p": {
+        "max_rd_reference": 0.827,
+        "max_z_reference": 0.298,
+        "same_surface_z": 0.015,
+        "two_statistic_adjusted_reference": 0.596
+      },
+      "post_result_interpretation": "The six supported cases share a tenth-lord knowledge/judgment/legitimation actor and configuration participation; this is not six independent new validations."
+    }
+  },
+  "reproduction": {
+    "existing_public_early_update": "../research_update_20261101/REPRODUCTION.md",
+    "existing_public_scope": "Historical selection999 and earlier detailed-expression internal199, not the evening canonical999 results above",
+    "evening_summary_only_in_this_faq_release": true,
+    "raw_birth_data_identity_map_or_source_biographies_included": false
+  },
+  "research_conclusion": {
+    "all_criticism_refuted": false,
+    "all_astrological_relations_disproved": false,
+    "independent_positive_replication_achieved": false
+  },
+  "descriptive_source_opportunity": {
+    "n_with_full_text": 410,
+    "spearman_text_vs_function_count": 0.267,
+    "within301_text_vs_function_count": 0.192,
+    "within109_text_vs_function_count": 0.303,
+    "text_vs_graph_relation_count": -0.064,
+    "text_vs_graph_path_count": -0.018,
+    "statistical_independence_established": false
+  },
+  "historical_source_only_selection_control": {
+    "draws": 999,
+    "observed_selected_rules": 741,
+    "null_selected_rules_median": 782,
+    "null_selected_rules_range": [
+      690,
+      870
+    ],
+    "rule_counts_are_not_validity_evidence": true
+  }
+}
